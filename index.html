@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<meta name="theme-color" content="#1A2B4C">
+<title>One More English</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+<style>
+:root{
+  --navy:#1A2B4C; --indigo:#2a4374;
+  --orange:#FF8C00; --orange-d:#e67e00; --green:#2ECC71;
+  --bg:#F8F9FA; --surface:#ffffff; --surface2:#f1f3f6;
+  --ink:#1A2B4C; --ink2:#5a6b85; --ink3:#9aa6ba;
+  --line:#e6e9ef; --shadow:0 6px 22px -8px rgba(26,43,76,.18);
+  --head:'Poppins',sans-serif; --body:'Pretendard',sans-serif;
+  --safe-top:env(safe-area-inset-top,0px);
+  --safe-bot:env(safe-area-inset-bottom,0px);
+}
+[data-theme=dark]{
+  --navy:#0e1830; --bg:#0b1426; --surface:#14213d; --surface2:#1b2b4d;
+  --ink:#eef2f8; --ink2:#a7b4cc; --ink3:#6d7d9c;
+  --line:#243353; --shadow:0 8px 28px -10px rgba(0,0,0,.6);
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{height:100%}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);
+  overflow:hidden;position:fixed;width:100%;transition:background .3s}
+#app{height:100%;display:flex;flex-direction:column}
+
+header{background:var(--navy);color:#fff;flex-shrink:0;position:relative;
+  padding:calc(var(--safe-top) + 16px) 20px 18px;
+  border-radius:0 0 22px 22px;box-shadow:var(--shadow);z-index:5}
+.brand-row{display:flex;align-items:center;justify-content:space-between}
+.brand{display:flex;align-items:center;gap:10px}
+.logo{width:34px;height:34px;flex-shrink:0;border-radius:9px;object-fit:cover}
+.brand-txt .name{font-family:var(--head);font-weight:700;font-size:18px;letter-spacing:-.3px;line-height:1}
+.brand-txt .slogan{font-family:var(--head);font-weight:400;font-style:italic;
+  font-size:10.5px;color:#fff9;margin-top:3px;letter-spacing:.2px}
+.top-actions{display:flex;gap:8px;align-items:center}
+.streak{display:flex;align-items:center;gap:4px;background:#ffffff1a;
+  border:1px solid #ffffff26;padding:6px 11px;border-radius:30px;font-size:12.5px;
+  font-weight:600;font-family:var(--head)}
+.streak .fire{font-size:14px}
+.icon-btn{width:34px;height:34px;border-radius:50%;background:#ffffff1a;border:none;
+  display:flex;align-items:center;justify-content:center;color:#fff}
+.icon-btn svg{width:17px;height:17px;stroke:currentColor;fill:none;stroke-width:1.8}
+.date-line{margin-top:14px;display:flex;align-items:baseline;gap:8px}
+.date-caret{align-self:center;margin-left:2px;flex-shrink:0}
+.jump-list{margin-top:14px}
+.jump-item{display:flex;align-items:center;gap:10px;width:100%;text-align:left;
+  background:var(--surface);border:1px solid var(--line);border-radius:13px;
+  padding:14px;margin-bottom:9px;font-family:var(--body);font-size:15px;color:var(--ink);transition:.15s}
+.jump-item:active{background:var(--surface2)}
+.jump-item.cur{border-color:var(--orange);background:var(--surface2)}
+.jump-item .jnum{flex-shrink:0;width:26px;height:26px;border-radius:8px;background:var(--surface2);
+  color:var(--ink3);font-family:var(--head);font-weight:600;font-size:12px;
+  display:flex;align-items:center;justify-content:center}
+.jump-item.cur .jnum{background:var(--orange);color:#fff}
+.jump-item .jbody{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.jump-item .jbody b{font-family:var(--head);font-weight:600}
+
+/* 하단 고정 추가 버튼 */
+.fab-wrap{margin-top:12px}
+.fab{background:none;color:var(--ink2);border:1.5px solid var(--line);border-radius:13px;
+  font-family:var(--head);font-size:14px;font-weight:500;padding:13px;width:100%;transition:.15s}
+.fab:active{transform:scale(.99);background:var(--surface2)}
+.fab.primary{background:var(--orange);color:#fff;border:none;font-weight:600}
+.fab.primary:active{background:var(--orange-d)}
+.date-big{font-family:var(--head);font-weight:600;font-size:22px;letter-spacing:-.4px}
+.date-sub{color:#fff9;font-size:12.5px}
+.progress{height:5px;background:#ffffff26;border-radius:10px;margin-top:13px;overflow:hidden}
+.progress > i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--orange),#ffb347);
+  border-radius:10px;transition:width .5s ease}
+
+.scroll{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:18px 16px 30px}
+.scroll::-webkit-scrollbar{width:0}
+
+nav{flex-shrink:0;display:flex;background:var(--surface);
+  border-top:1px solid var(--line);padding:9px 8px calc(var(--safe-bot) + 9px);
+  box-shadow:0 -4px 16px -8px rgba(26,43,76,.15)}
+nav button{flex:1;background:none;border:none;color:var(--ink3);
+  font-family:var(--head);font-size:11px;font-weight:600;padding:8px 2px;border-radius:14px;
+  display:flex;flex-direction:column;align-items:center;gap:5px;transition:.22s}
+nav button .ic{width:24px;height:24px;stroke:currentColor;fill:none;stroke-width:1.8;transition:.22s}
+nav button.on{color:#fff;background:var(--orange);box-shadow:0 6px 16px -6px var(--orange)}
+nav button.on .ic{stroke:#fff;stroke-width:2.1;transform:scale(1.05)}
+
+.sec-label{font-family:var(--head);font-weight:600;font-size:13px;color:var(--ink2);
+  margin:22px 4px 12px;display:flex;align-items:center;gap:7px;text-transform:uppercase;letter-spacing:.6px}
+.sec-label:first-child{margin-top:2px}
+.sec-label .dot{width:7px;height:7px;border-radius:2px;background:var(--orange)}
+.sec-label .cnt{margin-left:auto;color:var(--ink3);font-size:11px;font-weight:500;text-transform:none;letter-spacing:0}
+
+.card{background:var(--surface);border:1px solid var(--line);border-radius:18px;
+  padding:18px;margin-bottom:13px;box-shadow:var(--shadow);position:relative}
+.card.today-card{border-left:4px solid var(--orange)}
+.card.pat-card{border-left:4px solid var(--green)}
+
+.en{font-family:var(--head);font-weight:600;font-size:19px;line-height:1.3;color:var(--ink);letter-spacing:-.2px}
+.phon{color:var(--orange-d);font-size:13px;font-weight:500;margin-top:3px;font-family:var(--head)}
+.mean{color:var(--ink2);font-size:15px;margin-top:6px;line-height:1.5}
+.ex{color:var(--ink);font-size:14.5px;line-height:1.55;margin-top:4px}
+.ex-kr{color:var(--ink3);font-size:13px;margin-top:2px;line-height:1.5}
+.divider{height:1px;background:var(--line);margin:13px 0}
+
+.row{display:flex;align-items:flex-start;gap:12px}
+.row .body{flex:1;min-width:0}
+.spk{flex-shrink:0;width:40px;height:40px;border-radius:12px;
+  background:var(--surface2);border:none;color:var(--orange);
+  display:flex;align-items:center;justify-content:center;transition:.15s}
+.spk:active{transform:scale(.88);background:var(--orange);color:#fff}
+.spk svg{width:19px;height:19px;fill:currentColor}
+
+.pager{display:flex;justify-content:space-between;align-items:center;margin-top:14px;gap:10px}
+.pager button{background:var(--navy);border:none;color:#fff;
+  border-radius:15px;padding:15px 14px;font-family:var(--head);font-weight:600;font-size:15px;
+  flex:1;transition:.15s;box-shadow:0 6px 16px -8px var(--navy);display:flex;align-items:center;justify-content:center;gap:5px}
+.pager button:active{transform:scale(.97);opacity:.9}
+.pager button:disabled{background:var(--surface2);color:var(--ink3);box-shadow:none;opacity:.6}
+.pager .pos{flex:0 0 auto;color:var(--ink2);font-size:13px;min-width:60px;text-align:center;font-family:var(--head);font-weight:600}
+
+input,textarea{width:100%;background:var(--surface2);border:1.5px solid var(--line);
+  border-radius:12px;color:var(--ink);font-family:var(--body);font-size:15px;
+  padding:13px;margin-bottom:10px;resize:none}
+input:focus,textarea:focus{outline:none;border-color:var(--orange)}
+textarea{line-height:1.6}
+label{display:block;color:var(--ink2);font-size:12px;font-weight:600;margin:0 0 6px 3px;font-family:var(--head)}
+.btn{background:var(--orange);color:#fff;border:none;border-radius:13px;
+  font-family:var(--head);font-size:15px;font-weight:600;padding:14px;width:100%;transition:.15s}
+.btn:active{transform:scale(.98);background:var(--orange-d)}
+.btn.ghost{background:none;border:1.5px solid var(--line);color:var(--ink2)}
+.btn-row{display:flex;gap:8px}
+.add-ex{background:none;border:1.5px dashed var(--orange);color:var(--orange);
+  border-radius:11px;padding:11px;width:100%;font-family:var(--head);font-weight:500;font-size:13px;margin-bottom:10px}
+
+.del{position:absolute;top:12px;right:12px;background:none;border:none;
+  color:var(--ink3);width:28px;height:28px;font-size:20px;line-height:1}
+.del:active{color:#e74c3c}
+
+.empty{text-align:center;color:var(--ink3);padding:46px 20px;font-size:14px;line-height:1.7}
+.empty .ill{font-size:42px;margin-bottom:10px}
+.empty .big{font-family:var(--head);font-weight:600;font-size:18px;color:var(--ink2);display:block;margin-bottom:6px}
+
+.mind-title{font-family:var(--head);font-weight:600;font-size:18px;margin-bottom:12px;color:var(--orange)}
+.mind-text{font-size:16px;line-height:1.9;color:var(--ink);white-space:pre-wrap;word-break:break-word}
+
+.page-title{font-family:var(--head);font-weight:700;font-size:24px;margin-bottom:6px;letter-spacing:-.4px}
+.page-sub{color:var(--ink3);font-size:13px;margin-bottom:16px}
+
+.toast{position:fixed;left:50%;bottom:calc(var(--safe-bot) + 82px);
+  transform:translateX(-50%) translateY(20px);background:var(--navy);color:#fff;
+  padding:12px 22px;border-radius:30px;font-size:14px;font-weight:500;
+  opacity:0;transition:.3s;pointer-events:none;z-index:99;box-shadow:var(--shadow)}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+
+.plusone{position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);
+  font-family:var(--head);font-weight:700;font-size:90px;color:var(--orange);
+  pointer-events:none;z-index:120;opacity:0;text-shadow:0 4px 20px rgba(255,140,0,.4)}
+.plusone.go{animation:p1 1s cubic-bezier(.2,.8,.3,1) forwards}
+@keyframes p1{
+  0%{opacity:0;transform:translate(-50%,-30%) scale(.5)}
+  30%{opacity:1;transform:translate(-50%,-50%) scale(1.1)}
+  60%{opacity:1;transform:translate(-50%,-58%) scale(1)}
+  100%{opacity:0;transform:translate(-50%,-95%) scale(.9)}
+}
+
+.loading{text-align:center;padding:54px 20px;color:var(--ink3)}
+.spin{width:32px;height:32px;border:3px solid var(--line);border-top-color:var(--orange);
+  border-radius:50%;animation:sp 1s linear infinite;margin:0 auto 14px}
+@keyframes sp{to{transform:rotate(360deg)}}
+
+.modal-bg{position:fixed;inset:0;background:rgba(10,18,38,.55);z-index:50;display:none;
+  align-items:flex-end;backdrop-filter:blur(3px)}
+.modal-bg.show{display:flex}
+.modal{background:var(--bg);width:100%;border-radius:24px 24px 0 0;padding:24px 18px;
+  padding-bottom:calc(var(--safe-bot) + 22px);max-height:90%;overflow-y:auto;animation:up .25s ease}
+@keyframes up{from{transform:translateY(100%)}}
+.complete-btn{background:var(--green);margin-top:4px}
+.complete-btn:active{background:#27ae60}
+.done-badge{display:inline-flex;align-items:center;gap:5px;background:var(--green);color:#fff;
+  font-family:var(--head);font-weight:600;font-size:12px;padding:7px 14px;border-radius:30px;margin-top:6px}
+
+/* help */
+.help-step{display:flex;gap:13px;margin-bottom:16px}
+.help-num{flex-shrink:0;width:28px;height:28px;border-radius:50%;background:var(--orange);
+  color:#fff;font-family:var(--head);font-weight:700;font-size:14px;
+  display:flex;align-items:center;justify-content:center}
+.help-body{flex:1;min-width:0}
+.help-body b{font-family:var(--head);font-weight:600;font-size:15px;color:var(--ink);display:block;margin-bottom:3px}
+.help-body p{color:var(--ink2);font-size:13.5px;line-height:1.6}
+.help-sec{font-family:var(--head);font-weight:600;font-size:13px;color:var(--orange);
+  margin:22px 0 14px;text-transform:uppercase;letter-spacing:.6px}
+.help-sec:first-of-type{margin-top:10px}
+.help-note{background:var(--surface2);border-radius:12px;padding:13px;font-size:13px;
+  line-height:1.65;color:var(--ink2);margin-top:6px}
+kbd{font-family:var(--head);font-weight:600;background:var(--surface);border:1px solid var(--line);
+  border-radius:6px;padding:1px 6px;font-size:12px;color:var(--ink)}
+</style>
+</head>
+<body>
+<div id="app">
+  <header>
+    <div class="brand-row">
+      <div class="brand">
+        <img class="logo" src="logo.png" alt="logo"
+             onerror="this.outerHTML='<svg class=\'logo\' viewBox=\'0 0 40 40\' fill=\'none\'><rect x=\'1\' y=\'1\' width=\'38\' height=\'38\' rx=\'11\' fill=\'#FF8C00\'/><path d=\'M14 28V15.5c0-.6.7-.9 1.2-.5l3.3 2.6\' stroke=\'#fff\' stroke-width=\'2.6\' stroke-linecap=\'round\' stroke-linejoin=\'round\'/><path d=\'M22 24l4-4 4 4M26 20v9\' stroke=\'#fff\' stroke-width=\'2.6\' stroke-linecap=\'round\' stroke-linejoin=\'round\'/></svg>'">
+        <div class="brand-txt">
+          <div class="name">One More English</div>
+          <div class="slogan">Learn one more thing, every day</div>
+        </div>
+      </div>
+      <div class="top-actions">
+        <div class="streak" id="streak"><span class="fire">🔥</span><span id="streakN">0</span></div>
+        <button class="icon-btn" onclick="toggleTheme()" id="themeBtn">
+          <svg viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1111.2 3a7 7 0 009.8 9.8z"/></svg>
+        </button>
+      </div>
+    </div>
+    <div class="date-line" id="dateLine" onclick="openJump()">
+      <div class="date-big" id="hDate">—</div>
+      <div class="date-sub" id="hSub"></div>
+      <svg class="date-caret" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="#fff9" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+    </div>
+    <div class="progress" id="prog"><i></i></div>
+  </header>
+  <div class="scroll" id="view"></div>
+  <nav id="nav"></nav>
+</div>
+
+<div class="modal-bg" id="modalBg"><div class="modal" id="modalBody"></div></div>
+<div class="toast" id="toast"></div>
+<div class="plusone" id="plusone">+1</div>
+
+<script type="module">
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+import { getDatabase, ref, onValue, set as fbSet } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-database.js";
+const firebaseConfig = {
+  apiKey: "AIzaSyAD2vybcyHC5uqmkrVg47hSd6IEXoqPlHU",
+  authDomain: "english39-724d2.firebaseapp.com",
+  databaseURL: "https://english39-724d2-default-rtdb.firebaseio.com",
+  projectId: "english39-724d2",
+  storageBucket: "english39-724d2.firebasestorage.app",
+  messagingSenderId: "438613984702",
+  appId: "1:438613984702:web:8bcee87179906f6b0ba5ef"
+};
+const app = initializeApp(firebaseConfig);
+const db = getDatabase(app);
+// 메인 스크립트가 쓸 수 있도록 전역에 노출
+window.OMEcloud = {
+  // 한 컬렉션(patterns/vocab/mind) 실시간 구독
+  watch(key, cb){ onValue(ref(db, 'omeData/'+key), snap => cb(snap.val()||[])); },
+  // 한 컬렉션 통째로 저장
+  save(key, list){ return fbSet(ref(db, 'omeData/'+key), list); }
+};
+window.dispatchEvent(new Event('ome-cloud-ready'));
+</script>
+
+<script>
+const DB={
+  get(k,d){try{const v=localStorage.getItem('ome_'+k);return v===null?d:JSON.parse(v)}catch{return d}},
+  set(k,v){localStorage.setItem('ome_'+k,JSON.stringify(v))}
+};
+
+/* ===== 클라우드(Firebase) 동기화: patterns·vocab·mind ===== */
+const CLOUD_KEYS=['patterns','vocab','mind'];
+const cloudCache={patterns:null,vocab:null,mind:null}; // null=아직 안 받음
+let cloudReady=false;
+
+// 클라우드 키는 cloudCache에서 읽고, 그 외(theme/streak/days 등)는 localStorage
+function listGet(k){
+  if(CLOUD_KEYS.includes(k)) return cloudCache[k]||[];
+  return DB.get(k,[]);
+}
+function listSet(k,v){
+  if(CLOUD_KEYS.includes(k)){
+    cloudCache[k]=v;
+    DB.set(k,v); // 오프라인 대비 로컬에도 보관
+    if(window.OMEcloud){ window.OMEcloud.save(k,v).catch(()=>toast('동기화 실패 — 인터넷 확인')); }
+    return;
+  }
+  DB.set(k,v);
+}
+function startCloud(){
+  if(!window.OMEcloud)return;
+  CLOUD_KEYS.forEach(k=>{
+    // 첫 연결 시 로컬값으로 미리 채워 화면이 비지 않게
+    if(cloudCache[k]===null) cloudCache[k]=DB.get(k,[]);
+    window.OMEcloud.watch(k,(val)=>{
+      cloudCache[k]=Array.isArray(val)?val:[];
+      DB.set(k,cloudCache[k]);
+      cloudReady=true;
+      if(TAB!=='today') render(); // 다른 기기 변경이 들어오면 자동 갱신
+      else setHeader();
+    });
+  });
+}
+// startCloud 실제 호출은 스크립트 맨 끝(모든 변수 선언 후)에서 수행
+const todayKey=(d=new Date())=>{
+  const z=new Date(d.getTime()-d.getTimezoneOffset()*60000);
+  return z.toISOString().slice(0,10);
+};
+function fmtDate(key){
+  const [y,m,dd]=key.split('-').map(Number);
+  const dt=new Date(y,m-1,dd);
+  const days=['일','월','화','수','목','금','토'];
+  return {big:`${m}월 ${dd}일`, sub:`${days[dt.getDay()]}요일 · ${y}`};
+}
+
+function applyTheme(){
+  const t=DB.get('theme','light');
+  document.documentElement.setAttribute('data-theme',t);
+  document.querySelector('meta[name=theme-color]').setAttribute('content', t==='dark'?'#0e1830':'#1A2B4C');
+}
+function toggleTheme(){
+  DB.set('theme', DB.get('theme','light')==='dark'?'light':'dark');
+  applyTheme();
+}
+applyTheme();
+
+function bumpStreak(){
+  const last=DB.get('streakDate',null);
+  const tk=todayKey();
+  if(last===tk)return;
+  const y=todayKey(new Date(Date.now()-86400000));
+  let n=DB.get('streakN',0);
+  n = (last===y)? n+1 : 1;
+  DB.set('streakN',n); DB.set('streakDate',tk);
+  renderStreak();
+}
+function renderStreak(){
+  const last=DB.get('streakDate',null), tk=todayKey();
+  const y=todayKey(new Date(Date.now()-86400000));
+  let n=DB.get('streakN',0);
+  if(last && last!==tk && last!==y)n=0;
+  document.getElementById('streakN').textContent=n;
+}
+
+let voices=[];
+function loadVoices(){voices=speechSynthesis.getVoices()}
+if('speechSynthesis'in window){loadVoices(); speechSynthesis.onvoiceschanged=loadVoices}
+function speak(text){
+  if(!('speechSynthesis'in window)){toast('이 기기는 음성을 지원하지 않아요');return}
+  speechSynthesis.cancel();
+  const u=new SpeechSynthesisUtterance(text);
+  u.lang='en-US'; u.rate=.9;
+  const en=voices.filter(v=>v.lang.startsWith('en'));
+  const pick=en.find(v=>/Google|Samantha|Aaron|Natural|Online/i.test(v.name))||en[0];
+  if(pick)u.voice=pick;
+  speechSynthesis.speak(u);
+}
+
+function plusOne(){
+  const el=document.getElementById('plusone');
+  el.classList.remove('go'); void el.offsetWidth; el.classList.add('go');
+}
+let tt;
+function toast(msg){
+  const el=document.getElementById('toast');
+  el.textContent=msg; el.classList.add('show');
+  clearTimeout(tt); tt=setTimeout(()=>el.classList.remove('show'),2200);
+}
+
+const ICON={
+  today:'<path d="M3 9l9-6 9 6v11a1 1 0 01-1 1h-5v-7H9v7H4a1 1 0 01-1-1z"/>',
+  pattern:'<path d="M4 6h16M4 12h16M4 18h11"/>',
+  vocab:'<path d="M4 5a2 2 0 012-2h13v16H6a2 2 0 00-2 2z"/><path d="M19 3v16"/>',
+  mind:'<path d="M12 3a6 6 0 00-3.5 10.9c.6.5.9 1 .9 1.8V17h5.2v-1.3c0-.8.3-1.3.9-1.8A6 6 0 0012 3z"/><path d="M9.5 20h5"/>'
+};
+const spkSVG='<svg viewBox="0 0 24 24"><path d="M11 5L6 9H2v6h4l5 4z"/><path d="M15.5 8.5a5 5 0 010 7" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/><path d="M18.5 6a9 9 0 010 12" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>';
+
+async function getDayContent(key){
+  const cache=DB.get('days',{});
+  if(cache[key])return cache[key];
+  if(key>todayKey())return null;
+  return await fetchDay(key,cache);
+}
+async function fetchDay(key,cache){
+  const view=document.getElementById('view');
+  view.innerHTML='<div class="loading"><div class="spin"></div>오늘의 한 가지를 불러오고 있어요…</div>';
+  try{
+    // GitHub Actions가 매일 만들어 두는 정적 JSON
+    const res=await fetch(`content/${key}.json?t=${Date.now()}`,{cache:'no-store'});
+    if(!res.ok)throw new Error('not found');
+    const day=await res.json();
+    cache[key]=day; DB.set('days',cache);
+    return day;
+  }catch(e){
+    view.innerHTML='<div class="empty"><div class="ill">🌙</div><span class="big">아직 준비되지 않았어요</span>오늘의 콘텐츠는 매일 새벽에<br>자동으로 만들어집니다.<br>잠시 후 다시 열어주세요.<br><br><button class="btn" onclick="render()" style="max-width:200px;margin:10px auto 0">새로고침</button></div>';
+    return 'ERR';
+  }
+}
+
+let TAB='today';
+let dayView=todayKey();
+let pIdx=0, vIdx=0, mIdx=0;
+
+function setHeader(){
+  const caret=document.querySelector('.date-caret');
+  if(TAB==='today'){
+    const f=fmtDate(dayView);
+    document.getElementById('hDate').textContent=f.big;
+    document.getElementById('hSub').textContent=f.sub + (dayView===todayKey()?' · Today':'');
+    caret.style.display='';
+    return;
+  }
+  const map={pattern:['Phrases','patterns',pIdx],vocab:['Words','vocab',vIdx],mind:['Mindset','mind',mIdx]};
+  const [title,key,idx]=map[TAB];
+  const n=listGet(key).length;
+  document.getElementById('hDate').textContent=title;
+  document.getElementById('hSub').textContent = n? `전체 ${n}개 · ${idx+1}번째` : '아직 없어요';
+  caret.style.display = n? '' : 'none';
+}
+function setProgress(pct){document.querySelector('#prog > i').style.width=pct+'%'}
+
+async function render(){
+  setHeader(); renderStreak();
+  const view=document.getElementById('view');
+  if(TAB==='today')   await renderToday(view);
+  if(TAB==='pattern'){setProgress(0); renderPattern(view)}
+  if(TAB==='vocab'){setProgress(0); renderVocab(view)}
+  if(TAB==='mind'){setProgress(0); renderMind(view)}
+  renderNav();
+}
+
+async function renderToday(view){
+  const cache=DB.get('days',{});
+  const day=await getDayContent(dayView);
+  if(day===null){
+    setProgress(0);
+    view.innerHTML='<div class="empty"><div class="ill">📅</div><span class="big">미래의 날이에요</span>아직 오지 않은 날짜입니다.</div>';
+    return;
+  }
+  if(day==='ERR'){setProgress(0);return}
+
+  const completed = DB.get('completed',{})[dayView]===true;
+  setProgress(completed?100:8);
+
+  let html='';
+  html+=`<div class="sec-label"><span class="dot"></span>Today's Phrases<span class="cnt">2</span></div>`;
+  day.patterns.forEach(p=>{
+    html+=`<div class="card pat-card"><div class="row">
+      <div class="body">
+        <div class="en">${esc(p.pattern)}</div>
+        <div class="mean">${esc(p.meaning)}</div>
+        <div class="divider"></div>
+        <div class="ex">${esc(p.example)}</div>
+        <div class="ex-kr">${esc(p.example_kr||'')}</div>
+      </div>
+      <button class="spk" onclick="speak(${q(p.example)})">${spkSVG}</button>
+    </div></div>`;
+  });
+  html+=`<div class="sec-label"><span class="dot"></span>Today's Words<span class="cnt">5</span></div>`;
+  day.words.forEach(w=>{
+    html+=`<div class="card today-card"><div class="row">
+      <div class="body">
+        <div class="en">${esc(w.word)}</div>
+        <div class="phon">${esc(w.phonetic||'')}</div>
+        <div class="mean">${esc(w.meaning)}</div>
+        <div class="ex">${esc(w.example)}</div>
+        <div class="ex-kr">${esc(w.example_kr||'')}</div>
+      </div>
+      <button class="spk" onclick="speak(${q(w.word)})">${spkSVG}</button>
+    </div></div>`;
+  });
+
+  if(dayView===todayKey()){
+    if(completed){
+      html+=`<div style="text-align:center"><div class="done-badge">✓ 오늘 학습 완료!</div></div>`;
+    }else{
+      html+=`<button class="btn complete-btn" onclick="completeToday()">오늘 학습 완료 +1</button>`;
+    }
+  }
+
+  const keys=Object.keys(cache).sort();
+  if(!keys.includes(todayKey()))keys.push(todayKey());
+  keys.sort();
+  const i=keys.indexOf(dayView);
+  html+=`<div class="pager">
+    <button onclick="moveDay(-1)" ${i<=0?'disabled':''}>‹ 이전날</button>
+    <div class="pos">${i+1} / ${keys.length}</div>
+    <button onclick="moveDay(1)" ${i>=keys.length-1?'disabled':''}>다음날 ›</button>
+  </div>`;
+  view.innerHTML=html;
+}
+function completeToday(){
+  const c=DB.get('completed',{}); c[todayKey()]=true; DB.set('completed',c);
+  bumpStreak(); plusOne(); setProgress(100);
+  setTimeout(()=>{toast('오늘도 하나 더 배웠어요!');render()},250);
+}
+function moveDay(dir){
+  const cache=DB.get('days',{});
+  const keys=Object.keys(cache).sort();
+  if(!keys.includes(todayKey()))keys.push(todayKey());
+  keys.sort();
+  let i=keys.indexOf(dayView)+dir;
+  if(i<0)i=0; if(i>keys.length-1)i=keys.length-1;
+  dayView=keys[i]; render();
+}
+
+function renderPattern(view){
+  const list=listGet('patterns');
+  if(!list.length){
+    view.innerHTML='<div class="empty"><div class="ill">🗂️</div><span class="big">아직 없어요</span>아래 버튼으로 첫 표현을 추가해 보세요.</div>'
+      +'<div class="fab-wrap"><button class="fab primary" onclick="openPatternForm()">+ 패턴 추가</button></div>';
+    return;
+  }
+  if(pIdx>=list.length)pIdx=list.length-1;
+  const p=list[pIdx];
+  let html=`<div class="card pat-card">
+      <button class="del" onclick="delItem('patterns',${pIdx})">×</button>
+      <div class="en">${esc(p.pattern)}</div>
+      ${p.meaning?`<div class="mean">${esc(p.meaning)}</div>`:''}
+      <div class="divider"></div>`;
+  p.examples.filter(e=>e.trim()).forEach(ex=>{
+    html+=`<div class="row" style="margin-bottom:11px"><div class="body"><div class="ex">${esc(ex)}</div></div>
+      <button class="spk" onclick="speak(${q(ex)})">${spkSVG}</button></div>`;
+  });
+  html+=`</div>
+    <div class="pager">
+      <button onclick="pIdx--;render()" ${pIdx<=0?'disabled':''}>‹ 이전</button>
+      <div class="pos">${pIdx+1} / ${list.length}</div>
+      <button onclick="pIdx++;render()" ${pIdx>=list.length-1?'disabled':''}>다음 ›</button>
+    </div>
+    <div class="fab-wrap"><button class="fab" onclick="openPatternForm()">+ 패턴 추가</button></div>`;
+  view.innerHTML=html;
+}
+function openPatternForm(){
+  document.getElementById('modalBody').innerHTML=`<div class="page-title">패턴 추가</div>
+    <div style="margin-top:14px"></div>
+    <label>패턴 (영어)</label><input id="f_pat" placeholder="예: I'm about to ~">
+    <label>의미 (선택)</label><input id="f_mean" placeholder="예: 막 ~하려는 참이다">
+    <label>예문</label>
+    <div id="exWrap"><textarea class="f_ex" rows="2" placeholder="예문 1문장"></textarea></div>
+    <button class="add-ex" onclick="addExField()">+ 예문 추가</button>
+    <div class="btn-row"><button class="btn ghost" onclick="closeModal()">취소</button>
+    <button class="btn" onclick="savePattern()">저장</button></div>`;
+  showModal();
+}
+function addExField(){
+  const t=document.createElement('textarea');
+  t.className='f_ex'; t.rows=2; t.placeholder='예문 추가';
+  document.getElementById('exWrap').appendChild(t); t.focus();
+}
+function savePattern(){
+  const pat=val('f_pat'); if(!pat){toast('패턴을 입력하세요');return}
+  const ex=[...document.querySelectorAll('.f_ex')].map(e=>e.value.trim()).filter(Boolean);
+  const list=listGet('patterns').slice();
+  list.push({pattern:pat,meaning:val('f_mean'),examples:ex.length?ex:['']});
+  listSet('patterns',list); pIdx=list.length-1; closeModal(); plusOne(); render(); toast('저장됐어요');
+}
+
+function renderVocab(view){
+  const list=listGet('vocab');
+  if(!list.length){
+    view.innerHTML='<div class="empty"><div class="ill">📖</div><span class="big">아직 없어요</span>아래 버튼으로 단어를 추가해 보세요.</div>'
+      +'<div class="fab-wrap"><button class="fab primary" onclick="openVocabForm()">+ 단어 추가</button></div>';
+    return;
+  }
+  if(vIdx>=list.length)vIdx=list.length-1;
+  const w=list[vIdx];
+  let html=`<div class="card today-card"><button class="del" onclick="delItem('vocab',${vIdx})">×</button>
+      <div class="row"><div class="body">
+        <div class="en">${esc(w.word)}</div>
+        ${w.phonetic?`<div class="phon">${esc(w.phonetic)}</div>`:''}
+        <div class="mean">${esc(w.meaning)}</div>
+        ${w.example?`<div class="ex" style="margin-top:8px">${esc(w.example)}</div>`:''}
+      </div>
+      <button class="spk" onclick="speak(${q(w.word)})">${spkSVG}</button></div>
+    </div>
+    <div class="pager">
+      <button onclick="vIdx--;render()" ${vIdx<=0?'disabled':''}>‹ 이전</button>
+      <div class="pos">${vIdx+1} / ${list.length}</div>
+      <button onclick="vIdx++;render()" ${vIdx>=list.length-1?'disabled':''}>다음 ›</button>
+    </div>
+    <div class="fab-wrap"><button class="fab" onclick="openVocabForm()">+ 단어 추가</button></div>`;
+  view.innerHTML=html;
+}
+function openVocabForm(){
+  document.getElementById('modalBody').innerHTML=`<div class="page-title">단어 추가</div>
+    <div style="margin-top:14px"></div>
+    <label>단어 (영어)</label><input id="v_w" placeholder="예: resilient">
+    <label>발음기호 (선택)</label><input id="v_p" placeholder="예: /rɪˈzɪliənt/">
+    <label>의미</label><input id="v_m" placeholder="예: 회복력 있는">
+    <label>예문 (선택)</label><textarea id="v_e" rows="2" placeholder="예문"></textarea>
+    <div class="btn-row"><button class="btn ghost" onclick="closeModal()">취소</button>
+    <button class="btn" onclick="saveVocab()">저장</button></div>`;
+  showModal();
+}
+function saveVocab(){
+  const w=val('v_w'); if(!w){toast('단어를 입력하세요');return}
+  const list=listGet('vocab').slice();
+  list.push({word:w,phonetic:val('v_p'),meaning:val('v_m'),example:val('v_e')});
+  listSet('vocab',list); vIdx=list.length-1; closeModal(); plusOne(); render(); toast('저장됐어요');
+}
+
+function renderMind(view){
+  const list=listGet('mind');
+  if(!list.length){
+    view.innerHTML='<div class="empty"><div class="ill">🌱</div><span class="big">아직 없어요</span>아래 버튼으로 글을 붙여넣어 보세요.</div>'
+      +'<div class="fab-wrap"><button class="fab primary" onclick="openMindForm()">+ 글 추가</button></div>';
+    return;
+  }
+  if(mIdx>=list.length)mIdx=list.length-1;
+  const it=list[mIdx];
+  let html=`<div class="card"><button class="del" onclick="delItem('mind',${mIdx})">×</button>
+      ${it.title?`<div class="mind-title">${esc(it.title)}</div>`:''}
+      <div class="mind-text">${esc(it.text)}</div>
+    </div>
+    <div class="pager">
+      <button onclick="mIdx--;render()" ${mIdx<=0?'disabled':''}>‹ 이전</button>
+      <div class="pos">${mIdx+1} / ${list.length}</div>
+      <button onclick="mIdx++;render()" ${mIdx>=list.length-1?'disabled':''}>다음 ›</button>
+    </div>
+    <div class="fab-wrap"><button class="fab" onclick="openMindForm()">+ 글 추가</button></div>`;
+  view.innerHTML=html;
+}
+function openMindForm(){
+  document.getElementById('modalBody').innerHTML=`<div class="page-title">글 추가</div>
+    <div style="margin-top:14px"></div>
+    <label>제목 (선택)</label><input id="m_t" placeholder="예: 오늘의 다짐">
+    <label>내용 (붙여넣기)</label>
+    <textarea id="m_x" rows="9" placeholder="다른 곳에서 복사한 글을 여기에 붙여넣으세요."></textarea>
+    <div class="btn-row"><button class="btn ghost" onclick="closeModal()">취소</button>
+    <button class="btn" onclick="saveMind()">저장</button></div>`;
+  showModal();
+}
+function saveMind(){
+  const x=val('m_x'); if(!x){toast('내용을 입력하세요');return}
+  const list=listGet('mind').slice();
+  list.push({title:val('m_t'),text:x});
+  listSet('mind',list); mIdx=list.length-1; closeModal(); plusOne(); render(); toast('저장됐어요');
+}
+
+function delItem(key,i){
+  if(!confirm('삭제할까요?'))return;
+  const list=listGet(key).slice(); list.splice(i,1); listSet(key,list);
+  const last=Math.max(0,list.length-1);
+  if(key==='patterns')pIdx=Math.min(pIdx,last);
+  if(key==='vocab')vIdx=Math.min(vIdx,last);
+  if(key==='mind')mIdx=Math.min(mIdx,last);
+  render();
+}
+function val(id){return document.getElementById(id).value.trim()}
+function esc(s){return(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function q(s){return JSON.stringify(s)}
+function showModal(){document.getElementById('modalBg').classList.add('show')}
+function closeModal(){document.getElementById('modalBg').classList.remove('show')}
+
+function openJump(){
+  const m=document.getElementById('modalBody');
+  if(TAB==='today'){
+    const cache=DB.get('days',{});
+    let keys=Object.keys(cache).sort();
+    if(!keys.includes(todayKey()))keys.push(todayKey());
+    keys.sort();
+    let h=`<div class="page-title">날짜 선택</div><div class="page-sub">지난 날짜의 학습을 다시 볼 수 있어요</div><div class="jump-list">`;
+    // 최신 날짜가 위로
+    keys.slice().reverse().forEach(k=>{
+      const f=fmtDate(k);
+      h+=`<button class="jump-item ${k===dayView?'cur':''}" onclick="jumpTo('${k}')">
+        <span class="jnum">${k===todayKey()?'오늘':'📅'}</span>
+        <span class="jbody"><b>${f.big}</b> · ${f.sub}</span></button>`;
+    });
+    h+='</div>';
+    m.innerHTML=h; showModal(); return;
+  }
+  const map={pattern:['Phrases','patterns'],vocab:['Words','vocab'],mind:['Mindset','mind']};
+  const [title,key]=map[TAB];
+  const list=listGet(key);
+  let h=`<div class="page-title">${title} 목록</div><div class="page-sub">전체 ${list.length}개 · 원하는 항목으로 이동</div><div class="jump-list">`;
+  list.forEach((it,i)=>{
+    let label = key==='patterns'? it.pattern : key==='vocab'? it.word : (it.title||it.text);
+    label = (label||'').slice(0,40);
+    const cur = (key==='patterns'&&i===pIdx)||(key==='vocab'&&i===vIdx)||(key==='mind'&&i===mIdx);
+    h+=`<button class="jump-item ${cur?'cur':''}" onclick="jumpItem('${key}',${i})">
+      <span class="jnum">${i+1}</span><span class="jbody">${esc(label)}</span></button>`;
+  });
+  h+='</div>';
+  m.innerHTML=h; showModal();
+}
+function jumpTo(k){dayView=k; closeModal(); render()}
+function jumpItem(key,i){
+  if(key==='patterns')pIdx=i; if(key==='vocab')vIdx=i; if(key==='mind')mIdx=i;
+  closeModal(); render();
+}
+document.getElementById('modalBg').onclick=e=>{if(e.target.id==='modalBg')closeModal()};
+
+let tsX=0,tsY=0;
+const sc=document.getElementById('view');
+sc.addEventListener('touchstart',e=>{tsX=e.touches[0].clientX;tsY=e.touches[0].clientY},{passive:true});
+sc.addEventListener('touchend',e=>{
+  const dx=e.changedTouches[0].clientX-tsX, dy=e.changedTouches[0].clientY-tsY;
+  if(Math.abs(dx)<60||Math.abs(dx)<Math.abs(dy)*1.4)return;
+  if(TAB==='today')moveDay(dx<0?1:-1);
+  else if(TAB==='pattern'){const n=listGet('patterns').length; pIdx=Math.max(0,Math.min(n-1,pIdx+(dx<0?1:-1)));render()}
+  else if(TAB==='vocab'){const n=listGet('vocab').length; vIdx=Math.max(0,Math.min(n-1,vIdx+(dx<0?1:-1)));render()}
+  else if(TAB==='mind'){const n=listGet('mind').length; mIdx=Math.max(0,Math.min(n-1,mIdx+(dx<0?1:-1)));render()}
+});
+
+function renderNav(){
+  const tabs=[['today','Today',ICON.today],['pattern','Phrases',ICON.pattern],
+    ['vocab','Words',ICON.vocab],['mind','Mindset',ICON.mind]];
+  document.getElementById('nav').innerHTML=tabs.map(([id,name,ic])=>
+    `<button class="${TAB===id?'on':''}" onclick="switchTab('${id}')">
+      <svg class="ic" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">${ic}</svg>${name}</button>`).join('');
+}
+function switchTab(t){TAB=t; if(t==='today')dayView=todayKey(); render()}
+
+render();
+// 모든 변수·함수 선언 후 클라우드 동기화 시작
+if(window.OMEcloud) startCloud();
+else window.addEventListener('ome-cloud-ready', startCloud, {once:true});
+if('serviceWorker'in navigator){navigator.serviceWorker.register('sw.js').catch(()=>{})}
+</script>
+</body>
+</html>
