@@ -1,0 +1,23 @@
+{
+  "patterns": [
+    {
+      "pattern": "I was wondering if you could ~",
+      "meaning": "혹시 ~해 주실 수 있을까 해서요 (정중한 부탁)",
+      "example": "I was wondering if you could help me with this report.",
+      "example_kr": "혹시 이 보고서를 좀 도와주실 수 있을까 해서요."
+    },
+    {
+      "pattern": "It depends on ~",
+      "meaning": "~에 따라 다르다",
+      "example": "It depends on how much time we have.",
+      "example_kr": "우리에게 시간이 얼마나 있느냐에 따라 달라요."
+    }
+  ],
+  "words": [
+    { "word": "reliable", "phonetic": "/rɪˈlaɪəbl/", "meaning": "믿을 수 있는, 신뢰할 만한", "example": "He is a reliable partner.", "example_kr": "그는 믿을 만한 동료예요." },
+    { "word": "schedule", "phonetic": "/ˈskedʒuːl/", "meaning": "일정, 일정을 잡다", "example": "Let's schedule a meeting for Friday.", "example_kr": "금요일로 회의 일정을 잡읍시다." },
+    { "word": "afford", "phonetic": "/əˈfɔːrd/", "meaning": "~할 여유가 있다", "example": "I can't afford a new car right now.", "example_kr": "지금은 새 차를 살 여유가 없어요." },
+    { "word": "convenient", "phonetic": "/kənˈviːniənt/", "meaning": "편리한", "example": "The hotel is in a convenient location.", "example_kr": "그 호텔은 편리한 위치에 있어요." },
+    { "word": "appreciate", "phonetic": "/əˈpriːʃieɪt/", "meaning": "감사하다, 진가를 알다", "example": "I really appreciate your help.", "example_kr": "도와주셔서 정말 감사해요." }
+  ]
+}
