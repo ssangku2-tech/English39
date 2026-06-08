@@ -1,0 +1,53 @@
+{
+  "patterns": [
+    {
+      "pattern": "Would you mind ~ing?",
+      "meaning": "~해 주시겠어요? / ~해도 괜찮을까요?",
+      "example": "Would you mind opening the window for me?",
+      "example_kr": "창문을 열어 주시겠어요?"
+    },
+    {
+      "pattern": "I'm having trouble ~ing",
+      "meaning": "~하는 데 어려움을 겪고 있어요",
+      "example": "I'm having trouble finding the right words to explain this.",
+      "example_kr": "이것을 설명할 적절한 단어를 찾는 데 어려움을 겪고 있어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "negotiate",
+      "phonetic": "/nɪˈɡoʊʃieɪt/",
+      "meaning": "협상하다",
+      "example": "We need to negotiate the terms of the contract before signing.",
+      "example_kr": "서명하기 전에 계약 조건을 협상해야 합니다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəˌrɛri/",
+      "meaning": "여행 일정표",
+      "example": "She printed out the itinerary for our trip to Japan.",
+      "example_kr": "그녀는 우리의 일본 여행 일정표를 출력했습니다."
+    },
+    {
+      "word": "hesitate",
+      "phonetic": "/ˈhɛzɪteɪt/",
+      "meaning": "망설이다, 주저하다",
+      "example": "Don't hesitate to ask if you need any help.",
+      "example_kr": "도움이 필요하면 망설이지 말고 물어보세요."
+    },
+    {
+      "word": "deadline",
+      "phonetic": "/ˈdɛdlaɪn/",
+      "meaning": "마감 기한",
+      "example": "We have to submit the report before the deadline tomorrow.",
+      "example_kr": "우리는 내일 마감 기한 전에 보고서를 제출해야 합니다."
+    },
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "수용하다, 편의를 봐주다",
+      "example": "The hotel can accommodate up to 300 guests at a time.",
+      "example_kr": "그 호텔은 한 번에 최대 300명의 손님을 수용할 수 있습니다."
+    }
+  ]
+}
