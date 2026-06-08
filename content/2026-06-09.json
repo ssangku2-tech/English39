@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'd like to + 동사원형",
+      "meaning": "~하고 싶습니다 (정중한 희망 표현)",
+      "example": "I'd like to make a reservation for two people.",
+      "example_kr": "두 명 예약을 하고 싶습니다."
+    },
+    {
+      "pattern": "Could you please + 동사원형?",
+      "meaning": "~해 주실 수 있을까요? (정중한 요청)",
+      "example": "Could you please send me the report by tomorrow?",
+      "example_kr": "내일까지 보고서를 보내 주실 수 있을까요?"
+    },
+    {
+      "pattern": "I'm not sure whether + 주어 + 동사",
+      "meaning": "~인지 잘 모르겠어요 (불확실함 표현)",
+      "example": "I'm not sure whether the meeting is still on for Friday.",
+      "example_kr": "회의가 아직 금요일로 잡혀 있는지 잘 모르겠어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "confirm",
+      "phonetic": "/kənˈfɜːrm/",
+      "meaning": "확인하다, 확정하다",
+      "example": "Please confirm your attendance by Wednesday.",
+      "example_kr": "수요일까지 참석 여부를 확인해 주세요."
+    },
+    {
+      "word": "budget",
+      "phonetic": "/ˈbʌdʒɪt/",
+      "meaning": "예산, 예산을 세우다",
+      "example": "We need to stay within our travel budget this time.",
+      "example_kr": "이번에는 여행 예산 안에서 지출해야 해요."
+    },
+    {
+      "word": "fluent",
+      "phonetic": "/ˈfluːənt/",
+      "meaning": "유창한",
+      "example": "She became fluent in English after living abroad for a year.",
+      "example_kr": "그녀는 1년간 해외에서 생활한 후 영어가 유창해졌어요."
+    },
+    {
+      "word": "prior",
+      "phonetic": "/ˈpraɪər/",
+      "meaning": "사전의, 이전의",
+      "example": "Prior experience in customer service is preferred for this role.",
+      "example_kr": "이 직무에는 고객 서비스 분야의 사전 경험이 우대됩니다."
+    },
+    {
+      "word": "settle",
+      "phonetic": "/ˈsɛtəl/",
+      "meaning": "해결하다, 정착하다, 결제하다",
+      "example": "Let's settle the bill before we leave the restaurant.",
+      "example_kr": "식당을 나가기 전에 계산을 해결합시다."
+    }
+  ]
+}
