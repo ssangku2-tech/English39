@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "Have you ever + 과거분사?",
+      "meaning": "~해본 적 있어요?",
+      "example": "Have you ever tried Korean street food?",
+      "example_kr": "한국 길거리 음식을 먹어본 적 있나요?"
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이더라고요",
+      "example": "It turns out that the meeting was cancelled.",
+      "example_kr": "알고 보니 회의가 취소됐더라고요."
+    },
+    {
+      "pattern": "I was about to + 동사원형",
+      "meaning": "막 ~하려던 참이었어요",
+      "example": "I was about to send you an email about that.",
+      "example_kr": "그것에 대해 막 이메일을 보내려던 참이었어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "elaborate",
+      "phonetic": "/ɪˈlæbərət/",
+      "meaning": "자세히 설명하다, 상세한",
+      "example": "Could you elaborate on your idea during the presentation?",
+      "example_kr": "발표 중에 당신의 아이디어를 좀 더 자세히 설명해 줄 수 있나요?"
+    },
+    {
+      "word": "detour",
+      "phonetic": "/ˈdiːtʊr/",
+      "meaning": "우회로, 돌아가는 길",
+      "example": "We had to take a detour because of the road construction.",
+      "example_kr": "도로 공사 때문에 우회해야 했어요."
+    },
+    {
+      "word": "promptly",
+      "phonetic": "/ˈprɒmptli/",
+      "meaning": "즉시, 신속하게",
+      "example": "She promptly replied to all the client emails.",
+      "example_kr": "그녀는 모든 고객 이메일에 즉시 답장했어요."
+    },
+    {
+      "word": "fetch",
+      "phonetic": "/fɛtʃ/",
+      "meaning": "가져오다, 데려오다",
+      "example": "Can you fetch the documents from the printer?",
+      "example_kr": "프린터에서 서류 좀 가져다 줄 수 있어요?"
+    },
+    {
+      "word": "overlap",
+      "phonetic": "/ˌoʊvərˈlæp/",
+      "meaning": "겹치다, 중복되다",
+      "example": "The two meetings overlap by thirty minutes.",
+      "example_kr": "두 회의가 30분 겹쳐요."
+    }
+  ]
+}
