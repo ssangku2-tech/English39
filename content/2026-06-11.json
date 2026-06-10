@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "What if + 주어 + 동사?",
+      "meaning": "~하면 어떻게 될까? / ~하는 건 어때?",
+      "example": "What if we leave an hour earlier to avoid traffic?",
+      "example_kr": "교통 체증을 피하려면 한 시간 일찍 출발하는 건 어때?"
+    },
+    {
+      "pattern": "I can't help ~ing",
+      "meaning": "~하지 않을 수 없다 / 저절로 ~하게 된다",
+      "example": "I can't help feeling nervous before every presentation.",
+      "example_kr": "발표 전에는 항상 긴장이 되지 않을 수 없어요."
+    },
+    {
+      "pattern": "It's worth ~ing",
+      "meaning": "~할 가치가 있다",
+      "example": "It's worth checking the reviews before you book the hotel.",
+      "example_kr": "호텔을 예약하기 전에 리뷰를 확인해볼 가치가 있어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "clarify",
+      "phonetic": "/ˈklærɪfaɪ/",
+      "meaning": "명확히 하다, 분명히 설명하다",
+      "example": "Could you clarify what you meant by that comment?",
+      "example_kr": "그 발언이 무슨 의미인지 명확히 설명해 주시겠어요?"
+    },
+    {
+      "word": "flexible",
+      "phonetic": "/ˈfleksɪbəl/",
+      "meaning": "유연한, 융통성 있는",
+      "example": "We can meet on Friday if you're flexible with the time.",
+      "example_kr": "시간이 유연하시다면 금요일에 만날 수 있어요."
+    },
+    {
+      "word": "destination",
+      "phonetic": "/ˌdestɪˈneɪʃən/",
+      "meaning": "목적지, 여행지",
+      "example": "Paris has long been a popular destination for honeymoons.",
+      "example_kr": "파리는 오랫동안 신혼여행지로 인기 있는 곳이었습니다."
+    },
+    {
+      "word": "manage",
+      "phonetic": "/ˈmænɪdʒ/",
+      "meaning": "해내다, 그럭저럭 ~하다, 관리하다",
+      "example": "I somehow managed to finish the report before the meeting.",
+      "example_kr": "어떻게든 회의 전에 보고서를 마무리해냈어요."
+    },
+    {
+      "word": "recall",
+      "phonetic": "/rɪˈkɔːl/",
+      "meaning": "기억해내다, 떠올리다",
+      "example": "I can't recall where I put my passport last night.",
+      "example_kr": "어젯밤에 여권을 어디에 뒀는지 기억이 나지 않아요."
+    }
+  ]
+}
