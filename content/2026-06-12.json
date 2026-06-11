@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하느니 차라리 ~하겠다",
+      "example": "I'd rather walk than take a taxi in this nice weather.",
+      "example_kr": "이렇게 좋은 날씨엔 택시를 타느니 차라리 걷겠어요."
+    },
+    {
+      "pattern": "Let me know if + 주어 + 동사",
+      "meaning": "~하면 알려주세요",
+      "example": "Let me know if you need any help with the report.",
+      "example_kr": "보고서 작성에 도움이 필요하면 알려주세요."
+    },
+    {
+      "pattern": "I was supposed to + 동사원형",
+      "meaning": "~하기로 되어 있었다",
+      "example": "I was supposed to meet my client at 3, but the meeting was cancelled.",
+      "example_kr": "3시에 고객을 만나기로 되어 있었는데 미팅이 취소됐어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "overwhelmed",
+      "phonetic": "/ˌoʊvərˈwɛlmd/",
+      "meaning": "압도된, 벅찬",
+      "example": "She felt overwhelmed by the amount of work she had to finish by Friday.",
+      "example_kr": "그녀는 금요일까지 끝내야 할 업무량에 압도된 느낌을 받았다."
+    },
+    {
+      "word": "adjacent",
+      "phonetic": "/əˈdʒeɪsənt/",
+      "meaning": "인접한, 바로 옆의",
+      "example": "Our office is adjacent to the main train station, so it's easy to get here.",
+      "example_kr": "우리 사무실은 기차역 바로 옆에 있어서 오기가 편해요."
+    },
+    {
+      "word": "browsing",
+      "phonetic": "/ˈbraʊzɪŋ/",
+      "meaning": "둘러보기, 검색하기",
+      "example": "I spent the afternoon browsing local markets for souvenirs.",
+      "example_kr": "나는 오후 내내 기념품을 찾아 현지 시장을 둘러봤다."
+    },
+    {
+      "word": "urgent",
+      "phonetic": "/ˈɜːrdʒənt/",
+      "meaning": "긴급한, 시급한",
+      "example": "He sent an urgent email asking for the contract details right away.",
+      "example_kr": "그는 계약 세부 사항을 즉시 요청하는 긴급 이메일을 보냈다."
+    },
+    {
+      "word": "alternative",
+      "phonetic": "/ɔːlˈtɜːrnətɪv/",
+      "meaning": "대안, 대체 수단",
+      "example": "Since the highway was closed, we had to find an alternative route.",
+      "example_kr": "고속도로가 폐쇄되어 우리는 대체 경로를 찾아야 했다."
+    }
+  ]
+}
