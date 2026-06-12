@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I ended up ~ing",
+      "meaning": "결국 ~하게 되었다",
+      "example": "I ended up taking a taxi because the subway was too crowded.",
+      "example_kr": "지하철이 너무 붐벼서 결국 택시를 탔어요."
+    },
+    {
+      "pattern": "It's not worth ~ing",
+      "meaning": "~할 가치가 없다",
+      "example": "It's not worth arguing over such a small issue.",
+      "example_kr": "그런 사소한 문제로 다툴 가치가 없어요."
+    },
+    {
+      "pattern": "Would it be possible to + 동사원형?",
+      "meaning": "~하는 것이 가능할까요?",
+      "example": "Would it be possible to reschedule our meeting to Friday?",
+      "example_kr": "우리 회의를 금요일로 재조정하는 것이 가능할까요?"
+    }
+  ],
+  "words": [
+    {
+      "word": "colleague",
+      "phonetic": "/ˈkɒliːɡ/",
+      "meaning": "직장 동료",
+      "example": "My colleague helped me finish the report on time.",
+      "example_kr": "제 직장 동료가 보고서를 제때 끝내도록 도와줬어요."
+    },
+    {
+      "word": "atmosphere",
+      "phonetic": "/ˈætməsfɪr/",
+      "meaning": "분위기, 환경",
+      "example": "The restaurant had a very cozy atmosphere.",
+      "example_kr": "그 식당은 매우 아늑한 분위기를 가지고 있었어요."
+    },
+    {
+      "word": "estimate",
+      "phonetic": "/ˈestɪmət/",
+      "meaning": "견적, 추정하다",
+      "example": "Can you give me an estimate for the repair costs?",
+      "example_kr": "수리 비용에 대한 견적을 알려주실 수 있나요?"
+    },
+    {
+      "word": "fluent",
+      "phonetic": "/ˈfluːənt/",
+      "meaning": "유창한",
+      "example": "She became fluent in Spanish after living abroad for two years.",
+      "example_kr": "그녀는 2년간 해외에서 살고 나서 스페인어가 유창해졌어요."
+    },
+    {
+      "word": "receipt",
+      "phonetic": "/rɪˈsiːt/",
+      "meaning": "영수증",
+      "example": "Please keep your receipt in case you need to return the item.",
+      "example_kr": "물건을 반품해야 할 경우를 대비해 영수증을 보관하세요."
+    }
+  ]
+}
