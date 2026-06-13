@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I keep ~ing",
+      "meaning": "계속 ~하게 된다 / ~하는 버릇이 있다",
+      "example": "I keep forgetting to bring my umbrella when it rains.",
+      "example_kr": "비가 올 때 우산 챙기는 걸 계속 잊어버린다."
+    },
+    {
+      "pattern": "It's about time + 주어 + 동사(과거형)",
+      "meaning": "이제 ~할 때가 됐다 / 진작 ~했어야 했다",
+      "example": "It's about time we updated our team's workflow.",
+      "example_kr": "이제 우리 팀의 업무 방식을 업데이트할 때가 됐다."
+    },
+    {
+      "pattern": "I'm looking forward to ~ing",
+      "meaning": "~하는 것을 기대하고 있다",
+      "example": "I'm looking forward to meeting the new clients next week.",
+      "example_kr": "다음 주에 새 고객들을 만나는 것을 기대하고 있다."
+    }
+  ],
+  "words": [
+    {
+      "word": "proofread",
+      "phonetic": "/ˈpruːfriːd/",
+      "meaning": "교정하다, 퇴고하다",
+      "example": "Can you proofread this report before I send it to the manager?",
+      "example_kr": "매니저에게 보내기 전에 이 보고서를 교정해줄 수 있어?"
+    },
+    {
+      "word": "commute",
+      "phonetic": "/kəˈmjuːt/",
+      "meaning": "통근하다, 통근",
+      "example": "She commutes to work by subway every morning.",
+      "example_kr": "그녀는 매일 아침 지하철로 통근한다."
+    },
+    {
+      "word": "layover",
+      "phonetic": "/ˈleɪoʊvər/",
+      "meaning": "경유지 체류, 환승 대기 시간",
+      "example": "We have a three-hour layover in Singapore before the connecting flight.",
+      "example_kr": "연결 항공편 전에 싱가포르에서 세 시간 경유 대기가 있다."
+    },
+    {
+      "word": "assertive",
+      "phonetic": "/əˈsɜːrtɪv/",
+      "meaning": "자기주장이 강한, 단호한",
+      "example": "Being assertive in meetings helps ensure your ideas are heard.",
+      "example_kr": "회의에서 단호하게 행동하면 자신의 의견이 잘 전달된다."
+    },
+    {
+      "word": "reimburse",
+      "phonetic": "/ˌriːɪmˈbɜːrs/",
+      "meaning": "상환하다, 환급하다",
+      "example": "The company will reimburse you for all travel expenses.",
+      "example_kr": "회사가 모든 출장 경비를 환급해줄 것이다."
+    }
+  ]
+}
