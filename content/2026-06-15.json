@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I was thinking about ~ing",
+      "meaning": "~하는 것을 생각하고 있었어 (계획이나 아이디어를 부드럽게 제안할 때)",
+      "example": "I was thinking about taking a short trip this weekend.",
+      "example_kr": "이번 주말에 짧은 여행을 갈까 생각하고 있었어."
+    },
+    {
+      "pattern": "There's no point in ~ing",
+      "meaning": "~해봤자 소용없어 (무의미한 행동을 지적할 때)",
+      "example": "There's no point in sending the email if he already knows the update.",
+      "example_kr": "그가 이미 업데이트를 알고 있다면 이메일을 보내봤자 소용없어."
+    },
+    {
+      "pattern": "I'm afraid (that) + 주어 + 동사",
+      "meaning": "유감스럽게도 ~인 것 같아 (나쁜 소식을 정중하게 전할 때)",
+      "example": "I'm afraid that the meeting has been postponed until next week.",
+      "example_kr": "유감스럽게도 회의가 다음 주로 연기된 것 같습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "anticipate",
+      "phonetic": "/ænˈtɪsɪpeɪt/",
+      "meaning": "예상하다, 기대하다",
+      "example": "We anticipate heavy traffic on the highway during the holiday weekend.",
+      "example_kr": "우리는 연휴 주말에 고속도로가 많이 막힐 것으로 예상한다."
+    },
+    {
+      "word": "decent",
+      "phonetic": "/ˈdiːsənt/",
+      "meaning": "괜찮은, 제법 좋은",
+      "example": "We found a decent hotel near the city center at a reasonable price.",
+      "example_kr": "우리는 시내 중심가 근처에서 합리적인 가격의 괜찮은 호텔을 찾았다."
+    },
+    {
+      "word": "persuade",
+      "phonetic": "/pərˈsweɪd/",
+      "meaning": "설득하다",
+      "example": "She managed to persuade her boss to approve the new project proposal.",
+      "example_kr": "그녀는 상사가 새 프로젝트 제안서를 승인하도록 설득하는 데 성공했다."
+    },
+    {
+      "word": "cope",
+      "phonetic": "/koʊp/",
+      "meaning": "대처하다, 잘 해나가다",
+      "example": "It took him a while to cope with the heavy workload in his new position.",
+      "example_kr": "그는 새 직책의 많은 업무량에 적응하는 데 시간이 좀 걸렸다."
+    },
+    {
+      "word": "mandatory",
+      "phonetic": "/ˈmændətɔːri/",
+      "meaning": "의무적인, 필수적인",
+      "example": "Attendance at the safety training session is mandatory for all employees.",
+      "example_kr": "안전 교육 세션 참석은 모든 직원에게 의무적이다."
+    }
+  ]
+}
