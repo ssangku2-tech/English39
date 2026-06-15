@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'll make sure to + 동사원형",
+      "meaning": "반드시 ~하겠습니다",
+      "example": "I'll make sure to send you the report before noon.",
+      "example_kr": "정오 전에 반드시 보고서를 보내드리겠습니다."
+    },
+    {
+      "pattern": "As long as + 주어 + 동사",
+      "meaning": "~하는 한, ~하기만 하면",
+      "example": "As long as you arrive on time, we can get a good seat.",
+      "example_kr": "제때 도착하기만 하면 좋은 자리를 잡을 수 있어요."
+    },
+    {
+      "pattern": "I wasn't aware that + 주어 + 동사",
+      "meaning": "~인지 몰랐습니다",
+      "example": "I wasn't aware that the meeting had been moved to Friday.",
+      "example_kr": "회의가 금요일로 변경된 줄 몰랐습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "concise",
+      "phonetic": "/kənˈsaɪs/",
+      "meaning": "간결한, 명확한",
+      "example": "Please keep your email concise so everyone can read it quickly.",
+      "example_kr": "모두가 빠르게 읽을 수 있도록 이메일을 간결하게 작성해 주세요."
+    },
+    {
+      "word": "spontaneous",
+      "phonetic": "/spɒnˈteɪniəs/",
+      "meaning": "즉흥적인, 자발적인",
+      "example": "We made a spontaneous decision to visit the local market.",
+      "example_kr": "우리는 즉흥적으로 지역 시장을 방문하기로 결정했다."
+    },
+    {
+      "word": "depart",
+      "phonetic": "/dɪˈpɑːrt/",
+      "meaning": "출발하다",
+      "example": "The train is scheduled to depart at seven in the morning.",
+      "example_kr": "기차는 아침 7시에 출발할 예정이다."
+    },
+    {
+      "word": "courteous",
+      "phonetic": "/ˈkɜːrtiəs/",
+      "meaning": "공손한, 예의 바른",
+      "example": "The hotel staff were extremely courteous throughout our stay.",
+      "example_kr": "호텔 직원들은 우리가 머무는 동안 매우 공손했다."
+    },
+    {
+      "word": "monitor",
+      "phonetic": "/ˈmɒnɪtər/",
+      "meaning": "감시하다, 추적하다",
+      "example": "We need to monitor the project's progress on a weekly basis.",
+      "example_kr": "우리는 주 단위로 프로젝트 진행 상황을 추적해야 한다."
+    }
+  ]
+}
