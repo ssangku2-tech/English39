@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I tend to + 동사원형",
+      "meaning": "나는 ~하는 경향이 있다",
+      "example": "I tend to check my emails first thing in the morning.",
+      "example_kr": "나는 아침에 가장 먼저 이메일을 확인하는 경향이 있다."
+    },
+    {
+      "pattern": "feel free to + 동사원형",
+      "meaning": "편하게 ~하세요 / 자유롭게 ~해도 됩니다",
+      "example": "Feel free to ask me any questions after the presentation.",
+      "example_kr": "발표가 끝난 후 편하게 질문해 주세요."
+    },
+    {
+      "pattern": "I'd suggest + ~ing / that + 주어 + 동사",
+      "meaning": "~하는 것을 추천합니다 / 제안합니다",
+      "example": "I'd suggest arriving at the airport at least two hours early.",
+      "example_kr": "공항에 최소 두 시간 일찍 도착하는 것을 추천합니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "negotiate",
+      "phonetic": "/nɪˈɡoʊʃieɪt/",
+      "meaning": "협상하다",
+      "example": "She managed to negotiate a better price for the hotel room.",
+      "example_kr": "그녀는 호텔 방 가격을 더 잘 협상할 수 있었다."
+    },
+    {
+      "word": "efficient",
+      "phonetic": "/ɪˈfɪʃənt/",
+      "meaning": "효율적인",
+      "example": "Taking the subway is the most efficient way to get around the city.",
+      "example_kr": "지하철을 타는 것이 도시를 돌아다니는 가장 효율적인 방법이다."
+    },
+    {
+      "word": "refund",
+      "phonetic": "/ˈriːfʌnd/",
+      "meaning": "환불 / 환불하다",
+      "example": "I requested a refund because the product was damaged.",
+      "example_kr": "나는 제품이 손상되어 있어서 환불을 요청했다."
+    },
+    {
+      "word": "navigate",
+      "phonetic": "/ˈnævɪɡeɪt/",
+      "meaning": "길을 찾다 / 탐색하다",
+      "example": "It was hard to navigate the busy streets of the old city without a map.",
+      "example_kr": "지도 없이 구시가지의 복잡한 거리를 찾아다니는 것은 어려웠다."
+    },
+    {
+      "word": "pursue",
+      "phonetic": "/pərˈsuː/",
+      "meaning": "추구하다 / 뒤쫓다",
+      "example": "He decided to pursue a career in international business.",
+      "example_kr": "그는 국제 비즈니스 분야에서 커리어를 추구하기로 결심했다."
+    }
+  ]
+}
