@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I couldn't agree more with ~",
+      "meaning": "~에 완전히 동의해요",
+      "example": "I couldn't agree more with your idea about the new project direction.",
+      "example_kr": "새 프로젝트 방향에 대한 당신의 의견에 완전히 동의해요."
+    },
+    {
+      "pattern": "It's no use ~ing",
+      "meaning": "~해도 소용없어요",
+      "example": "It's no use worrying about things you can't control.",
+      "example_kr": "당신이 통제할 수 없는 것들을 걱정해도 소용없어요."
+    },
+    {
+      "pattern": "I'd appreciate it if + 주어 + 동사(과거형)",
+      "meaning": "~해주시면 감사하겠습니다",
+      "example": "I'd appreciate it if you sent me the report by Friday.",
+      "example_kr": "금요일까지 보고서를 보내주시면 감사하겠습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "straightforward",
+      "phonetic": "/ˌstreɪtˈfɔːrwərd/",
+      "meaning": "간단한, 솔직한",
+      "example": "The instructions were straightforward and easy to follow.",
+      "example_kr": "설명이 간단해서 따라 하기 쉬웠어요."
+    },
+    {
+      "word": "vivid",
+      "phonetic": "/ˈvɪvɪd/",
+      "meaning": "생생한, 선명한",
+      "example": "She gave a vivid description of her trip to the mountains.",
+      "example_kr": "그녀는 산 여행에 대해 생생하게 묘사했어요."
+    },
+    {
+      "word": "gradual",
+      "phonetic": "/ˈɡrædʒuəl/",
+      "meaning": "점진적인, 서서히 일어나는",
+      "example": "There has been a gradual improvement in his English skills.",
+      "example_kr": "그의 영어 실력이 점진적으로 향상되었어요."
+    },
+    {
+      "word": "liable",
+      "phonetic": "/ˈlaɪəbl/",
+      "meaning": "~할 가능성이 있는, 책임이 있는",
+      "example": "You are liable to make mistakes when you are tired.",
+      "example_kr": "피곤할 때는 실수를 할 가능성이 있어요."
+    },
+    {
+      "word": "glance",
+      "phonetic": "/ɡlæns/",
+      "meaning": "힐끗 보다, 흘끗 봄",
+      "example": "He glanced at his watch and realized he was late.",
+      "example_kr": "그는 시계를 힐끗 보고 자신이 늦었다는 걸 깨달았어요."
+    }
+  ]
+}
