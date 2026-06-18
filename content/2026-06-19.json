@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I've been meaning to + 동사원형",
+      "meaning": "~하려고 했었어 / ~해야지 했었는데",
+      "example": "I've been meaning to call you back all week.",
+      "example_kr": "일주일 내내 다시 전화하려고 했었어."
+    },
+    {
+      "pattern": "now that + 주어 + 동사",
+      "meaning": "이제 ~하니까 / ~한 이상",
+      "example": "Now that you mention it, I do remember seeing him there.",
+      "example_kr": "네가 말하니까 생각나는데, 거기서 그를 봤던 것 같아."
+    },
+    {
+      "pattern": "would you be willing to + 동사원형?",
+      "meaning": "~해주실 의향이 있으신가요?",
+      "example": "Would you be willing to review my report before the meeting?",
+      "example_kr": "회의 전에 제 보고서를 검토해주실 의향이 있으신가요?"
+    }
+  ],
+  "words": [
+    {
+      "word": "collaborate",
+      "phonetic": "/kəˈlæbəreɪt/",
+      "meaning": "협력하다, 공동 작업하다",
+      "example": "We need to collaborate with the design team on this project.",
+      "example_kr": "이 프로젝트에서 디자인 팀과 협력해야 합니다."
+    },
+    {
+      "word": "renowned",
+      "phonetic": "/rɪˈnaʊnd/",
+      "meaning": "유명한, 명성 있는",
+      "example": "She dined at a renowned restaurant near the hotel.",
+      "example_kr": "그녀는 호텔 근처의 유명한 레스토랑에서 식사했다."
+    },
+    {
+      "word": "notify",
+      "phonetic": "/ˈnoʊtɪfaɪ/",
+      "meaning": "알리다, 통보하다",
+      "example": "Please notify us if your travel plans change.",
+      "example_kr": "여행 계획이 바뀌면 저희에게 알려주세요."
+    },
+    {
+      "word": "tentative",
+      "phonetic": "/ˈtentətɪv/",
+      "meaning": "잠정적인, 확정되지 않은",
+      "example": "We have a tentative meeting scheduled for Friday afternoon.",
+      "example_kr": "금요일 오후에 잠정적으로 회의가 잡혀 있습니다."
+    },
+    {
+      "word": "mandatory",
+      "phonetic": "/ˈmændətɔːri/",
+      "meaning": "필수적인, 의무적인",
+      "example": "Attendance at the safety training is mandatory for all staff.",
+      "example_kr": "안전 교육 참석은 모든 직원에게 의무입니다."
+    }
+  ]
+}
