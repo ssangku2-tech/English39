@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm not in a position to + 동사원형",
+      "meaning": "~할 입장이 아니다 / ~하기 어렵다",
+      "example": "I'm not in a position to make that decision on my own.",
+      "example_kr": "저는 혼자서 그 결정을 내릴 입장이 아닙니다."
+    },
+    {
+      "pattern": "It's just a matter of + 명사/동명사",
+      "meaning": "단지 ~의 문제일 뿐이다",
+      "example": "It's just a matter of finding the right time to talk to him.",
+      "example_kr": "그것은 단지 그와 이야기할 적절한 시간을 찾는 문제일 뿐이에요."
+    },
+    {
+      "pattern": "I'll get back to you on + 명사",
+      "meaning": "~에 대해 나중에 다시 연락드리겠습니다",
+      "example": "I'll get back to you on the pricing details by tomorrow.",
+      "example_kr": "가격 세부 사항에 대해 내일까지 다시 연락드리겠습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "delegate",
+      "phonetic": "/ˈdɛlɪɡeɪt/",
+      "meaning": "위임하다, 권한을 넘기다",
+      "example": "She decided to delegate some tasks to her assistant.",
+      "example_kr": "그녀는 몇 가지 업무를 보조자에게 위임하기로 했다."
+    },
+    {
+      "word": "premises",
+      "phonetic": "/ˈprɛmɪsɪz/",
+      "meaning": "건물, 구내, 부지",
+      "example": "Smoking is not allowed on the premises.",
+      "example_kr": "건물 내에서는 흡연이 금지되어 있습니다."
+    },
+    {
+      "word": "concierge",
+      "phonetic": "/ˌkɒnsiˈɛːʒ/",
+      "meaning": "(호텔) 안내 직원, 컨시어지",
+      "example": "The concierge helped us book a restaurant for dinner.",
+      "example_kr": "컨시어지가 저녁 식사를 위한 레스토랑 예약을 도와주었다."
+    },
+    {
+      "word": "mutual",
+      "phonetic": "/ˈmjuːtʃuəl/",
+      "meaning": "상호간의, 공동의",
+      "example": "We reached a mutual agreement after a long discussion.",
+      "example_kr": "긴 토론 끝에 우리는 상호 합의에 도달했다."
+    },
+    {
+      "word": "verify",
+      "phonetic": "/ˈvɛrɪfaɪ/",
+      "meaning": "확인하다, 검증하다",
+      "example": "Please verify your email address to complete the registration.",
+      "example_kr": "등록을 완료하려면 이메일 주소를 확인해 주세요."
+    }
+  ]
+}
