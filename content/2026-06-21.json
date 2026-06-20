@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm willing to + 동사원형",
+      "meaning": "기꺼이 ~하겠다",
+      "example": "I'm willing to work overtime to finish the project on time.",
+      "example_kr": "저는 프로젝트를 제때 끝내기 위해 기꺼이 초과 근무를 하겠습니다."
+    },
+    {
+      "pattern": "make sure (that) + 주어 + 동사",
+      "meaning": "반드시 ~하도록 하다, ~을 확인하다",
+      "example": "Make sure that you bring your passport to the airport.",
+      "example_kr": "공항에 여권을 반드시 챙겨 오세요."
+    },
+    {
+      "pattern": "on behalf of + 명사",
+      "meaning": "~을 대신하여, ~을 대표하여",
+      "example": "I'm writing on behalf of our team to express our gratitude.",
+      "example_kr": "저는 저희 팀을 대표하여 감사의 말씀을 전하고자 이 글을 씁니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "debrief",
+      "phonetic": "/ˌdiːˈbriːf/",
+      "meaning": "보고하다, 결과를 보고받다",
+      "example": "The manager asked the team to debrief after the client meeting.",
+      "example_kr": "매니저는 고객 미팅 후 팀에게 결과를 보고해 달라고 요청했습니다."
+    },
+    {
+      "word": "adjacent",
+      "phonetic": "/əˈdʒeɪsənt/",
+      "meaning": "인접한, 바로 옆의",
+      "example": "Our hotel room was adjacent to a noisy elevator.",
+      "example_kr": "우리 호텔 방은 시끄러운 엘리베이터 바로 옆에 있었습니다."
+    },
+    {
+      "word": "compromise",
+      "phonetic": "/ˈkɒmprəmaɪz/",
+      "meaning": "타협하다, 절충안",
+      "example": "Both sides agreed to compromise on the meeting schedule.",
+      "example_kr": "양측은 회의 일정에 대해 타협하기로 합의했습니다."
+    },
+    {
+      "word": "initiative",
+      "phonetic": "/ɪˈnɪʃətɪv/",
+      "meaning": "주도권, 솔선수범, 계획",
+      "example": "She took the initiative to organize the team's training session.",
+      "example_kr": "그녀는 솔선수범하여 팀의 교육 세션을 기획했습니다."
+    },
+    {
+      "word": "voucher",
+      "phonetic": "/ˈvaʊtʃər/",
+      "meaning": "상품권, 할인권, 이용권",
+      "example": "The airline gave us a meal voucher due to the flight delay.",
+      "example_kr": "항공사는 비행 지연으로 인해 우리에게 식사 이용권을 제공했습니다."
+    }
+  ]
+}
