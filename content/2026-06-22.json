@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm not familiar with + 명사/동명사",
+      "meaning": "~에 대해 잘 모른다, ~에 익숙하지 않다",
+      "example": "I'm not familiar with the local transportation system here.",
+      "example_kr": "저는 이곳의 대중교통 시스템에 대해 잘 모릅니다."
+    },
+    {
+      "pattern": "It's not that + 주어 + 동사, it's just that + 주어 + 동사",
+      "meaning": "~한 게 아니라, 그냥 ~한 것뿐이다",
+      "example": "It's not that I dislike the proposal, it's just that I need more time to review it.",
+      "example_kr": "제안이 싫은 게 아니라, 그냥 검토할 시간이 더 필요한 것뿐이에요."
+    },
+    {
+      "pattern": "Would you happen to + 동사원형?",
+      "meaning": "혹시 ~해 주실 수 있나요? / 혹시 ~을 아시나요?",
+      "example": "Would you happen to know where the nearest pharmacy is?",
+      "example_kr": "혹시 가장 가까운 약국이 어디 있는지 아시나요?"
+    }
+  ],
+  "words": [
+    {
+      "word": "persist",
+      "phonetic": "/pərˈsɪst/",
+      "meaning": "고집하다, 지속하다, 끈질기게 계속하다",
+      "example": "You need to persist through difficulties if you want to achieve your goals.",
+      "example_kr": "목표를 달성하려면 어려움 속에서도 끈질기게 버텨야 합니다."
+    },
+    {
+      "word": "venue",
+      "phonetic": "/ˈvenjuː/",
+      "meaning": "장소, (행사) 개최지",
+      "example": "We need to book a venue for the company dinner next month.",
+      "example_kr": "다음 달 회사 만찬을 위한 장소를 예약해야 합니다."
+    },
+    {
+      "word": "offset",
+      "phonetic": "/ˈɔːfset/",
+      "meaning": "상쇄하다, 벌충하다",
+      "example": "The company planted trees to offset its carbon emissions.",
+      "example_kr": "그 회사는 탄소 배출량을 상쇄하기 위해 나무를 심었습니다."
+    },
+    {
+      "word": "acquaint",
+      "phonetic": "/əˈkweɪnt/",
+      "meaning": "익숙하게 하다, 알게 하다",
+      "example": "Please take some time to acquaint yourself with the new software before the meeting.",
+      "example_kr": "회의 전에 새 소프트웨어에 익숙해질 시간을 좀 가져보세요."
+    },
+    {
+      "word": "substantial",
+      "phonetic": "/səbˈstænʃəl/",
+      "meaning": "상당한, 실질적인, 충분한",
+      "example": "There has been a substantial increase in customer complaints this quarter.",
+      "example_kr": "이번 분기에 고객 불만이 상당히 증가했습니다."
+    }
+  ]
+}
