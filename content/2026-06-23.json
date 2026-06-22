@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I can assure you that + 주어 + 동사",
+      "meaning": "~을 확실히 보장해 드립니다",
+      "example": "I can assure you that the package will arrive by Friday.",
+      "example_kr": "금요일까지 소포가 도착할 것을 확실히 보장해 드립니다."
+    },
+    {
+      "pattern": "What I'm trying to say is (that) + 주어 + 동사",
+      "meaning": "제가 말하려는 것은 ~입니다",
+      "example": "What I'm trying to say is that we need more time to finish this project.",
+      "example_kr": "제가 말하려는 것은 이 프로젝트를 끝내려면 시간이 더 필요하다는 겁니다."
+    },
+    {
+      "pattern": "I'll take care of + 명사/동명사",
+      "meaning": "제가 ~을 처리하겠습니다",
+      "example": "Don't worry — I'll take care of the hotel reservations for the trip.",
+      "example_kr": "걱정 마세요, 제가 여행 호텔 예약을 처리하겠습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "수용하다, 맞춰주다",
+      "example": "The hotel can accommodate up to 300 guests at one time.",
+      "example_kr": "그 호텔은 한 번에 최대 300명의 손님을 수용할 수 있습니다."
+    },
+    {
+      "word": "reimburse",
+      "phonetic": "/ˌriːɪmˈbɜːrs/",
+      "meaning": "환급하다, 변상하다",
+      "example": "The company will reimburse all travel expenses within two weeks.",
+      "example_kr": "회사는 모든 출장 비용을 2주 이내에 환급해 드릴 것입니다."
+    },
+    {
+      "word": "delegate",
+      "phonetic": "/ˈdelɪɡeɪt/",
+      "meaning": "위임하다, 대리자",
+      "example": "She decided to delegate the report writing to her assistant.",
+      "example_kr": "그녀는 보고서 작성을 자신의 보조에게 위임하기로 했습니다."
+    },
+    {
+      "word": "tentative",
+      "phonetic": "/ˈtentətɪv/",
+      "meaning": "잠정적인, 확정되지 않은",
+      "example": "We have a tentative meeting scheduled for next Monday afternoon.",
+      "example_kr": "다음 주 월요일 오후에 잠정적으로 회의가 잡혀 있습니다."
+    },
+    {
+      "word": "verify",
+      "phonetic": "/ˈverɪfaɪ/",
+      "meaning": "확인하다, 검증하다",
+      "example": "Please verify your email address before completing the registration.",
+      "example_kr": "등록을 완료하기 전에 이메일 주소를 확인해 주세요."
+    }
+  ]
+}
