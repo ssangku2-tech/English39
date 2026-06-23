@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm aware that + 주어 + 동사",
+      "meaning": "~라는 것을 알고 있다",
+      "example": "I'm aware that the meeting has been rescheduled to Friday.",
+      "example_kr": "회의가 금요일로 일정이 변경되었다는 것을 알고 있습니다."
+    },
+    {
+      "pattern": "in case + 주어 + 동사",
+      "meaning": "~할 경우를 대비해서",
+      "example": "Please save the document in case the system crashes.",
+      "example_kr": "시스템이 다운될 경우를 대비해 문서를 저장해 두세요."
+    },
+    {
+      "pattern": "I'd be happy to + 동사원형",
+      "meaning": "기꺼이 ~하겠습니다",
+      "example": "I'd be happy to walk you through the process step by step.",
+      "example_kr": "단계별로 절차를 안내해 드리겠습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "reluctant",
+      "phonetic": "/rɪˈlʌktənt/",
+      "meaning": "꺼리는, 내키지 않는",
+      "example": "She was reluctant to share her opinion in front of everyone.",
+      "example_kr": "그녀는 모두 앞에서 의견을 말하기를 꺼렸습니다."
+    },
+    {
+      "word": "transit",
+      "phonetic": "/ˈtrænsɪt/",
+      "meaning": "환승, 이동",
+      "example": "We had a three-hour transit at Singapore airport.",
+      "example_kr": "우리는 싱가포르 공항에서 세 시간 환승이 있었습니다."
+    },
+    {
+      "word": "compile",
+      "phonetic": "/kəmˈpaɪl/",
+      "meaning": "수집하다, 편집하다",
+      "example": "Can you compile all the feedback into one report?",
+      "example_kr": "모든 피드백을 하나의 보고서로 수집해 주시겠어요?"
+    },
+    {
+      "word": "reserve",
+      "phonetic": "/rɪˈzɜːrv/",
+      "meaning": "예약하다, 확보하다",
+      "example": "I reserved a table for two at the restaurant near the hotel.",
+      "example_kr": "호텔 근처 식당에 2인 테이블을 예약했습니다."
+    },
+    {
+      "word": "peak",
+      "phonetic": "/piːk/",
+      "meaning": "최고점, 성수기의",
+      "example": "Flights are much more expensive during peak season.",
+      "example_kr": "성수기에는 항공편이 훨씬 더 비쌉니다."
+    }
+  ]
+}
