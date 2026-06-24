@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'll have to + 동사원형",
+      "meaning": "~해야 할 것 같아요 (필요나 의무를 부드럽게 표현)",
+      "example": "I'll have to check with my manager before making a decision.",
+      "example_kr": "결정을 내리기 전에 매니저에게 확인해봐야 할 것 같아요."
+    },
+    {
+      "pattern": "How about we + 동사원형?",
+      "meaning": "우리 ~하는 게 어때요? (제안할 때)",
+      "example": "How about we grab lunch and discuss the project then?",
+      "example_kr": "점심 먹으면서 그때 프로젝트에 대해 얘기하는 게 어때요?"
+    },
+    {
+      "pattern": "I don't think + 주어 + 동사",
+      "meaning": "~인 것 같지 않아요 (부드럽게 의견 표현)",
+      "example": "I don't think we have enough time to finish this by Friday.",
+      "example_kr": "금요일까지 이걸 끝낼 시간이 충분하지 않은 것 같아요."
+    }
+  ],
+  "words": [
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "수용하다, 맞춰주다",
+      "example": "We will do our best to accommodate your special requests.",
+      "example_kr": "귀하의 특별 요청을 수용하기 위해 최선을 다하겠습니다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표",
+      "example": "Please review the itinerary and let me know if anything needs to be changed.",
+      "example_kr": "일정표를 검토하시고 변경이 필요한 사항이 있으면 알려주세요."
+    },
+    {
+      "word": "negotiable",
+      "phonetic": "/nɪˈɡoʊʃiəbl/",
+      "meaning": "협상 가능한",
+      "example": "The salary is negotiable depending on your experience.",
+      "example_kr": "급여는 경력에 따라 협상 가능합니다."
+    },
+    {
+      "word": "prolonged",
+      "phonetic": "/prəˈlɒŋd/",
+      "meaning": "장기적인, 오래 지속되는",
+      "example": "A prolonged delay at the airport made us miss our connecting flight.",
+      "example_kr": "공항에서의 장시간 지연으로 인해 우리는 연결 항공편을 놓쳤습니다."
+    },
+    {
+      "word": "courtesy",
+      "phonetic": "/ˈkɜːrtəsi/",
+      "meaning": "예의, 정중함",
+      "example": "He showed great courtesy by holding the door open for everyone.",
+      "example_kr": "그는 모든 사람을 위해 문을 잡아주는 큰 예의를 보여주었습니다."
+    }
+  ]
+}
