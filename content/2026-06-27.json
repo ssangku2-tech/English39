@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'd like to + 동사원형",
+      "meaning": "~하고 싶습니다 / ~하겠습니다 (정중한 요청·의사 표현)",
+      "example": "I'd like to schedule a meeting for next Monday.",
+      "example_kr": "다음 주 월요일에 회의를 잡고 싶습니다."
+    },
+    {
+      "pattern": "It's my understanding that + 주어 + 동사",
+      "meaning": "제가 이해하기로는 ~입니다 (확인·전달 시 사용)",
+      "example": "It's my understanding that the deadline has been moved to Friday.",
+      "example_kr": "제가 이해하기로는 마감일이 금요일로 변경되었습니다."
+    },
+    {
+      "pattern": "I'd like to point out that + 주어 + 동사",
+      "meaning": "~을 지적하고 싶습니다 / ~을 말씀드리고 싶습니다",
+      "example": "I'd like to point out that the budget report contains some errors.",
+      "example_kr": "예산 보고서에 몇 가지 오류가 있다는 점을 말씀드리고 싶습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "tactful",
+      "phonetic": "/ˈtæktfəl/",
+      "meaning": "요령 있는, 눈치 있는",
+      "example": "She was very tactful when delivering the bad news to her team.",
+      "example_kr": "그녀는 팀에 나쁜 소식을 전할 때 매우 요령 있게 행동했다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəˌrɛri/",
+      "meaning": "여행 일정표, 여정",
+      "example": "Please send me the itinerary for the business trip by tomorrow.",
+      "example_kr": "내일까지 출장 일정표를 보내 주세요."
+    },
+    {
+      "word": "adequate",
+      "phonetic": "/ˈædɪkwət/",
+      "meaning": "적절한, 충분한",
+      "example": "Make sure the preparation time is adequate before the presentation.",
+      "example_kr": "발표 전에 준비 시간이 충분한지 확인하세요."
+    },
+    {
+      "word": "clarification",
+      "phonetic": "/ˌklærɪfɪˈkeɪʃən/",
+      "meaning": "명확한 설명, 해명",
+      "example": "Could you provide some clarification on the new company policy?",
+      "example_kr": "새로운 회사 방침에 대해 좀 더 명확한 설명을 해 주실 수 있나요?"
+    },
+    {
+      "word": "consent",
+      "phonetic": "/kənˈsɛnt/",
+      "meaning": "동의, 승인",
+      "example": "You need written consent from the client before proceeding.",
+      "example_kr": "진행하기 전에 고객의 서면 동의가 필요합니다."
+    }
+  ]
+}
