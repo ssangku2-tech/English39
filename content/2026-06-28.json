@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm having trouble ~ing",
+      "meaning": "~하는 데 어려움을 겪고 있다",
+      "example": "I'm having trouble understanding the contract terms.",
+      "example_kr": "저는 계약 조건을 이해하는 데 어려움을 겪고 있어요."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "~인 것으로 밝혀지다, 알고 보니 ~이다",
+      "example": "It turns out that the meeting was rescheduled for Friday.",
+      "example_kr": "알고 보니 회의가 금요일로 일정이 변경되었더라고요."
+    },
+    {
+      "pattern": "There's no need to + 동사원형",
+      "meaning": "~할 필요가 없다",
+      "example": "There's no need to print the document; I can read it online.",
+      "example_kr": "그 문서를 인쇄할 필요 없어요. 온라인으로 읽을 수 있거든요."
+    }
+  ],
+  "words": [
+    {
+      "word": "allocate",
+      "phonetic": "/ˈæləkeɪt/",
+      "meaning": "배분하다, 할당하다",
+      "example": "We need to allocate more time for the client presentation.",
+      "example_kr": "고객 발표를 위해 시간을 더 배분해야 합니다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표",
+      "example": "Please send me the itinerary before we leave for the trip.",
+      "example_kr": "여행을 떠나기 전에 일정표를 보내 주세요."
+    },
+    {
+      "word": "hassle",
+      "phonetic": "/ˈhæsl/",
+      "meaning": "번거로움, 귀찮은 일",
+      "example": "Dealing with lost luggage at the airport is such a hassle.",
+      "example_kr": "공항에서 분실 수하물을 처리하는 건 정말 번거로운 일이에요."
+    },
+    {
+      "word": "proximity",
+      "phonetic": "/prɒkˈsɪməti/",
+      "meaning": "근접성, 가까움",
+      "example": "I chose this hotel because of its proximity to the city center.",
+      "example_kr": "저는 도심과 가깝기 때문에 이 호텔을 선택했어요."
+    },
+    {
+      "word": "forthcoming",
+      "phonetic": "/ˌfɔːrθˈkʌmɪŋ/",
+      "meaning": "곧 있을, 다가오는",
+      "example": "Please review the agenda for the forthcoming quarterly review.",
+      "example_kr": "곧 있을 분기 검토를 위한 안건을 검토해 주세요."
+    }
+  ]
+}
