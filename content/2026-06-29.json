@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm not sure whether + 주어 + 동사",
+      "meaning": "~인지 아닌지 잘 모르겠어요",
+      "example": "I'm not sure whether the meeting has been rescheduled.",
+      "example_kr": "회의 일정이 변경되었는지 잘 모르겠어요."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이더라고요",
+      "example": "It turns out that the flight was delayed by two hours.",
+      "example_kr": "알고 보니 항공편이 두 시간 지연되었더라고요."
+    },
+    {
+      "pattern": "You might want to + 동사원형",
+      "meaning": "~하는 게 좋을 것 같아요 (부드러운 제안)",
+      "example": "You might want to double-check the reservation before you leave.",
+      "example_kr": "떠나기 전에 예약을 다시 확인해 보는 게 좋을 것 같아요."
+    }
+  ],
+  "words": [
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "수용하다, 편의를 봐주다",
+      "example": "The hotel was able to accommodate our early check-in request.",
+      "example_kr": "호텔 측에서 우리의 조기 체크인 요청을 수용해 주었다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표",
+      "example": "Please send me the itinerary for the business trip by Friday.",
+      "example_kr": "금요일까지 출장 일정표를 보내 주세요."
+    },
+    {
+      "word": "overwhelm",
+      "phonetic": "/ˌoʊvərˈwelm/",
+      "meaning": "압도하다, 벅차게 하다",
+      "example": "The amount of work this week completely overwhelmed me.",
+      "example_kr": "이번 주 업무량이 나를 완전히 압도했다."
+    },
+    {
+      "word": "rapport",
+      "phonetic": "/ræˈpɔːr/",
+      "meaning": "(사람 사이의) 친밀감, 신뢰 관계",
+      "example": "Building rapport with clients is essential in sales.",
+      "example_kr": "고객과 친밀감을 쌓는 것은 영업에서 필수적이다."
+    },
+    {
+      "word": "hinder",
+      "phonetic": "/ˈhɪndər/",
+      "meaning": "방해하다, 저해하다",
+      "example": "Poor communication can hinder the progress of a project.",
+      "example_kr": "원활하지 못한 소통은 프로젝트 진행을 방해할 수 있다."
+    }
+  ]
+}
