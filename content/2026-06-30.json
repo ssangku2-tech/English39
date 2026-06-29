@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I assume (that) + 주어 + 동사",
+      "meaning": "~라고 가정하다/추측하다",
+      "example": "I assume that the meeting will start on time.",
+      "example_kr": "회의가 제시간에 시작될 것이라고 생각합니다."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "~인 것으로 밝혀지다/알고 보니 ~이다",
+      "example": "It turns out that the flight was delayed by two hours.",
+      "example_kr": "알고 보니 비행기가 두 시간 지연되었습니다."
+    },
+    {
+      "pattern": "I'd like to confirm + 명사/that절",
+      "meaning": "~을 확인하고 싶습니다",
+      "example": "I'd like to confirm that our reservation is still available.",
+      "example_kr": "저희 예약이 아직 유효한지 확인하고 싶습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표",
+      "example": "Please send me the itinerary for the business trip.",
+      "example_kr": "출장 일정표를 저에게 보내주세요."
+    },
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "수용하다, 편의를 봐주다",
+      "example": "We will do our best to accommodate your request.",
+      "example_kr": "귀하의 요청을 최대한 수용하도록 최선을 다하겠습니다."
+    },
+    {
+      "word": "fluent",
+      "phonetic": "/ˈfluːənt/",
+      "meaning": "유창한",
+      "example": "She became fluent in English after living abroad for a year.",
+      "example_kr": "그녀는 1년간 해외에서 생활한 후 영어가 유창해졌습니다."
+    },
+    {
+      "word": "obligation",
+      "phonetic": "/ˌɒblɪˈɡeɪʃən/",
+      "meaning": "의무, 책임",
+      "example": "You have no obligation to sign the contract today.",
+      "example_kr": "오늘 계약서에 서명할 의무는 없습니다."
+    },
+    {
+      "word": "punctual",
+      "phonetic": "/ˈpʌŋktʃuəl/",
+      "meaning": "시간을 잘 지키는",
+      "example": "Being punctual shows respect for other people's time.",
+      "example_kr": "시간을 잘 지키는 것은 다른 사람의 시간을 존중한다는 것을 보여줍니다."
+    }
+  ]
+}
