@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하느니 차라리 ~하겠다",
+      "example": "I'd rather take the stairs than wait for the elevator.",
+      "example_kr": "엘리베이터를 기다리느니 차라리 계단을 이용하겠어요."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "~인 것으로 밝혀졌다 / 알고 보니 ~이다",
+      "example": "It turns out that the meeting was moved to Thursday.",
+      "example_kr": "알고 보니 회의가 목요일로 옮겨졌더라고요."
+    },
+    {
+      "pattern": "I'd hate to + 동사원형",
+      "meaning": "~하면 안 될 텐데 / ~하고 싶지 않다",
+      "example": "I'd hate to miss the last train back to Seoul.",
+      "example_kr": "서울로 돌아가는 막차를 놓치면 안 될 텐데요."
+    }
+  ],
+  "words": [
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "수용하다, 편의를 봐주다",
+      "example": "The hotel can accommodate up to 300 guests.",
+      "example_kr": "그 호텔은 최대 300명의 손님을 수용할 수 있습니다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표",
+      "example": "Please send me the itinerary before we leave.",
+      "example_kr": "출발 전에 여행 일정표를 보내주세요."
+    },
+    {
+      "word": "drawback",
+      "phonetic": "/ˈdrɔːbæk/",
+      "meaning": "단점, 불리한 점",
+      "example": "The main drawback of this plan is the high cost.",
+      "example_kr": "이 계획의 주요 단점은 높은 비용입니다."
+    },
+    {
+      "word": "premises",
+      "phonetic": "/ˈpremɪsɪz/",
+      "meaning": "건물, 구내, 부지",
+      "example": "Smoking is not allowed on the premises.",
+      "example_kr": "구내에서는 흡연이 허용되지 않습니다."
+    },
+    {
+      "word": "adjacent",
+      "phonetic": "/əˈdʒeɪsənt/",
+      "meaning": "인접한, 바로 옆의",
+      "example": "Our office is adjacent to the main train station.",
+      "example_kr": "우리 사무실은 기차역 바로 옆에 있습니다."
+    }
+  ]
+}
