@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm having trouble + ~ing",
+      "meaning": "~하는 데 어려움을 겪고 있어요",
+      "example": "I'm having trouble understanding the new software system.",
+      "example_kr": "새 소프트웨어 시스템을 이해하는 데 어려움을 겪고 있어요."
+    },
+    {
+      "pattern": "It's worth + ~ing",
+      "meaning": "~할 가치가 있어요",
+      "example": "It's worth visiting the local market when you travel there.",
+      "example_kr": "그곳을 여행할 때 현지 시장을 방문할 가치가 있어요."
+    },
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하느니 차라리 ~하겠어요",
+      "example": "I'd rather take the train than drive in heavy traffic.",
+      "example_kr": "심한 교통 체증 속에서 운전하느니 차라리 기차를 타겠어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "수용하다, 맞춰주다",
+      "example": "The hotel was able to accommodate our last-minute request.",
+      "example_kr": "호텔은 우리의 막판 요청을 수용할 수 있었어요."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표",
+      "example": "Please send me the itinerary before our business trip.",
+      "example_kr": "출장 전에 여행 일정표를 보내주세요."
+    },
+    {
+      "word": "fluent",
+      "phonetic": "/ˈfluːənt/",
+      "meaning": "유창한",
+      "example": "She became fluent in English after living abroad for two years.",
+      "example_kr": "그녀는 2년간 해외에서 생활한 후 영어가 유창해졌어요."
+    },
+    {
+      "word": "agenda",
+      "phonetic": "/əˈdʒendə/",
+      "meaning": "안건, 의제",
+      "example": "Could you share the agenda for tomorrow's meeting?",
+      "example_kr": "내일 회의 안건을 공유해 주실 수 있나요?"
+    },
+    {
+      "word": "discreet",
+      "phonetic": "/dɪˈskriːt/",
+      "meaning": "신중한, 조심스러운",
+      "example": "Please be discreet when discussing the new project details.",
+      "example_kr": "새 프로젝트 세부 사항을 논의할 때 신중하게 해주세요."
+    }
+  ]
+}
