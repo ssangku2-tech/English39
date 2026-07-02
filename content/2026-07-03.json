@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하느니 차라리 ~하겠다",
+      "example": "I'd rather take the subway than sit in traffic for an hour.",
+      "example_kr": "한 시간 동안 교통 체증에 앉아 있느니 차라리 지하철을 타겠어요."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이다, 결국 ~로 밝혀지다",
+      "example": "It turns out that the meeting was rescheduled to Friday.",
+      "example_kr": "알고 보니 회의가 금요일로 일정이 변경되었더라고요."
+    },
+    {
+      "pattern": "I can't help + ~ing",
+      "meaning": "~하지 않을 수 없다, 저절로 ~하게 된다",
+      "example": "I can't help feeling nervous before every presentation.",
+      "example_kr": "발표 전마다 저절로 긴장이 되지 않을 수 없어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "수용하다, 편의를 제공하다",
+      "example": "The hotel can accommodate up to 300 guests at once.",
+      "example_kr": "그 호텔은 한 번에 최대 300명의 손님을 수용할 수 있습니다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표",
+      "example": "Please send me the itinerary before we leave for the trip.",
+      "example_kr": "여행을 떠나기 전에 일정표를 보내 주세요."
+    },
+    {
+      "word": "initiative",
+      "phonetic": "/ɪˈnɪʃətɪv/",
+      "meaning": "솔선수범, 주도권",
+      "example": "She took the initiative to organize the team-building event.",
+      "example_kr": "그녀는 솔선하여 팀 빌딩 행사를 준비했습니다."
+    },
+    {
+      "word": "abrupt",
+      "phonetic": "/əˈbrʌpt/",
+      "meaning": "갑작스러운, 무뚝뚝한",
+      "example": "His abrupt response made the client feel uncomfortable.",
+      "example_kr": "그의 갑작스러운 대응이 고객을 불편하게 만들었습니다."
+    },
+    {
+      "word": "thorough",
+      "phonetic": "/ˈθʌrə/",
+      "meaning": "철저한, 꼼꼼한",
+      "example": "She did a thorough check of the report before submitting it.",
+      "example_kr": "그녀는 보고서를 제출하기 전에 꼼꼼하게 검토했습니다."
+    }
+  ]
+}
