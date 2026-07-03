@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하느니 차라리 ~하겠다",
+      "example": "I'd rather take the stairs than wait for the elevator.",
+      "example_kr": "엘리베이터를 기다리느니 차라리 계단을 이용하겠어요."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이더라, 결국 ~으로 밝혀지다",
+      "example": "It turns out that the meeting was rescheduled to Friday.",
+      "example_kr": "알고 보니 회의가 금요일로 일정이 변경됐더라고요."
+    },
+    {
+      "pattern": "I was about to + 동사원형",
+      "meaning": "막 ~하려던 참이었다",
+      "example": "I was about to send you an email when you called.",
+      "example_kr": "당신이 전화했을 때 막 이메일을 보내려던 참이었어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "detour",
+      "phonetic": "/ˈdiːtʊr/",
+      "meaning": "우회로, 돌아가는 길",
+      "example": "We had to take a detour because of the road construction.",
+      "example_kr": "도로 공사 때문에 우회해야 했어요."
+    },
+    {
+      "word": "fluent",
+      "phonetic": "/ˈfluːənt/",
+      "meaning": "유창한",
+      "example": "She became fluent in Spanish after living abroad for two years.",
+      "example_kr": "그녀는 2년간 해외에 살고 난 후 스페인어가 유창해졌어요."
+    },
+    {
+      "word": "gauge",
+      "phonetic": "/ɡeɪdʒ/",
+      "meaning": "가늠하다, 파악하다",
+      "example": "It's hard to gauge how long the project will take.",
+      "example_kr": "프로젝트가 얼마나 걸릴지 가늠하기가 어려워요."
+    },
+    {
+      "word": "feasible",
+      "phonetic": "/ˈfiːzəbəl/",
+      "meaning": "실현 가능한, 가능성 있는",
+      "example": "The manager asked if a two-week deadline was feasible.",
+      "example_kr": "매니저가 2주 마감 기한이 실현 가능한지 물었어요."
+    },
+    {
+      "word": "amenity",
+      "phonetic": "/əˈmenɪti/",
+      "meaning": "편의 시설, 편의 서비스",
+      "example": "The hotel offers amenities such as a gym and free breakfast.",
+      "example_kr": "그 호텔은 헬스장과 무료 조식 같은 편의 시설을 제공해요."
+    }
+  ]
+}
