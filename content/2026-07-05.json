@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하느니 차라리 ~하겠다",
+      "example": "I'd rather take the subway than wait for a taxi in this traffic.",
+      "example_kr": "이 교통체증 속에서 택시를 기다리느니 차라리 지하철을 타겠어요."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이더라, 결국 ~으로 밝혀지다",
+      "example": "It turns out that the meeting was rescheduled to next Monday.",
+      "example_kr": "알고 보니 회의가 다음 주 월요일로 일정이 변경되었더라고요."
+    },
+    {
+      "pattern": "I'm supposed to + 동사원형",
+      "meaning": "~하기로 되어 있다, ~해야 한다",
+      "example": "I'm supposed to submit the report by the end of today.",
+      "example_kr": "저는 오늘 안으로 보고서를 제출하기로 되어 있어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "reimburse",
+      "phonetic": "/ˌriːɪmˈbɜːrs/",
+      "meaning": "(비용을) 변제하다, 환급하다",
+      "example": "The company will reimburse you for all travel expenses.",
+      "example_kr": "회사가 모든 출장 비용을 환급해 드릴 것입니다."
+    },
+    {
+      "word": "proactive",
+      "phonetic": "/ˌproʊˈæktɪv/",
+      "meaning": "주도적인, 선제적인",
+      "example": "Being proactive at work can really help you stand out.",
+      "example_kr": "직장에서 주도적으로 행동하면 두각을 나타내는 데 정말 도움이 됩니다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표, 여행 계획",
+      "example": "Please review the itinerary before we leave for the trip.",
+      "example_kr": "여행을 떠나기 전에 여행 일정표를 검토해 주세요."
+    },
+    {
+      "word": "commute",
+      "phonetic": "/kəˈmjuːt/",
+      "meaning": "통근하다, 통근 (시간·거리)",
+      "example": "She commutes two hours every day to get to her office.",
+      "example_kr": "그녀는 사무실에 가기 위해 매일 두 시간씩 통근합니다."
+    },
+    {
+      "word": "pivotal",
+      "phonetic": "/ˈpɪvətl/",
+      "meaning": "중추적인, 매우 중요한",
+      "example": "This meeting is pivotal for securing the new contract.",
+      "example_kr": "이번 회의는 새 계약을 따내는 데 매우 중요합니다."
+    }
+  ]
+}
