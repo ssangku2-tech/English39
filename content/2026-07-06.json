@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "Let me know if + 주어 + 동사",
+      "meaning": "~하면 알려줘 / 알려주세요",
+      "example": "Let me know if you need any help with the report.",
+      "example_kr": "보고서 작성에 도움이 필요하면 알려주세요."
+    },
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하느니 차라리 ~하겠다",
+      "example": "I'd rather take the subway than sit in traffic for an hour.",
+      "example_kr": "한 시간 동안 차 막히는 것보다 차라리 지하철을 타겠어요."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이더라 / ~인 것으로 밝혀지다",
+      "example": "It turns out that the meeting was postponed to next Friday.",
+      "example_kr": "알고 보니 회의가 다음 주 금요일로 연기됐더라고요."
+    }
+  ],
+  "words": [
+    {
+      "word": "reconcile",
+      "phonetic": "/ˈrekənsaɪl/",
+      "meaning": "화해하다, 조화시키다",
+      "example": "We need to reconcile our schedules before booking the trip.",
+      "example_kr": "여행을 예약하기 전에 우리 일정을 맞춰봐야 해요."
+    },
+    {
+      "word": "stipulate",
+      "phonetic": "/ˈstɪpjuleɪt/",
+      "meaning": "규정하다, 명시하다",
+      "example": "The contract stipulates that payment must be made within 30 days.",
+      "example_kr": "계약서에는 30일 이내에 결제해야 한다고 명시되어 있습니다."
+    },
+    {
+      "word": "commute",
+      "phonetic": "/kəˈmjuːt/",
+      "meaning": "통근하다, 통학하다",
+      "example": "She commutes two hours every day to get to the office.",
+      "example_kr": "그녀는 사무실에 가기 위해 매일 두 시간씩 통근합니다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표",
+      "example": "Please send me the itinerary before we leave for the conference.",
+      "example_kr": "컨퍼런스 출발 전에 여행 일정표를 보내주세요."
+    },
+    {
+      "word": "credible",
+      "phonetic": "/ˈkredɪbl/",
+      "meaning": "신뢰할 수 있는, 믿을 만한",
+      "example": "You should only use credible sources when writing a business proposal.",
+      "example_kr": "사업 제안서를 작성할 때는 신뢰할 수 있는 출처만 사용해야 합니다."
+    }
+  ]
+}
