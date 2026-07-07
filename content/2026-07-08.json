@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I ended up + ~ing",
+      "meaning": "결국 ~하게 되었다",
+      "example": "I ended up taking a taxi because the subway was too crowded.",
+      "example_kr": "지하철이 너무 붐벼서 결국 택시를 탔어요."
+    },
+    {
+      "pattern": "There's a chance (that) + 주어 + 동사",
+      "meaning": "~할 가능성이 있다",
+      "example": "There's a chance that the meeting will be postponed until next week.",
+      "example_kr": "회의가 다음 주로 연기될 가능성이 있어요."
+    },
+    {
+      "pattern": "I was under the impression that + 주어 + 동사",
+      "meaning": "~인 줄 알았다, ~라고 생각하고 있었다",
+      "example": "I was under the impression that the deadline was this Friday.",
+      "example_kr": "마감일이 이번 금요일인 줄 알고 있었어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "diligent",
+      "phonetic": "/ˈdɪlɪdʒənt/",
+      "meaning": "부지런한, 성실한",
+      "example": "She is diligent about responding to emails promptly.",
+      "example_kr": "그녀는 이메일에 신속하게 답장하는 데 성실합니다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəˌrɛri/",
+      "meaning": "여행 일정표",
+      "example": "Please send me the itinerary before we leave for the trip.",
+      "example_kr": "여행을 떠나기 전에 일정표를 보내 주세요."
+    },
+    {
+      "word": "coordinate",
+      "phonetic": "/koʊˈɔːrdɪneɪt/",
+      "meaning": "조율하다, 조정하다",
+      "example": "We need to coordinate our schedules to find a suitable meeting time.",
+      "example_kr": "적절한 회의 시간을 찾기 위해 일정을 조율해야 합니다."
+    },
+    {
+      "word": "candid",
+      "phonetic": "/ˈkændɪd/",
+      "meaning": "솔직한, 거리낌 없는",
+      "example": "I appreciate your candid feedback on my presentation.",
+      "example_kr": "제 발표에 대한 솔직한 피드백 감사합니다."
+    },
+    {
+      "word": "linger",
+      "phonetic": "/ˈlɪŋɡər/",
+      "meaning": "오래 머물다, 남아 있다",
+      "example": "We lingered over coffee after dinner and talked for hours.",
+      "example_kr": "저녁 식사 후 커피를 마시며 오랫동안 이야기를 나눴습니다."
+    }
+  ]
+}
