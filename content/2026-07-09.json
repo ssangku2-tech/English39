@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하느니 차라리 ~하겠다",
+      "example": "I'd rather walk to the station than wait for the bus in this rain.",
+      "example_kr": "이 빗속에 버스를 기다리느니 차라리 역까지 걸어가겠어요."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이다, 결국 ~으로 밝혀지다",
+      "example": "It turns out that the meeting was rescheduled to Friday.",
+      "example_kr": "알고 보니 회의가 금요일로 일정이 변경되었더라고요."
+    },
+    {
+      "pattern": "I'd recommend + ~ing / that + 주어 + 동사",
+      "meaning": "~하는 것을 추천합니다",
+      "example": "I'd recommend booking the hotel in advance during the holiday season.",
+      "example_kr": "성수기에는 미리 호텔을 예약하는 것을 추천드립니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "inevitable",
+      "phonetic": "/ɪnˈevɪtəbl/",
+      "meaning": "피할 수 없는, 불가피한",
+      "example": "Delays are inevitable when traveling during peak season.",
+      "example_kr": "성수기에 여행할 때 지연은 불가피합니다."
+    },
+    {
+      "word": "courteous",
+      "phonetic": "/ˈkɜːrtiəs/",
+      "meaning": "예의 바른, 정중한",
+      "example": "The front desk staff was very courteous and helpful throughout our stay.",
+      "example_kr": "프런트 직원은 우리가 머무는 내내 매우 정중하고 친절했습니다."
+    },
+    {
+      "word": "suppress",
+      "phonetic": "/səˈpres/",
+      "meaning": "억누르다, 참다",
+      "example": "She tried to suppress her frustration during the difficult negotiation.",
+      "example_kr": "그녀는 어려운 협상 중에 자신의 좌절감을 억누르려 했습니다."
+    },
+    {
+      "word": "imminent",
+      "phonetic": "/ˈɪmɪnənt/",
+      "meaning": "임박한, 곧 닥칠",
+      "example": "The project deadline is imminent, so we need to wrap things up quickly.",
+      "example_kr": "프로젝트 마감이 임박해서 빨리 마무리해야 합니다."
+    },
+    {
+      "word": "resilient",
+      "phonetic": "/rɪˈzɪliənt/",
+      "meaning": "회복력 있는, 탄력적인",
+      "example": "A resilient mindset helps you bounce back from setbacks at work.",
+      "example_kr": "회복력 있는 사고방식은 직장에서 어려움을 딛고 일어서는 데 도움이 됩니다."
+    }
+  ]
+}
