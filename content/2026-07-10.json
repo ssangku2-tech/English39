@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하는 것보다 차라리 ~하겠다",
+      "example": "I'd rather take the train than drive through heavy traffic.",
+      "example_kr": "심한 교통체증을 뚫고 운전하는 것보다 차라리 기차를 타겠어요."
+    },
+    {
+      "pattern": "it turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이다, 결국 ~으로 밝혀지다",
+      "example": "It turns out that the meeting was rescheduled to Friday.",
+      "example_kr": "알고 보니 회의가 금요일로 일정이 변경되었더라고요."
+    },
+    {
+      "pattern": "as long as + 주어 + 동사",
+      "meaning": "~하는 한, ~하기만 하면",
+      "example": "As long as you arrive by noon, we can still catch the tour.",
+      "example_kr": "정오까지만 도착하면 우리는 아직 투어에 참가할 수 있어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "meticulous",
+      "phonetic": "/məˈtɪkjələs/",
+      "meaning": "꼼꼼한, 세심한",
+      "example": "She was meticulous in preparing every detail of the presentation.",
+      "example_kr": "그녀는 발표의 모든 세부 사항을 준비하는 데 꼼꼼했다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표",
+      "example": "Please send me the itinerary before we leave for the trip.",
+      "example_kr": "여행을 떠나기 전에 일정표를 보내주세요."
+    },
+    {
+      "word": "commute",
+      "phonetic": "/kəˈmjuːt/",
+      "meaning": "통근하다, 통근",
+      "example": "His daily commute takes about an hour each way.",
+      "example_kr": "그의 하루 통근은 편도로 약 한 시간이 걸린다."
+    },
+    {
+      "word": "fluent",
+      "phonetic": "/ˈfluːənt/",
+      "meaning": "유창한",
+      "example": "She became fluent in Spanish after living abroad for two years.",
+      "example_kr": "그녀는 2년간 해외에서 생활한 후 스페인어가 유창해졌다."
+    },
+    {
+      "word": "entail",
+      "phonetic": "/ɪnˈteɪl/",
+      "meaning": "수반하다, 필요로 하다",
+      "example": "The new role entails managing a team of ten people.",
+      "example_kr": "새로운 역할은 열 명으로 구성된 팀을 관리하는 것을 수반한다."
+    }
+  ]
+}
