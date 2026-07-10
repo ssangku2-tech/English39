@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하느니 차라리 ~하겠다",
+      "example": "I'd rather take the subway than sit in traffic for an hour.",
+      "example_kr": "한 시간 동안 교통 체증에 앉아 있느니 차라리 지하철을 타겠어요."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이더라, 결국 ~으로 밝혀지다",
+      "example": "It turns out that the meeting was rescheduled to next Monday.",
+      "example_kr": "알고 보니 회의가 다음 주 월요일로 일정이 변경되었더라고요."
+    },
+    {
+      "pattern": "I'm looking forward to + 명사/동명사",
+      "meaning": "~을 기대하고 있다, ~이 기다려진다",
+      "example": "I'm looking forward to hearing your feedback on the proposal.",
+      "example_kr": "제안서에 대한 피드백을 듣게 되길 기대하고 있습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "수용하다, 편의를 제공하다",
+      "example": "The hotel can accommodate up to 300 guests for the event.",
+      "example_kr": "그 호텔은 행사를 위해 최대 300명의 손님을 수용할 수 있습니다."
+    },
+    {
+      "word": "adjacent",
+      "phonetic": "/əˈdʒeɪsənt/",
+      "meaning": "인접한, 바로 옆의",
+      "example": "Our office is adjacent to the main train station, so it's easy to find.",
+      "example_kr": "저희 사무실은 중앙 기차역 바로 옆에 있어서 찾기 쉽습니다."
+    },
+    {
+      "word": "elaborate",
+      "phonetic": "/ɪˈlæbərət/",
+      "meaning": "자세히 설명하다, 정교한",
+      "example": "Could you elaborate on the risks mentioned in the report?",
+      "example_kr": "보고서에서 언급된 위험 요소들에 대해 좀 더 자세히 설명해 주시겠어요?"
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표",
+      "example": "Please review the itinerary before we depart for the business trip.",
+      "example_kr": "출장을 떠나기 전에 여행 일정표를 검토해 주세요."
+    },
+    {
+      "word": "streamline",
+      "phonetic": "/ˈstriːmlaɪn/",
+      "meaning": "간소화하다, 효율화하다",
+      "example": "We need to streamline the approval process to save time.",
+      "example_kr": "시간을 절약하기 위해 승인 절차를 간소화할 필요가 있습니다."
+    }
+  ]
+}
