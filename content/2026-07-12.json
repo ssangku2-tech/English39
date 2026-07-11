@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'll make it a point to + 동사원형",
+      "meaning": "반드시 ~하도록 하겠다",
+      "example": "I'll make it a point to arrive at least ten minutes early for the meeting.",
+      "example_kr": "회의에 최소 10분 일찍 도착하도록 반드시 하겠습니다."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이더라, 결국 ~으로 밝혀지다",
+      "example": "It turns out that the conference has been moved to a different hotel.",
+      "example_kr": "알고 보니 컨퍼런스가 다른 호텔로 옮겨졌더라고요."
+    },
+    {
+      "pattern": "Would it be possible to + 동사원형?",
+      "meaning": "~하는 것이 가능할까요?",
+      "example": "Would it be possible to reschedule our appointment to Thursday afternoon?",
+      "example_kr": "우리 약속을 목요일 오후로 변경하는 것이 가능할까요?"
+    }
+  ],
+  "words": [
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "수용하다, 편의를 봐주다",
+      "example": "The hotel can accommodate up to 300 guests for the banquet.",
+      "example_kr": "그 호텔은 연회에 최대 300명의 손님을 수용할 수 있습니다."
+    },
+    {
+      "word": "concise",
+      "phonetic": "/kənˈsaɪs/",
+      "meaning": "간결한, 간명한",
+      "example": "Please keep your report concise so everyone can review it quickly.",
+      "example_kr": "모든 사람이 빠르게 검토할 수 있도록 보고서를 간결하게 유지해 주세요."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표",
+      "example": "The travel agent sent us a detailed itinerary for our trip to Europe.",
+      "example_kr": "여행사 직원이 유럽 여행에 대한 상세한 일정표를 보내줬습니다."
+    },
+    {
+      "word": "liable",
+      "phonetic": "/ˈlaɪəbl/",
+      "meaning": "법적 책임이 있는, ~하기 쉬운",
+      "example": "The company may be liable for damages if the contract terms are not met.",
+      "example_kr": "계약 조건이 이행되지 않을 경우 회사는 손해 배상 책임을 질 수 있습니다."
+    },
+    {
+      "word": "discretion",
+      "phonetic": "/dɪˈskreʃən/",
+      "meaning": "재량, 신중함",
+      "example": "Please use your discretion when sharing sensitive information with clients.",
+      "example_kr": "고객과 민감한 정보를 공유할 때는 재량껏 신중하게 판단하세요."
+    }
+  ]
+}
