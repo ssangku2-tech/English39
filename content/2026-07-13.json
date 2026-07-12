@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "Feel free to + 동사원형",
+      "meaning": "부담 없이 ~하세요",
+      "example": "Feel free to ask me if you have any questions.",
+      "example_kr": "궁금한 점이 있으시면 부담 없이 물어보세요."
+    },
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하느니 차라리 ~하겠다",
+      "example": "I'd rather take the train than drive in this traffic.",
+      "example_kr": "이런 교통 상황에서 운전하느니 차라리 기차를 타겠어요."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이다, 결국 ~으로 밝혀지다",
+      "example": "It turns out that the meeting has been moved to Friday.",
+      "example_kr": "알고 보니 회의가 금요일로 옮겨졌더라고요."
+    }
+  ],
+  "words": [
+    {
+      "word": "adjacent",
+      "phonetic": "/əˈdʒeɪsənt/",
+      "meaning": "인접한, 바로 옆의",
+      "example": "Our office is adjacent to the main train station.",
+      "example_kr": "우리 사무실은 중앙 기차역 바로 옆에 있어요."
+    },
+    {
+      "word": "reimburse",
+      "phonetic": "/ˌriːɪmˈbɜːrs/",
+      "meaning": "환급하다, 변상하다",
+      "example": "The company will reimburse your travel expenses.",
+      "example_kr": "회사에서 출장 경비를 환급해 드릴 겁니다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표",
+      "example": "Please send me the itinerary before we depart.",
+      "example_kr": "출발 전에 여행 일정표를 보내 주세요."
+    },
+    {
+      "word": "mandatory",
+      "phonetic": "/ˈmændətɔːri/",
+      "meaning": "의무적인, 필수적인",
+      "example": "Attendance at the safety training is mandatory for all staff.",
+      "example_kr": "안전 교육 참석은 모든 직원에게 의무사항입니다."
+    },
+    {
+      "word": "surcharge",
+      "phonetic": "/ˈsɜːrtʃɑːrdʒ/",
+      "meaning": "추가 요금, 할증료",
+      "example": "There is a surcharge for checking in extra luggage.",
+      "example_kr": "수하물을 추가로 부칠 경우 추가 요금이 부과됩니다."
+    }
+  ]
+}
