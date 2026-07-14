@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "feel free to + 동사원형",
+      "meaning": "~하셔도 됩니다 / 편하게 ~하세요",
+      "example": "Feel free to ask me if you have any questions about the project.",
+      "example_kr": "프로젝트에 대해 궁금한 점이 있으면 편하게 물어보세요."
+    },
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하느니 차라리 ~하겠다",
+      "example": "I'd rather take the train than drive through all that traffic.",
+      "example_kr": "그 교통체증을 뚫고 운전하느니 차라리 기차를 타겠어요."
+    },
+    {
+      "pattern": "as far as I know, + 주어 + 동사",
+      "meaning": "제가 알기로는 ~입니다",
+      "example": "As far as I know, the meeting has been moved to Thursday afternoon.",
+      "example_kr": "제가 알기로는 회의가 목요일 오후로 변경되었습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "수용하다, 편의를 제공하다",
+      "example": "The hotel can accommodate up to 300 guests for the conference.",
+      "example_kr": "그 호텔은 컨퍼런스를 위해 최대 300명의 손님을 수용할 수 있습니다."
+    },
+    {
+      "word": "aftermath",
+      "phonetic": "/ˈæftərmæθ/",
+      "meaning": "여파, 결과",
+      "example": "The company struggled to recover in the aftermath of the data breach.",
+      "example_kr": "회사는 데이터 유출 사고의 여파로 회복하는 데 어려움을 겪었습니다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "meaning": "여행 일정표",
+      "example": "Please review the itinerary and let me know if you'd like to make any changes.",
+      "example_kr": "일정표를 검토하시고 변경하고 싶은 부분이 있으면 알려주세요."
+    },
+    {
+      "word": "assertive",
+      "phonetic": "/əˈsɜːrtɪv/",
+      "meaning": "자기주장이 강한, 적극적인",
+      "example": "Being assertive in negotiations helped her secure a better deal for the company.",
+      "example_kr": "협상에서 적극적인 태도가 그녀가 회사를 위해 더 좋은 거래를 성사시키는 데 도움이 되었습니다."
+    },
+    {
+      "word": "reimburse",
+      "phonetic": "/ˌriːɪmˈbɜːrs/",
+      "meaning": "변상하다, 환급하다",
+      "example": "Submit your receipts and the company will reimburse your travel expenses within two weeks.",
+      "example_kr": "영수증을 제출하시면 회사가 2주 내에 출장 비용을 환급해 드릴 것입니다."
+    }
+  ]
+}
