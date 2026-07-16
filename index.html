@@ -327,6 +327,7 @@ kbd{font-family:var(--head);font-weight:600;background:var(--surface);border:1px
 <script type="module">
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
 import { getDatabase, ref, onValue, set as fbSet } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-database.js";
+import { getAuth, signInAnonymously } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
 const firebaseConfig = {
   apiKey: "AIzaSyAD2vybcyHC5uqmkrVg47hSd6IEXoqPlHU",
   authDomain: "english39-724d2.firebaseapp.com",
@@ -338,6 +339,7 @@ const firebaseConfig = {
 };
 const app = initializeApp(firebaseConfig);
 const db = getDatabase(app);
+const auth = getAuth(app);
 // 메인 스크립트가 쓸 수 있도록 전역에 노출
 window.OMEcloud = {
   // 한 컬렉션(patterns/vocab/mind) 실시간 구독
@@ -345,7 +347,10 @@ window.OMEcloud = {
   // 한 컬렉션 통째로 저장
   save(key, list){ return fbSet(ref(db, 'omeData/'+key), list); }
 };
-window.dispatchEvent(new Event('ome-cloud-ready'));
+// DB 규칙이 auth != null 을 요구하므로, 익명 인증이 끝난 뒤에만 동기화를 시작한다
+signInAnonymously(auth)
+  .then(() => window.dispatchEvent(new Event('ome-cloud-ready')))
+  .catch(err => console.error('익명 인증 실패', err));
 </script>
 
 <script>
