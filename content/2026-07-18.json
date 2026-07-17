@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하느니 차라리 ~하겠다",
+      "example": "I'd rather take the subway than wait for a taxi in this traffic.",
+      "example_kr": "이 교통 체증 속에서 택시를 기다리느니 차라리 지하철을 타겠어요."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이다, 결국 ~으로 밝혀지다",
+      "example": "It turns out that the meeting was rescheduled to next Monday.",
+      "example_kr": "알고 보니 회의가 다음 주 월요일로 일정이 변경되었더라고요."
+    },
+    {
+      "pattern": "I was about to + 동사원형",
+      "meaning": "막 ~하려던 참이었다",
+      "example": "I was about to send you an email when you called.",
+      "example_kr": "당신이 전화했을 때 저는 막 이메일을 보내려던 참이었어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "tentative",
+      "phonetic": "/ˈtɛntətɪv/",
+      "meaning": "잠정적인, 확정되지 않은",
+      "example": "We have a tentative plan to visit the branch office next week.",
+      "example_kr": "우리는 다음 주에 지점을 방문하는 잠정적인 계획이 있습니다."
+    },
+    {
+      "word": "attentive",
+      "phonetic": "/əˈtɛntɪv/",
+      "meaning": "주의를 기울이는, 세심한",
+      "example": "The waiter was very attentive and refilled our glasses immediately.",
+      "example_kr": "웨이터는 매우 세심해서 즉시 우리 잔을 다시 채워주었습니다."
+    },
+    {
+      "word": "retain",
+      "phonetic": "/rɪˈteɪn/",
+      "meaning": "유지하다, 보유하다",
+      "example": "The company wants to retain its most experienced employees.",
+      "example_kr": "회사는 가장 경험 많은 직원들을 유지하기를 원합니다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəˌrɛri/",
+      "meaning": "여행 일정표",
+      "example": "Please send me the itinerary for the business trip by tomorrow.",
+      "example_kr": "내일까지 출장 여행 일정표를 저에게 보내주세요."
+    },
+    {
+      "word": "reimburse",
+      "phonetic": "/ˌriːɪmˈbɜːrs/",
+      "meaning": "환급하다, 변상하다",
+      "example": "The company will reimburse you for all travel expenses.",
+      "example_kr": "회사가 모든 출장 경비를 환급해 드릴 것입니다."
+    }
+  ]
+}
