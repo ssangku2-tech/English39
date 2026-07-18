@@ -343,14 +343,17 @@ const auth = getAuth(app);
 // 메인 스크립트가 쓸 수 있도록 전역에 노출
 window.OMEcloud = {
   // 한 컬렉션(patterns/vocab/mind) 실시간 구독
-  watch(key, cb){ onValue(ref(db, 'omeData/'+key), snap => cb(snap.val()||[])); },
+  watch(key, cb){ onValue(ref(db, 'omeData/'+key),
+    snap => cb(snap.val()||[]),
+    err => console.error('클라우드 읽기 실패('+key+')', err)); },
   // 한 컬렉션 통째로 저장
   save(key, list){ return fbSet(ref(db, 'omeData/'+key), list); }
 };
-// DB 규칙이 auth != null 을 요구하므로, 익명 인증이 끝난 뒤에만 동기화를 시작한다
+// DB 규칙이 auth != null 을 요구하므로, 익명 인증이 끝난 뒤에만 동기화를 시작한다.
+// 인증이 실패하더라도 이벤트는 반드시 발생시켜, 최소한 로컬에 저장된 데이터라도 보이게 한다.
 signInAnonymously(auth)
-  .then(() => window.dispatchEvent(new Event('ome-cloud-ready')))
-  .catch(err => console.error('익명 인증 실패', err));
+  .catch(err => console.error('익명 인증 실패', err))
+  .finally(() => window.dispatchEvent(new Event('ome-cloud-ready')));
 </script>
 
 <script>
