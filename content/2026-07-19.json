@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "feel free to + 동사원형",
+      "meaning": "~하세요, 편하게 ~하셔도 됩니다",
+      "example": "Feel free to ask me if you have any questions during the tour.",
+      "example_kr": "투어 중에 질문이 있으시면 편하게 물어보세요."
+    },
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하는 것보다 차라리 ~하겠다",
+      "example": "I'd rather take the train than drive in this traffic.",
+      "example_kr": "이 교통 상황에서 운전하는 것보다 차라리 기차를 타겠어요."
+    },
+    {
+      "pattern": "it turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이다, 결국 ~로 밝혀졌다",
+      "example": "It turns out that the meeting has been moved to Friday.",
+      "example_kr": "알고 보니 회의가 금요일로 옮겨졌더라고요."
+    }
+  ],
+  "words": [
+    {
+      "word": "ambiguous",
+      "phonetic": "/æmˈbɪɡjuəs/",
+      "meaning": "애매한, 모호한",
+      "example": "The instructions were ambiguous, so I asked my manager for clarification.",
+      "example_kr": "지시사항이 모호해서 매니저에게 설명을 요청했어요."
+    },
+    {
+      "word": "comply",
+      "phonetic": "/kəmˈplaɪ/",
+      "meaning": "따르다, 준수하다",
+      "example": "All staff must comply with the new workplace safety regulations.",
+      "example_kr": "모든 직원은 새로운 직장 안전 규정을 준수해야 합니다."
+    },
+    {
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəˌreri/",
+      "meaning": "여행 일정표",
+      "example": "Please review the itinerary before we depart for the conference.",
+      "example_kr": "회의 출발 전에 여행 일정표를 검토해 주세요."
+    },
+    {
+      "word": "versatile",
+      "phonetic": "/ˈvɜːrsətl/",
+      "meaning": "다재다능한, 다용도의",
+      "example": "She is a versatile employee who can handle both design and marketing tasks.",
+      "example_kr": "그녀는 디자인과 마케팅 업무를 모두 처리할 수 있는 다재다능한 직원이에요."
+    },
+    {
+      "word": "transparent",
+      "phonetic": "/trænsˈpærənt/",
+      "meaning": "투명한, 솔직한",
+      "example": "The company tries to be transparent about its pricing policy with customers.",
+      "example_kr": "그 회사는 고객에게 가격 정책에 대해 투명하게 공개하려고 노력합니다."
+    }
+  ]
+}
