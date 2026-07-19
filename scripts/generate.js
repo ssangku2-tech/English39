@@ -23,31 +23,49 @@ if (fs.existsSync(outFile)) {
   process.exit(0);
 }
 
-// 지금까지 쓴 단어/패턴 모아 중복 방지
-const used = new Set();
+// 지금까지 쓴 단어/패턴을 각각 모아 중복 방지 (패턴은 반복이 잦으므로 전체 이력을 본다)
+const usedWords = new Set();
+const usedPhrases = new Set();
+// 문구 비교용 정규화: 대소문자·문장부호·공백 제거 → 표현이 같으면 중복으로 간주
+const normPhrase = s => (s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
 for (const f of fs.readdirSync(CONTENT_DIR)) {
   if (!f.endsWith('.json')) continue;
   try {
     const d = JSON.parse(fs.readFileSync(path.join(CONTENT_DIR, f), 'utf8'));
-    (d.words || []).forEach(w => used.add((w.word || '').toLowerCase()));
-    (d.patterns || []).forEach(p => used.add((p.pattern || '').toLowerCase()));
+    (d.words || []).forEach(w => usedWords.add((w.word || '').toLowerCase().trim()));
+    (d.patterns || []).forEach(p => usedPhrases.add(normPhrase(p.pattern)));
   } catch {}
 }
-const avoid = [...used].slice(-120).join(', ');
+// 표시용 원문 문구도 함께 모아 프롬프트에 넣는다 (최근 것 우선)
+const phraseList = [];
+const files = fs.readdirSync(CONTENT_DIR).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
+for (const f of files) {
+  try {
+    const d = JSON.parse(fs.readFileSync(path.join(CONTENT_DIR, f), 'utf8'));
+    (d.patterns || []).forEach(p => { if (p.pattern) phraseList.push(p.pattern); });
+  } catch {}
+}
+const avoidPhrases = phraseList.slice(-200).join(' / ');
+const avoidWords = [...usedWords].slice(-150).join(', ');
 
 const prompt = `너는 한국인 영어 학습자를 위한 콘텐츠 생성기다. 오늘의 학습 자료를 JSON으로만 출력하라. 설명·코드블록·마크다운 없이 순수 JSON만.
 
 구성:
-- patterns: 자주 쓰는 영어 회화 패턴 3개. {pattern(영어 패턴), meaning(한국어 의미), example(영어 예문 1문장), example_kr(예문 번역)}
+- patterns: 미국 현지인이 일상 대화에서 실제로 자주 쓰는 자연스러운 "문구/표현" 3개.
+  * 문법 공식(예: "I'd rather + 동사원형", "It turns out that + 주어 + 동사")이 아니라, 그대로 입에서 나오는 관용적 구어체 표현이어야 한다.
+  * 예: "No worries.", "Let me get back to you.", "That works for me.", "I'm on it.", "It's up to you.", "Long story short,", "Give me a heads-up.", "My bad.", "Let's play it by ear." 같은 실제 원어민이 쓰는 문구.
+  * 지나치게 격식적이거나 교과서적인 문장은 피하고, 친구·동료·가게 등에서 실제로 들리는 표현으로.
+  * pattern 필드에는 표현 자체를 넣는다(문법 자리표시자 금지). {pattern(영어 표현), meaning(한국어 의미·뉘앙스), example(그 표현이 쓰인 자연스러운 대화체 예문), example_kr(예문 번역)}
 - words: 실용 영어 단어 5개. {word, phonetic(IPA 발음기호 예 /ˈhæpi/), meaning(한국어 뜻), example(영어 예문), example_kr(예문 번역)}
 
-난이도 중급. 일상·여행·업무 활용도 높은 것으로.
-${avoid ? `다음은 이미 사용했으니 절대 중복 금지: ${avoid}` : ''}
+난이도 중급. 일상·여행·업무 활용도 높은 것으로. 매일 서로 다른 상황(식당·직장·친구·여행·전화 등)에서 골라 다양성을 확보하라.
+${avoidPhrases ? `\n다음 문구들은 이미 사용했으니 의미가 겹치는 표현도 포함해 절대 중복 금지:\n${avoidPhrases}` : ''}
+${avoidWords ? `\n이미 사용한 단어(중복 금지): ${avoidWords}` : ''}
 
 형식:
 {"patterns":[{"pattern":"","meaning":"","example":"","example_kr":""}],"words":[{"word":"","phonetic":"","meaning":"","example":"","example_kr":""}]}`;
 
-async function main() {
+async function callModel(extra) {
   const res = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: {
@@ -58,7 +76,7 @@ async function main() {
     body: JSON.stringify({
       model: 'claude-sonnet-4-6',
       max_tokens: 1500,
-      messages: [{ role: 'user', content: prompt }]
+      messages: [{ role: 'user', content: prompt + (extra || '') }]
     })
   });
   if (!res.ok) {
@@ -68,10 +86,39 @@ async function main() {
   const data = await res.json();
   let txt = (data.content || []).filter(c => c.type === 'text').map(c => c.text).join('');
   txt = txt.replace(/```json|```/g, '').trim();
-  const day = JSON.parse(txt);
+  return JSON.parse(txt);
+}
+
+// 생성물의 문구/단어가 이미 쓴 것과 겹치는지 검사
+function findDupes(day) {
+  const dupePhrases = (day.patterns || [])
+    .filter(p => usedPhrases.has(normPhrase(p.pattern)))
+    .map(p => p.pattern);
+  const dupeWords = (day.words || [])
+    .filter(w => usedWords.has((w.word || '').toLowerCase().trim()))
+    .map(w => w.word);
+  return { dupePhrases, dupeWords };
+}
+
+async function main() {
+  let day = await callModel();
 
   if (!Array.isArray(day.patterns) || !Array.isArray(day.words)) {
     throw new Error('형식이 올바르지 않습니다.');
+  }
+
+  // 중복이 있으면 겹친 항목을 알려주고 1회 재생성 시도
+  let { dupePhrases, dupeWords } = findDupes(day);
+  if (dupePhrases.length || dupeWords.length) {
+    console.warn(`중복 감지 — 문구: [${dupePhrases.join(', ')}] 단어: [${dupeWords.join(', ')}] → 재생성 시도`);
+    const retry = await callModel(`\n\n방금 생성한 것 중 다음은 이미 사용된 중복이다. 완전히 다른 표현/단어로 전부 교체하라: 문구 [${dupePhrases.join(', ')}] 단어 [${dupeWords.join(', ')}]`);
+    if (Array.isArray(retry.patterns) && Array.isArray(retry.words)) {
+      day = retry;
+      ({ dupePhrases, dupeWords } = findDupes(day));
+    }
+    if (dupePhrases.length || dupeWords.length) {
+      console.warn(`재생성 후에도 남은 중복 — 문구: [${dupePhrases.join(', ')}] 단어: [${dupeWords.join(', ')}]`);
+    }
   }
 
   fs.writeFileSync(outFile, JSON.stringify(day, null, 2), 'utf8');
