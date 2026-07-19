@@ -485,8 +485,15 @@ const spkSVG='<svg viewBox="0 0 24 24"><path d="M11 5L6 9H2v6h4l5 4z"/><path d="
 
 async function getDayContent(key){
   const cache=DB.get('days',{});
-  if(cache[key])return cache[key];
   if(key>todayKey())return null;
+  // 오늘 콘텐츠는 재생성될 수 있으니 캐시를 믿지 말고 항상 최신을 시도(실패 시 캐시로 폴백)
+  if(key===todayKey()){
+    const fresh=await fetchDay(key,cache);
+    if(fresh!=='ERR')return fresh;
+    return cache[key]||'ERR';
+  }
+  // 과거 날짜는 바뀌지 않으므로 캐시 우선
+  if(cache[key])return cache[key];
   return await fetchDay(key,cache);
 }
 async function fetchDay(key,cache){
