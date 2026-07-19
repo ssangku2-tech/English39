@@ -1,0 +1,65 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's on me.",
+      "meaning": "내 잘못이야 / 내가 낼게 (상황에 따라 책임이나 계산을 본인이 진다는 표현)",
+      "example": "Oh, I forgot to send the file? That's on me. I'll do it right now.",
+      "example_kr": "아, 파일 보내는 걸 깜빡했어요? 제 잘못이에요. 지금 바로 할게요."
+    },
+    {
+      "pattern": "I'm tied up right now.",
+      "meaning": "지금 바빠서 꼼짝 못해 (몸이 묶여 있을 만큼 바쁘다는 뜻의 구어 표현)",
+      "example": "Can I call you back in an hour? I'm tied up right now with a meeting.",
+      "example_kr": "한 시간 후에 다시 전화해도 될까요? 지금 회의 때문에 너무 바빠서요."
+    },
+    {
+      "pattern": "It slipped my mind.",
+      "meaning": "깜빡했어, 잊어버렸어 (기억에서 미끄러져 나갔다는 뜻의 자연스러운 구어 표현)",
+      "example": "Sorry I didn't call you back — it totally slipped my mind.",
+      "example_kr": "다시 전화 못 해서 미안해 — 완전히 잊어버렸어."
+    },
+    {
+      "pattern": "I should have + 과거분사",
+      "meaning": "~했어야 했는데 (과거에 하지 못한 일에 대한 후회나 아쉬움을 나타내는 패턴)",
+      "example": "I should have booked the tickets earlier. Now they're sold out.",
+      "example_kr": "티켓을 더 일찍 예매했어야 했는데. 이제 다 팔렸네."
+    }
+  ],
+  "words": [
+    {
+      "word": "adjacent",
+      "phonetic": "/əˈdʒeɪsənt/",
+      "meaning": "인접한, 바로 옆의",
+      "example": "Our hotel room was adjacent to the elevator, so it was a bit noisy.",
+      "example_kr": "우리 호텔 방이 엘리베이터 바로 옆이라 조금 시끄러웠어요."
+    },
+    {
+      "word": "vague",
+      "phonetic": "/veɪɡ/",
+      "meaning": "모호한, 불분명한",
+      "example": "His instructions were so vague that nobody knew what to do.",
+      "example_kr": "그의 지시가 너무 모호해서 아무도 뭘 해야 할지 몰랐어요."
+    },
+    {
+      "word": "stroll",
+      "phonetic": "/stroʊl/",
+      "meaning": "산책하다, 천천히 걷다",
+      "example": "We strolled along the waterfront after dinner and enjoyed the view.",
+      "example_kr": "저녁 식사 후에 우리는 해안가를 따라 산책하며 경치를 즐겼어요."
+    },
+    {
+      "word": "blunt",
+      "phonetic": "/blʌnt/",
+      "meaning": "직설적인, 퉁명스러운",
+      "example": "She was pretty blunt about what she thought of the proposal.",
+      "example_kr": "그녀는 그 제안에 대한 자신의 생각을 꽤 직설적으로 말했어요."
+    },
+    {
+      "word": "perk",
+      "phonetic": "/pɜːrk/",
+      "meaning": "특혜, 부가 혜택",
+      "example": "One of the best perks of this job is free lunch every Friday.",
+      "example_kr": "이 직장의 가장 좋은 혜택 중 하나는 매주 금요일 무료 점심이에요."
+    }
+  ]
+}
