@@ -51,11 +51,16 @@ const avoidWords = [...usedWords].slice(-150).join(', ');
 const prompt = `너는 한국인 영어 학습자를 위한 콘텐츠 생성기다. 오늘의 학습 자료를 JSON으로만 출력하라. 설명·코드블록·마크다운 없이 순수 JSON만.
 
 구성:
-- patterns: 미국 현지인이 일상 대화에서 실제로 자주 쓰는 자연스러운 "문구/표현" 3개.
-  * 문법 공식(예: "I'd rather + 동사원형", "It turns out that + 주어 + 동사")이 아니라, 그대로 입에서 나오는 관용적 구어체 표현이어야 한다.
-  * 예: "No worries.", "Let me get back to you.", "That works for me.", "I'm on it.", "It's up to you.", "Long story short,", "Give me a heads-up.", "My bad.", "Let's play it by ear." 같은 실제 원어민이 쓰는 문구.
-  * 지나치게 격식적이거나 교과서적인 문장은 피하고, 친구·동료·가게 등에서 실제로 들리는 표현으로.
-  * pattern 필드에는 표현 자체를 넣는다(문법 자리표시자 금지). {pattern(영어 표현), meaning(한국어 의미·뉘앙스), example(그 표현이 쓰인 자연스러운 대화체 예문), example_kr(예문 번역)}
+- patterns: 총 4개. 아래 순서대로 배열에 넣어라.
+  * 앞의 3개: 미국 현지인이 일상 대화에서 실제로 자주 쓰는 자연스러운 "문구/표현".
+    - 문법 공식이 아니라, 그대로 입에서 나오는 관용적 구어체 표현이어야 한다.
+    - 예: "No worries.", "Let me get back to you.", "That works for me.", "I'm on it.", "It's up to you.", "Long story short,", "Give me a heads-up.", "My bad.", "Let's play it by ear." 같은 실제 원어민이 쓰는 문구.
+    - 지나치게 격식적이거나 교과서적인 문장은 피하고, 친구·동료·가게 등에서 실제로 들리는 표현으로.
+    - pattern 필드에는 표현 자체를 넣는다(문법 자리표시자 금지).
+  * 마지막 1개: 실용적인 영어 "문법 회화 패턴"(빈칸 채우기형 공식).
+    - 예: "I'd rather + 동사원형 + than + 동사원형", "It turns out (that) + 주어 + 동사", "I was about to + 동사원형", "feel free to + 동사원형" 처럼 자리표시자가 들어간 응용 가능한 패턴.
+    - pattern 필드에 이런 공식 형태를 넣는다.
+  * 각 항목 형식: {pattern(영어 표현/패턴), meaning(한국어 의미·뉘앙스), example(자연스러운 대화체 예문), example_kr(예문 번역)}
 - words: 실용 영어 단어 5개. {word, phonetic(IPA 발음기호 예 /ˈhæpi/), meaning(한국어 뜻), example(영어 예문), example_kr(예문 번역)}
 
 난이도 중급. 일상·여행·업무 활용도 높은 것으로. 매일 서로 다른 상황(식당·직장·친구·여행·전화 등)에서 골라 다양성을 확보하라.

@@ -569,7 +569,7 @@ async function renderToday(view){
 
   let html='';
   html+=dateStrip();
-  html+=`<div class="sec-label"><span class="dot"></span>Today's Phrases<span class="cnt">3</span></div>`;
+  html+=`<div class="sec-label"><span class="dot"></span>Today's Phrases<span class="cnt">${day.patterns.length}</span></div>`;
   day.patterns.forEach(p=>{
     html+=`<div class="card pat-card"><div class="row">
       <div class="body">
