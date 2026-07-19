@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "Heads up!",
+      "meaning": "미리 알려줄게, 주의해 / 사전에 경고나 정보를 줄 때 쓰는 표현",
+      "example": "Heads up! The boss is coming around to check on everyone's progress today.",
+      "example_kr": "미리 알려두는데! 오늘 사장님이 모두의 진행 상황을 확인하러 돌아다닐 거야."
+    },
+    {
+      "pattern": "I'm all set.",
+      "meaning": "다 됐어, 준비 완료야 / 준비가 끝났거나 더 필요한 게 없을 때 쓰는 표현",
+      "example": "A: Do you need anything else before we leave? B: No, I'm all set. Let's go!",
+      "example_kr": "A: 출발 전에 뭐 더 필요한 거 있어? B: 아니, 다 됐어. 가자!"
+    },
+    {
+      "pattern": "You're good to go.",
+      "meaning": "이제 가도 돼, 준비 다 됐어 / 상대방이 어떤 행동을 해도 된다고 허가하거나 확인해줄 때 쓰는 표현",
+      "example": "I've checked your boarding pass and passport — you're good to go. Have a great flight!",
+      "example_kr": "탑승권이랑 여권 확인했습니다. 이제 가셔도 됩니다. 좋은 비행 되세요!"
+    }
+  ],
+  "words": [
+    {
+      "word": "forthright",
+      "phonetic": "/ˈfɔːrθraɪt/",
+      "meaning": "솔직한, 거침없는",
+      "example": "She was very forthright about the problems in the project, which helped the team fix them quickly.",
+      "example_kr": "그녀는 프로젝트의 문제점에 대해 매우 솔직하게 말했고, 덕분에 팀이 빠르게 해결할 수 있었다."
+    },
+    {
+      "word": "itinerant",
+      "phonetic": "/aɪˈtɪnərənt/",
+      "meaning": "이동하며 일하는, 순회하는",
+      "example": "He worked as an itinerant musician, performing in different cities every week.",
+      "example_kr": "그는 순회 음악가로 일하며 매주 다른 도시에서 공연했다."
+    },
+    {
+      "word": "snag",
+      "phonetic": "/snæɡ/",
+      "meaning": "예상치 못한 문제, 장애물",
+      "example": "We hit a snag with the hotel reservation — they lost our booking.",
+      "example_kr": "호텔 예약에 문제가 생겼어 — 우리 예약이 사라져 있었어."
+    },
+    {
+      "word": "knack",
+      "phonetic": "/næk/",
+      "meaning": "재주, 요령, 특기",
+      "example": "She has a real knack for making customers feel welcome the moment they walk in.",
+      "example_kr": "그녀는 손님이 들어오는 순간 편안하게 느끼게 만드는 진짜 재주가 있어."
+    },
+    {
+      "word": "daunting",
+      "phonetic": "/ˈdɔːntɪŋ/",
+      "meaning": "기가 죽을 것 같은, 벅찬, 어마어마한",
+      "example": "Moving to a new country can feel daunting at first, but you get used to it.",
+      "example_kr": "새로운 나라로 이사하는 건 처음엔 벅차게 느껴질 수 있지만, 익숙해져."
+    }
+  ]
+}
