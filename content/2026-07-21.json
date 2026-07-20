@@ -1,0 +1,65 @@
+{
+  "patterns": [
+    {
+      "pattern": "My bad.",
+      "meaning": "내 실수야; 미안해(가볍고 친근한 사과)",
+      "example": "I forgot to send you that file yesterday. My bad, I'll do it right now.",
+      "example_kr": "어제 그 파일 안 보냈네. 내 실수야, 지금 바로 보낼게."
+    },
+    {
+      "pattern": "That works for me.",
+      "meaning": "그거 괜찮아; 나는 그것도 좋아(동의·수용)",
+      "example": "How about we meet at 3 PM next Tuesday? That works for me.",
+      "example_kr": "다음 주 화요일 오후 3시에 만날까? 나는 그래도 좋아."
+    },
+    {
+      "pattern": "Give me a heads-up.",
+      "meaning": "미리 알려줘; 사전에 통보해줘",
+      "example": "If your boss changes the meeting time, just give me a heads-up so I can adjust my schedule.",
+      "example_kr": "만약 상사가 회의 시간을 바꾸면 내가 일정을 조정할 수 있도록 미리 알려줘."
+    },
+    {
+      "pattern": "There's no way + 주어 + 동사",
+      "meaning": "절대 ~하지 않을 거야; 말도 안 돼(강한 거부·불가능성 표현)",
+      "example": "There's no way I'm going to that restaurant again. The service was terrible.",
+      "example_kr": "절대 그 레스토랑 다시 안 가. 서비스가 정말 형편없었어."
+    }
+  ],
+  "words": [
+    {
+      "word": "stint",
+      "phonetic": "/stɪnt/",
+      "meaning": "(제한된 기간의) 근무·일; 한계, 제약",
+      "example": "After a two-year stint in Tokyo, she decided to move back to Seoul.",
+      "example_kr": "도쿄에서 2년간 근무한 후, 그녀는 서울로 돌아가기로 결정했다."
+    },
+    {
+      "word": "revamp",
+      "phonetic": "/rɪˈvæmp/",
+      "meaning": "전면 개편하다; 새로 단장하다",
+      "example": "The company decided to revamp its entire marketing strategy this quarter.",
+      "example_kr": "회사는 이번 분기에 마케팅 전략 전체를 새로 단장하기로 결정했다."
+    },
+    {
+      "word": "stint",
+      "phonetic": "/pɪk əp/",
+      "meaning": "픽업하다; 데려가다(특히 차로)",
+      "example": "Can you pick up the documents from the office before it closes?",
+      "example_kr": "사무실이 닫히기 전에 서류를 픽업해올 수 있을까?"
+    },
+    {
+      "word": "slack",
+      "phonetic": "/slæk/",
+      "meaning": "여유; 느슨함; 게을리하다",
+      "example": "Don't slack off on your responsibilities just because the boss is away.",
+      "example_kr": "상사가 없다고 해서 책임을 소홀히 하지 마."
+    },
+    {
+      "word": "downturn",
+      "phonetic": "/ˈdaʊnˌtɜrn/",
+      "meaning": "경기 침체; 쇠퇴, 하락",
+      "example": "The industry faced a sudden downturn after the policy change.",
+      "example_kr": "정책 변화 후 업계는 갑작스러운 침체를 맞이했다."
+    }
+  ]
+}
