@@ -90,7 +90,7 @@ header{background:var(--navy);color:#fff;flex-shrink:0;position:relative;
 .progress > i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--orange),#ffb347);
   border-radius:10px;transition:width .5s ease}
 
-.scroll{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:18px 16px 30px}
+.scroll{flex:1;overflow-y:auto;overflow-anchor:none;-webkit-overflow-scrolling:touch;padding:18px 16px 30px}
 .scroll::-webkit-scrollbar{width:0}
 
 nav{flex-shrink:0;display:flex;background:var(--surface);
@@ -539,6 +539,12 @@ function isPatternSaved(p){
 function isWordSaved(w){
   return listGet('vocab').some(x=>x.word===w.word);
 }
+// 화면 스크롤 위치를 유지한 채로 다시 그린다 (view.innerHTML 교체 시 스크롤이 맨 위로 튀는 것 방지)
+function renderKeepScroll(){
+  const view=document.getElementById('view');
+  const y=view.scrollTop;
+  render().then(()=>{ view.scrollTop=y; });
+}
 function toggleTodayPattern(idx){
   if(!todayDayData)return;
   const p=todayDayData.patterns[idx];
@@ -546,7 +552,7 @@ function toggleTodayPattern(idx){
   const found=list.findIndex(x=>x.pattern===p.pattern);
   if(found>-1){ list.splice(found,1); listSet('patterns',list); toast('Phrases에서 제거했어요'); }
   else{ list.push({pattern:p.pattern, meaning:p.meaning||'', examples:[p.example||'']}); listSet('patterns',list); toast('Phrases에 저장했어요'); }
-  render();
+  renderKeepScroll();
 }
 function toggleTodayWord(idx){
   if(!todayDayData)return;
@@ -555,7 +561,7 @@ function toggleTodayWord(idx){
   const found=list.findIndex(x=>x.word===w.word);
   if(found>-1){ list.splice(found,1); listSet('vocab',list); toast('Words에서 제거했어요'); }
   else{ list.push({word:w.word, phonetic:w.phonetic||'', meaning:w.meaning||'', example:w.example||''}); listSet('vocab',list); toast('Words에 저장했어요'); }
-  render();
+  renderKeepScroll();
 }
 
 function setHeader(){
@@ -663,12 +669,13 @@ async function renderToday(view){
       </div>`;
   }
   view.innerHTML=html;
-  // 날짜 띠: 선택된(또는 오늘) 칩이 보이도록 스크롤
+  // 날짜 띠: 선택된(또는 오늘) 칩이 보이도록 가로 스크롤만 조정한다
+  // (scrollIntoView는 세로 스크롤도 건드려 저장 토글 시 화면이 위로 튀는 원인이 됐다)
   requestAnimationFrame(()=>{
     const strip=document.getElementById('dateStrip');
     if(!strip)return;
     const cur=strip.querySelector('.dchip.on');
-    if(cur && cur.scrollIntoView) cur.scrollIntoView({inline:'end',block:'nearest'});
+    if(cur) strip.scrollLeft=cur.offsetLeft+cur.offsetWidth-strip.clientWidth;
     else strip.scrollLeft=strip.scrollWidth; // 없으면 오른쪽 끝(오늘)
   });
 }
