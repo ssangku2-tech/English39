@@ -1,0 +1,65 @@
+{
+  "patterns": [
+    {
+      "pattern": "No way!",
+      "meaning": "정말 그래? 거짓이지? (놀라움, 의심, 부정)",
+      "example": "A: I just got promoted! B: No way! Congratulations!",
+      "example_kr": "A: 승진했어! B: 정말? 축하해!"
+    },
+    {
+      "pattern": "I'm on it.",
+      "meaning": "지금 바로 해줄게, 내가 맡아서 할게 (빠르고 적극적인 응답)",
+      "example": "A: Can you send that email for me? B: I'm on it. You'll have it in five minutes.",
+      "example_kr": "A: 그 이메일 보내줄 수 있어? B: 지금 바로 할게. 5분 안에 보낼 거야."
+    },
+    {
+      "pattern": "That's fine by me.",
+      "meaning": "나는 상관없어, 괜찮아 (쉽게 동의하는 태도)",
+      "example": "A: Want to meet at 3 PM instead? B: That's fine by me.",
+      "example_kr": "A: 대신 3시에 만날래? B: 나는 괜찮아."
+    },
+    {
+      "pattern": "Just in case + 주어 + 동사",
+      "meaning": "혹시 모르니까, 만약의 사태에 대비해서 (예방 목적)",
+      "example": "I'll bring an umbrella just in case it rains tomorrow.",
+      "example_kr": "혹시 모르니까 내일 우산을 챙겨갈 거야."
+    }
+  ],
+  "words": [
+    {
+      "word": "rescheduled",
+      "phonetic": "/ˌriːˈʃɛdjuːld/",
+      "meaning": "일정을 다시 잡다, 일정을 연기하다",
+      "example": "The meeting has been rescheduled for next Friday.",
+      "example_kr": "회의가 다음 주 금요일로 연기되었어."
+    },
+    {
+      "word": "overlooked",
+      "phonetic": "/ˌoʊvərˈlʊkt/",
+      "meaning": "간과하다, 놓치다, (무심코) 무시하다",
+      "example": "I completely overlooked that detail in the contract.",
+      "example_kr": "나는 계약서의 그 세부 사항을 완전히 간과했어."
+    },
+    {
+      "word": "catch up",
+      "phonetic": "/ˈkætʃ ʌp/",
+      "meaning": "따라잡다, 최신 정보를 알다, (오래된 친구와) 소식을 나누다",
+      "example": "Let's grab coffee and catch up on what we've been doing.",
+      "example_kr": "커피 마시면서 최근에 뭘 했는지 얘기해."
+    },
+    {
+      "word": "slipped",
+      "phonetic": "/slɪpt/",
+      "meaning": "미끄러지다, (시간이) 지나가다, (무언가를) 빠뜨리다",
+      "example": "Sorry, it completely slipped my mind that we had plans today.",
+      "example_kr": "미안해, 오늘 우리 약속이 있다는 거 완전히 빼먹었어."
+    },
+    {
+      "word": "hassled",
+      "phonetic": "/ˈhæsəld/",
+      "meaning": "괴롭혀지다, 귀찮게 하다, 스트레스를 받다",
+      "example": "I've been hassled by the constant emails from the client.",
+      "example_kr": "클라이언트로부터 계속 오는 이메일 때문에 스트레스받고 있어."
+    }
+  ]
+}
