@@ -1,0 +1,65 @@
+{
+  "patterns": [
+    {
+      "pattern": "No worries.",
+      "meaning": "괜찮아, 걱정하지 마. 친구나 동료에게 편하게 던지는 안심 표현",
+      "example": "I'm sorry I'm late. / No worries, we have plenty of time.",
+      "example_kr": "늦어서 미안해요. / 괜찮아, 시간 많아."
+    },
+    {
+      "pattern": "Let me get back to you.",
+      "meaning": "나중에 연락드릴게. 당장 답변할 수 없을 때 쓰는 미룬다는 뜻",
+      "example": "Can you help with the project? / Let me check my schedule and get back to you.",
+      "example_kr": "프로젝트 도와줄 수 있어? / 일정 확인해보고 나중에 연락할게."
+    },
+    {
+      "pattern": "I'm on it.",
+      "meaning": "지금 처리 중이야. 일을 맡았으니 안심해도 된다는 뉘앙스",
+      "example": "The client is waiting for the report. / Don't worry, I'm on it.",
+      "example_kr": "클라이언트가 보고서를 기다리고 있어. / 걱정 말아, 지금 처리 중이야."
+    },
+    {
+      "pattern": "In case + 주어 + 동사",
+      "meaning": "'~에 대비해서', '혹시 모르니'. 예비나 대비 상황을 표현하는 문법 패턴",
+      "example": "Keep my number handy in case you need help later.",
+      "example_kr": "혹시 나중에 도움이 필요할 수도 있으니 내 번호를 가지고 있어."
+    }
+  ],
+  "words": [
+    {
+      "word": "hiccup",
+      "phonetic": "/ˈhɪkʌp/",
+      "meaning": "작은 문제, 걸림돌. 프로젝트나 계획에 생기는 사소한 차질",
+      "example": "We hit a small hiccup with the printer, but it's fixed now.",
+      "example_kr": "프린터에서 작은 문제가 생겼는데 지금 고쳐졌어."
+    },
+    {
+      "word": "nonstop",
+      "phonetic": "/ˌnɑːnˈstɑːp/",
+      "meaning": "쉬지 않고 계속해서. 직항편이나 연속적인 활동을 뜻함",
+      "example": "I've been working nonstop for three days on this deadline.",
+      "example_kr": "이 마감일을 위해 3일을 쉬지 않고 일했어."
+    },
+    {
+      "word": "pitch",
+      "phonetic": "/pɪtʃ/",
+      "meaning": "제안, 프레젠테이션. 상품·아이디어·계획을 설득하기 위해 제시하는 것",
+      "example": "Our team gave a great pitch to the investors yesterday.",
+      "example_kr": "우리 팀이 어제 투자자들에게 멋진 제안을 했어."
+    },
+    {
+      "word": "brainstorm",
+      "phonetic": "/ˈbreɪnstɔːrm/",
+      "meaning": "브레인스토밍, 창의적인 회의. 모든 아이디어를 자유롭게 내놓는 활동",
+      "example": "Let's brainstorm ideas for the marketing campaign next week.",
+      "example_kr": "다음 주에 마케팅 캠페인 아이디어를 브레인스토밍해 보자."
+    },
+    {
+      "word": "upbeat",
+      "phonetic": "/ˈʌpbiːt/",
+      "meaning": "긍정적인, 밝은. 분위기나 태도가 낙관적이고 활기찬",
+      "example": "She has such an upbeat personality that everyone loves working with her.",
+      "example_kr": "그녀는 긍정적인 성격이라 모두가 그녀와 함께 일하고 싶어 해."
+    }
+  ]
+}
