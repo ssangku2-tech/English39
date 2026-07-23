@@ -1,0 +1,65 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's fine by me.",
+      "meaning": "나도 괜찮다, 좋아",
+      "example": "We could meet at 3 PM. That's fine by me.",
+      "example_kr": "3시에 만날까? 나도 괜찮아."
+    },
+    {
+      "pattern": "I'm tied up right now.",
+      "meaning": "지금 바빠서 시간이 없다",
+      "example": "Can you call me later? I'm tied up right now.",
+      "example_kr": "나중에 전화해 줄래? 지금 정말 바빠."
+    },
+    {
+      "pattern": "Let me get back to you.",
+      "meaning": "나중에 다시 연락할게",
+      "example": "I need to check with my team first. Let me get back to you.",
+      "example_kr": "먼저 팀에 확인해야 해. 나중에 다시 연락할게."
+    },
+    {
+      "pattern": "As soon as + 주어 + 동사",
+      "meaning": "~하는 순간 / ~하자마자",
+      "example": "As soon as I finish this report, I'll send it to you.",
+      "example_kr": "이 보고서를 끝내는 즉시 너한테 보낼게."
+    }
+  ],
+  "words": [
+    {
+      "word": "stumble",
+      "phonetic": "/ˈstʌmbəl/",
+      "meaning": "비틀거리다, 우연히 발견하다",
+      "example": "I stumbled upon a great restaurant downtown yesterday.",
+      "example_kr": "어제 시내에서 멋진 식당을 우연히 발견했어."
+    },
+    {
+      "word": "vendor",
+      "phonetic": "/ˈvendər/",
+      "meaning": "판매자, 노점상",
+      "example": "The street vendor was selling fresh fruit at the market.",
+      "example_kr": "그 노점상은 시장에서 신선한 과일을 팔고 있었다."
+    },
+    {
+      "word": "swap",
+      "phonetic": "/swɑp/",
+      "meaning": "교환하다, 바꾸다",
+      "example": "Can we swap shifts next week? I have a doctor's appointment.",
+      "example_kr": "다음 주에 근무를 바꿔 줄 수 있어? 의사 약속이 있어."
+    },
+    {
+      "word": "remark",
+      "phonetic": "/rɪˈmɑrk/",
+      "meaning": "언급하다, 주목하다",
+      "example": "She remarked that the coffee tasted different today.",
+      "example_kr": "그녀가 오늘 커피 맛이 다르다고 언급했다."
+    },
+    {
+      "word": "stint",
+      "phonetic": "/stɪnt/",
+      "meaning": "한 시간, 기간",
+      "example": "After a two-year stint in marketing, I moved to sales.",
+      "example_kr": "2년간 마케팅 부서에서 일한 후, 나는 영업팀으로 옮겼다."
+    }
+  ]
+}
