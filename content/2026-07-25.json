@@ -1,0 +1,65 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's the thing.",
+      "meaning": "바로 그게 문제/핵심이야. 상황의 핵심을 지적할 때 쓰는 자연스러운 표현",
+      "example": "A: Why didn't you go to the party? B: That's the thing. I had to work late.",
+      "example_kr": "A: 파티에 왜 안 갔어? B: 그게 문제야. 일이 늦게까지 밀렸거든."
+    },
+    {
+      "pattern": "Don't get me wrong.",
+      "meaning": "오해하지 마. 내 말을 잘못 이해하지 말라고 전제할 때 쓰는 표현",
+      "example": "Don't get me wrong, I love the idea. I just need more time to think about it.",
+      "example_kr": "오해하지 말아, 좋은 생각이야. 근데 생각할 시간이 더 필요해."
+    },
+    {
+      "pattern": "I'll swing by.",
+      "meaning": "잠깐 들를게. 어디를 짧게 방문하겠다는 뜻의 구어체",
+      "example": "I'm done with work. I'll swing by the grocery store before heading home.",
+      "example_kr": "일 끝났어. 집 가기 전에 마트에 잠깐 들를게."
+    },
+    {
+      "pattern": "You might as well + 동사원형",
+      "meaning": "차라리 ~하는 게 낫지 않을까. 어차피 그렇다면 이렇게 하는 게 낫다는 뜻의 제안형 패턴",
+      "example": "Since you're already here, you might as well stay for dinner.",
+      "example_kr": "이미 여기까지 왔으니 차라리 저녁 먹고 가는 게 낫잖아."
+    }
+  ],
+  "words": [
+    {
+      "word": "hassle-free",
+      "phonetic": "/ˈhæsəl ˈfriː/",
+      "meaning": "번거로움이 없는, 간단한",
+      "example": "The airline offers a hassle-free booking process.",
+      "example_kr": "그 항공사는 번거롭지 않은 예약 절차를 제공한다."
+    },
+    {
+      "word": "stumble upon",
+      "phonetic": "/ˈstʌmbəl əˈpɑn/",
+      "meaning": "우연히 발견하다, 우연히 만나다",
+      "example": "I stumbled upon a great restaurant while walking downtown.",
+      "example_kr": "시내를 산책하다가 우연히 좋은 음식점을 발견했다."
+    },
+    {
+      "word": "bulk",
+      "phonetic": "/bʌlk/",
+      "meaning": "대량, 덩어리, 주요 부분",
+      "example": "The bulk of the work is already done.",
+      "example_kr": "대부분의 일은 이미 완료되었다."
+    },
+    {
+      "word": "bail out",
+      "phonetic": "/ˈbeɪl aʊt/",
+      "meaning": "도와주다, (어려운 상황에서) 빠져나오다, 중단하다",
+      "example": "When the project got too complicated, he had to bail out.",
+      "example_kr": "프로젝트가 너무 복잡해지자 그는 손을 떼야 했다."
+    },
+    {
+      "word": "rustle up",
+      "phonetic": "/ˈrʌsəl ʌp/",
+      "meaning": "(음식을) 빨리 준비하다, 재빨리 마련하다",
+      "example": "Can you rustle up some snacks for the meeting?",
+      "example_kr": "회의를 위해 빨리 스낵을 준비해 줄 수 있어?"
+    }
+  ]
+}
