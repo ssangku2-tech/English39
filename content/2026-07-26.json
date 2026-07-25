@@ -1,0 +1,65 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm swamped right now.",
+      "meaning": "지금 매우 바빠서 시간이 없다는 뜻. 친구나 동료에게 자신의 바쁜 상태를 자연스럽게 전달할 때 쓰는 구어체 표현.",
+      "example": "Hey, can you grab coffee later? I'm swamped right now with this project.",
+      "example_kr": "나중에 커피 마실래? 지금 프로젝트 때문에 정신없어."
+    },
+    {
+      "pattern": "Don't worry about it.",
+      "meaning": "신경 쓰지 말라, 괜찮다는 뜻. 상대방이 미안해하거나 걱정할 때 편하게 안심시키는 일상적인 표현.",
+      "example": "Sorry I was late to the meeting. Don't worry about it, we haven't started yet.",
+      "example_kr": "회의에 늦어서 미안해. 괜찮아, 아직 시작 안 했어."
+    },
+    {
+      "pattern": "Just so you know,",
+      "meaning": "미리 알려주는 것, 정보를 미리 전달할 때 쓰는 표현. 상대방이 알아야 할 중요한 사실을 앞에 붙여서 말할 때 사용.",
+      "example": "Just so you know, the office will be closed tomorrow for the holiday.",
+      "example_kr": "미리 말해두는데, 내일 휴일이라 사무실이 문을 닫아."
+    },
+    {
+      "pattern": "Would you mind if + 주어 + 동사(과거형)?",
+      "meaning": "상대방에게 어떤 일을 해도 괜찮은지 정중하게 허락을 구하는 패턴. 예의 바른 요청이나 제안에 사용.",
+      "example": "Would you mind if I borrowed your umbrella for a bit?",
+      "example_kr": "잠깐 우산 빌려도 괜찮을까?"
+    }
+  ],
+  "words": [
+    {
+      "word": "vicinity",
+      "phonetic": "/vɪˈsɪnɪti/",
+      "meaning": "주변, 근처, 인근 지역",
+      "example": "There are several restaurants in the vicinity of the hotel.",
+      "example_kr": "호텔 근처에 레스토랑이 여러 개 있어."
+    },
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɑːmədeɪt/",
+      "meaning": "수용하다, 맞춰주다, 제공하다",
+      "example": "This room can accommodate up to six people.",
+      "example_kr": "이 방은 최대 6명까지 수용할 수 있어."
+    },
+    {
+      "word": "hassle",
+      "phonetic": "/ˈhæsl/",
+      "meaning": "귀찮은 일, 번거로움, 성가신 일",
+      "example": "Booking online is less hassle than calling the office.",
+      "example_kr": "온라인 예약이 전화하는 것보다 훨씬 덜 번거로워."
+    },
+    {
+      "word": "vicinity",
+      "phonetic": "/vɪˈsɪnɪti/",
+      "meaning": "주변, 근처, 인근 지역",
+      "example": "Is there a bank in the vicinity?",
+      "example_kr": "근처에 은행이 있어?"
+    },
+    {
+      "word": "flexibility",
+      "phonetic": "/ˌflɛksəˈbɪləti/",
+      "meaning": "유연성, 융통성, 조정 가능함",
+      "example": "We need flexibility in our schedule for unexpected changes.",
+      "example_kr": "예기치 않은 변화에 대비해 일정에 유연성이 필요해."
+    }
+  ]
+}
