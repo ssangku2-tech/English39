@@ -28,7 +28,7 @@ Defaults to today in KST if no date is given; skips generation if `content/YYYY-
 
 **Daily content pipeline (fully automated, no API key on-device):**
 1. `.github/workflows/daily.yml` runs on a cron (`0 20 * * *` UTC = 05:00 KST) and on manual dispatch.
-2. It runs `scripts/generate.js`, which calls the Anthropic Messages API (model `claude-haiku-4-5`) with a Korean-language prompt asking for 3 patterns + 5 words as strict JSON, avoiding words/patterns already used (scanned from existing `content/*.json`).
+2. It runs `scripts/generate.js`, which calls the Anthropic Messages API (model `claude-haiku-4-5`) with a Korean-language prompt asking for 5 patterns (3 native everyday expressions + 2 fill-in-the-blank grammar patterns, in that array order) + 5 words as strict JSON, avoiding words/patterns already used (scanned from existing `content/*.json`).
 3. The result is written to `content/YYYY-MM-DD.json` and `content/index.json` (a sorted array of all available date keys) is regenerated.
 4. The workflow commits and pushes `content/` back to the repo — this is how new daily content reaches the static site with zero client-side API key exposure.
 5. In the app, `fetchDay()` fetches `content/${key}.json` with `cache:'no-store'` and caches the parsed result into `localStorage` under `days`; the service worker additionally does network-first caching for any `/content/` request as a second-layer fallback for offline use.

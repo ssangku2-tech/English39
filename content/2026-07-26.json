@@ -23,6 +23,12 @@
       "meaning": "상대방에게 어떤 일을 해도 괜찮은지 정중하게 허락을 구하는 패턴. 예의 바른 요청이나 제안에 사용.",
       "example": "Would you mind if I borrowed your umbrella for a bit?",
       "example_kr": "잠깐 우산 빌려도 괜찮을까?"
+    },
+    {
+      "pattern": "The more + 주어 + 동사, the more + 주어 + 동사",
+      "meaning": "'~할수록 더 ~하다'는 비례 관계를 나타내는 비교급 패턴. more 자리에 다른 비교급(better, harder 등)도 넣을 수 있다.",
+      "example": "The more I practice, the more confident I feel.",
+      "example_kr": "연습할수록 더 자신감이 생겨."
     }
   ],
   "words": [
@@ -48,11 +54,11 @@
       "example_kr": "온라인 예약이 전화하는 것보다 훨씬 덜 번거로워."
     },
     {
-      "word": "vicinity",
-      "phonetic": "/vɪˈsɪnɪti/",
-      "meaning": "주변, 근처, 인근 지역",
-      "example": "Is there a bank in the vicinity?",
-      "example_kr": "근처에 은행이 있어?"
+      "word": "handy",
+      "phonetic": "/ˈhændi/",
+      "meaning": "편리한, 유용한, 손에 닿는 곳에 있는",
+      "example": "Keep your passport handy while you're at the airport.",
+      "example_kr": "공항에서는 여권을 손 닿는 데 두는 게 좋아."
     },
     {
       "word": "flexibility",
