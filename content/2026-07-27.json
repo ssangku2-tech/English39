@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "You're all set.",
+      "meaning": "모든 준비가 다 됐다, 괜찮다는 뜻의 자연스러운 일상 표현",
+      "example": "A: Did you book the hotel? B: Yeah, you're all set. Everything's confirmed for next week.",
+      "example_kr": "A: 호텔 예약했어? B: 응, 다 됐어. 다음 주 모든 게 확정됐어."
+    },
+    {
+      "pattern": "That's on me.",
+      "meaning": "내 책임이다, 내가 처리하겠다는 뜻의 구어체 표현",
+      "example": "A: Who's going to pay for the coffee? B: That's on me. Don't worry about it.",
+      "example_kr": "A: 누가 커피 값을 낼 거야? B: 내가 낼게. 걱정하지 마."
+    },
+    {
+      "pattern": "I'll swing by.",
+      "meaning": "(가던 길에) 잠깐 들르겠다는 뜻의 자연스러운 표현",
+      "example": "A: Can you pick up the documents? B: Sure, I'll swing by your office on my way home.",
+      "example_kr": "A: 서류를 가져갈 수 있어? B: 물론이지, 집 가는 길에 너 사무실에 들를게."
+    },
+    {
+      "pattern": "Unless + 주어 + 동사, ~ will/won't + 동사원형",
+      "meaning": "'~하지 않는 한', '~하는 경우가 아니면' 이라는 조건을 나타내는 문법 패턴",
+      "example": "Unless you hear from me by tomorrow, I'll assume the meeting is cancelled.",
+      "example_kr": "내일까지 연락이 없으면, 회의가 취소된 것으로 알겠어."
+    },
+    {
+      "pattern": "Even if + 주어 + 동사, 주어 + will/won't + 동사원형",
+      "meaning": "'~할지라도', '비록 ~이더라도' 라는 양보의 의미를 나타내는 패턴",
+      "example": "Even if you arrive late, we'll wait for you at the restaurant.",
+      "example_kr": "늦게 도착하더라도 우리가 식당에서 기다릴게."
+    }
+  ],
+  "words": [
+    {
+      "word": "snippet",
+      "phonetic": "/ˈsnɪpɪt/",
+      "meaning": "작은 조각, 짧은 발췌문",
+      "example": "I only caught a snippet of the conversation before they left.",
+      "example_kr": "그들이 가기 전에 대화의 일부만 들었어."
+    },
+    {
+      "word": "upfront",
+      "phonetic": "/ʌpˈfrʌnt/",
+      "meaning": "미리, 솔직하게, 사전에",
+      "example": "Let me be upfront with you—I can't finish the project by Friday.",
+      "example_kr": "솔직하게 말해줄게—난 금요일까지 프로젝트를 끝낼 수 없어."
+    },
+    {
+      "word": "glitch",
+      "phonetic": "/ɡlɪtʃ/",
+      "meaning": "결함, 오작동, 작은 문제",
+      "example": "There's a glitch in the system, so your payment didn't go through.",
+      "example_kr": "시스템에 문제가 있어서 결제가 처리되지 않았어."
+    },
+    {
+      "word": "endorsement",
+      "phonetic": "/ɪnˈdɔːrsmənt/",
+      "meaning": "승인, 지지, 추천",
+      "example": "The boss gave her endorsement to our proposal without any hesitation.",
+      "example_kr": "보스가 우리 제안에 주저 없이 승인을 내줬어."
+    },
+    {
+      "word": "incidental",
+      "phonetic": "/ˌɪnsɪˈdentl/",
+      "meaning": "우연한, 부차적인, 부수적인",
+      "example": "The damage to the car was incidental, nothing too serious.",
+      "example_kr": "차량의 손상은 부차적인 것이었어, 큰 문제는 아니었어."
+    }
+  ]
+}
