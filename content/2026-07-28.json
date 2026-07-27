@@ -1,0 +1,64 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's a bit much.",
+      "meaning": "그건 좀 과한 것 같은데 / 그건 너무 많은 것 같은데",
+      "example": "They're asking for a 50% discount? That's a bit much.",
+      "example_kr": "50% 할인을 요청한다고? 그건 좀 과한데."
+    },
+    {
+      "pattern": "I'm gonna take a rain check on that.",
+      "meaning": "그건 나중에 하기로 하자 / 지금은 못할 것 같으니 나중에 하자",
+      "example": "Hey, want to grab dinner tonight? I'm gonna take a rain check on that—I'm exhausted.",
+      "example_kr": "오늘 저녁 먹을래? 나중에 하자—너무 지쳤어."
+    },
+    {
+      "pattern": "What's the catch?",
+      "meaning": "함정이 뭔데? / 뭔가 숨겨진 게 있지 않나?",
+      "example": "They're offering free shipping and a 30% discount? What's the catch?",
+      "example_kr": "배송비 무료에 30% 할인? 뭔가 함정이 있지 않나?"
+    },
+    {
+      "pattern": "주어 + 동사 + 목적어 + to make sure 주어 + 동사",
+      "meaning": "~를 확실히 하기 위해 (어떤 행동을 하다)",
+      "example": "I called the restaurant to make sure they still had a table for us.",
+      "example_kr": "나는 그 음식점에 전화해서 우리 자리가 남아 있는지 확인했다."
+    },
+    {
+      "pattern": "주어 + 동사(완료) + since + 주어 + 동사(완료)",
+      "meaning": "~한 이래로 (어떤 상태가 계속되다)",
+      "example": "I haven't seen him since he moved to Seoul last year.",
+      "example_kr": "그가 지난해 서울로 이사 간 이래로 나는 그를 보지 못했다."
+    }
+  ],
+  "words": [
+    {
+      "word": "backup",
+      "phonetic": "/ˈbækʌp/",
+      "meaning": "백업, 예비 (사람·물건), 지원",
+      "example": "Do you have a backup plan if the flight gets cancelled?",
+      "example_kr": "비행기가 취소되면 예비 계획이 있어?"
+    },
+    {
+      "word": "upscale",
+      "phonetic": "/ˈʌpskeɪl/",
+      "meaning": "고급스러운, 럭셔리한 (음식점·호텔 등)",
+      "example": "They chose an upscale restaurant for their anniversary dinner.",
+      "example_kr": "그들은 결혼기념일 저녁으로 고급 음식점을 선택했다."
+    },
+    {
+      "word": "miscommunication",
+      "phonetic": "/ˌmɪskəmjuːnɪˈkeɪʃən/",
+      "meaning": "의사소통 오류, 잘못된 의사소통",
+      "example": "The whole problem was just a miscommunication between the two teams.",
+      "example_kr": "전체 문제는 두 팀 사이의 의사소통 오류였을 뿐이다."
+    },
+    {
+      "word": "bearable",
+      "phonetic": "/ˈberəbəl/",
+      "meaning": "견딜 수 있는, 참을 수 있는",
+      "example": "The pain is still bad, but it's more bearable than yesterday.",
+      "example_kr": "고통은 여전히 심하지만 어제보다는 견딜 만하다."
+    }
+  ]
+}
