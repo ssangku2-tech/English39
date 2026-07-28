@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "You should totally grab that while you can",
+      "meaning": "기회를 놓치지 말고 지금 당장 그것을 잡아야 한다는 자연스러운 권유",
+      "example": "The coffee shop's having a sale this week. You should totally grab that while you can before it ends.",
+      "example_kr": "커피숍이 이번 주에 세일을 하고 있어. 끝나기 전에 당장 사버려."
+    },
+    {
+      "pattern": "I'm gonna have to pass on that",
+      "meaning": "정중하면서도 직설적으로 거절하는 일상 표현",
+      "example": "Wanna join us for drinks tonight? I'm gonna have to pass on that—got an early meeting tomorrow.",
+      "example_kr": "오늘 밤에 우리랑 술 마실래? 아, 내일 아침 회의가 있어서 건너뛸게."
+    },
+    {
+      "pattern": "That doesn't really work for me",
+      "meaning": "어떤 제안이나 시간이 자신에게 맞지 않는다는 부드러운 거절",
+      "example": "Can we meet at 3 PM on Friday? That doesn't really work for me—how about Tuesday instead?",
+      "example_kr": "금요일 3시에 만날 수 있어? 그건 내 일정이 안 맞는데, 화요일은 어때?"
+    },
+    {
+      "pattern": "주어 + 동사(현재완료) + ever since + 주어 + 동사(과거)",
+      "meaning": "과거의 어떤 사건 이후로 계속 그 상태가 이어지고 있다는 의미의 시간 관계 표현",
+      "example": "She's been learning French ever since she moved to Paris last year.",
+      "example_kr": "그녀는 작년에 파리로 이사 간 이후로 계속 프랑스어를 배우고 있다."
+    },
+    {
+      "pattern": "주어 + 동사(과거) + as if + 주어 + had + 과거분사",
+      "meaning": "과거 사실과 반대인 가정법 과거완료로 과거 상황을 마치 다르게 일어난 것처럼 표현",
+      "example": "He talked about the project as if he had completed it already, but he hadn't even started.",
+      "example_kr": "그는 마치 이미 완료한 것처럼 그 프로젝트에 대해 말했지만, 실제로는 시작도 하지 않았다."
+    }
+  ],
+  "words": [
+    {
+      "word": "pragmatic",
+      "phonetic": "/præɡˈmætɪk/",
+      "meaning": "실용적인, 현실적인",
+      "example": "We need a pragmatic approach to solve this budget problem quickly.",
+      "example_kr": "우리는 이 예산 문제를 빠르게 해결하기 위해 현실적인 접근이 필요하다."
+    },
+    {
+      "word": "diminish",
+      "phonetic": "/dɪˈmɪnɪʃ/",
+      "meaning": "감소하다, 약해지다",
+      "example": "The quality of the product shouldn't diminish just because we're cutting costs.",
+      "example_kr": "비용을 절감한다고 해서 제품의 품질이 떨어지면 안 된다."
+    },
+    {
+      "word": "inclined",
+      "phonetic": "/ɪnˈklaɪnd/",
+      "meaning": "~하는 경향이 있는, ~하고 싶은 마음이 있는",
+      "example": "I'm inclined to believe the report is accurate based on the evidence.",
+      "example_kr": "증거를 바탕으로 그 보고서가 정확하다고 믿을 마음이 든다."
+    },
+    {
+      "word": "tangible",
+      "phonetic": "/ˈtændʒəbl/",
+      "meaning": "구체적인, 만질 수 있는, 실질적인",
+      "example": "We need tangible results by the end of the quarter, not just promises.",
+      "example_kr": "우리는 약속이 아니라 분기 말까지 실질적인 성과가 필요하다."
+    },
+    {
+      "word": "alleviate",
+      "phonetic": "/əˈliːvieɪt/",
+      "meaning": "완화하다, 덜어주다",
+      "example": "This new software should alleviate some of the stress from manual data entry.",
+      "example_kr": "이 새로운 소프트웨어는 수동 데이터 입력의 부담을 어느 정도 덜어줄 것이다."
+    }
+  ]
+}
