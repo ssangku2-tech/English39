@@ -1,0 +1,64 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's a wrap.",
+      "meaning": "일이 끝났다, 완료되었다는 뜻의 캐주얼한 표현",
+      "example": "Okay guys, we got all the shots we need. That's a wrap for today!",
+      "example_kr": "좋아, 필요한 장면을 다 찍었어. 오늘은 여기까지야!"
+    },
+    {
+      "pattern": "You gotta be kidding me.",
+      "meaning": "농담하는 거 아니냐? 정말이야?라는 놀라움이나 의심을 표현",
+      "example": "My flight got delayed for another 8 hours? You gotta be kidding me!",
+      "example_kr": "비행기가 또 8시간이나 연착됐다고? 진짜 농담이지?"
+    },
+    {
+      "pattern": "I'm gonna bail on you.",
+      "meaning": "약속을 취소하거나 떠나려고 한다는 뜻의 구어체",
+      "example": "I'm so sorry, but I gotta bail on tonight's dinner. Something came up at work.",
+      "example_kr": "정말 미안하지만 오늘 저녁 약속을 못 갈 것 같아. 일에서 뭔가 생겼어."
+    },
+    {
+      "pattern": "주어 + 동사(현재) + as if + 주어 + 동사(과거)",
+      "meaning": "마치 ~인 것처럼 행동한다/보인다는 조건을 나타내는 문법",
+      "example": "He talks about the project as if he had already completed it.",
+      "example_kr": "그는 마치 이미 프로젝트를 완료한 것처럼 얘기해."
+    },
+    {
+      "pattern": "주어 + 동사(현재완료) + by the time + 주어 + 동사(현재)",
+      "meaning": "~할 때쯤에는 이미 ~한 상태가 될 것이라는 미래 예상을 나타냄",
+      "example": "By the time you arrive at the office, I will have finished the report.",
+      "example_kr": "너가 사무실에 도착할 때쯤이면, 나는 이미 보고서를 끝낼 거야."
+    }
+  ],
+  "words": [
+    {
+      "word": "glum",
+      "phonetic": "/ɡlʌm/",
+      "meaning": "울적한, 침울한",
+      "example": "She looked glum when she heard the news about the project cancellation.",
+      "example_kr": "그녀는 프로젝트 취소 소식을 듣고 매우 침울한 표정이었다."
+    },
+    {
+      "word": "pilfer",
+      "phonetic": "/ˈpɪlfər/",
+      "meaning": "몰래 훔치다, 소량 훔치다",
+      "example": "Some employees were caught pilfering office supplies.",
+      "example_kr": "일부 직원들이 사무용품을 몰래 훔치는 것이 적발됐다."
+    },
+    {
+      "word": "whim",
+      "phonetic": "/wɪm/",
+      "meaning": "변덕, 일시적인 생각",
+      "example": "She quit her job on a whim and traveled around Europe for a year.",
+      "example_kr": "그녀는 갑자기 생각이 들어 일을 그만두고 1년간 유럽을 여행했다."
+    },
+    {
+      "word": "murky",
+      "phonetic": "/ˈmɜːrki/",
+      "meaning": "흐린, 불투명한, 의심스러운",
+      "example": "The details of the deal are still murky, and nobody knows exactly what happened.",
+      "example_kr": "거래의 세부사항이 여전히 불분명하고, 정확히 무슨 일이 일어났는지 아무도 모른다."
+    }
+  ]
+}
