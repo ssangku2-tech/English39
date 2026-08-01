@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하느니 차라리 ~하겠다",
+      "example": "I'd rather take the subway than sit in traffic for an hour.",
+      "example_kr": "한 시간 동안 차 막히는 것보다 차라리 지하철을 타겠어."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이더라, 결국 ~으로 밝혀지다",
+      "example": "It turns out that the meeting was moved to Thursday.",
+      "example_kr": "알고 보니 회의가 목요일로 옮겨졌더라고."
+    },
+    {
+      "pattern": "I was wondering if + 주어 + could + 동사원형",
+      "meaning": "혹시 ~해줄 수 있는지 궁금했어요 (정중한 부탁)",
+      "example": "I was wondering if you could review this report before noon.",
+      "example_kr": "혹시 정오 전에 이 보고서를 검토해 주실 수 있는지 궁금했어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "delegate",
+      "phonetic": "/ˈdɛlɪɡeɪt/",
+      "meaning": "(업무·권한을) 위임하다, 맡기다",
+      "example": "She learned to delegate tasks so she wouldn't burn out.",
+      "example_kr": "그녀는 지치지 않도록 업무를 위임하는 법을 배웠다."
+    },
+    {
+      "word": "concise",
+      "phonetic": "/kənˈsaɪs/",
+      "meaning": "간결한, 핵심만 담은",
+      "example": "Please keep your presentation concise — we only have ten minutes.",
+      "example_kr": "발표를 간결하게 해주세요 — 시간이 10분밖에 없어요."
+    },
+    {
+      "word": "leverage",
+      "phonetic": "/ˈlɛvərɪdʒ/",
+      "meaning": "활용하다, 이점으로 삼다",
+      "example": "We can leverage our existing contacts to expand into the new market.",
+      "example_kr": "기존 인맥을 활용해서 새로운 시장으로 진출할 수 있어요."
+    },
+    {
+      "word": "detour",
+      "phonetic": "/ˈdiːtʊər/",
+      "meaning": "우회로, 돌아가는 길",
+      "example": "We had to take a detour because the main road was blocked.",
+      "example_kr": "주요 도로가 막혀서 우회해야 했어."
+    },
+    {
+      "word": "mandatory",
+      "phonetic": "/ˈmændətɔːri/",
+      "meaning": "의무적인, 필수적인",
+      "example": "Attendance at the safety training is mandatory for all new employees.",
+      "example_kr": "안전 교육 참석은 모든 신입 직원에게 의무 사항입니다."
+    }
+  ]
+}
