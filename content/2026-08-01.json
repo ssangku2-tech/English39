@@ -1,0 +1,59 @@
+{
+  "patterns": [
+    {
+      "pattern": "I was wondering if + 주어 + 동사",
+      "meaning": "혹시 ~해줄 수 있는지 궁금했어요 (정중한 부탁·질문)",
+      "example": "I was wondering if you could send me the updated report by Friday.",
+      "example_kr": "혹시 금요일까지 업데이트된 보고서를 보내줄 수 있는지 궁금했어요."
+    },
+    {
+      "pattern": "It turns out (that) + 주어 + 동사",
+      "meaning": "알고 보니 ~이더라고요",
+      "example": "It turns out that the meeting was moved to Thursday.",
+      "example_kr": "알고 보니 회의가 목요일로 옮겨졌더라고요."
+    },
+    {
+      "pattern": "I'd rather + 동사원형 + than + 동사원형",
+      "meaning": "~하는 것보다 ~하는 게 더 낫겠어요",
+      "example": "I'd rather take the early flight than wait until the evening.",
+      "example_kr": "저녁까지 기다리는 것보다 이른 비행기를 타는 게 더 낫겠어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "concise",
+      "phonetic": "/kənˈsaɪs/",
+      "meaning": "간결한, 핵심만 담은",
+      "example": "Please keep your presentation concise so we can finish on time.",
+      "example_kr": "제시간에 끝낼 수 있도록 발표를 간결하게 해주세요."
+    },
+    {
+      "word": "navigate",
+      "phonetic": "/ˈnævɪɡeɪt/",
+      "meaning": "(상황·장소를) 헤쳐 나가다, 길을 찾다",
+      "example": "It can be tricky to navigate a new city without a map.",
+      "example_kr": "지도 없이 낯선 도시를 헤쳐 나가는 건 까다로울 수 있어요."
+    },
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "수용하다, 맞춰주다",
+      "example": "The hotel was happy to accommodate our early check-in request.",
+      "example_kr": "호텔은 우리의 조기 체크인 요청을 기꺼이 수용해 주었어요."
+    },
+    {
+      "word": "clarify",
+      "phonetic": "/ˈklærɪfaɪ/",
+      "meaning": "명확히 하다, 분명히 설명하다",
+      "example": "Could you clarify what you meant by that comment in the email?",
+      "example_kr": "이메일에서 그 말이 무슨 뜻이었는지 명확히 설명해 줄 수 있나요?"
+    },
+    {
+      "word": "overlap",
+      "phonetic": "/ˌoʊvərˈlæp/",
+      "meaning": "겹치다, 중복되다",
+      "example": "Our schedules overlap on Wednesday, so let's meet then.",
+      "example_kr": "수요일에 우리 일정이 겹치니 그때 만나요."
+    }
+  ]
+}
