@@ -4,7 +4,11 @@ on:
   schedule:
     # 매일 KST 새벽 5시 = UTC 20:00 (전날)
     - cron: '0 20 * * *'
-  workflow_dispatch:        # 버튼으로 수동 실행도 가능
+  workflow_dispatch:        # 버튼으로 수동 실행도 가능 (날짜 지정 시 해당 날짜 재생성)
+    inputs:
+      date:
+        description: '생성할 날짜 (YYYY-MM-DD, 비우면 오늘)'
+        required: false
 
 permissions:
   contents: write           # 생성된 JSON을 저장소에 커밋
@@ -24,7 +28,7 @@ jobs:
       - name: Generate today's content
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: node scripts/generate.js
+        run: node scripts/generate.js ${{ github.event.inputs.date }}
 
       - name: Commit & push
         run: |
