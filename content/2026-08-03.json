@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's a stretch.",
+      "meaning": "그건 좀 무리한 말이야 / 과장이 심한데",
+      "example": "You think he'll finish the whole project by tomorrow? That's a stretch.",
+      "example_kr": "그가 내일까지 프로젝트 전체를 끝낼 거라고? 그건 좀 무리한 말이야."
+    },
+    {
+      "pattern": "I'll pass.",
+      "meaning": "난 됐어 / 안 할게 (정중하게 거절할 때)",
+      "example": "They asked if I wanted to join the karaoke night, but I'll pass.",
+      "example_kr": "노래방 모임에 같이 가겠냐고 물었는데, 난 됐어."
+    },
+    {
+      "pattern": "It's on the house.",
+      "meaning": "서비스입니다 / 공짜예요 (식당·가게에서)",
+      "example": "The waiter smiled and said, 'Dessert is on the house tonight.'",
+      "example_kr": "웨이터가 웃으며 말했어요, '오늘 밤 디저트는 서비스입니다.'"
+    },
+    {
+      "pattern": "I'd be better off + ~ing",
+      "meaning": "~하는 편이 더 낫다 / ~하는 게 내게 더 유리하다",
+      "example": "I'd be better off taking the subway than driving in this traffic.",
+      "example_kr": "이 교통 상황에서는 운전하는 것보다 지하철을 타는 편이 더 나아."
+    },
+    {
+      "pattern": "The moment + 주어 + 동사, 주어 + 동사",
+      "meaning": "~하는 순간 바로 ~하다 (즉각적인 연결 강조)",
+      "example": "The moment I walked into the room, everyone stopped talking.",
+      "example_kr": "내가 방에 들어가는 순간, 모두가 말을 멈췄어."
+    }
+  ],
+  "words": [
+    {
+      "word": "adamant",
+      "phonetic": "/ˈædəmənt/",
+      "meaning": "단호한, 완강한",
+      "example": "She was adamant about leaving the meeting early despite the protests.",
+      "example_kr": "그녀는 반발에도 불구하고 회의를 일찍 떠나겠다고 단호했다."
+    },
+    {
+      "word": "precaution",
+      "phonetic": "/prɪˈkɔːʃən/",
+      "meaning": "예방 조치, 사전 대비",
+      "example": "He took every precaution before going on the hiking trip.",
+      "example_kr": "그는 하이킹 여행을 가기 전에 모든 예방 조치를 취했다."
+    },
+    {
+      "word": "astute",
+      "phonetic": "/əˈstjuːt/",
+      "meaning": "기민한, 눈치 빠른, 영리한",
+      "example": "She made an astute observation that changed the direction of the discussion.",
+      "example_kr": "그녀는 토론의 방향을 바꾼 기민한 지적을 했다."
+    },
+    {
+      "word": "nominal",
+      "phonetic": "/ˈnɒmɪnəl/",
+      "meaning": "명목상의, 아주 소액의",
+      "example": "There's a nominal fee to enter the museum on weekdays.",
+      "example_kr": "평일에는 박물관 입장료가 아주 소액이다."
+    },
+    {
+      "word": "entice",
+      "phonetic": "/ɪnˈtaɪs/",
+      "meaning": "유인하다, 끌어들이다",
+      "example": "The restaurant used a free appetizer deal to entice new customers.",
+      "example_kr": "그 식당은 무료 애피타이저 이벤트로 새 손님을 끌어들였다."
+    }
+  ]
+}
