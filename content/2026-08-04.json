@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's a relief.",
+      "meaning": "다행이다, 안심이 된다 (걱정이 해소될 때 쓰는 표현)",
+      "example": "A: The flight delay got fixed. B: Oh, that's a relief! I thought we'd miss the connection.",
+      "example_kr": "A: 항공편 지연이 해결됐대. B: 아, 다행이다! 연결편 놓치는 줄 알았어."
+    },
+    {
+      "pattern": "I'll take your word for it.",
+      "meaning": "네 말을 믿을게, 그냥 믿겠어 (직접 확인하지 않고 상대방 말을 신뢰할 때)",
+      "example": "A: This place has the best ramen in town. B: I'll take your word for it — let's go!",
+      "example_kr": "A: 이 집이 시내에서 라멘이 제일 맛있어. B: 네 말 믿을게 — 가자!"
+    },
+    {
+      "pattern": "You're not alone.",
+      "meaning": "너만 그런 게 아니야, 다들 그래 (공감과 위로를 전할 때 쓰는 표현)",
+      "example": "A: I always get nervous before presentations. B: You're not alone — everyone does.",
+      "example_kr": "A: 발표 전에 항상 긴장돼. B: 너만 그런 게 아니야 — 다들 그러거든."
+    },
+    {
+      "pattern": "I wouldn't mind + ~ing",
+      "meaning": "~해도 괜찮아, ~하는 것도 나쁘지 않아 (부드럽게 의향을 표현할 때)",
+      "example": "I wouldn't mind grabbing a coffee before the meeting if we have time.",
+      "example_kr": "시간 있으면 회의 전에 커피 한 잔 해도 나쁘지 않을 것 같아."
+    },
+    {
+      "pattern": "주어 + be + supposed to have + 과거분사",
+      "meaning": "~했어야 했는데 (과거에 했어야 할 일이 이루어지지 않았음을 나타낼 때)",
+      "example": "The package was supposed to have arrived by Monday, but it still hasn't shown up.",
+      "example_kr": "택배가 월요일까지는 도착했어야 했는데, 아직도 안 왔어."
+    }
+  ],
+  "words": [
+    {
+      "word": "deter",
+      "phonetic": "/dɪˈtɜːr/",
+      "meaning": "단념시키다, 막다",
+      "example": "The bad weather didn't deter us from going on the hiking trip.",
+      "example_kr": "나쁜 날씨도 우리가 하이킹 여행을 가는 것을 막지 못했다."
+    },
+    {
+      "word": "tedious",
+      "phonetic": "/ˈtiːdiəs/",
+      "meaning": "지루한, 단조로운",
+      "example": "Filling out all these forms is really tedious, but it has to be done.",
+      "example_kr": "이 서류들을 전부 작성하는 건 정말 지루하지만, 해야 한다."
+    },
+    {
+      "word": "composure",
+      "phonetic": "/kəmˈpoʊʒər/",
+      "meaning": "침착함, 평정심",
+      "example": "She kept her composure during the tough interview and answered every question calmly.",
+      "example_kr": "그녀는 힘든 면접 중에도 침착함을 유지하며 모든 질문에 차분하게 답했다."
+    },
+    {
+      "word": "lenient",
+      "phonetic": "/ˈliːniənt/",
+      "meaning": "관대한, 너그러운",
+      "example": "The manager was lenient about the deadline since the team had been working extra hours.",
+      "example_kr": "팀이 초과 근무를 해왔기 때문에 매니저는 마감일에 대해 너그럽게 봐줬다."
+    },
+    {
+      "word": "recount",
+      "phonetic": "/rɪˈkaʊnt/",
+      "meaning": "자세히 이야기하다, 다시 말하다",
+      "example": "He recounted his travel experience in detail over dinner with his family.",
+      "example_kr": "그는 가족과 저녁을 먹으며 자신의 여행 경험을 자세히 이야기했다."
+    }
+  ]
+}
