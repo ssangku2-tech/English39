@@ -145,13 +145,10 @@ async function main() {
     }
   }
 
-  // 재시도 후에도 중복이 남으면, 그 항목만 제거해 절대 중복 상태로 저장되지 않게 한다
+  // 재시도 후에도 중복이 남으면 — 항목을 제거하면 5개 미만이 되어 그날 콘텐츠 전체가
+  // 생성 실패로 이어질 수 있으므로, 드문 중복은 감수하고 그대로 유지한다(콘텐츠 누락이 더 나쁜 실패다).
   if (dupePhrases.length || dupeWords.length) {
-    console.warn(`재시도 후에도 남은 중복 — 문구: [${dupePhrases.join(', ')}] 단어: [${dupeWords.join(', ')}] → 해당 항목 제거`);
-    const dupePhraseKeys = new Set(dupePhrases.map(normPhrase));
-    const dupeWordKeys = new Set(dupeWords.map(w => (w || '').toLowerCase().trim()));
-    day.patterns = (day.patterns || []).filter(p => !dupePhraseKeys.has(normPhrase(p.pattern)));
-    day.words = (day.words || []).filter(w => !dupeWordKeys.has((w.word || '').toLowerCase().trim()));
+    console.warn(`재시도 후에도 남은 중복 — 문구: [${dupePhrases.join(', ')}] 단어: [${dupeWords.join(', ')}] → 콘텐츠 누락 방지를 위해 그대로 유지`);
   }
 
   // 안전장치: 필수 필드가 빠진 항목은 저장하지 않는다
