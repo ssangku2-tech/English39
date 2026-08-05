@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's a lot to take in.",
+      "meaning": "한꺼번에 받아들이기에 너무 많다, 정보가 벅차다는 뉘앙스",
+      "example": "Wow, that's a lot to take in. Can you walk me through it one more time?",
+      "example_kr": "와, 한 번에 다 받아들이기가 힘드네요. 다시 한 번 설명해 주실 수 있어요?"
+    },
+    {
+      "pattern": "I'll figure it out.",
+      "meaning": "내가 알아서 해결할게, 방법을 찾아볼게",
+      "example": "Don't stress about it — I'll figure it out on my end.",
+      "example_kr": "그것 때문에 스트레스받지 마 — 내가 알아서 해결할게."
+    },
+    {
+      "pattern": "We're good.",
+      "meaning": "우리 괜찮아, 문제없어 (확인·안심·화해 등 다양한 상황에서 씀)",
+      "example": "Hey, I'm really sorry about yesterday. — We're good, don't even worry about it.",
+      "example_kr": "어제 일 정말 미안해. — 우리 괜찮아, 신경 쓰지 마."
+    },
+    {
+      "pattern": "주어 + might as well have + 과거분사",
+      "meaning": "차라리 ~했던 것과 마찬가지다, 결과적으로 ~한 셈이다 (과거 행동의 무의미함이나 동등한 결과를 표현)",
+      "example": "We waited two hours and the show was cancelled. We might as well have stayed home.",
+      "example_kr": "두 시간을 기다렸는데 공연이 취소됐어. 차라리 집에 있었던 거랑 마찬가지였어."
+    },
+    {
+      "pattern": "The + 비교급 + 주어 + 동사, the + 비교급 + 명사 + 주어 + 동사",
+      "meaning": "~하면 할수록 더 ~한 결과가 나온다 (비례 관계 표현)",
+      "example": "The harder you practice, the more confident you'll feel on stage.",
+      "example_kr": "더 열심히 연습할수록, 무대 위에서 더 자신감 있게 느껴질 거야."
+    }
+  ],
+  "words": [
+    {
+      "word": "trivial",
+      "phonetic": "/ˈtrɪviəl/",
+      "meaning": "사소한, 하찮은",
+      "example": "Don't waste your energy on trivial issues at work.",
+      "example_kr": "직장에서 사소한 문제에 에너지를 낭비하지 마세요."
+    },
+    {
+      "word": "ambiguous",
+      "phonetic": "/æmˈbɪɡjuəs/",
+      "meaning": "모호한, 두 가지로 해석될 수 있는",
+      "example": "His reply was so ambiguous that I had no idea what he meant.",
+      "example_kr": "그의 대답이 너무 모호해서 무슨 뜻인지 전혀 몰랐어."
+    },
+    {
+      "word": "commend",
+      "phonetic": "/kəˈmɛnd/",
+      "meaning": "칭찬하다, 추천하다",
+      "example": "The manager commended her for handling the complaint so professionally.",
+      "example_kr": "매니저는 그녀가 불만 사항을 매우 전문적으로 처리한 것에 대해 칭찬했다."
+    },
+    {
+      "word": "saturated",
+      "phonetic": "/ˈsætʃəreɪtɪd/",
+      "meaning": "포화 상태인, 흠뻑 젖은",
+      "example": "The market is so saturated that it's hard for new brands to stand out.",
+      "example_kr": "시장이 너무 포화 상태라 새로운 브랜드가 두각을 나타내기 어렵다."
+    },
+    {
+      "word": "oblivious",
+      "phonetic": "/əˈblɪviəs/",
+      "meaning": "전혀 모르는, 의식하지 못하는",
+      "example": "She was completely oblivious to how loud she was talking on the phone.",
+      "example_kr": "그녀는 자신이 전화 통화를 얼마나 크게 하고 있는지 전혀 몰랐다."
+    }
+  ]
+}
