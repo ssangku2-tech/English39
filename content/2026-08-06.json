@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's a fair point.",
+      "meaning": "그건 타당한 지적이야. / 맞는 말이네. (상대 의견을 인정할 때 쓰는 표현)",
+      "example": "A: I think we should double-check the numbers before sending it out. B: That's a fair point. Let me review them again.",
+      "example_kr": "A: 보내기 전에 숫자를 다시 확인해야 할 것 같아. B: 맞는 말이네. 다시 검토해볼게."
+    },
+    {
+      "pattern": "I'll take a shot at it.",
+      "meaning": "한번 해볼게. / 시도해볼게. (자신 없어도 도전해보겠다는 뉘앙스)",
+      "example": "A: Nobody knows how to fix this printer. B: I'll take a shot at it. I used to work with these a lot.",
+      "example_kr": "A: 아무도 이 프린터 고치는 법을 모르네. B: 제가 한번 해볼게요. 전에 이런 거 많이 다뤄봤거든요."
+    },
+    {
+      "pattern": "You really outdid yourself.",
+      "meaning": "이번엔 정말 대단했어. / 자기 자신을 뛰어넘었어. (상대방의 노력이나 결과를 크게 칭찬할 때)",
+      "example": "A: How was the dinner I made? B: You really outdid yourself. Everything was incredible.",
+      "example_kr": "A: 내가 만든 저녁 어땠어? B: 이번엔 정말 대단했어. 다 너무 맛있었어."
+    },
+    {
+      "pattern": "What are the chances (that) + 주어 + 동사?",
+      "meaning": "~할 가능성이 얼마나 될까? / 그럴 확률이 있을까? (가능성을 묻거나 우연에 놀랄 때 모두 사용)",
+      "example": "What are the chances that we'd end up on the same flight? Small world!",
+      "example_kr": "우리가 같은 비행기를 타게 될 확률이 얼마나 되겠어? 세상 참 좁다!"
+    },
+    {
+      "pattern": "주어 + can't afford to + 동사원형",
+      "meaning": "~할 여유가 없다 / ~해선 안 된다 (시간·돈·상황 모두에 적용되는 실용 패턴)",
+      "example": "We can't afford to make any more mistakes on this project. The deadline is tomorrow.",
+      "example_kr": "이 프로젝트에서 더 이상 실수를 할 여유가 없어. 마감이 내일이거든."
+    }
+  ],
+  "words": [
+    {
+      "word": "impulsive",
+      "phonetic": "/ɪmˈpʌlsɪv/",
+      "meaning": "충동적인, 즉흥적으로 행동하는",
+      "example": "He made an impulsive decision to quit his job without a backup plan.",
+      "example_kr": "그는 대안도 없이 충동적으로 회사를 그만두기로 결정했다."
+    },
+    {
+      "word": "prevail",
+      "phonetic": "/prɪˈveɪl/",
+      "meaning": "우세하다, 이기다, 널리 퍼지다",
+      "example": "Despite the tough competition, a positive attitude will prevail in the end.",
+      "example_kr": "치열한 경쟁에도 불구하고 긍정적인 태도가 결국 이길 것이다."
+    },
+    {
+      "word": "surplus",
+      "phonetic": "/ˈsɜːrpləs/",
+      "meaning": "잉여, 흑자, 남는 것",
+      "example": "The company reported a budget surplus at the end of the fiscal year.",
+      "example_kr": "그 회사는 회계 연도 말에 예산 흑자를 보고했다."
+    },
+    {
+      "word": "mediate",
+      "phonetic": "/ˈmiːdieɪt/",
+      "meaning": "중재하다, 조정하다",
+      "example": "The manager stepped in to mediate the conflict between the two team members.",
+      "example_kr": "팀장이 두 팀원 사이의 갈등을 중재하기 위해 나섰다."
+    },
+    {
+      "word": "compelling",
+      "phonetic": "/kəmˈpɛlɪŋ/",
+      "meaning": "설득력 있는, 강렬한, 매력적인",
+      "example": "She gave a compelling presentation that convinced everyone to support the new idea.",
+      "example_kr": "그녀는 모든 사람이 새 아이디어를 지지하도록 설득하는 강렬한 발표를 했다."
+    }
+  ]
+}
