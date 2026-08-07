@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's the last thing I need.",
+      "meaning": "그건 내가 제일 원하지 않는 일이야. / 정말 최악의 타이밍이다.",
+      "example": "A: The printer's broken again. B: Are you serious? That's the last thing I need right now.",
+      "example_kr": "A: 프린터가 또 고장났어요. B: 진짜요? 지금 그게 제일 필요 없는 상황인데."
+    },
+    {
+      "pattern": "I'm not gonna sugarcoat it.",
+      "meaning": "솔직하게 말할게. / 좋게 포장하지 않을게.",
+      "example": "I'm not gonna sugarcoat it — this report needs a lot of work before we can send it out.",
+      "example_kr": "솔직하게 말할게요 — 이 보고서는 보내기 전에 손봐야 할 곳이 많아요."
+    },
+    {
+      "pattern": "You had me worried there.",
+      "meaning": "나 걱정했잖아. / 나 깜짝 놀랐잖아.",
+      "example": "A: I finally found my passport. B: Oh thank goodness, you had me worried there!",
+      "example_kr": "A: 여권 드디어 찾았어. B: 다행이다, 나 진짜 걱정했잖아!"
+    },
+    {
+      "pattern": "주어 + should have + 과거분사 + instead of + ~ing",
+      "meaning": "~하는 대신 ~했어야 했는데 (과거 후회·더 나은 선택 표현)",
+      "example": "I should have taken the subway instead of driving — the traffic was terrible.",
+      "example_kr": "운전하는 대신 지하철을 탔어야 했는데 — 교통이 너무 막혔어."
+    },
+    {
+      "pattern": "주어 + be동사 + no longer + 형용사/동사ing/명사",
+      "meaning": "더 이상 ~이 아니다 / ~하지 않는다 (상태 변화 표현)",
+      "example": "The early check-in option is no longer available for your booking.",
+      "example_kr": "귀하의 예약에서 얼리 체크인 옵션은 더 이상 이용 가능하지 않습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "wary",
+      "phonetic": "/ˈwɛri/",
+      "meaning": "경계하는, 조심스러운",
+      "example": "Be wary of deals that seem too good to be true when shopping online.",
+      "example_kr": "온라인 쇼핑 시 너무 좋아 보이는 거래는 조심하세요."
+    },
+    {
+      "word": "brisk",
+      "phonetic": "/brɪsk/",
+      "meaning": "활기찬, 상쾌한, (속도가) 빠른",
+      "example": "We took a brisk walk around the park before the meeting started.",
+      "example_kr": "회의가 시작되기 전에 공원을 활기차게 한 바퀴 걸었어요."
+    },
+    {
+      "word": "tally",
+      "phonetic": "/ˈtæli/",
+      "meaning": "합계, 계산; 일치하다",
+      "example": "Can you tally up the expenses so we can split the bill fairly?",
+      "example_kr": "비용을 합산해서 우리가 공평하게 나눌 수 있게 해줄 수 있어?"
+    },
+    {
+      "word": "savvy",
+      "phonetic": "/ˈsævi/",
+      "meaning": "눈치 빠른, 요령 있는, 감각 있는",
+      "example": "She's really tech-savvy, so she set up the whole system in under an hour.",
+      "example_kr": "그녀는 기술 감각이 뛰어나서 한 시간도 안 돼 시스템 전체를 세팅했어요."
+    },
+    {
+      "word": "lull",
+      "phonetic": "/lʌl/",
+      "meaning": "소강상태, 잠잠한 시간; 달래다",
+      "example": "There was a lull in the conversation, so I took the chance to order dessert.",
+      "example_kr": "대화가 잠시 뜸해진 틈을 타서 디저트를 주문했어요."
+    }
+  ]
+}
