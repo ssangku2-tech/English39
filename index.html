@@ -374,17 +374,24 @@ const DB={
 /* ===== 클라우드(Firebase) 동기화: patterns·vocab·mind ===== */
 const CLOUD_KEYS=['patterns','vocab','mind'];
 const cloudCache={patterns:null,vocab:null,mind:null}; // null=아직 안 받음
-let cloudReady=false;
+// 키별로 클라우드 첫 스냅샷을 받았는지 / 그 전에 로컬 변경이 있었는지
+const cloudSynced={patterns:false,vocab:false,mind:false};
+const cloudPending={patterns:false,vocab:false,mind:false};
 
 // 클라우드 키는 cloudCache에서 읽고, 그 외(theme/streak/days 등)는 localStorage
+// 아직 클라우드 응답 전(null)이면 로컬 미러를 쓴다 — 빈 배열을 돌려주면
+// 첫 화면에서 저장 표시(북마크)가 전부 꺼진 채로 그려진다.
 function listGet(k){
-  if(CLOUD_KEYS.includes(k)) return cloudCache[k]||[];
+  if(CLOUD_KEYS.includes(k)) return cloudCache[k]===null ? DB.get(k,[]) : cloudCache[k];
   return DB.get(k,[]);
 }
 function listSet(k,v){
   if(CLOUD_KEYS.includes(k)){
     cloudCache[k]=v;
     DB.set(k,v); // 오프라인 대비 로컬에도 보관
+    // 클라우드 첫 스냅샷 전(익명 인증 대기 중)의 변경은 규칙에 막혀 롤백될 수 있으므로
+    // 표시해 뒀다가 스냅샷이 오면 다시 밀어 올린다.
+    if(!cloudSynced[k]) cloudPending[k]=true;
     if(window.OMEcloud){ window.OMEcloud.save(k,v).catch(()=>toast('동기화 실패 — 인터넷 확인')); }
     return;
   }
@@ -396,11 +403,23 @@ function startCloud(){
     // 첫 연결 시 로컬값으로 미리 채워 화면이 비지 않게
     if(cloudCache[k]===null) cloudCache[k]=DB.get(k,[]);
     window.OMEcloud.watch(k,(val)=>{
-      cloudCache[k]=Array.isArray(val)?val:[];
-      DB.set(k,cloudCache[k]);
-      cloudReady=true;
-      if(TAB!=='today') render(); // 다른 기기 변경이 들어오면 자동 갱신
-      else setHeader();
+      const next=Array.isArray(val)?val:[];
+      cloudSynced[k]=true;
+      // 클라우드 연결 전에 저장/삭제한 내용이 있으면 이번 스냅샷은 무시하고 로컬 값을 다시 올린다
+      if(cloudPending[k]){
+        cloudPending[k]=false;
+        if(JSON.stringify(cloudCache[k])!==JSON.stringify(next)){
+          window.OMEcloud.save(k,cloudCache[k]).catch(()=>{});
+          return;
+        }
+      }
+      const changed = JSON.stringify(cloudCache[k])!==JSON.stringify(next);
+      cloudCache[k]=next;
+      DB.set(k,next);
+      if(!changed) return; // 내가 방금 저장한 값이 그대로 돌아온 경우 — 다시 그릴 필요 없음
+      // Today 탭도 저장 표시(북마크)·마음가짐 카드가 이 데이터를 쓰므로 함께 갱신한다
+      if(TAB==='today') renderKeepScroll();
+      else render(); // 다른 기기 변경이 들어오면 자동 갱신
     });
   });
 }
