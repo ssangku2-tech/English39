@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Long story short,",
+      "meaning": "간단히 말하자면, 요약하자면 (긴 이야기를 짧게 줄일 때 쓰는 표현)",
+      "example": "Long story short, we missed the flight and had to book a new one.",
+      "example_kr": "간단히 말하자면, 우리는 비행기를 놓쳐서 새로 예약해야 했어."
+    },
+    {
+      "pattern": "It's up to you.",
+      "meaning": "너한테 달려 있어, 네가 결정해 (상대방에게 선택권을 넘길 때)",
+      "example": "A: Should we eat Italian or Japanese tonight? B: It's up to you. Either works for me.",
+      "example_kr": "A: 오늘 저녁 이탈리안 먹을까, 일식 먹을까? B: 네가 결정해. 나는 둘 다 괜찮아."
+    },
+    {
+      "pattern": "Let's play it by ear.",
+      "meaning": "그때그때 상황 봐서 하자 (미리 계획 안 세우고 유동적으로 하자는 뜻)",
+      "example": "I'm not sure how long the meeting will run, so let's play it by ear for dinner plans.",
+      "example_kr": "회의가 얼마나 길어질지 모르니까, 저녁 계획은 그때 상황 봐서 하자."
+    },
+    {
+      "pattern": "주어 + had + no idea + that/wh- + 주어 + 동사",
+      "meaning": "~인 줄 전혀 몰랐다 (완전한 무지나 놀라움을 강조할 때 쓰는 패턴)",
+      "example": "I had no idea that the restaurant closes so early on Sundays.",
+      "example_kr": "그 식당이 일요일에 그렇게 일찍 문을 닫는 줄 전혀 몰랐어."
+    },
+    {
+      "pattern": "주어 + be동사 + worth + ~ing",
+      "meaning": "~할 가치가 있다 (어떤 행동을 하는 게 충분히 가치 있음을 표현하는 패턴)",
+      "example": "The hike was tough, but the view at the top was totally worth seeing.",
+      "example_kr": "등산은 힘들었지만, 정상에서 보이는 경치는 정말 볼 가치가 있었어."
+    }
+  ],
+  "words": [
+    {
+      "word": "spontaneous",
+      "phonetic": "/spɒnˈteɪniəs/",
+      "meaning": "즉흥적인, 자발적인",
+      "example": "She made a spontaneous decision to book a trip to Jeju for the weekend.",
+      "example_kr": "그녀는 주말에 제주도 여행을 가기로 즉흥적으로 결정했다."
+    },
+    {
+      "word": "skeptical",
+      "phonetic": "/ˈskeptɪkəl/",
+      "meaning": "의심스러운, 회의적인",
+      "example": "He was skeptical about the new policy at first, but it turned out to work well.",
+      "example_kr": "그는 처음에 새 정책에 대해 회의적이었지만, 결국 잘 작동하는 것으로 밝혀졌다."
+    },
+    {
+      "word": "reluctant",
+      "phonetic": "/rɪˈlʌktənt/",
+      "meaning": "마지못해 하는, 내키지 않는",
+      "example": "She was reluctant to speak up in the meeting, but her idea impressed everyone.",
+      "example_kr": "그녀는 회의에서 발언하기 내키지 않았지만, 그녀의 아이디어는 모두를 감동시켰다."
+    },
+    {
+      "word": "detour",
+      "phonetic": "/ˈdiːtʊər/",
+      "meaning": "우회로, 돌아가는 길",
+      "example": "We had to take a detour because the main road was closed for construction.",
+      "example_kr": "공사로 인해 주도로가 막혀서 우회로로 가야 했다."
+    },
+    {
+      "word": "indispensable",
+      "phonetic": "/ˌɪndɪˈspensəbəl/",
+      "meaning": "없어서는 안 될, 필수적인",
+      "example": "A good translation app is indispensable when you travel to a country with a language barrier.",
+      "example_kr": "언어 장벽이 있는 나라를 여행할 때 좋은 번역 앱은 필수적이다."
+    }
+  ]
+}
