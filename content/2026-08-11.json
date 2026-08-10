@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's news to me.",
+      "meaning": "그거 처음 듣는 말인데요 / 몰랐던 사실이에요 (놀람이나 의외감을 표현할 때 쓰는 구어체)",
+      "example": "A: They're closing the café on Mondays now. B: Really? That's news to me.",
+      "example_kr": "A: 그 카페 이제 월요일에 문 닫는대. B: 진짜? 나는 처음 듣는 얘기네."
+    },
+    {
+      "pattern": "You're preaching to the choir.",
+      "meaning": "나한테 새삼 말할 필요 없어요, 이미 다 알고 있어요 (동의하는 사람한테 설득하려 한다는 뜻)",
+      "example": "A: You really should back up your files more often. B: You're preaching to the choir — I lost everything last month.",
+      "example_kr": "A: 파일 백업 좀 자주 해야 한다. B: 나한테 새삼 말할 필요 없어 — 지난달에 다 날렸잖아."
+    },
+    {
+      "pattern": "Let's not go there.",
+      "meaning": "그 얘기는 꺼내지 말자 / 그 주제는 피하자 (불편하거나 민감한 화제를 피할 때 쓰는 표현)",
+      "example": "A: So, about what happened at the last team dinner… B: Let's not go there. That was a mess.",
+      "example_kr": "A: 그래서, 저번 팀 회식 때 있었던 일 말인데… B: 그 얘기는 하지 말자. 완전 난리였잖아."
+    },
+    {
+      "pattern": "주어 + be동사 + not cut out for + 명사/~ing",
+      "meaning": "~에 맞지 않다, ~에 소질이 없다 (어떤 일·역할이 자신에게 맞지 않음을 표현하는 패턴)",
+      "example": "Honestly, I'm not cut out for working night shifts. It's killing me.",
+      "example_kr": "솔직히 나는 야간 근무에는 맞지 않아. 죽겠어."
+    },
+    {
+      "pattern": "주어 + couldn't + 비교급 + if + 주어 + tried",
+      "meaning": "아무리 해도 그렇게 ~할 수 없다 / 최상의 상태임을 강조하는 역설적 표현",
+      "example": "This steak couldn't be more perfect if they tried. Absolutely incredible.",
+      "example_kr": "이 스테이크는 더 완벽할 수가 없을 정도야. 진짜 대단한데."
+    }
+  ],
+  "words": [
+    {
+      "word": "forthcoming",
+      "phonetic": "/ˌfɔːrθˈkʌmɪŋ/",
+      "meaning": "솔직한, 터놓고 말하는; 곧 있을, 임박한",
+      "example": "She wasn't very forthcoming about why she left the company.",
+      "example_kr": "그녀는 회사를 왜 떠났는지 별로 솔직하게 말하지 않았다."
+    },
+    {
+      "word": "coax",
+      "phonetic": "/koʊks/",
+      "meaning": "달래다, 구슬리다, 설득하다",
+      "example": "He managed to coax his friend into trying the spicy dish.",
+      "example_kr": "그는 친구를 달래서 매운 음식을 먹어보게 했다."
+    },
+    {
+      "word": "makeshift",
+      "phonetic": "/ˈmeɪkʃɪft/",
+      "meaning": "임시방편의, 그때그때 때우는",
+      "example": "We used a folded jacket as a makeshift pillow on the long flight.",
+      "example_kr": "우리는 긴 비행 동안 접은 재킷을 임시 베개로 사용했다."
+    },
+    {
+      "word": "toll",
+      "phonetic": "/toʊl/",
+      "meaning": "대가, 피해, 희생; 통행료",
+      "example": "The long hours at work were taking a toll on his health.",
+      "example_kr": "긴 근무 시간이 그의 건강에 악영향을 미치고 있었다."
+    },
+    {
+      "word": "nuance",
+      "phonetic": "/ˈnjuːɑːns/",
+      "meaning": "뉘앙스, 미묘한 차이",
+      "example": "Understanding the nuance of the word helped her sound more natural in English.",
+      "example_kr": "그 단어의 뉘앙스를 이해하자 그녀의 영어가 더 자연스럽게 들렸다."
+    }
+  ]
+}
