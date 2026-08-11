@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Cut me some slack.",
+      "meaning": "좀 봐줘, 너그럽게 봐줘 (지나치게 엄격하게 굴지 말아 달라는 뜻)",
+      "example": "Hey, cut me some slack — it's only my second week on the job.",
+      "example_kr": "야, 좀 봐줘 — 나 일 시작한 지 겨우 2주밖에 안 됐잖아."
+    },
+    {
+      "pattern": "I'll take a wild guess.",
+      "meaning": "한번 어림잡아 말해볼게, 감으로 찍어볼게",
+      "example": "I'll take a wild guess and say the meeting probably got pushed back again.",
+      "example_kr": "감으로 찍어볼게, 회의가 또 미뤄진 것 같아."
+    },
+    {
+      "pattern": "That's what I'm talking about!",
+      "meaning": "바로 이거야!, 그렇지! (기대하던 것이 이루어졌을 때 쓰는 감탄 표현)",
+      "example": "They finally opened a taco place near the office. That's what I'm talking about!",
+      "example_kr": "사무실 근처에 드디어 타코 가게가 생겼어. 바로 이거야!"
+    },
+    {
+      "pattern": "I should have + 과거분사 + instead of + ~ing",
+      "meaning": "~하는 대신 ~했어야 했는데 (후회를 나타내는 패턴)",
+      "example": "I should have taken the subway instead of driving — traffic was terrible.",
+      "example_kr": "운전하는 대신 지하철을 탔어야 했는데 — 교통이 너무 막혔어."
+    },
+    {
+      "pattern": "주어 + wish + 주어 + 동사(과거형), so that + 주어 + could + 동사원형",
+      "meaning": "~이었으면 좋겠는데, 그러면 ~할 수 있을 텐데 (현재 불가능한 상황에 대한 아쉬움)",
+      "example": "I wish I lived closer to the airport so that I could travel more on weekends.",
+      "example_kr": "공항 근처에 살았으면 좋겠는데, 그러면 주말에 더 자주 여행할 수 있을 텐데."
+    }
+  ],
+  "words": [
+    {
+      "word": "plunge",
+      "phonetic": "/plʌndʒ/",
+      "meaning": "뛰어들다, 급락하다, 도전하다",
+      "example": "She decided to take the plunge and start her own business.",
+      "example_kr": "그녀는 용기 내어 자기 사업을 시작하기로 결심했다."
+    },
+    {
+      "word": "frugal",
+      "phonetic": "/ˈfruːɡəl/",
+      "meaning": "절약하는, 검소한",
+      "example": "He's very frugal when traveling — he always books budget hotels.",
+      "example_kr": "그는 여행할 때 매우 검소해 — 항상 저렴한 호텔을 예약하거든."
+    },
+    {
+      "word": "latch",
+      "phonetic": "/læʧ/",
+      "meaning": "걸쇠, 잠그다, 꽉 붙잡다",
+      "example": "Make sure the gate is latched before you leave the yard.",
+      "example_kr": "마당을 떠나기 전에 문이 잠겼는지 확인해."
+    },
+    {
+      "word": "shrewd",
+      "phonetic": "/ʃruːd/",
+      "meaning": "영리한, 기민한, 눈치 빠른",
+      "example": "She made a shrewd decision by buying the apartment before prices went up.",
+      "example_kr": "그녀는 아파트 가격이 오르기 전에 매입하는 영리한 결정을 했다."
+    },
+    {
+      "word": "elusive",
+      "phonetic": "/ɪˈluːsɪv/",
+      "meaning": "찾기 어려운, 파악하기 힘든, 불분명한",
+      "example": "A good work-life balance can feel elusive when you're under a heavy workload.",
+      "example_kr": "업무량이 많을 때는 일과 삶의 균형을 잡기가 어렵게 느껴질 수 있다."
+    }
+  ]
+}
