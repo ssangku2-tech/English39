@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's a tough one.",
+      "meaning": "그거 어렵네요 / 쉽지 않은 문제네요 — 질문이나 상황이 까다로울 때 쓰는 구어체 반응",
+      "example": "A: Should I quit my job or stay? B: That's a tough one. I honestly don't know what I'd do in your shoes.",
+      "example_kr": "A: 일을 그만둬야 할까, 아니면 계속 다녀야 할까? B: 그거 정말 어렵네. 솔직히 나라면 어떻게 했을지 모르겠어."
+    },
+    {
+      "pattern": "I'm just gonna wing it.",
+      "meaning": "그냥 즉흥적으로 해볼게 / 준비 없이 되는 대로 해보겠다는 뜻의 구어 표현",
+      "example": "A: Did you prepare for the presentation? B: Not really. I'm just gonna wing it and hope for the best.",
+      "example_kr": "A: 발표 준비했어? B: 별로. 그냥 즉흥으로 해보고 최선을 바라려고."
+    },
+    {
+      "pattern": "You're overthinking it.",
+      "meaning": "너무 많이 생각하는 거야 / 별거 아닌 걸 복잡하게 만들고 있다고 말할 때",
+      "example": "A: What if they don't like my idea and judge me? B: You're overthinking it. Just say what's on your mind.",
+      "example_kr": "A: 그들이 내 아이디어를 싫어하면 어떡하지, 나를 이상하게 보면? B: 너무 많이 생각하는 거야. 그냥 생각한 대로 말해."
+    },
+    {
+      "pattern": "주어 + be동사 + more than welcome to + 동사원형",
+      "meaning": "얼마든지 ~해도 된다 / 상대방에게 적극적으로 권유하거나 허락할 때 쓰는 정중하고 따뜻한 패턴",
+      "example": "You're more than welcome to stay at my place while you're in town.",
+      "example_kr": "시내에 있는 동안 우리 집에서 얼마든지 머물러도 돼."
+    },
+    {
+      "pattern": "주어 + have + 목적어 + 과거분사",
+      "meaning": "~을 (남에게 시켜) ~하게 하다 / 사역의 결과를 나타내는 패턴으로 서비스·업무 상황에서 자주 쓰임",
+      "example": "I had my laptop repaired before the business trip, so it should be fine now.",
+      "example_kr": "출장 전에 노트북을 수리 맡겼으니까 이제 괜찮을 거야."
+    }
+  ],
+  "words": [
+    {
+      "word": "intermittent",
+      "phonetic": "/ˌɪntərˈmɪtənt/",
+      "meaning": "간헐적인, 단속적인",
+      "example": "The Wi-Fi has been intermittent all morning, so I couldn't finish the upload.",
+      "example_kr": "오전 내내 와이파이가 간헐적으로 끊겨서 업로드를 끝내지 못했어."
+    },
+    {
+      "word": "cordial",
+      "phonetic": "/ˈkɔːrdʒəl/",
+      "meaning": "정중한, 따뜻하게 친절한",
+      "example": "The hotel staff were incredibly cordial and made us feel right at home.",
+      "example_kr": "호텔 직원들이 매우 정중해서 집에 온 것처럼 편안하게 해줬어."
+    },
+    {
+      "word": "retrofit",
+      "phonetic": "/ˈretrəʊfɪt/",
+      "meaning": "(새 장비·기능을) 기존 것에 추가 설치하다, 개조하다",
+      "example": "The company decided to retrofit the old office with energy-saving lighting systems.",
+      "example_kr": "회사는 기존 사무실에 에너지 절약형 조명 시스템을 추가 설치하기로 했다."
+    },
+    {
+      "word": "amiable",
+      "phonetic": "/ˈeɪmiəbl/",
+      "meaning": "상냥한, 붙임성 있는",
+      "example": "Our new manager is really amiable, so the whole team feels comfortable talking to her.",
+      "example_kr": "새 매니저가 정말 상냥해서 팀원 전체가 그녀에게 편하게 말을 걸어."
+    },
+    {
+      "word": "detour",
+      "phonetic": "/ˈdiːtʊr/",
+      "meaning": "우회로, 돌아가는 길; 우회하다",
+      "example": "We had to take a detour because there was a big accident on the highway.",
+      "example_kr": "고속도로에서 큰 사고가 나서 우리는 우회로로 돌아가야 했어."
+    }
+  ]
+}
