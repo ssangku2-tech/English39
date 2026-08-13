@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's a bit awkward.",
+      "meaning": "그거 좀 어색한데. / 좀 곤란한 상황이네. (불편하거나 어색한 상황을 가볍게 표현할 때)",
+      "example": "A: My ex is also coming to the party tonight. B: Oh wow, that's a bit awkward.",
+      "example_kr": "A: 내 전 남자친구도 오늘 파티에 온대. B: 와, 그거 좀 어색하겠는데."
+    },
+    {
+      "pattern": "I'll leave it up to you.",
+      "meaning": "네가 결정해. / 그건 너한테 맡길게. (결정권을 상대방에게 넘길 때 쓰는 표현)",
+      "example": "A: Should we get pizza or burgers? B: Either sounds good to me. I'll leave it up to you.",
+      "example_kr": "A: 피자 먹을까, 버거 먹을까? B: 나는 둘 다 좋아. 네가 결정해."
+    },
+    {
+      "pattern": "You're not gonna believe this.",
+      "meaning": "이거 믿기 힘들겠지만. / 깜짝 놀랄 얘기가 있어. (놀라운 소식을 꺼낼 때 쓰는 구어체 표현)",
+      "example": "You're not gonna believe this — I ran into our old teacher at the airport!",
+      "example_kr": "이거 믿기 힘들겠지만 — 공항에서 우리 옛날 선생님을 우연히 만났어!"
+    },
+    {
+      "pattern": "주어 + be동사 + likely to + 동사원형",
+      "meaning": "~할 가능성이 높다 / ~할 것 같다 (어떤 일이 일어날 확률이 높음을 나타낼 때)",
+      "example": "The flight is likely to be delayed because of the storm.",
+      "example_kr": "폭풍 때문에 비행기가 연착될 가능성이 높아."
+    },
+    {
+      "pattern": "주어 + find it + 형용사 + to + 동사원형",
+      "meaning": "~하는 것이 …하다고 느끼다 (어떤 행동에 대한 주관적인 느낌이나 평가를 표현할 때)",
+      "example": "I find it really hard to say no when my boss asks for extra help.",
+      "example_kr": "상사가 추가 도움을 요청할 때 거절하기가 정말 어렵더라고."
+    }
+  ],
+  "words": [
+    {
+      "word": "composed",
+      "phonetic": "/kəmˈpoʊzd/",
+      "meaning": "침착한, 차분한",
+      "example": "She stayed composed during the entire interview even when the questions got tough.",
+      "example_kr": "질문이 어려워졌을 때도 그녀는 면접 내내 침착함을 유지했다."
+    },
+    {
+      "word": "stagger",
+      "phonetic": "/ˈstæɡər/",
+      "meaning": "비틀거리다; (일정 등을) 엇갈리게 배치하다",
+      "example": "The company decided to stagger lunch breaks so the cafeteria wouldn't get too crowded.",
+      "example_kr": "회사는 구내식당이 너무 붐비지 않도록 점심 시간을 엇갈려 배치하기로 했다."
+    },
+    {
+      "word": "blunder",
+      "phonetic": "/ˈblʌndər/",
+      "meaning": "큰 실수, 실책",
+      "example": "Sending that email to the wrong client was a serious blunder.",
+      "example_kr": "잘못된 고객에게 그 이메일을 보낸 건 심각한 실수였다."
+    },
+    {
+      "word": "niche",
+      "phonetic": "/niːʃ/",
+      "meaning": "틈새, 적합한 자리; 틈새의",
+      "example": "They found a niche market for handmade leather goods online.",
+      "example_kr": "그들은 온라인에서 수제 가죽 제품에 대한 틈새 시장을 발견했다."
+    },
+    {
+      "word": "leverage",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "meaning": "영향력, 지렛대 역할; 활용하다",
+      "example": "She used her language skills as leverage to get a better job offer.",
+      "example_kr": "그녀는 더 좋은 취업 제안을 받기 위해 언어 능력을 활용했다."
+    }
+  ]
+}
