@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's a tough sell.",
+      "meaning": "설득하기 어렵다, 납득시키기 힘들다 (상대방을 설득하는 게 쉽지 않을 때 쓰는 표현)",
+      "example": "Convincing my boss to approve a four-day workweek? That's a tough sell.",
+      "example_kr": "상사에게 주 4일 근무를 승인받는다고? 그건 설득하기 쉽지 않을 거야."
+    },
+    {
+      "pattern": "I'll let it slide this time.",
+      "meaning": "이번 한 번은 그냥 넘어갈게 (실수나 잘못을 봐줄 때 쓰는 구어체 표현)",
+      "example": "You forgot to send the report, but I'll let it slide this time. Just don't make it a habit.",
+      "example_kr": "보고서 보내는 걸 잊었네, 이번 한 번은 그냥 넘어갈게. 근데 습관이 되면 안 돼."
+    },
+    {
+      "pattern": "I'm all ears.",
+      "meaning": "다 들을게, 말해봐 (상대방 이야기를 집중해서 들을 준비가 됐다는 표현)",
+      "example": "You said you had something important to tell me? I'm all ears.",
+      "example_kr": "나한테 중요한 말이 있다고 했지? 다 들을게, 말해봐."
+    },
+    {
+      "pattern": "주어 + be동사 + used to + ~ing",
+      "meaning": "~하는 것에 익숙하다 (현재 습관적으로 익숙해진 상태를 나타내는 패턴)",
+      "example": "She's used to working night shifts, so she doesn't mind staying late.",
+      "example_kr": "그녀는 야간 근무에 익숙해서 늦게까지 있는 것을 개의치 않는다."
+    },
+    {
+      "pattern": "주어 + be동사 + the one + who/that + 동사",
+      "meaning": "~하는 사람은 바로 주어이다 (특정 행동의 주체를 강조할 때 쓰는 패턴)",
+      "example": "He's the one who set up the entire event by himself. Can you believe that?",
+      "example_kr": "그 행사 전체를 혼자 준비한 사람이 바로 그야. 믿겨져?"
+    }
+  ],
+  "words": [
+    {
+      "word": "reticent",
+      "phonetic": "/ˈrɛtɪsənt/",
+      "meaning": "말이 없는, 과묵한, 속내를 잘 드러내지 않는",
+      "example": "She was reticent about sharing her opinion during the meeting.",
+      "example_kr": "그녀는 회의 중에 자신의 의견을 드러내는 것을 꺼렸다."
+    },
+    {
+      "word": "tenacious",
+      "phonetic": "/təˈneɪʃəs/",
+      "meaning": "끈질긴, 집요한, 포기하지 않는",
+      "example": "He's tenacious — he kept applying until he finally got the job.",
+      "example_kr": "그는 끈질겨서 결국 취직될 때까지 계속 지원했다."
+    },
+    {
+      "word": "facet",
+      "phonetic": "/ˈfæsɪt/",
+      "meaning": "측면, 양상, 면 (어떤 사안의 여러 면 중 하나)",
+      "example": "We need to consider every facet of the proposal before making a decision.",
+      "example_kr": "결정을 내리기 전에 그 제안의 모든 측면을 고려해야 한다."
+    },
+    {
+      "word": "grumble",
+      "phonetic": "/ˈɡrʌmbəl/",
+      "meaning": "투덜거리다, 불평하다",
+      "example": "Passengers were grumbling about the long delay at the airport.",
+      "example_kr": "승객들은 공항에서의 긴 지연에 대해 투덜거리고 있었다."
+    },
+    {
+      "word": "poised",
+      "phonetic": "/pɔɪzd/",
+      "meaning": "침착한, 준비된, 태세를 갖춘",
+      "example": "Despite the pressure, she remained poised throughout the presentation.",
+      "example_kr": "압박감에도 불구하고 그녀는 발표 내내 침착함을 유지했다."
+    }
+  ]
+}
