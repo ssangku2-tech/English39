@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's a given.",
+      "meaning": "그건 당연한 거지. / 말할 것도 없어.",
+      "example": "A: Do you think she'll show up on time? B: That's a given — she's never late.",
+      "example_kr": "A: 그녀가 제시간에 올 것 같아? B: 당연하지 — 그녀는 절대 늦는 법이 없잖아."
+    },
+    {
+      "pattern": "I'll sit this one out.",
+      "meaning": "이번엔 빠질게요. / 이번엔 참여 안 할게요.",
+      "example": "A: We're all going to karaoke after dinner. You in? B: I'll sit this one out — I've got an early meeting tomorrow.",
+      "example_kr": "A: 저녁 먹고 다 같이 노래방 갈 건데. 같이 갈 거야? B: 이번엔 빠질게 — 내일 아침 일찍 회의가 있거든."
+    },
+    {
+      "pattern": "I'm on the fence about it.",
+      "meaning": "아직 결정 못 했어요. / 망설이고 있어요.",
+      "example": "A: Are you going to apply for the transfer? B: Honestly, I'm on the fence about it. The pay is better, but I'd have to move cities.",
+      "example_kr": "A: 전근 지원할 거야? B: 솔직히 아직 망설이고 있어. 급여는 더 좋은데 다른 도시로 이사 가야 하잖아."
+    },
+    {
+      "pattern": "주어 + have + been + ~ing + for + 기간 + and + 주어 + be동사 + still + not + 형용사/동사ing",
+      "meaning": "~해온 지 (기간)이 됐는데도 아직 ~하지 않다 — 지속 중인 상황과 미완료 상태를 동시에 강조",
+      "example": "We've been waiting for the package for two weeks and we're still not sure when it'll arrive.",
+      "example_kr": "소포를 2주째 기다리고 있는데 아직도 언제 도착하는지 모르겠어요."
+    },
+    {
+      "pattern": "주어 + would rather + 주어 + 동사(과거형) + than + have + 목적어 + 동사원형",
+      "meaning": "~가 …하는 편이 ~에게 …시키는 것보다 낫다 — 타인의 행동에 대한 선호를 나타냄",
+      "example": "I would rather you handled the complaint than have the intern deal with it alone.",
+      "example_kr": "인턴 혼자 처리하게 두는 것보다 네가 그 불만을 처리하는 게 낫겠어."
+    }
+  ],
+  "words": [
+    {
+      "word": "fumble",
+      "phonetic": "/ˈfʌmbəl/",
+      "meaning": "(말·행동을) 더듬다, 실수로 떨어뜨리다",
+      "example": "He fumbled for the right words when the manager asked why the report was late.",
+      "example_kr": "매니저가 보고서가 왜 늦었냐고 묻자 그는 말을 더듬었다."
+    },
+    {
+      "word": "curt",
+      "phonetic": "/kɜːrt/",
+      "meaning": "(말·태도가) 무뚝뚝한, 퉁명스러운",
+      "example": "Her reply was so curt that everyone at the table felt uncomfortable.",
+      "example_kr": "그녀의 대답이 너무 퉁명스러워서 테이블에 있던 모두가 불편함을 느꼈다."
+    },
+    {
+      "word": "liaison",
+      "phonetic": "/liˈeɪzɑːn/",
+      "meaning": "연락 담당자, 중간 연결고리",
+      "example": "She acts as a liaison between the design team and the clients.",
+      "example_kr": "그녀는 디자인 팀과 고객 사이의 연락 담당자 역할을 한다."
+    },
+    {
+      "word": "ponder",
+      "phonetic": "/ˈpɑːndər/",
+      "meaning": "깊이 생각하다, 심사숙고하다",
+      "example": "He sat quietly, pondering whether to accept the job offer abroad.",
+      "example_kr": "그는 해외 취업 제안을 받아들일지 조용히 심사숙고하며 앉아 있었다."
+    },
+    {
+      "word": "brunt",
+      "phonetic": "/brʌnt/",
+      "meaning": "(충격·비난 등의) 주요 부분, 직격탄",
+      "example": "The front-desk staff bore the brunt of the customers' frustration during the system outage.",
+      "example_kr": "시스템 장애 동안 프런트 데스크 직원들이 고객들의 불만을 고스란히 받아냈다."
+    }
+  ]
+}
