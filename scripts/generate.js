@@ -46,7 +46,27 @@ for (const f of files) {
   } catch {}
 }
 const avoidPhrases = phraseList.join(' / ');
-const avoidWords = [...usedWords].join(', ');
+// 단어는 알파벳순으로 정렬해서 넣는다 — 목록이 길어도 모델이 후보를 대조하기 쉬워진다
+const avoidWords = [...usedWords].filter(Boolean).sort().join(', ');
+
+// 날짜마다 다른 상황을 지정해 단어 풀이 한쪽으로 쏠리지 않게 한다 (이력이 쌓일수록 중복의 주범)
+const THEMES = [
+  '식당·카페에서의 주문과 외식',
+  '공항·호텔·길찾기 등 여행',
+  '회의·이메일·보고 등 직장 업무',
+  '친구·가족과의 사적인 대화와 약속',
+  '전화·문자·온라인 메신저 소통',
+  '쇼핑·결제·교환환불',
+  '건강·병원·운동·컨디션',
+  '집·이사·수리·집안일',
+  '예약·계약·행정 처리 같은 생활 절차',
+  '감정·성격·인간관계 묘사'
+];
+const theme = THEMES[Math.floor(Date.parse(dateKey + 'T00:00:00Z') / 86400000) % THEMES.length];
+
+// 하루치에 필요한 개수와, 중복을 걸러내기 위해 넉넉히 받아올 개수
+const NEED_WORDS = 5;
+const ASK_WORDS = 12;
 
 const prompt = `너는 한국인 영어 학습자를 위한 콘텐츠 생성기다. 오늘의 학습 자료를 JSON으로만 출력하라. 설명·코드블록·마크다운 없이 순수 JSON만.
 
@@ -62,15 +82,55 @@ const prompt = `너는 한국인 영어 학습자를 위한 콘텐츠 생성기�
     - pattern 필드에 이런 공식 형태를 넣는다.
     - 두 패턴은 서로 다른 문법 요소(시제·조동사·가정법·비교·관계사 등)를 다루도록 하고, 형태가 비슷한 것끼리 넣지 마라.
   * 각 항목 형식: {pattern(영어 표현/패턴), meaning(한국어 의미·뉘앙스), example(자연스러운 대화체 예문), example_kr(예문 번역)}
-- words: 실용 영어 단어 5개. {word, phonetic(IPA 발음기호 예 /ˈhæpi/), meaning(한국어 뜻), example(영어 예문), example_kr(예문 번역)}
+- words: 실용 영어 단어 ${ASK_WORDS}개. {word, phonetic(IPA 발음기호 예 /ˈhæpi/), meaning(한국어 뜻), example(영어 예문), example_kr(예문 번역)}
+  * 서로 다른 품사(동사·형용사·명사·부사)와 서로 다른 의미 영역이 골고루 섞이게 하라.
+  * 단일 단어뿐 아니라 구동사(phrasal verb)나 자주 쓰는 두 단어 표현(예: "wrap up", "run late")도 포함해도 좋다.
 
-난이도 중급. 일상·여행·업무 활용도 높은 것으로. 매일 서로 다른 상황(식당·직장·친구·여행·전화 등)에서 골라 다양성을 확보하라.
-같은 날 안에서도 중복 금지 — patterns 5개끼리, words 5개끼리 서로 겹치는 항목이 하나도 없어야 한다.
+난이도 중급~중상급. 오늘은 특히 **${theme}** 상황에서 자주 쓰이는 것 위주로 고르되, 그 상황에만 갇히지는 마라.
+같은 날 안에서도 중복 금지 — patterns끼리, words끼리 서로 겹치는 항목이 하나도 없어야 한다.
 ${avoidPhrases ? `\n다음 문구들은 이미 사용했으니 의미가 겹치는 표현도 포함해 절대 중복 금지:\n${avoidPhrases}` : ''}
-${avoidWords ? `\n이미 사용한 단어(중복 금지): ${avoidWords}` : ''}
+${avoidWords ? `
+이미 사용한 단어 목록이다(알파벳순). 후보 단어를 하나 정할 때마다 이 목록에 있는지 반드시 대조하고, 있으면 버리고 다른 단어를 골라라.
+같은 어근의 파생형(예: 목록에 assert 가 있으면 assertive·assertion 도)도 중복으로 본다.
+${avoidWords}
+
+이 목록이 길어 고르기 어렵다면, 흔한 단어를 억지로 다시 쓰지 말고 덜 흔하지만 실제로 쓰이는 표현 쪽으로 범위를 넓혀라.` : ''}
 
 형식:
 {"patterns":[{"pattern":"","meaning":"","example":"","example_kr":""}],"words":[{"word":"","phonetic":"","meaning":"","example":"","example_kr":""}]}`;
+
+// 파생형까지 같은 것으로 보기 위한 단어 정규화 (assertive/assertion → assert 계열로 묶인다)
+function wordKey(w) {
+  let k = (w || '').toLowerCase().trim().replace(/[^a-z ]/g, '');
+  if (k.includes(' ')) return k; // 구동사 등 두 단어 표현은 그대로 비교
+  return k.replace(/(iveness|ations|ation|ingly|ility|ously|ness|ment|ance|ence|ive|ion|ing|ely|ly|ed|es|s)$/, '');
+}
+// 이미 쓴 단어의 어근 집합 — 프롬프트가 놓친 파생형 중복을 코드에서 한 번 더 거른다
+const usedWordKeys = new Set([...usedWords].map(wordKey).filter(Boolean));
+
+// 넉넉히 받아온 후보에서 중복이 아닌 것부터 채워 하루치를 고른다.
+// 중복 없는 후보가 모자라면 남은 것으로라도 채운다 — 콘텐츠가 비는 쪽이 더 나쁜 실패다.
+function pickWords(list) {
+  const out = [], taken = new Set();
+  const add = w => {
+    const k = wordKey(w && w.word);
+    if (!k || taken.has(k)) return;
+    taken.add(k); out.push(w);
+  };
+  for (const w of list || []) {
+    if (out.length >= NEED_WORDS) break;
+    if (!usedWordKeys.has(wordKey(w && w.word))) add(w);
+  }
+  const fresh = out.length;
+  for (const w of list || []) {
+    if (out.length >= NEED_WORDS) break;
+    add(w);
+  }
+  if (fresh < NEED_WORDS) {
+    console.warn(`새 단어 후보 부족 — 중복 아닌 것 ${fresh}/${NEED_WORDS} (후보 ${(list || []).length}개). 남은 자리는 중복으로 채움`);
+  }
+  return out;
+}
 
 async function callModel(extra) {
   const res = await fetch('https://api.anthropic.com/v1/messages', {
@@ -82,7 +142,7 @@ async function callModel(extra) {
     },
     body: JSON.stringify({
       model: 'claude-sonnet-4-6',
-      max_tokens: 3000,
+      max_tokens: 4500, // 단어를 넉넉히(ASK_WORDS) 받으므로 잘리지 않게 여유를 둔다
       messages: [{ role: 'user', content: prompt + (extra || '') }]
     })
   });
@@ -135,14 +195,16 @@ function findDupes(day) {
   const dupeWords = [];
   const seenWords = new Set();
   for (const w of day.words || []) {
-    const k = (w.word || '').toLowerCase().trim();
-    if (usedWords.has(k) || seenWords.has(k)) dupeWords.push(w.word);
+    const k = wordKey(w.word);
+    if (usedWordKeys.has(k) || seenWords.has(k)) dupeWords.push(w.word);
     seenWords.add(k);
   }
   return { dupePhrases, dupeWords };
 }
 
 const isWellFormed = d => d && Array.isArray(d.patterns) && Array.isArray(d.words);
+// 넉넉히 받은 단어 후보 중 중복 아닌 것부터 5개를 골라 하루치 형태로 확정한다
+const prepare = d => ({ ...d, words: pickWords(d.words) });
 
 async function main() {
   // 형식(또는 파싱)이 어긋나면 그날 콘텐츠가 통째로 비므로, 실패해도 바로 포기하지 말고 다시 물어본다
@@ -150,8 +212,8 @@ async function main() {
   const FORMAT_RETRIES = 3;
   for (let attempt = 1; attempt <= FORMAT_RETRIES; attempt++) {
     try {
-      const got = await callModel(attempt > 1 ? '\n\n반드시 위 "형식"의 JSON 객체만 출력하라. 최상위에 patterns 배열과 words 배열이 각각 5개씩 있어야 하며, 다른 키로 감싸거나 설명을 덧붙이지 마라.' : '');
-      if (isWellFormed(got)) { day = got; break; }
+      const got = await callModel(attempt > 1 ? `\n\n반드시 위 "형식"의 JSON 객체만 출력하라. 최상위에 patterns 배열 5개와 words 배열 ${ASK_WORDS}개가 있어야 하며, 다른 키로 감싸거나 설명을 덧붙이지 마라.` : '');
+      if (isWellFormed(got)) { day = prepare(got); break; }
       console.warn(`형식 오류(시도 ${attempt}/${FORMAT_RETRIES}) — 최상위 키: [${Object.keys(got || {}).join(', ')}] → 재요청`);
     } catch (e) {
       console.warn(`응답 처리 실패(시도 ${attempt}/${FORMAT_RETRIES}): ${e.message} → 재요청`);
@@ -170,7 +232,7 @@ async function main() {
     try {
       const retry = await callModel(`\n\n방금 생성한 것 중 다음은 이미 사용된 중복이다. 완전히 다른 표현/단어로 전부 교체하라: 문구 [${dupePhrases.join(', ')}] 단어 [${dupeWords.join(', ')}]`);
       if (isWellFormed(retry)) {
-        day = retry;
+        day = prepare(retry);
         ({ dupePhrases, dupeWords } = findDupes(day));
       }
     } catch (e) {
