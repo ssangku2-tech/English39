@@ -1,4 +1,4 @@
-const CACHE='one-more-english-v35';
+const CACHE='one-more-english-v36';
 const ASSETS=['./','./index.html','./manifest.json','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',e=>{
   e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)));

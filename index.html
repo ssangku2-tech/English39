@@ -549,8 +549,21 @@ async function fetchDay(key,cache,quiet){
   }
 }
 
+// 오늘 콘텐츠가 아직 만들어지지 않았을 때, 대신 보여줄 가장 최근 날짜를 찾는다
+async function latestAvailableDay(){
+  try{
+    const res=await fetch(`content/index.json?t=${Date.now()}`,{cache:'no-store'});
+    if(!res.ok)return null;
+    const list=await res.json();
+    if(!Array.isArray(list))return null;
+    const past=list.filter(k=>typeof k==='string'&&k<todayKey()).sort();
+    return past.length?past[past.length-1]:null;
+  }catch(e){ return null; }
+}
+
 let TAB='today';
 let dayView=todayKey();
+let dayFallback=false; // 오늘 대신 과거 날짜를 대신 보여주는 중인지
 let pIdx=DB.get('lastPhrase',0), vIdx=0, mIdx=0;
 let vocabOpen=new Set(); // 펼쳐진 단어 인덱스
 let todayDayData=null; // 현재 보고 있는 Today 콘텐츠 (선택 저장용)
@@ -651,14 +664,26 @@ async function renderToday(view,seq){
     view.innerHTML='<div class="empty"><div class="ill">📅</div><span class="big">미래의 날이에요</span>아직 오지 않은 날짜입니다.</div>';
     return;
   }
-  if(day==='ERR'){setProgress(0);return}
+  if(day==='ERR'){
+    // 오늘 콘텐츠가 아직 없으면(생성 실패·지연) 빈 화면 대신 가장 최근 날짜로 대체해서 보여준다
+    if(dayView===todayKey()){
+      const alt=await latestAvailableDay();
+      if(seq!==undefined && seq!==renderSeq) return;
+      if(alt && alt!==dayView){ dayView=alt; dayFallback=true; setHeader(); return await renderToday(view,seq); }
+    }
+    setProgress(0); return;
+  }
   todayDayData=day;
 
   const completed = DB.get('completed',{})[dayView]===true;
   setProgress(completed?100:8);
 
+  if(dayView===todayKey()) dayFallback=false; // 오늘 콘텐츠가 도착함
   let html='';
   html+=dateStrip();
+  if(dayFallback){
+    html+=`<div class="card" style="text-align:center;font-size:13.5px;line-height:1.6;opacity:.8">오늘의 콘텐츠는 아직 준비 중이에요.<br>가장 최근 날짜를 대신 보여드립니다.</div>`;
+  }
   html+=`<div class="sec-label"><span class="dot"></span>Today's Phrases<span class="cnt">${day.patterns.length}</span></div>`;
   day.patterns.forEach((p,pi)=>{
     const saved=isPatternSaved(p);
@@ -754,7 +779,7 @@ function dateStrip(){
   });
   return `<div class="date-strip" id="dateStrip">${chips}</div>`;
 }
-function pickDay(key){ dayView=key; render(); }
+function pickDay(key){ dayView=key; dayFallback=false; render(); }
 function moveDay(dir){
   const cache=DB.get('days',{});
   const keys=Object.keys(cache).sort();

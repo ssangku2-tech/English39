@@ -99,11 +99,27 @@ async function callModel(extra) {
     throw new Error(`응답이 완전하지 않습니다 (stop_reason: ${data.stop_reason}). 저장하지 않음.`);
   }
 
+  // 모델이 JSON 앞뒤에 인사말·설명을 덧붙이는 경우가 있어 바깥 { } 구간만 잘라낸다
+  const s = txt.indexOf('{'), e = txt.lastIndexOf('}');
+  const json = (s > -1 && e > s) ? txt.slice(s, e + 1) : txt;
+
   try {
-    return JSON.parse(txt);
-  } catch (e) {
-    throw new Error('JSON 파싱 실패 (응답이 잘렸을 수 있음). 저장하지 않음. 응답 일부: ' + txt.slice(-200));
+    return normalizeDay(JSON.parse(json));
+  } catch (err) {
+    throw new Error('JSON 파싱 실패 (응답이 잘렸을 수 있음). 응답 일부: ' + txt.slice(-200));
   }
+}
+
+// 모델이 가끔 {"data":{...}} 처럼 한 겹 감싸거나 배열 대신 객체 맵으로 주는 것을 표준 형태로 되돌린다
+function normalizeDay(obj) {
+  if (!obj || typeof obj !== 'object') return obj;
+  // 한 겹 감싼 경우: patterns/words 를 가진 하위 객체를 찾아 끌어올린다
+  if (!obj.patterns && !obj.words) {
+    const inner = Object.values(obj).find(v => v && typeof v === 'object' && (v.patterns || v.words));
+    if (inner) obj = inner;
+  }
+  const toArr = v => Array.isArray(v) ? v : (v && typeof v === 'object' ? Object.values(v) : v);
+  return { ...obj, patterns: toArr(obj.patterns), words: toArr(obj.words) };
 }
 
 // 생성물의 문구/단어가 이미 쓴 것과 겹치는지 검사
@@ -126,11 +142,23 @@ function findDupes(day) {
   return { dupePhrases, dupeWords };
 }
 
-async function main() {
-  let day = await callModel();
+const isWellFormed = d => d && Array.isArray(d.patterns) && Array.isArray(d.words);
 
-  if (!Array.isArray(day.patterns) || !Array.isArray(day.words)) {
-    throw new Error('형식이 올바르지 않습니다 (patterns/words 배열 아님). 저장하지 않음.');
+async function main() {
+  // 형식(또는 파싱)이 어긋나면 그날 콘텐츠가 통째로 비므로, 실패해도 바로 포기하지 말고 다시 물어본다
+  let day = null;
+  const FORMAT_RETRIES = 3;
+  for (let attempt = 1; attempt <= FORMAT_RETRIES; attempt++) {
+    try {
+      const got = await callModel(attempt > 1 ? '\n\n반드시 위 "형식"의 JSON 객체만 출력하라. 최상위에 patterns 배열과 words 배열이 각각 5개씩 있어야 하며, 다른 키로 감싸거나 설명을 덧붙이지 마라.' : '');
+      if (isWellFormed(got)) { day = got; break; }
+      console.warn(`형식 오류(시도 ${attempt}/${FORMAT_RETRIES}) — 최상위 키: [${Object.keys(got || {}).join(', ')}] → 재요청`);
+    } catch (e) {
+      console.warn(`응답 처리 실패(시도 ${attempt}/${FORMAT_RETRIES}): ${e.message} → 재요청`);
+    }
+  }
+  if (!day) {
+    throw new Error(`형식이 올바르지 않습니다 (patterns/words 배열 아님) — ${FORMAT_RETRIES}회 재시도 실패. 저장하지 않음.`);
   }
 
   // 중복이 남아있는 한 최대 3회까지 재생성 시도 (겹친 항목만 알려주고 교체 요청)
@@ -138,10 +166,16 @@ async function main() {
   let { dupePhrases, dupeWords } = findDupes(day);
   for (let attempt = 1; attempt <= MAX_RETRIES && (dupePhrases.length || dupeWords.length); attempt++) {
     console.warn(`중복 감지(시도 ${attempt}) — 문구: [${dupePhrases.join(', ')}] 단어: [${dupeWords.join(', ')}] → 재생성 시도`);
-    const retry = await callModel(`\n\n방금 생성한 것 중 다음은 이미 사용된 중복이다. 완전히 다른 표현/단어로 전부 교체하라: 문구 [${dupePhrases.join(', ')}] 단어 [${dupeWords.join(', ')}]`);
-    if (Array.isArray(retry.patterns) && Array.isArray(retry.words)) {
-      day = retry;
-      ({ dupePhrases, dupeWords } = findDupes(day));
+    // 재생성이 실패해도 이미 확보한 day 는 유효하므로 버리지 않는다
+    try {
+      const retry = await callModel(`\n\n방금 생성한 것 중 다음은 이미 사용된 중복이다. 완전히 다른 표현/단어로 전부 교체하라: 문구 [${dupePhrases.join(', ')}] 단어 [${dupeWords.join(', ')}]`);
+      if (isWellFormed(retry)) {
+        day = retry;
+        ({ dupePhrases, dupeWords } = findDupes(day));
+      }
+    } catch (e) {
+      console.warn(`중복 재생성 실패: ${e.message} → 기존 생성물 유지`);
+      break;
     }
   }
 
