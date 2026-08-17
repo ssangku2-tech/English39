@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "You're gonna love this.",
+      "meaning": "이거 진짜 좋아할 거야 / 깜짝 놀랄 만한 소식이나 것을 소개할 때 쓰는 표현",
+      "example": "You're gonna love this — I got us front-row tickets to the concert!",
+      "example_kr": "이거 진짜 좋아할 거야 — 우리 콘서트 앞줄 티켓 구했어!"
+    },
+    {
+      "pattern": "Let's just say + 주어 + 동사",
+      "meaning": "그냥 간단히 말하자면 ~ / 자세한 설명 없이 핵심만 돌려 말할 때",
+      "example": "Let's just say the dinner didn't go as planned and leave it at that.",
+      "example_kr": "그냥 간단히 말하자면 저녁 식사가 계획대로 되지 않았어, 그 정도로 해두자."
+    },
+    {
+      "pattern": "Count me in.",
+      "meaning": "나도 낄게 / 제안이나 계획에 흔쾌히 동참하겠다는 뜻",
+      "example": "A road trip next weekend? Count me in — I've been dying to get out of the city.",
+      "example_kr": "다음 주말에 로드트립? 나도 낄게 — 도시 밖으로 나가고 싶어 죽겠었거든."
+    },
+    {
+      "pattern": "I was just about to say + that/wh- + 주어 + 동사",
+      "meaning": "나도 막 그 말 하려고 했는데 / 상대방이 자기 생각을 먼저 말했을 때",
+      "example": "I was just about to say that we should reschedule — glad you brought it up first.",
+      "example_kr": "나도 막 일정을 다시 잡아야 할 것 같다고 말하려고 했는데 — 네가 먼저 꺼내줘서 다행이야."
+    },
+    {
+      "pattern": "주어 + have + 목적어 + to + 동사원형 + before + 주어 + 동사",
+      "meaning": "~하기 전에 ~에게/~을 ~하게 해야 한다 / 선행 조건을 표현하는 패턴",
+      "example": "I have my sister to call before we leave, so give me five minutes.",
+      "example_kr": "우리 떠나기 전에 언니한테 전화해야 해서, 5분만 줘."
+    }
+  ],
+  "words": [
+    {
+      "word": "flaky",
+      "phonetic": "/ˈfleɪki/",
+      "meaning": "(약속을) 잘 어기는, 믿기 어려운 (사람)",
+      "example": "He's so flaky — he canceled on us again at the last minute.",
+      "example_kr": "그 사람은 정말 믿을 수가 없어 — 또 마지막 순간에 취소했잖아."
+    },
+    {
+      "word": "drift apart",
+      "phonetic": "/drɪft əˈpɑːrt/",
+      "meaning": "(사이가) 점점 멀어지다, 소원해지다",
+      "example": "We used to be really close, but we've drifted apart since college.",
+      "example_kr": "우린 정말 친했었는데, 대학 졸업 이후로 점점 멀어졌어."
+    },
+    {
+      "word": "cozy",
+      "phonetic": "/ˈkoʊzi/",
+      "meaning": "아늑한, 편안한",
+      "example": "Their new apartment is small but incredibly cozy — I loved hanging out there.",
+      "example_kr": "그들의 새 아파트는 작지만 엄청 아늑해 — 거기서 시간 보내는 게 정말 좋았어."
+    },
+    {
+      "word": "sentimental",
+      "phonetic": "/ˌsɛntɪˈmɛntl/",
+      "meaning": "감성적인, 추억에 잠기는",
+      "example": "I got a little sentimental looking through our old photos from that trip.",
+      "example_kr": "그 여행에서 찍은 오래된 사진들을 보다가 조금 감성적이 됐어."
+    },
+    {
+      "word": "tag along",
+      "phonetic": "/tæɡ əˈlɒŋ/",
+      "meaning": "따라가다, 함께 따라붙다",
+      "example": "Do you mind if my cousin tags along to dinner tonight?",
+      "example_kr": "오늘 저녁에 내 사촌이 같이 따라가도 괜찮아?"
+    }
+  ]
+}
