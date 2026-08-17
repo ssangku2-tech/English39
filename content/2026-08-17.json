@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm down for that.",
+      "meaning": "나 그거 좋아 / 나 그거 할게 (제안에 동의하거나 참여 의사를 밝힐 때 쓰는 구어체 표현)",
+      "example": "A: We're thinking about grabbing tacos after work. B: I'm down for that. Count me in!",
+      "example_kr": "A: 퇴근 후에 타코 먹으러 가려고. B: 나 좋아. 나도 껴줘!"
+    },
+    {
+      "pattern": "That's a tough call.",
+      "meaning": "결정하기 어렵다 / 판단하기 힘든 상황이다 (두 가지 선택지가 모두 비슷하거나 어려울 때)",
+      "example": "A: Should we book the cheaper hotel or the one closer to the venue? B: That's a tough call. Both have their pros and cons.",
+      "example_kr": "A: 더 저렴한 호텔을 예약할까, 아니면 장소에 더 가까운 걸로 할까? B: 결정하기 어렵네. 둘 다 장단점이 있잖아."
+    },
+    {
+      "pattern": "I could go either way.",
+      "meaning": "어느 쪽이든 괜찮아 / 딱히 선호가 없어 (두 선택지 중 어느 것도 상관없을 때 쓰는 표현)",
+      "example": "A: Do you want to sit inside or outside? B: I could go either way. Whatever you prefer.",
+      "example_kr": "A: 안에 앉을래, 밖에 앉을래? B: 어느 쪽이든 괜찮아. 네가 원하는 대로 해."
+    },
+    {
+      "pattern": "주어 + have + 목적어 + ready + by + 시간/기한",
+      "meaning": "~까지 ~을 준비해 두다 / 특정 시간 전에 무언가를 완료 상태로 만들어 놓겠다는 의지나 계획을 나타냄",
+      "example": "Don't worry — I'll have the report ready by noon so you can review it before the meeting.",
+      "example_kr": "걱정 마세요. 회의 전에 검토하실 수 있도록 정오까지 보고서를 준비해 놓을게요."
+    },
+    {
+      "pattern": "주어 + be동사 + far from + 형용사/명사",
+      "meaning": "전혀 ~하지 않다 / ~와는 거리가 멀다 (기대나 이상과 실제 상태가 크게 다름을 강조할 때)",
+      "example": "The customer service at that airline was far from satisfactory — they didn't help us at all.",
+      "example_kr": "그 항공사 고객 서비스는 전혀 만족스럽지 않았어요. 아무런 도움도 주지 않았거든요."
+    }
+  ],
+  "words": [
+    {
+      "word": "forthcoming",
+      "phonetic": "/ˈfɔːrθˌkʌmɪŋ/",
+      "meaning": "솔직한, 터놓는; 곧 있을, 임박한",
+      "example": "She wasn't very forthcoming about the details of the cancellation policy.",
+      "example_kr": "그녀는 취소 정책의 세부 사항에 대해 별로 터놓고 말하지 않았다."
+    },
+    {
+      "word": "meander",
+      "phonetic": "/miˈændər/",
+      "meaning": "(목적 없이) 천천히 돌아다니다, 구불구불 흐르다",
+      "example": "We spent the afternoon meandering through the old town and stumbled across a lovely café.",
+      "example_kr": "우리는 오후 내내 구시가지를 천천히 돌아다니다가 멋진 카페를 우연히 발견했다."
+    },
+    {
+      "word": "tactful",
+      "phonetic": "/ˈtæktfəl/",
+      "meaning": "요령 있는, 눈치 있는, 상대를 배려하는",
+      "example": "She was very tactful when telling her colleague that the presentation needed more work.",
+      "example_kr": "그녀는 동료에게 발표 자료를 더 다듬어야 한다고 말할 때 매우 요령 있게 전달했다."
+    },
+    {
+      "word": "viable",
+      "phonetic": "/ˈvaɪəbəl/",
+      "meaning": "실행 가능한, 현실적으로 통하는",
+      "example": "Taking the train instead of renting a car turned out to be a more viable option for our trip.",
+      "example_kr": "차를 빌리는 대신 기차를 타는 것이 우리 여행에 더 실행 가능한 선택지였다."
+    },
+    {
+      "word": "adamant",
+      "phonetic": "/ˈædəmənt/",
+      "meaning": "단호한, 완강한, 굽히지 않는",
+      "example": "The manager was adamant that all team members had to attend the Friday briefing in person.",
+      "example_kr": "매니저는 모든 팀원이 금요일 브리핑에 직접 참석해야 한다고 단호하게 말했다."
+    }
+  ]
+}
