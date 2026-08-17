@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Count me in.",
+      "meaning": "나도 끼워줘 / 나도 할게 (제안이나 계획에 흔쾌히 동참할 때 쓰는 표현)",
+      "example": "A: We're all going to the beach this Saturday. B: Count me in! I've been dying to get out of the house.",
+      "example_kr": "A: 우리 이번 토요일에 다 같이 해변 갈 거야. B: 나도 낄게! 진짜 밖에 나가고 싶었거든."
+    },
+    {
+      "pattern": "Rain check?",
+      "meaning": "다음에 하면 안 될까? / 오늘은 못 하겠는데 나중에 하자 (약속을 미룰 때 부드럽게 쓰는 말)",
+      "example": "I'm totally wiped out tonight — can I take a rain check on dinner?",
+      "example_kr": "오늘 밤 너무 지쳐서 — 저녁 식사 다음으로 미뤄도 될까?"
+    },
+    {
+      "pattern": "You're a lifesaver.",
+      "meaning": "정말 고마워, 네 덕에 살았어 (누군가 결정적인 도움을 줬을 때 쓰는 감사 표현)",
+      "example": "You brought the charger just in time — you're a lifesaver!",
+      "example_kr": "딱 맞춰 충전기 가져다줬네 — 정말 살았다!"
+    },
+    {
+      "pattern": "주어 + have + been meaning to + 동사원형 + but + 주어 + keep + ~ing",
+      "meaning": "~하려고 했는데 계속 ~하게 되다 (오래 미뤄온 일을 고백하거나 변명할 때 쓰는 패턴)",
+      "example": "I've been meaning to call you back but I keep getting pulled into meetings.",
+      "example_kr": "다시 전화하려고 했는데 계속 회의에 끌려다니게 되더라고."
+    },
+    {
+      "pattern": "주어 + don't have to + 동사원형 + if + 주어 + don't want to",
+      "meaning": "~하기 싫으면 안 해도 돼 (상대방에게 선택의 여지를 주며 부담을 덜어줄 때 쓰는 패턴)",
+      "example": "You don't have to come to the party if you don't want to — no pressure at all.",
+      "example_kr": "파티에 오기 싫으면 안 와도 돼 — 전혀 부담 갖지 마."
+    }
+  ],
+  "words": [
+    {
+      "word": "flaky",
+      "phonetic": "/ˈfleɪki/",
+      "meaning": "(약속을) 잘 어기는, 믿을 수 없는 (사람)",
+      "example": "She's been so flaky lately — she canceled on us three times this month.",
+      "example_kr": "그녀 요즘 너무 변덕스러워 — 이번 달에만 세 번이나 약속을 취소했어."
+    },
+    {
+      "word": "ditch",
+      "phonetic": "/dɪtʃ/",
+      "meaning": "(약속·사람을) 내팽개치다, 갑자기 빠지다",
+      "example": "He ditched us at the last minute and went home instead.",
+      "example_kr": "그는 마지막 순간에 우리를 두고 그냥 집에 가버렸어."
+    },
+    {
+      "word": "catch",
+      "phonetic": "/kætʃ/",
+      "meaning": "(잠깐) 만나다, 시간을 내다 (casual meeting)",
+      "example": "We should catch lunch sometime this week if you're free.",
+      "example_kr": "이번 주 시간 되면 점심이나 같이 먹자."
+    },
+    {
+      "word": "overreact",
+      "phonetic": "/ˌoʊvərriˈækt/",
+      "meaning": "과잉반응하다, 너무 심하게 반응하다",
+      "example": "I think I overreacted when she was just trying to help me.",
+      "example_kr": "그녀가 그냥 도와주려 했던 건데 내가 너무 심하게 반응한 것 같아."
+    },
+    {
+      "word": "worn out",
+      "phonetic": "/ˌwɔːrn ˈaʊt/",
+      "meaning": "녹초가 된, 완전히 지친",
+      "example": "After that hike I was completely worn out and fell asleep on the couch.",
+      "example_kr": "하이킹 후에 완전히 녹초가 돼서 소파에서 잠들어버렸어."
+    }
+  ]
+}
