@@ -97,7 +97,9 @@ ${avoidWords}
 이 목록이 길어 고르기 어렵다면, 흔한 단어를 억지로 다시 쓰지 말고 덜 흔하지만 실제로 쓰이는 표현 쪽으로 범위를 넓혀라.` : ''}
 
 형식:
-{"patterns":[{"pattern":"","meaning":"","example":"","example_kr":""}],"words":[{"word":"","phonetic":"","meaning":"","example":"","example_kr":""}]}`;
+{"patterns":[{"pattern":"","meaning":"","example":"","example_kr":""}],"words":[{"word":"","phonetic":"","meaning":"","example":"","example_kr":""}]}
+
+마지막 확인: patterns 는 반드시 [원어민 표현 3개 → 문법 패턴 2개] 순서의 5개다. 이 개수와 순서를 어기지 마라. words 는 ${ASK_WORDS}개다.`;
 
 // 파생형까지 같은 것으로 보기 위한 단어 정규화 (assertive/assertion → assert 계열로 묶인다)
 function wordKey(w) {
@@ -203,8 +205,24 @@ function findDupes(day) {
 }
 
 const isWellFormed = d => d && Array.isArray(d.patterns) && Array.isArray(d.words);
-// 넉넉히 받은 단어 후보 중 중복 아닌 것부터 5개를 골라 하루치 형태로 확정한다
-const prepare = d => ({ ...d, words: pickWords(d.words) });
+
+// 문법 패턴 판별: 자리표시자는 항상 한글(주어·동사원형·형용사…)이거나 " + " 로 이어붙인 공식 형태다.
+// 원어민 표현("Count me in.")은 순수 영어 문장이므로 둘 다 걸리지 않는다.
+const isGrammarPattern = p => /[가-힣]/.test(p && p.pattern || '') || /\s\+\s/.test(p && p.pattern || '');
+
+// 모델이 순서를 섞어 내놓아도 저장 파일은 항상 규약대로 — 원어민 표현 먼저, 문법 패턴 나중.
+// 앱은 배열 순서대로 그리므로 이 순서가 곧 화면 순서가 된다.
+function orderPatterns(list) {
+  const expr = [], gram = [];
+  for (const p of list || []) (isGrammarPattern(p) ? gram : expr).push(p);
+  if (expr.length !== 3 || gram.length !== 2) {
+    console.warn(`패턴 구성이 3(표현)+2(문법)이 아님 — 표현 ${expr.length} · 문법 ${gram.length}. 순서만 맞춰 저장`);
+  }
+  return [...expr, ...gram];
+}
+
+// 넉넉히 받은 단어 후보 중 중복 아닌 것부터 5개를 고르고, 패턴 순서를 규약대로 맞춘다
+const prepare = d => ({ ...d, patterns: orderPatterns(d.patterns), words: pickWords(d.words) });
 
 async function main() {
   // 형식(또는 파싱)이 어긋나면 그날 콘텐츠가 통째로 비므로, 실패해도 바로 포기하지 말고 다시 물어본다

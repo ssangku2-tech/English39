@@ -7,16 +7,16 @@
       "example_kr": "이거 진짜 좋아할 거야 — 우리 콘서트 앞줄 티켓 구했어!"
     },
     {
-      "pattern": "Let's just say + 주어 + 동사",
-      "meaning": "그냥 간단히 말하자면 ~ / 자세한 설명 없이 핵심만 돌려 말할 때",
-      "example": "Let's just say the dinner didn't go as planned and leave it at that.",
-      "example_kr": "그냥 간단히 말하자면 저녁 식사가 계획대로 되지 않았어, 그 정도로 해두자."
-    },
-    {
       "pattern": "Count me in.",
       "meaning": "나도 낄게 / 제안이나 계획에 흔쾌히 동참하겠다는 뜻",
       "example": "A road trip next weekend? Count me in — I've been dying to get out of the city.",
       "example_kr": "다음 주말에 로드트립? 나도 낄게 — 도시 밖으로 나가고 싶어 죽겠었거든."
+    },
+    {
+      "pattern": "Let's just say + 주어 + 동사",
+      "meaning": "그냥 간단히 말하자면 ~ / 자세한 설명 없이 핵심만 돌려 말할 때",
+      "example": "Let's just say the dinner didn't go as planned and leave it at that.",
+      "example_kr": "그냥 간단히 말하자면 저녁 식사가 계획대로 되지 않았어, 그 정도로 해두자."
     },
     {
       "pattern": "I was just about to say + that/wh- + 주어 + 동사",
