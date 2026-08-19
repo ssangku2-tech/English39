@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Does that ring a bell?",
+      "meaning": "그거 기억나? / 그거 들어본 적 있어? (무언가를 떠올리게 하는지 물을 때)",
+      "example": "I mentioned the store near the subway exit — does that ring a bell?",
+      "example_kr": "지하철 출구 근처 가게 얘기했잖아 — 기억나?"
+    },
+    {
+      "pattern": "I'll take it.",
+      "meaning": "그걸로 할게요. (쇼핑 시 구매 결정을 내릴 때 쓰는 표현)",
+      "example": "The price is fair and I love the color. I'll take it.",
+      "example_kr": "가격도 적당하고 색도 마음에 들어요. 그걸로 할게요."
+    },
+    {
+      "pattern": "Can I get a receipt for that?",
+      "meaning": "영수증 받을 수 있을까요? (결제 후 자연스럽게 요청할 때)",
+      "example": "Can I get a receipt for that? I might need it for the return.",
+      "example_kr": "영수증 받을 수 있을까요? 환불할 때 필요할 수도 있어서요."
+    },
+    {
+      "pattern": "주어 + be동사 + eligible + to 동사원형 / for 명사",
+      "meaning": "~할 자격이 되다, ~대상이 되다 (환불·할인·서비스 수혜 여부를 말할 때 자주 쓰임)",
+      "example": "You're eligible for a full refund if you return it within 30 days.",
+      "example_kr": "30일 이내에 반품하시면 전액 환불을 받으실 수 있습니다."
+    },
+    {
+      "pattern": "주어 + would like to + exchange 목적어 + for 명사",
+      "meaning": "~을 ~으로 교환하고 싶다 (교환·환불 상황에서 정중하게 요청할 때)",
+      "example": "I would like to exchange this jacket for a smaller size, if that's possible.",
+      "example_kr": "가능하다면 이 재킷을 더 작은 사이즈로 교환하고 싶어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "defective",
+      "phonetic": "/dɪˈfɛktɪv/",
+      "meaning": "결함이 있는, 불량의",
+      "example": "The screen was defective, so I brought it back to the store.",
+      "example_kr": "화면에 결함이 있어서 가게에 다시 가져갔어요."
+    },
+    {
+      "word": "markdown",
+      "phonetic": "/ˈmɑːrkdaʊn/",
+      "meaning": "가격 인하, 할인",
+      "example": "There's a huge markdown on winter coats this weekend.",
+      "example_kr": "이번 주말에 겨울 코트 가격이 크게 내려요."
+    },
+    {
+      "word": "splurge",
+      "phonetic": "/splɜːrdʒ/",
+      "meaning": "(돈을) 펑펑 쓰다, 사치하다",
+      "example": "I don't usually splurge, but this bag was totally worth it.",
+      "example_kr": "평소엔 잘 안 쓰는데, 이 가방은 정말 그럴 만했어요."
+    },
+    {
+      "word": "haggle",
+      "phonetic": "/ˈhæɡəl/",
+      "meaning": "흥정하다, 가격을 깎으려 하다",
+      "example": "You can haggle at the market, but not at department stores.",
+      "example_kr": "시장에서는 흥정할 수 있지만 백화점에서는 안 돼요."
+    },
+    {
+      "word": "out of stock",
+      "phonetic": "/ˌaʊt əv ˈstɑːk/",
+      "meaning": "품절된, 재고가 없는",
+      "example": "The blue version is out of stock, but the black one is available.",
+      "example_kr": "파란색은 품절됐지만 검은색은 있어요."
+    }
+  ]
+}
