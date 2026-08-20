@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm not feeling my best today.",
+      "meaning": "오늘 몸 상태가 좋지 않다고 자연스럽게 말할 때 쓰는 표현. '최상의 컨디션은 아니다'는 뉘앙스.",
+      "example": "I'm not feeling my best today — I think I might be coming down with something.",
+      "example_kr": "오늘 몸 상태가 좀 안 좋아. 뭔가 걸리려는 것 같아."
+    },
+    {
+      "pattern": "Take it easy.",
+      "meaning": "무리하지 말고 천천히 쉬라는 의미. 아픈 사람에게 걱정하며 건네거나, 긴장한 사람을 달랠 때도 씀.",
+      "example": "You just had surgery — take it easy for a few days, okay?",
+      "example_kr": "방금 수술했잖아 — 며칠은 무리하지 말고 쉬어, 알겠지?"
+    },
+    {
+      "pattern": "I've been pushing myself too hard lately.",
+      "meaning": "최근에 너무 무리했다는 뜻. 과로·과훈련 후 몸이 안 좋을 때 자주 쓰는 표현.",
+      "example": "I've been pushing myself too hard lately, and now my body's just shutting down.",
+      "example_kr": "요즘 너무 무리했더니 이제 몸이 그냥 버티질 못하네."
+    },
+    {
+      "pattern": "주어 + have/has + been + ~ing + for + 기간, but + 주어 + still haven't/hasn't + 과거분사",
+      "meaning": "일정 기간 동안 계속 ~해왔지만 아직 결과가 없다는 것을 표현하는 패턴. 노력·치료·운동 등의 지속과 미완을 동시에 나타냄.",
+      "example": "I've been working out every day for three months, but I still haven't lost much weight.",
+      "example_kr": "3개월째 매일 운동하고 있는데, 아직도 살이 별로 안 빠졌어."
+    },
+    {
+      "pattern": "주어 + be동사 + supposed to + 동사원형, but + 주어 + ended up + ~ing + instead",
+      "meaning": "원래 ~하기로 되어 있었지만 결국 다른 것을 하게 됐다는 패턴. 계획과 실제 결과의 차이를 나타낼 때 씀.",
+      "example": "I was supposed to go for a run this morning, but I ended up sleeping in instead.",
+      "example_kr": "오늘 아침에 달리기 하러 가기로 했는데, 결국 그냥 늦잠 자버렸어."
+    }
+  ],
+  "words": [
+    {
+      "word": "nauseated",
+      "phonetic": "/ˈnɔːzieɪtɪd/",
+      "meaning": "메스꺼운, 구역질 나는 (형용사)",
+      "example": "I felt nauseated after eating street food, so I skipped dinner.",
+      "example_kr": "길거리 음식을 먹고 나서 메스꺼워서 저녁을 거렀어."
+    },
+    {
+      "word": "flare up",
+      "phonetic": "/flɛr ʌp/",
+      "meaning": "(증상·통증이) 갑자기 악화되다, 재발하다 (구동사)",
+      "example": "My knee injury tends to flare up whenever I run on hard surfaces.",
+      "example_kr": "딱딱한 바닥에서 달리면 무릎 부상이 도지는 경향이 있어."
+    },
+    {
+      "word": "sedentary",
+      "phonetic": "/ˈsɛdənteri/",
+      "meaning": "주로 앉아서 생활하는, 활동량이 적은 (형용사)",
+      "example": "A sedentary lifestyle increases your risk of heart disease and obesity.",
+      "example_kr": "주로 앉아서 생활하는 습관은 심장병과 비만 위험을 높여."
+    },
+    {
+      "word": "recuperate",
+      "phonetic": "/rɪˈkuːpəreɪt/",
+      "meaning": "(병·부상에서) 회복하다 (동사)",
+      "example": "The doctor told him to rest at home and recuperate for at least a week.",
+      "example_kr": "의사가 그에게 집에서 쉬면서 최소 일주일은 회복하라고 했어."
+    },
+    {
+      "word": "groggy",
+      "phonetic": "/ˈɡrɒɡi/",
+      "meaning": "(잠이 덜 깨거나 약 기운으로) 멍한, 비틀거리는 (형용사)",
+      "example": "I felt really groggy the morning after taking the sleeping medication.",
+      "example_kr": "수면제를 먹은 다음 날 아침에 정말 멍했어."
+    }
+  ]
+}
