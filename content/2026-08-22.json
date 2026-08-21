@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Brace yourself.",
+      "meaning": "마음의 준비 해. / 각오해. (안 좋은 소식이나 힘든 상황이 올 때 경고하듯 쓰는 표현)",
+      "example": "Brace yourself — the landlord just raised the rent by 20%.",
+      "example_kr": "각오해 — 집주인이 방금 월세를 20%나 올렸어."
+    },
+    {
+      "pattern": "It's a mess in here.",
+      "meaning": "여기 완전 엉망이야. (집이나 방 상태가 지저분하거나 어수선할 때 자연스럽게 쓰는 말)",
+      "example": "Sorry, it's a mess in here — we're still unpacking from the move.",
+      "example_kr": "미안, 여기 완전 엉망이야 — 이사 짐 아직 다 못 풀었어."
+    },
+    {
+      "pattern": "We'll cross that bridge when we come to it.",
+      "meaning": "그때 가서 생각하자. / 일이 닥치면 그때 해결하면 돼. (미리 걱정하지 말자는 뉘앙스)",
+      "example": "A: What if the pipe bursts again this winter? B: We'll cross that bridge when we come to it.",
+      "example_kr": "A: 이번 겨울에 파이프가 또 터지면 어떡해? B: 그때 가서 생각하자."
+    },
+    {
+      "pattern": "주어 + have/has + had + 목적어 + 과거분사",
+      "meaning": "'~을 (남에게 시켜서/전문가한테 맡겨서) ~되게 했다'는 사역 완료 표현. 직접 하지 않고 타인에게 맡겨 처리했을 때 씀.",
+      "example": "We've finally had the leaky roof fixed — it only took three contractors.",
+      "example_kr": "우리 드디어 새는 지붕 수리 맡겨서 고쳤어 — 업체만 세 군데 불렀다니까."
+    },
+    {
+      "pattern": "What's it going to take to + 동사원형?",
+      "meaning": "'~하려면 어떻게 해야 돼? / 뭐가 필요해?' 상대방이나 상황에 무엇이 필요한지를 묻는 실용적인 패턴.",
+      "example": "What's it going to take to get this apartment properly insulated before winter?",
+      "example_kr": "겨울 전에 이 아파트 단열 제대로 하려면 어떻게 해야 돼?"
+    }
+  ],
+  "words": [
+    {
+      "word": "clog",
+      "phonetic": "/klɒɡ/",
+      "meaning": "(배수구·파이프 등을) 막다, 막히게 하다",
+      "example": "The kitchen sink is clogged again — I think it's the grease buildup.",
+      "example_kr": "주방 싱크대가 또 막혔어 — 기름때가 쌓인 것 같아."
+    },
+    {
+      "word": "drafty",
+      "phonetic": "/ˈdrɑːfti/",
+      "meaning": "(방·건물이) 외풍이 심한, 바람이 새는",
+      "example": "This old apartment is so drafty that we had to seal the windows with tape.",
+      "example_kr": "이 오래된 아파트는 외풍이 너무 심해서 창문을 테이프로 막아야 했어."
+    },
+    {
+      "word": "declutter",
+      "phonetic": "/diːˈklʌtər/",
+      "meaning": "(불필요한 물건을 정리해) 공간을 깔끔하게 하다",
+      "example": "I spent all weekend decluttering the garage and threw out three boxes of stuff.",
+      "example_kr": "주말 내내 차고 정리했는데 박스 세 개 분량을 버렸어."
+    },
+    {
+      "word": "haul",
+      "phonetic": "/hɔːl/",
+      "meaning": "(무거운 것을) 힘껏 끌다, 나르다",
+      "example": "Can you help me haul these moving boxes up to the third floor?",
+      "example_kr": "이 이삿짐 박스들 3층까지 나르는 것 좀 도와줄 수 있어?"
+    },
+    {
+      "word": "dingy",
+      "phonetic": "/ˈdɪndʒi/",
+      "meaning": "(방·건물이) 칙칙한, 어둡고 지저분해 보이는",
+      "example": "The hallway looked so dingy that the landlord agreed to repaint it.",
+      "example_kr": "복도가 너무 칙칙해 보여서 집주인도 다시 페인트칠하기로 했어."
+    }
+  ]
+}
