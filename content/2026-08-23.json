@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can you squeeze me in?",
+      "meaning": "(예약·일정에) 저를 끼워 넣어 줄 수 있나요? — 꽉 찬 스케줄 사이에 자리를 만들어 달라고 부탁할 때 쓰는 구어 표현",
+      "example": "I know you're pretty booked, but can you squeeze me in sometime Thursday?",
+      "example_kr": "많이 바쁜 거 알지만, 목요일 중에 저 좀 끼워 넣어 줄 수 있어요?"
+    },
+    {
+      "pattern": "I'll sort it out.",
+      "meaning": "제가 처리할게요 / 해결할게요 — 문제나 절차를 내가 알아서 정리하겠다는 뉘앙스",
+      "example": "Don't stress about the paperwork — I'll sort it out before the deadline.",
+      "example_kr": "서류 걱정은 하지 마세요, 마감 전에 제가 처리할게요."
+    },
+    {
+      "pattern": "Just to be safe,",
+      "meaning": "혹시 모르니까 / 안전하게 하려고 — 예방 차원에서 한 번 더 확인하거나 조치를 취할 때 앞에 붙이는 표현",
+      "example": "Just to be safe, I made a copy of all the signed contracts.",
+      "example_kr": "혹시 모르니까, 서명된 계약서 전부 복사해 뒀어요."
+    },
+    {
+      "pattern": "I'm going to need you to + 동사원형",
+      "meaning": "~해 주셔야 할 것 같아요 — 상대방에게 특정 행동을 요청하거나 요구할 때, 직접적이지만 딱딱하지 않게 전달하는 패턴",
+      "example": "I'm going to need you to send the updated form by end of day.",
+      "example_kr": "오늘 업무 종료 전까지 업데이트된 양식 보내 주셔야 할 것 같아요."
+    },
+    {
+      "pattern": "주어 + be동사 + required to + 동사원형 + in order to + 동사원형",
+      "meaning": "~하기 위해서는 ~해야 한다 — 규정·절차상 필수 조건을 설명할 때 쓰는 격식·실용 패턴",
+      "example": "You are required to submit a valid ID in order to complete the registration.",
+      "example_kr": "등록을 완료하기 위해서는 유효한 신분증을 제출하셔야 합니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "waive",
+      "phonetic": "/weɪv/",
+      "meaning": "(권리·요금·조건 등을) 포기하다, 면제해 주다",
+      "example": "The bank agreed to waive the processing fee for new account holders.",
+      "example_kr": "은행은 신규 계좌 개설자에게 처리 수수료를 면제해 주기로 했다."
+    },
+    {
+      "word": "notarize",
+      "phonetic": "/ˈnoʊtəraɪz/",
+      "meaning": "(문서를) 공증하다",
+      "example": "You'll need to notarize the document before submitting it to the embassy.",
+      "example_kr": "대사관에 제출하기 전에 그 서류를 공증받으셔야 합니다."
+    },
+    {
+      "word": "contingent",
+      "phonetic": "/kənˈtɪndʒənt/",
+      "meaning": "~에 달려 있는, 조건부의",
+      "example": "The lease renewal is contingent on the landlord's approval.",
+      "example_kr": "임대 계약 갱신은 집주인의 승인 여부에 달려 있다."
+    },
+    {
+      "word": "rescind",
+      "phonetic": "/rɪˈsɪnd/",
+      "meaning": "(계약·결정 등을) 철회하다, 취소하다",
+      "example": "The company decided to rescind the offer after reviewing the candidate's references.",
+      "example_kr": "회사는 지원자의 추천서를 검토한 후 채용 제안을 철회하기로 했다."
+    },
+    {
+      "word": "deferral",
+      "phonetic": "/dɪˈfɜːrəl/",
+      "meaning": "연기, 유예 (납부·이행 등을 나중으로 미루는 것)",
+      "example": "She applied for a tuition deferral due to unexpected financial hardship.",
+      "example_kr": "그녀는 예상치 못한 재정적 어려움으로 인해 등록금 납부 유예를 신청했다."
+    }
+  ]
+}
