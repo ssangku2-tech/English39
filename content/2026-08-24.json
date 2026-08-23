@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's so like him/her.",
+      "meaning": "'딱 그 사람답다'는 뜻으로, 누군가의 전형적인 행동이나 성격을 묘사할 때 쓰는 표현",
+      "example": "He forgot our anniversary again. That's so like him.",
+      "example_kr": "그가 또 우리 기념일을 잊어버렸어. 딱 걔다운 행동이지."
+    },
+    {
+      "pattern": "She's got a lot going on.",
+      "meaning": "'요즘 힘든 일이 많다, 사정이 복잡하다'는 뜻으로 누군가의 상황을 이해하며 쓰는 표현",
+      "example": "Don't be too hard on her — she's got a lot going on right now.",
+      "example_kr": "너무 몰아붙이지 마. 걔 지금 힘든 일이 많거든."
+    },
+    {
+      "pattern": "We just clicked.",
+      "meaning": "'우리는 처음부터 잘 맞았다'는 뜻으로 자연스럽게 친해진 관계를 설명할 때 쓰는 표현",
+      "example": "I met her at the conference and we just clicked right away.",
+      "example_kr": "컨퍼런스에서 그녀를 만났는데 우리는 그냥 바로 통했어."
+    },
+    {
+      "pattern": "주어 + be동사 + the type to + 동사원형",
+      "meaning": "'~하는 타입이다/성향이다'라는 뜻으로 사람의 성격이나 습관적 행동 패턴을 표현할 때 쓰는 패턴",
+      "example": "He's not the type to hold a grudge, so don't worry about it.",
+      "example_kr": "그는 원한을 품는 타입이 아니니까 걱정하지 마."
+    },
+    {
+      "pattern": "주어 + have/has + a tendency to + 동사원형 + when + 주어 + 동사",
+      "meaning": "'~할 때 ~하는 경향이 있다'는 뜻으로 특정 상황에서 반복되는 행동 패턴을 설명하는 패턴",
+      "example": "She has a tendency to shut down when things get too emotional.",
+      "example_kr": "그녀는 상황이 너무 감정적으로 흐를 때 마음을 닫아버리는 경향이 있어."
+    }
+  ],
+  "words": [
+    {
+      "word": "sulk",
+      "phonetic": "/sʌlk/",
+      "meaning": "(기분이 상해) 토라지다, 시무룩하게 굴다",
+      "example": "He's been sulking ever since I told him I couldn't make it to his party.",
+      "example_kr": "내가 그의 파티에 못 간다고 말한 이후로 그는 계속 토라져 있어."
+    },
+    {
+      "word": "condescending",
+      "phonetic": "/ˌkɒndɪˈsɛndɪŋ/",
+      "meaning": "잘난 체하는, 거들먹거리는",
+      "example": "I hate the way he talks to the new interns — he's so condescending.",
+      "example_kr": "그가 신입들한테 말하는 방식이 너무 싫어. 완전 잘난 체하잖아."
+    },
+    {
+      "word": "empathy",
+      "phonetic": "/ˈɛmpəθi/",
+      "meaning": "공감 능력, 감정이입",
+      "example": "What makes her a great leader is her empathy toward her team members.",
+      "example_kr": "그녀를 훌륭한 리더로 만드는 건 팀원들에 대한 공감 능력이야."
+    },
+    {
+      "word": "vindictive",
+      "phonetic": "/vɪnˈdɪktɪv/",
+      "meaning": "앙심을 품은, 복수심이 강한",
+      "example": "After the breakup, he got really vindictive and started spreading rumors about her.",
+      "example_kr": "헤어진 후 그는 정말 앙심을 품고 그녀에 대한 소문을 퍼뜨리기 시작했어."
+    },
+    {
+      "word": "drift apart",
+      "phonetic": "/drɪft əˈpɑːrt/",
+      "meaning": "(관계가) 소원해지다, 서서히 멀어지다",
+      "example": "We used to be really close, but we've drifted apart over the years.",
+      "example_kr": "우리 예전에 정말 친했는데, 세월이 흐르면서 서서히 멀어졌어."
+    }
+  ]
+}
