@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can I get that to go?",
+      "meaning": "포장해 가도 될까요? (식당에서 음식을 포장 요청할 때 쓰는 자연스러운 표현)",
+      "example": "Actually, something came up at work — can I get that to go?",
+      "example_kr": "사실 회사에 일이 생겨서요 — 포장해 가도 될까요?"
+    },
+    {
+      "pattern": "I'll have what she's having.",
+      "meaning": "저 사람이 시킨 걸로 주세요. (메뉴를 고르기 귀찮거나 다른 사람 음식이 맛있어 보일 때 쓰는 표현)",
+      "example": "That looks amazing. You know what, I'll have what she's having.",
+      "example_kr": "저거 정말 맛있어 보이네요. 저도 저 분이 시킨 걸로 주세요."
+    },
+    {
+      "pattern": "Could we get separate checks?",
+      "meaning": "계산서 따로 따로 받을 수 있을까요? (각자 계산할 때 서버에게 부탁하는 표현)",
+      "example": "Hey, before we order — could we get separate checks? It's easier that way.",
+      "example_kr": "주문하기 전에요, 계산서 따로따로 받을 수 있을까요? 그게 더 편해서요."
+    },
+    {
+      "pattern": "I can't believe + 주어 + 동사(과거형) + without + ~ing",
+      "meaning": "~하지도 않고 …했다니 믿을 수가 없다 (놀람·불만을 강조할 때 쓰는 패턴)",
+      "example": "I can't believe they brought the bill without asking if we wanted dessert.",
+      "example_kr": "디저트 원하는지 물어보지도 않고 계산서를 가져오다니 믿을 수가 없네."
+    },
+    {
+      "pattern": "주어 + wonder if + 주어 + could + get + 목적어 + 형용사/과거분사",
+      "meaning": "~을 …하게 해줄 수 있는지 여쭤보려고요 (정중하고 완곡한 요청 패턴)",
+      "example": "I wonder if we could get our food reheated — it's gone a bit cold.",
+      "example_kr": "음식을 다시 데워줄 수 있는지 여쭤보려고요 — 좀 식어버려서요."
+    }
+  ],
+  "words": [
+    {
+      "word": "savor",
+      "phonetic": "/ˈseɪvər/",
+      "meaning": "(음식·순간을) 천천히 음미하다",
+      "example": "Take your time and savor every bite — this place is worth it.",
+      "example_kr": "천천히 한 입 한 입 음미해 봐 — 이 집은 그럴 가치가 있어."
+    },
+    {
+      "word": "appetizing",
+      "phonetic": "/ˈæpɪtaɪzɪŋ/",
+      "meaning": "식욕을 돋우는, 맛있어 보이는",
+      "example": "Everything on the menu looks so appetizing — I can't decide.",
+      "example_kr": "메뉴에 있는 게 다 너무 맛있어 보여서 고를 수가 없어."
+    },
+    {
+      "word": "portion",
+      "phonetic": "/ˈpɔːrʃən/",
+      "meaning": "(음식의) 1인분, 양",
+      "example": "The portions here are huge — we should probably share one dish.",
+      "example_kr": "여기 양이 엄청 많아 — 아마 한 개 시켜서 나눠 먹는 게 나을 것 같아."
+    },
+    {
+      "word": "on the side",
+      "phonetic": "/ɒn ðə saɪd/",
+      "meaning": "(소스·반찬 등을) 따로, 곁들여",
+      "example": "Could I get the dressing on the side, please?",
+      "example_kr": "드레싱을 따로 주실 수 있을까요?"
+    },
+    {
+      "word": "peckish",
+      "phonetic": "/ˈpɛkɪʃ/",
+      "meaning": "조금 배고픈, 출출한 (영·미 구어체)",
+      "example": "I'm feeling a bit peckish — should we grab a snack before the movie?",
+      "example_kr": "나 좀 출출한데 — 영화 보기 전에 간식 하나 먹을까?"
+    }
+  ]
+}
