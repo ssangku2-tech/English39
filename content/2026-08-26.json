@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "You can't miss it.",
+      "meaning": "길을 알려줄 때 '딱 보이니까 놓칠 수 없어요'라는 뜻으로, 찾기 쉽다고 확신시킬 때 쓰는 표현",
+      "example": "Just go straight down this street and turn left at the big fountain — you can't miss it.",
+      "example_kr": "이 길 따라 쭉 가다가 큰 분수에서 왼쪽으로 도세요 — 딱 보일 거예요."
+    },
+    {
+      "pattern": "I'll take the next available one.",
+      "meaning": "항공편·좌석·예약 등에서 '다음에 가능한 걸로 할게요'라고 할 때 쓰는 실용적 구어 표현",
+      "example": "A: Sorry, that flight is fully booked. B: That's okay, I'll take the next available one.",
+      "example_kr": "A: 죄송해요, 그 항공편은 만석이에요. B: 괜찮아요, 다음에 자리 있는 걸로 할게요."
+    },
+    {
+      "pattern": "We're a little backed up.",
+      "meaning": "호텔·식당·공항 등에서 '지금 좀 밀려 있어요(대기가 있어요)'라고 할 때 직원이나 현지인이 자주 쓰는 표현",
+      "example": "Sorry for the wait — we're a little backed up at check-in right now.",
+      "example_kr": "기다려 주셔서 죄송해요 — 지금 체크인이 좀 밀려 있거든요."
+    },
+    {
+      "pattern": "Would you mind if 주어 + 동사(과거형), as long as 주어 + 동사?",
+      "meaning": "'~해도 괜찮으세요, ~하는 한에서요?'처럼 조건을 붙여 정중하게 허락을 구할 때 쓰는 패턴",
+      "example": "Would you mind if I switched seats, as long as the other passenger agrees?",
+      "example_kr": "다른 승객이 동의하는 한, 제가 좌석을 바꿔도 괜찮으실까요?"
+    },
+    {
+      "pattern": "The last time 주어 + 동사(과거), 주어 + 동사(과거)",
+      "meaning": "'마지막으로 ~했을 때, ~였어/~했어'처럼 과거 경험을 비교 근거로 쓸 때 활용하는 패턴",
+      "example": "The last time I stayed here, the room rate included breakfast.",
+      "example_kr": "제가 마지막으로 여기 묵었을 때는 조식이 숙박비에 포함돼 있었어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "embark",
+      "phonetic": "/ɪmˈbɑːrk/",
+      "meaning": "(여행·항해 등을) 시작하다, 탑승하다",
+      "example": "Passengers are requested to embark through Gate 12.",
+      "example_kr": "승객 여러분께서는 12번 게이트를 통해 탑승해 주시기 바랍니다."
+    },
+    {
+      "word": "concourse",
+      "phonetic": "/ˈkɒŋkɔːrs/",
+      "meaning": "(공항·역의) 중앙 홀, 대합실",
+      "example": "Let's meet at the main concourse near the information desk.",
+      "example_kr": "안내 데스크 근처 중앙 홀에서 만나자."
+    },
+    {
+      "word": "stow",
+      "phonetic": "/stoʊ/",
+      "meaning": "(짐을) 수납하다, 넣어 두다",
+      "example": "Please stow your carry-on bag in the overhead compartment.",
+      "example_kr": "기내 수하물을 위쪽 선반에 넣어 주세요."
+    },
+    {
+      "word": "adjoining",
+      "phonetic": "/əˈdʒɔɪnɪŋ/",
+      "meaning": "(방 등이) 연결된, 인접한",
+      "example": "We booked adjoining rooms so the kids could stay next to us.",
+      "example_kr": "아이들이 우리 옆에 있을 수 있도록 연결된 방을 예약했어요."
+    },
+    {
+      "word": "brochure",
+      "phonetic": "/broʊˈʃʊr/",
+      "meaning": "안내 책자, 팸플릿",
+      "example": "The front desk had a brochure for every local attraction in the area.",
+      "example_kr": "프런트 데스크에는 그 지역의 모든 관광지 안내 책자가 있었어요."
+    }
+  ]
+}
