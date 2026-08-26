@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Let's circle back to that.",
+      "meaning": "나중에 그 주제로 다시 돌아오자 / 일단 넘어갔다가 나중에 다시 논의하자는 뜻으로 회의에서 자주 쓰임",
+      "example": "Let's circle back to that after we finish the budget review.",
+      "example_kr": "예산 검토가 끝난 다음에 그 문제로 다시 돌아오죠."
+    },
+    {
+      "pattern": "Can you walk me through it?",
+      "meaning": "그것을 단계별로 설명해 줄 수 있어? / 처음부터 차근차근 설명해 달라는 요청",
+      "example": "I've never used this software before — can you walk me through it?",
+      "example_kr": "이 소프트웨어 처음 써보는데, 차근차근 설명해 줄 수 있어요?"
+    },
+    {
+      "pattern": "Just to clarify,",
+      "meaning": "명확히 하자면 / 오해를 방지하거나 내용을 재확인할 때 문장 앞에 붙이는 표현",
+      "example": "Just to clarify, the meeting starts at 9, not 10, right?",
+      "example_kr": "명확히 하자면, 회의가 10시가 아니라 9시 시작 맞죠?"
+    },
+    {
+      "pattern": "주어 + be동사 + in charge of + 명사/~ing",
+      "meaning": "~을 담당하다 / 책임지다 — 업무 역할이나 담당 범위를 말할 때 쓰는 패턴",
+      "example": "She's in charge of coordinating the project timeline.",
+      "example_kr": "그녀가 프로젝트 일정 조율을 담당하고 있어요."
+    },
+    {
+      "pattern": "주어 + have/has + yet to + 동사원형",
+      "meaning": "아직 ~하지 않았다 — 기대되거나 예정된 일이 아직 완료되지 않았음을 나타낼 때 쓰는 패턴",
+      "example": "We have yet to receive a response from the client.",
+      "example_kr": "클라이언트로부터 아직 답변을 받지 못했습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "bottleneck",
+      "phonetic": "/ˈbɒt.əl.nek/",
+      "meaning": "병목 현상; 일의 흐름을 막는 걸림돌",
+      "example": "The approval process is the biggest bottleneck in our workflow.",
+      "example_kr": "승인 절차가 우리 업무 흐름에서 가장 큰 병목 현상입니다."
+    },
+    {
+      "word": "roll out",
+      "phonetic": "/roʊl aʊt/",
+      "meaning": "(새 제품·정책·시스템 등을) 출시하다, 도입하다",
+      "example": "They're planning to roll out the new system next quarter.",
+      "example_kr": "그들은 다음 분기에 새 시스템을 도입할 계획입니다."
+    },
+    {
+      "word": "concur",
+      "phonetic": "/kənˈkɜːr/",
+      "meaning": "동의하다, 의견이 일치하다 (격식체지만 직장에서 자주 쓰임)",
+      "example": "I concur with the team's recommendation on this matter.",
+      "example_kr": "이 사안에 대한 팀의 권고에 동의합니다."
+    },
+    {
+      "word": "bandwidth",
+      "phonetic": "/ˈbændwɪdθ/",
+      "meaning": "(비유적) 여력, 처리 능력 (업무량을 감당할 시간·에너지)",
+      "example": "I don't have the bandwidth to take on another project right now.",
+      "example_kr": "지금 당장 다른 프로젝트를 맡을 여력이 없어요."
+    },
+    {
+      "word": "succinctly",
+      "phonetic": "/səkˈsɪŋktli/",
+      "meaning": "간결하게, 요점만 짚어서",
+      "example": "Could you explain the issue more succinctly for the report?",
+      "example_kr": "보고서에 넣을 수 있도록 그 문제를 좀 더 간결하게 설명해 줄 수 있어요?"
+    }
+  ]
+}
