@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Catch you later.",
+      "meaning": "나중에 봐, 이따 봐 (작별 인사로 쓰는 캐주얼한 표현)",
+      "example": "I gotta run — catch you later, okay?",
+      "example_kr": "나 가봐야 해 — 이따 봐, 알겠지?"
+    },
+    {
+      "pattern": "You up?",
+      "meaning": "너 깨어 있어? / 지금 있어? (문자나 대화에서 상대방이 응할 수 있는지 확인할 때)",
+      "example": "Hey, you up? I was thinking we could grab some food.",
+      "example_kr": "야, 지금 있어? 뭐 먹으러 갈까 했는데."
+    },
+    {
+      "pattern": "Let's just wing it.",
+      "meaning": "그냥 즉흥적으로 하자, 되는 대로 해보자",
+      "example": "We don't have a reservation, but let's just wing it and see what happens.",
+      "example_kr": "예약은 없는데, 그냥 즉흥적으로 가서 어떻게 되나 보자."
+    },
+    {
+      "pattern": "주어 + have/has + been dying to + 동사원형",
+      "meaning": "~을 정말 하고 싶었다, 몹시 ~하고 싶어 했다 (오랫동안 강하게 원해온 것을 표현)",
+      "example": "I've been dying to try that new ramen place — wanna go this weekend?",
+      "example_kr": "나 그 새로 생긴 라멘집 진짜 가보고 싶었는데 — 이번 주말에 갈래?"
+    },
+    {
+      "pattern": "주어 + can't remember the last time + 주어 + 동사(과거형)",
+      "meaning": "마지막으로 ~한 게 언제인지 기억도 안 난다 (오랫동안 어떤 일을 못 했음을 강조)",
+      "example": "I can't remember the last time we all hung out together like this.",
+      "example_kr": "우리가 이렇게 다 같이 어울린 게 마지막으로 언제였는지 기억도 안 나네."
+    }
+  ],
+  "words": [
+    {
+      "word": "flake",
+      "phonetic": "/fleɪk/",
+      "meaning": "약속을 펑크 내다, 바람 맞히다",
+      "example": "He flaked on us again — I'm so done making plans with him.",
+      "example_kr": "그가 또 우리 약속을 펑크 냈어 — 이제 그 사람이랑 약속 잡는 거 진짜 지쳤어."
+    },
+    {
+      "word": "nudge",
+      "phonetic": "/nʌdʒ/",
+      "meaning": "슬쩍 상기시키다, 살짝 밀어붙이다",
+      "example": "I had to nudge her a couple of times before she finally replied.",
+      "example_kr": "그녀가 답장할 때까지 몇 번 슬쩍 알림을 줘야 했어."
+    },
+    {
+      "word": "catch-up",
+      "phonetic": "/ˈkætʃʌp/",
+      "meaning": "근황 나누기, 밀린 이야기 나누기",
+      "example": "We're long overdue for a catch-up — let's grab coffee soon.",
+      "example_kr": "우리 밀린 이야기 나눈 지 너무 됐다 — 빨리 커피 한잔 하자."
+    },
+    {
+      "word": "flimsy",
+      "phonetic": "/ˈflɪmzi/",
+      "meaning": "(핑계·이유가) 빈약한, 설득력 없는",
+      "example": "That's a pretty flimsy excuse for missing my birthday dinner.",
+      "example_kr": "내 생일 저녁을 빠진 것치고는 꽤 빈약한 핑계다."
+    },
+    {
+      "word": "dote on",
+      "phonetic": "/doʊt ɒn/",
+      "meaning": "~을 매우 아끼다, 끔찍이 사랑하다",
+      "example": "He absolutely dotes on his little sister — he'd do anything for her.",
+      "example_kr": "그는 여동생을 정말 끔찍이 아껴 — 그녀를 위해서라면 뭐든 할 것 같아."
+    }
+  ]
+}
