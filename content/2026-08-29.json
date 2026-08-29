@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can you hear me okay?",
+      "meaning": "(전화·영상통화에서) 내 말 잘 들려? 잘 들리나요?",
+      "example": "Can you hear me okay? I think there might be some background noise on my end.",
+      "example_kr": "내 말 잘 들려? 내 쪽에서 배경 소음이 좀 있는 것 같아."
+    },
+    {
+      "pattern": "I'll shoot you a text.",
+      "meaning": "문자 보낼게. (shoot = 빠르게 보내다 뉘앙스)",
+      "example": "I don't have time to explain right now, but I'll shoot you a text later with all the details.",
+      "example_kr": "지금 설명할 시간이 없는데, 나중에 자세한 내용 문자로 보낼게."
+    },
+    {
+      "pattern": "Just drop me a line whenever.",
+      "meaning": "언제든 연락 줘. (편하게 메시지·전화 달라는 가벼운 표현)",
+      "example": "You don't have to call — just drop me a line whenever you figure out the plan.",
+      "example_kr": "전화 안 해도 돼 — 계획 정해지면 언제든 그냥 연락 줘."
+    },
+    {
+      "pattern": "주어 + be동사 + having trouble getting + 명사/~ing + through",
+      "meaning": "(메시지·파일·연결 등이) 전달·연결이 잘 안 되고 있다",
+      "example": "I'm having trouble getting the attachment through — can you check your spam folder?",
+      "example_kr": "첨부 파일이 잘 전달이 안 되고 있어 — 스팸 폴더 한번 확인해 줄 수 있어?"
+    },
+    {
+      "pattern": "주어 + will go ahead and + 동사원형",
+      "meaning": "(기다리거나 망설이지 않고) 그냥 ~하겠다, 먼저 ~할게",
+      "example": "I'll go ahead and send you the Zoom link so you have it ready before the meeting starts.",
+      "example_kr": "미팅 시작 전에 준비해 둘 수 있도록 그냥 먼저 줌 링크 보낼게."
+    }
+  ],
+  "words": [
+    {
+      "word": "glitchy",
+      "phonetic": "/ˈɡlɪtʃi/",
+      "meaning": "오작동이 잦은, 버그가 많은",
+      "example": "My app has been really glitchy lately — it keeps freezing in the middle of calls.",
+      "example_kr": "내 앱이 요즘 자꾸 오작동해 — 통화 중에 계속 멈춰."
+    },
+    {
+      "word": "mute",
+      "phonetic": "/mjuːt/",
+      "meaning": "음소거하다; 음소거 상태의",
+      "example": "Could you mute yourself when you're not talking? There's a lot of echo.",
+      "example_kr": "말 안 할 때는 음소거해 줄 수 있어? 에코가 심해."
+    },
+    {
+      "word": "unread",
+      "phonetic": "/ˌʌnˈrɛd/",
+      "meaning": "읽지 않은 (메시지·알림 등)",
+      "example": "I have over two hundred unread messages in that group chat — I can't keep up.",
+      "example_kr": "그 단체 채팅방에 읽지 않은 메시지가 200개가 넘어 — 도저히 못 따라가겠어."
+    },
+    {
+      "word": "log off",
+      "phonetic": "/lɒɡ ɒf/",
+      "meaning": "(시스템·앱에서) 로그아웃하다, 접속을 끊다",
+      "example": "I'm going to log off for the night — message me tomorrow if anything comes up.",
+      "example_kr": "오늘 밤은 이만 로그아웃할게 — 무슨 일 생기면 내일 메시지 줘."
+    },
+    {
+      "word": "encrypted",
+      "phonetic": "/ɪnˈkrɪptɪd/",
+      "meaning": "암호화된",
+      "example": "Make sure you use an encrypted messaging app when sharing sensitive information.",
+      "example_kr": "민감한 정보를 공유할 때는 암호화된 메신저 앱을 꼭 사용해."
+    }
+  ]
+}
