@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can I swap this out for a different size?",
+      "meaning": "다른 사이즈로 교환할 수 있을까요? – 가게에서 교환을 요청할 때 자연스럽게 쓰는 구어체 표현",
+      "example": "Excuse me, can I swap this out for a different size? This one's too tight.",
+      "example_kr": "실례합니다, 이거 다른 사이즈로 교환할 수 있을까요? 이게 너무 끼네요."
+    },
+    {
+      "pattern": "I'll just put it back.",
+      "meaning": "그냥 내려놓을게요 / 안 살게요 – 살까 말까 고민하다가 포기할 때 쓰는 표현",
+      "example": "Actually, never mind — I'll just put it back. It's a little over my budget.",
+      "example_kr": "아, 괜찮아요 — 그냥 내려놓을게요. 예산을 조금 넘네요."
+    },
+    {
+      "pattern": "Do you have this in stock?",
+      "meaning": "이거 재고 있나요? – 매장에서 물건 가용 여부를 물을 때 쓰는 표현",
+      "example": "Hi, do you have this jacket in stock in a medium? I don't see it on the rack.",
+      "example_kr": "안녕하세요, 이 재킷 미디엄 사이즈 재고 있나요? 매대에서 못 찾겠어요."
+    },
+    {
+      "pattern": "주어 + be동사 + no longer + eligible for + 명사",
+      "meaning": "더 이상 ~을 받을 자격이 없다 – 환불·할인·혜택 등의 자격 박탈을 설명할 때 쓰는 패턴",
+      "example": "I'm sorry, but you're no longer eligible for a full refund since it's been over 30 days.",
+      "example_kr": "죄송합니다만, 30일이 지났기 때문에 전액 환불을 받으실 수 없습니다."
+    },
+    {
+      "pattern": "주어 + would have + 과거분사 + had + 주어 + 과거분사",
+      "meaning": "~했더라면 ~했을 텐데 – 과거 상황에 대한 아쉬움이나 가정을 나타내는 가정법 과거완료 패턴",
+      "example": "I would have bought two had I known they were on sale.",
+      "example_kr": "세일 중인 걸 알았더라면 두 개 샀을 텐데."
+    }
+  ],
+  "words": [
+    {
+      "word": "itemize",
+      "phonetic": "/ˈaɪtəmaɪz/",
+      "meaning": "항목별로 나열하다, 명세를 작성하다",
+      "example": "Could you itemize the charges on my bill? I see something I don't recognize.",
+      "example_kr": "청구서 항목을 하나씩 나열해 주실 수 있나요? 모르는 항목이 보여서요."
+    },
+    {
+      "word": "shrink",
+      "phonetic": "/ʃrɪŋk/",
+      "meaning": "줄어들다, 수축하다",
+      "example": "Don't put that sweater in the dryer — it'll shrink.",
+      "example_kr": "그 스웨터 건조기에 넣지 마세요 — 줄어들어요."
+    },
+    {
+      "word": "tout",
+      "phonetic": "/taʊt/",
+      "meaning": "(적극적으로) 홍보하다, 추천하다",
+      "example": "The salesperson kept touting the extended warranty, but I passed on it.",
+      "example_kr": "직원이 계속 연장 보증을 적극 추천했지만 저는 거절했어요."
+    },
+    {
+      "word": "counterfeit",
+      "phonetic": "/ˈkaʊntərfɪt/",
+      "meaning": "위조된, 가짜의",
+      "example": "The store refused the bill because they suspected it was counterfeit.",
+      "example_kr": "가게에서 위조지폐로 의심된다며 지폐를 거부했어요."
+    },
+    {
+      "word": "tag along",
+      "phonetic": "/tæɡ əˈlɔːŋ/",
+      "meaning": "따라가다, 같이 끼다",
+      "example": "My roommate tagged along while I went shopping, and she ended up spending more than me.",
+      "example_kr": "룸메이트가 쇼핑 갈 때 따라왔는데, 결국 나보다 더 많이 썼어요."
+    }
+  ]
+}
