@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "It's a bit of a hassle.",
+      "meaning": "좀 번거롭다, 꽤 귀찮은 일이다 — 불편하지만 불가능하진 않을 때 쓰는 표현",
+      "example": "Moving all this furniture by myself is a bit of a hassle, honestly.",
+      "example_kr": "솔직히 이 가구를 혼자 다 옮기는 게 좀 번거롭긴 해."
+    },
+    {
+      "pattern": "I'll get someone to look at it.",
+      "meaning": "누군가한테 봐달라고 할게 — 수리·점검이 필요할 때 자연스럽게 쓰는 말",
+      "example": "The faucet's been dripping for days. I'll get someone to look at it this week.",
+      "example_kr": "수도꼭지에서 며칠째 물이 새고 있어. 이번 주에 누군가한테 봐달라고 할게."
+    },
+    {
+      "pattern": "We're gonna have to make do.",
+      "meaning": "그냥 있는 걸로 해결해야 해 — 부족하거나 불완전한 상황에서 버티자고 할 때",
+      "example": "The new couch won't arrive until Friday, so we're gonna have to make do with the old one.",
+      "example_kr": "새 소파는 금요일에나 오니까, 그냥 낡은 거로 버텨야 할 것 같아."
+    },
+    {
+      "pattern": "주어 + have/has + been + 과거분사 + for + 기간, and + 주어 + still need(s) + to + 동사원형",
+      "meaning": "~한 상태가 [기간] 동안 계속됐는데 아직도 ~해야 한다 — 미완료 상태의 지속을 강조할 때",
+      "example": "The ceiling has been leaking for two weeks, and we still need to call a plumber.",
+      "example_kr": "천장에서 2주째 물이 새고 있는데, 아직도 배관공을 불러야 해."
+    },
+    {
+      "pattern": "주어 + be동사 + better off + ~ing + rather than + ~ing",
+      "meaning": "~하는 것보다 차라리 ~하는 게 낫다 — 두 선택지를 비교하며 더 현명한 쪽을 권할 때",
+      "example": "You're better off hiring a contractor rather than trying to fix the roof yourself.",
+      "example_kr": "지붕을 직접 고치려 하기보다는 차라리 시공업자를 고용하는 게 나아."
+    }
+  ],
+  "words": [
+    {
+      "word": "patch up",
+      "phonetic": "/pætʃ ʌp/",
+      "meaning": "(구멍·금 등을) 임시로 때우다, 수선하다",
+      "example": "We patched up the crack in the wall before the landlord came.",
+      "example_kr": "집주인이 오기 전에 벽에 난 균열을 임시로 때웠어."
+    },
+    {
+      "word": "ventilation",
+      "phonetic": "/ˌventɪˈleɪʃən/",
+      "meaning": "환기, 통풍",
+      "example": "The kitchen needs better ventilation — it gets really smoky when we cook.",
+      "example_kr": "부엌에 환기가 더 잘 돼야 해 — 요리할 때 연기가 엄청 차거든."
+    },
+    {
+      "word": "grout",
+      "phonetic": "/ɡraʊt/",
+      "meaning": "(타일 사이의) 줄눈, 메지; 줄눈을 채우다",
+      "example": "The grout between the bathroom tiles has turned black and needs to be replaced.",
+      "example_kr": "욕실 타일 사이 줄눈이 까맣게 변해서 교체해야 해."
+    },
+    {
+      "word": "tidy up",
+      "phonetic": "/ˈtaɪdi ʌp/",
+      "meaning": "깔끔하게 정리하다, 치우다",
+      "example": "Can you tidy up the living room before the guests arrive?",
+      "example_kr": "손님들 오기 전에 거실 좀 정리해줄 수 있어?"
+    },
+    {
+      "word": "clutter",
+      "phonetic": "/ˈklʌtər/",
+      "meaning": "(명) 어지럽게 쌓인 물건들, 잡동사니 (동) 어지르다",
+      "example": "There's too much clutter in the garage — we should donate some of it.",
+      "example_kr": "차고에 잡동사니가 너무 많아 — 일부는 기증해야 할 것 같아."
+    }
+  ]
+}
