@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can you fit me in?",
+      "meaning": "(시간을) 낼 수 있어요? / 예약 자리 있나요? — 일정이 빡빡한 상대에게 짬을 내달라고 부탁할 때 쓰는 구어체 표현",
+      "example": "Hey, I know you're busy, but can you fit me in sometime this week?",
+      "example_kr": "바쁜 거 알지만, 이번 주 중에 시간 좀 낼 수 있어요?"
+    },
+    {
+      "pattern": "I'll put that on hold.",
+      "meaning": "일단 보류해 둘게요 — 예약·주문·결정 등을 잠시 미뤄두거나 대기시킬 때 쓰는 표현",
+      "example": "We don't have the funds right now, so I'll put that on hold until next quarter.",
+      "example_kr": "지금 당장 예산이 없으니 다음 분기까지 보류해 두겠습니다."
+    },
+    {
+      "pattern": "Just to be on the same page,",
+      "meaning": "서로 이해가 같은지 확인하려고 — 오해 없이 내용을 맞추고 싶을 때 대화를 시작하는 표현",
+      "example": "Just to be on the same page, the deadline is Friday at noon, right?",
+      "example_kr": "서로 확인 차 말씀드리는 건데, 마감이 금요일 정오 맞죠?"
+    },
+    {
+      "pattern": "주어 + be동사 + entitled to + 명사/동사원형",
+      "meaning": "~할 자격이 있다 / ~을 받을 권리가 있다 — 규정·계약·법적 권리를 말할 때 쓰는 패턴",
+      "example": "As a premium member, you are entitled to one free cancellation per month.",
+      "example_kr": "프리미엄 회원으로서, 귀하는 한 달에 한 번 무료 취소 권한이 있습니다."
+    },
+    {
+      "pattern": "주어 + have/has + had + 기간 + to + 동사원형, and + 주어 + still + haven't/hasn't + 과거분사",
+      "meaning": "~할 시간이 충분히 있었는데도 아직 ~하지 않았다 — 기한 내 미완료 상황을 지적하거나 답답함을 표현할 때 쓰는 패턴",
+      "example": "They've had two weeks to process the application, and they still haven't responded.",
+      "example_kr": "그쪽에서 신청서를 처리할 시간이 2주나 있었는데, 아직도 답변이 없어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "waiver",
+      "phonetic": "/ˈweɪvər/",
+      "meaning": "(권리·요건의) 포기, 면제 (서류)",
+      "example": "You'll need to sign a liability waiver before participating in the program.",
+      "example_kr": "프로그램에 참가하기 전에 면책 동의서에 서명하셔야 합니다."
+    },
+    {
+      "word": "curtail",
+      "phonetic": "/kərˈteɪl/",
+      "meaning": "(비용·활동 등을) 줄이다, 축소하다",
+      "example": "The company decided to curtail spending on non-essential services this quarter.",
+      "example_kr": "회사는 이번 분기 불필요한 서비스 지출을 줄이기로 했다."
+    },
+    {
+      "word": "clout",
+      "phonetic": "/klaʊt/",
+      "meaning": "(사회적·정치적) 영향력, 힘",
+      "example": "She has a lot of clout in the industry, so her recommendation really matters.",
+      "example_kr": "그녀는 업계에서 영향력이 커서 그녀의 추천은 정말 중요하다."
+    },
+    {
+      "word": "disburse",
+      "phonetic": "/dɪsˈbɜːrs/",
+      "meaning": "(자금을) 지급하다, 지출하다",
+      "example": "The grant will be disbursed in three installments over the next six months.",
+      "example_kr": "보조금은 향후 6개월에 걸쳐 세 차례에 나누어 지급될 것입니다."
+    },
+    {
+      "word": "airtight",
+      "phonetic": "/ˈɛrtaɪt/",
+      "meaning": "(계획·주장·계약 등이) 빈틈없는, 완벽한",
+      "example": "Make sure the contract is airtight before you sign anything.",
+      "example_kr": "서명하기 전에 계약서에 허점이 없는지 꼭 확인하세요."
+    }
+  ]
+}
