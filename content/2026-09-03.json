@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "You really pulled through.",
+      "meaning": "정말 잘 버텨냈어 / 해냈어. 힘든 상황을 이겨냈을 때 칭찬하거나 안도하며 쓰는 표현.",
+      "example": "I heard you had a rough few months, but you really pulled through. I'm so proud of you.",
+      "example_kr": "힘든 몇 달을 보냈다고 들었는데, 정말 잘 버텨냈어. 너무 자랑스럽다."
+    },
+    {
+      "pattern": "He really gets under my skin.",
+      "meaning": "그 사람이 정말 나를 짜증 나게 해. 누군가가 지속적으로 신경을 건드릴 때 쓰는 표현.",
+      "example": "I try to be patient, but honestly, he really gets under my skin sometimes.",
+      "example_kr": "참으려고 하는데, 솔직히 그 사람이 가끔 정말 나를 짜증 나게 해."
+    },
+    {
+      "pattern": "We had a falling-out.",
+      "meaning": "우리 사이가 틀어졌어 / 다퉜어. 관계가 나빠지거나 갈등이 생겼을 때 쓰는 구어체 표현.",
+      "example": "She and I used to be really close, but we had a falling-out over something stupid.",
+      "example_kr": "우리 정말 친했는데, 별것도 아닌 일로 사이가 틀어졌어."
+    },
+    {
+      "pattern": "주어 + can't seem to + 동사원형 + without + ~ing",
+      "meaning": "~하지 않고서는 …을 못 하는 것 같아. 어떤 행동이나 반응이 습관적으로 따라붙을 때 쓰는 패턴.",
+      "example": "He can't seem to give feedback without making it personal. It's really frustrating.",
+      "example_kr": "그는 개인적인 감정 없이는 피드백을 못 주는 것 같아. 정말 짜증 나."
+    },
+    {
+      "pattern": "주어 + be동사 + the kind of person who + 동사",
+      "meaning": "~은 …하는 유형의 사람이야. 누군가의 성격이나 행동 패턴을 묘사할 때 쓰는 패턴.",
+      "example": "She's the kind of person who always knows what to say when you're feeling down.",
+      "example_kr": "그녀는 네가 기분이 안 좋을 때 항상 뭐라고 말해야 할지 아는 사람이야."
+    }
+  ],
+  "words": [
+    {
+      "word": "resentful",
+      "phonetic": "/rɪˈzɛntfəl/",
+      "meaning": "분한, 억울해하는, 원망하는 (형용사)",
+      "example": "She felt resentful toward him for taking credit for her work.",
+      "example_kr": "그녀는 자신의 공을 가로챈 그에게 원망스러운 감정을 느꼈다."
+    },
+    {
+      "word": "dismissive",
+      "phonetic": "/dɪsˈmɪsɪv/",
+      "meaning": "무시하는, 깔아뭉개는 (형용사)",
+      "example": "He was so dismissive of her ideas that she stopped speaking up in meetings.",
+      "example_kr": "그가 그녀의 아이디어를 너무 무시해서 그녀는 회의에서 더 이상 발언을 안 하게 됐다."
+    },
+    {
+      "word": "fume",
+      "phonetic": "/fjuːm/",
+      "meaning": "속으로 부글부글 끓다, 분노를 삭이다 (동사)",
+      "example": "She sat quietly, but you could tell she was fuming on the inside.",
+      "example_kr": "그녀는 조용히 앉아 있었지만 속으로는 부글부글 끓고 있다는 게 느껴졌다."
+    },
+    {
+      "word": "endearing",
+      "phonetic": "/ɪnˈdɪərɪŋ/",
+      "meaning": "사람 마음을 끄는, 귀여운, 호감 가는 (형용사)",
+      "example": "His habit of laughing at his own jokes was actually pretty endearing.",
+      "example_kr": "자기 농담에 스스로 웃는 그의 습관은 사실 꽤 귀엽고 호감 가는 면이 있었다."
+    },
+    {
+      "word": "wear on",
+      "phonetic": "/wɛr ɒn/",
+      "meaning": "(시간이) 서서히 지나가다; (사람을) 점점 지치게 하다, 갉아먹다 (구동사)",
+      "example": "The constant arguments were starting to wear on their friendship.",
+      "example_kr": "끊임없는 다툼이 그들의 우정을 서서히 갉아먹기 시작했다."
+    }
+  ]
+}
