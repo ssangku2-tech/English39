@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Is this the right gate for…?",
+      "meaning": "~행 게이트가 여기 맞나요? — 공항에서 탑승구를 확인할 때 쓰는 자연스러운 질문",
+      "example": "Excuse me, is this the right gate for the flight to Tokyo?",
+      "example_kr": "실례합니다, 도쿄행 비행기 탑승구가 여기 맞나요?"
+    },
+    {
+      "pattern": "I'll figure something out.",
+      "meaning": "어떻게든 해결할게요 — 막막한 상황에서도 방법을 찾겠다는 뉘앙스의 구어 표현",
+      "example": "The hotel is fully booked? Don't worry, I'll figure something out.",
+      "example_kr": "호텔이 만실이라고요? 걱정 마세요, 제가 어떻게든 해결할게요."
+    },
+    {
+      "pattern": "How far is it from here?",
+      "meaning": "여기서 얼마나 멀어요? — 길찾기·교통 상황에서 거리를 물을 때 쓰는 표현",
+      "example": "How far is it from here to the city center by subway?",
+      "example_kr": "여기서 지하철로 시내까지 얼마나 멀어요?"
+    },
+    {
+      "pattern": "주어 + have/has + no trouble + ~ing",
+      "meaning": "~하는 데 전혀 어려움이 없다 — 어떤 일이 수월하게 된다는 것을 표현할 때 씀",
+      "example": "She has no trouble navigating the subway system after living here for a month.",
+      "example_kr": "그녀는 한 달 살고 나서 지하철 노선을 이용하는 데 전혀 어려움이 없어."
+    },
+    {
+      "pattern": "주어 + be동사 + due to + 동사원형 + at/by + 시간",
+      "meaning": "~시까지/에 ~할 예정이다 — 예약·일정·도착 시간을 나타낼 때 쓰는 패턴",
+      "example": "We are due to arrive at the airport by six, so we should leave now.",
+      "example_kr": "우리 여섯 시까지 공항에 도착해야 하니까 지금 출발해야 해."
+    }
+  ],
+  "words": [
+    {
+      "word": "overbook",
+      "phonetic": "/ˌoʊvərˈbʊk/",
+      "meaning": "(좌석·객실 등을) 초과 예약하다",
+      "example": "The airline had overbooked the flight, so two passengers were bumped to a later one.",
+      "example_kr": "항공사가 그 비행편을 초과 예약해서 승객 두 명이 다음 편으로 밀렸어."
+    },
+    {
+      "word": "porter",
+      "phonetic": "/ˈpɔːrtər/",
+      "meaning": "짐꾼, 포터 (호텔·역에서 짐을 날라주는 사람)",
+      "example": "A porter helped us carry the heavy suitcases up to our room.",
+      "example_kr": "포터가 무거운 캐리어를 방까지 올려다 주었다."
+    },
+    {
+      "word": "detain",
+      "phonetic": "/dɪˈteɪn/",
+      "meaning": "억류하다, 지체시키다",
+      "example": "He was detained at customs because his documents were incomplete.",
+      "example_kr": "서류가 불완전해서 그는 세관에서 억류됐어."
+    },
+    {
+      "word": "complimentary",
+      "phonetic": "/ˌkɒmplɪˈmentəri/",
+      "meaning": "무료의, 서비스로 제공되는",
+      "example": "The hotel offers complimentary breakfast for all guests.",
+      "example_kr": "그 호텔은 모든 투숙객에게 조식을 무료로 제공해."
+    },
+    {
+      "word": "layby",
+      "phonetic": "/ˈleɪbaɪ/",
+      "meaning": "차량 대피소, 임시 정차 구역",
+      "example": "Pull into that layby so we can check the map properly.",
+      "example_kr": "지도를 제대로 확인할 수 있게 저 정차 구역으로 들어가."
+    }
+  ]
+}
