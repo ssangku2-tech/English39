@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Let's touch base on that.",
+      "meaning": "그 건에 대해 나중에 다시 얘기하자 / 확인하자 (업무 중 자주 쓰는 가벼운 후속 미팅 제안)",
+      "example": "I don't have all the details yet — let's touch base on that after lunch.",
+      "example_kr": "아직 세부 사항을 다 모르겠어서요 — 점심 후에 그 건 다시 얘기해요."
+    },
+    {
+      "pattern": "I'll loop you in.",
+      "meaning": "너도 (이메일·대화에) 포함시켜 줄게 / 공유해 줄게",
+      "example": "Once I hear back from the client, I'll loop you in so you're not out of the picture.",
+      "example_kr": "클라이언트한테 답변 오면 당신도 포함시켜서 알려드릴게요."
+    },
+    {
+      "pattern": "Can you bring me up to speed?",
+      "meaning": "지금까지 어떻게 됐는지 나한테 좀 설명해줄 수 있어? / 상황 파악 좀 시켜줘",
+      "example": "I missed the first half of the meeting — can you bring me up to speed real quick?",
+      "example_kr": "회의 전반부를 놓쳤는데, 지금까지 어떻게 됐는지 빠르게 좀 설명해줄 수 있어요?"
+    },
+    {
+      "pattern": "주어 + be동사 + cc'd on + 명사",
+      "meaning": "~에 참조(CC)로 포함되다 — 이메일에서 누군가를 참조로 넣거나 넣어달라고 할 때 쓰는 패턴",
+      "example": "Make sure the manager is cc'd on all the budget-related emails going forward.",
+      "example_kr": "앞으로 예산 관련 이메일은 전부 매니저를 참조로 넣어주세요."
+    },
+    {
+      "pattern": "주어 + be동사 + pending + 명사/~ing",
+      "meaning": "~을 기다리는 중이다 / ~이 보류 중이다 — 승인·검토·결정 등이 아직 처리되지 않은 상태를 나타내는 패턴",
+      "example": "The contract is still pending final approval from the legal team, so we can't move forward yet.",
+      "example_kr": "계약서가 아직 법무팀의 최종 승인을 기다리는 중이라 아직 진행이 어렵습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "escalate",
+      "phonetic": "/ˈɛskəleɪt/",
+      "meaning": "(문제를 상급자에게) 보고하다, 단계를 높이다",
+      "example": "If the client keeps complaining, we may need to escalate this to upper management.",
+      "example_kr": "클라이언트가 계속 불만을 제기하면 이 문제를 경영진에 보고해야 할 수도 있어요."
+    },
+    {
+      "word": "benchmark",
+      "phonetic": "/ˈbɛntʃmɑːrk/",
+      "meaning": "기준점, 벤치마크; 기준과 비교하다",
+      "example": "We use last quarter's numbers as a benchmark to measure our current performance.",
+      "example_kr": "우리는 지난 분기 수치를 현재 실적을 측정하는 기준으로 삼고 있어요."
+    },
+    {
+      "word": "traction",
+      "phonetic": "/ˈtrækʃən/",
+      "meaning": "(아이디어·사업 등의) 진전, 반응, 힘을 얻는 것",
+      "example": "The new marketing campaign is finally gaining traction with younger audiences.",
+      "example_kr": "새 마케팅 캠페인이 드디어 젊은 층에서 반응을 얻기 시작했어요."
+    },
+    {
+      "word": "defer",
+      "phonetic": "/dɪˈfɜːr/",
+      "meaning": "미루다, 연기하다; (판단·결정을) 다른 사람에게 맡기다",
+      "example": "We decided to defer the launch until the product passes quality testing.",
+      "example_kr": "제품이 품질 테스트를 통과할 때까지 출시를 미루기로 했어요."
+    },
+    {
+      "word": "pull off",
+      "phonetic": "/pʊl ɒf/",
+      "meaning": "(어려운 일을) 해내다, 성공시키다",
+      "example": "I wasn't sure we could pull off a presentation that big with only three days to prepare.",
+      "example_kr": "준비 기간이 사흘밖에 없는데 그렇게 큰 프레젠테이션을 해낼 수 있을지 몰랐어요."
+    }
+  ]
+}
