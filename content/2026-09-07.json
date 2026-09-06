@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm not gonna make it.",
+      "meaning": "(약속·시간에) 못 갈 것 같아, 늦을 것 같아 — 약속을 지키지 못할 때 캐주얼하게 쓰는 표현",
+      "example": "Hey, I'm not gonna make it to dinner tonight. Can we reschedule?",
+      "example_kr": "야, 나 오늘 저녁 약속에 못 갈 것 같아. 다시 잡을 수 있어?"
+    },
+    {
+      "pattern": "You had me at—",
+      "meaning": "'~라고 했을 때 이미 마음이 넘어갔어' — 상대의 말 한 마디에 설득되거나 기대감이 생겼을 때 쓰는 표현",
+      "example": "Free food and board games? You had me at free food.",
+      "example_kr": "공짜 음식에 보드게임? '공짜 음식'이라고 했을 때 이미 마음이 넘어갔어."
+    },
+    {
+      "pattern": "We'll figure it out as we go.",
+      "meaning": "'하다 보면 방법이 생길 거야' — 계획이 없어도 일단 시작하자며 가볍게 넘길 때 쓰는 표현",
+      "example": "I don't have the whole trip planned yet, but we'll figure it out as we go.",
+      "example_kr": "여행 계획이 아직 다 없긴 한데, 가다 보면 어떻게든 될 거야."
+    },
+    {
+      "pattern": "주어 + have/has + been + ~ing + since + 주어 + 동사(과거), and + 주어 + be동사 + not about to + 동사원형 + now",
+      "meaning": "'~이래로 쭉 해왔는데 지금 와서 그만둘 생각은 없어' — 오랜 습관이나 태도를 강조하며 바꿀 의사가 없음을 나타낼 때 쓰는 패턴",
+      "example": "She has been keeping that tradition since her mom started it, and she's not about to stop now.",
+      "example_kr": "그녀는 엄마가 시작한 이후로 그 전통을 계속 이어왔고, 지금 와서 그만둘 생각이 없어."
+    },
+    {
+      "pattern": "주어 + be동사 + the last person + 주어 + would expect to + 동사원형",
+      "meaning": "'~이 …할 거라고는 가장 예상 못 했을 사람이야' — 누군가의 행동이나 상황이 전혀 예상 밖임을 강조할 때 쓰는 패턴",
+      "example": "He's the last person I would expect to cancel plans at the last minute.",
+      "example_kr": "그가 마지막 순간에 약속을 취소할 거라고는 가장 예상 못 했는데."
+    }
+  ],
+  "words": [
+    {
+      "word": "bail",
+      "phonetic": "/beɪl/",
+      "meaning": "(약속·모임을) 갑자기 취소하다, 빠지다",
+      "example": "She bailed on us right before the party started.",
+      "example_kr": "그녀는 파티가 시작되기 직전에 갑자기 빠졌어."
+    },
+    {
+      "word": "pester",
+      "phonetic": "/ˈpɛstər/",
+      "meaning": "(귀찮게) 졸라대다, 성가시게 굴다",
+      "example": "My little brother kept pestering me to play games with him all evening.",
+      "example_kr": "남동생이 저녁 내내 나한테 게임 같이 하자고 졸라댔어."
+    },
+    {
+      "word": "lively",
+      "phonetic": "/ˈlaɪvli/",
+      "meaning": "활기찬, 생기 넘치는",
+      "example": "The conversation got really lively once we started talking about old memories.",
+      "example_kr": "옛 추억 얘기를 시작하자 대화가 정말 활기차졌어."
+    },
+    {
+      "word": "reminisce",
+      "phonetic": "/ˌrɛmɪˈnɪs/",
+      "meaning": "(즐겁게) 추억을 회상하다",
+      "example": "We spent the whole night reminiscing about our high school days.",
+      "example_kr": "우리는 밤새 고등학교 시절 추억을 회상하며 보냈어."
+    },
+    {
+      "word": "wander",
+      "phonetic": "/ˈwɒndər/",
+      "meaning": "(목적 없이) 돌아다니다, 거닐다",
+      "example": "We had no plans, so we just wandered around the neighborhood all afternoon.",
+      "example_kr": "아무 계획도 없어서 오후 내내 그냥 동네를 돌아다녔어."
+    }
+  ]
+}
