@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Do you have this in a different color?",
+      "meaning": "다른 색상으로 있나요? — 쇼핑 시 색상·사이즈 등 다른 옵션을 물어볼 때 쓰는 자연스러운 표현",
+      "example": "A: Do you have this in a different color? I'm not really into beige. B: Let me check in the back for you.",
+      "example_kr": "A: 이거 다른 색상으로 있나요? 베이지는 별로 안 좋아해서요. B: 뒤쪽 창고 확인해 드릴게요."
+    },
+    {
+      "pattern": "I'll just charge it.",
+      "meaning": "그냥 카드로 긁을게요 — 현금 대신 카드 결제를 선택할 때 편하게 쓰는 표현",
+      "example": "A: How would you like to pay? B: I'll just charge it. I left my cash at home.",
+      "example_kr": "A: 어떻게 결제하시겠어요? B: 그냥 카드로 긁을게요. 현금을 집에 두고 왔거든요."
+    },
+    {
+      "pattern": "Can I get store credit instead?",
+      "meaning": "환불 대신 매장 크레딧(적립금)으로 받을 수 있나요? — 교환·환불 상황에서 매장 크레딧을 요청할 때 쓰는 표현",
+      "example": "A: I'd like to return this jacket. Can I get store credit instead of a refund? B: Absolutely, I can do that for you.",
+      "example_kr": "A: 이 재킷 반품하고 싶은데요. 환불 대신 매장 크레딧으로 받을 수 있나요? B: 물론이죠, 해드릴 수 있어요."
+    },
+    {
+      "pattern": "주어 + be동사 + having + 목적어 + 과거분사 + by + 행위자",
+      "meaning": "~가 …에 의해 ~되고 있는 중이다 — 현재진행 수동태로, 현재 어떤 처리나 작업이 진행 중임을 표현할 때 씀",
+      "example": "My order is having the shipping address updated by the support team right now.",
+      "example_kr": "지금 고객지원팀이 제 주문의 배송 주소를 수정하고 있는 중이에요."
+    },
+    {
+      "pattern": "주어 + would appreciate it if + 주어 + could + 동사원형",
+      "meaning": "~해 주시면 감사하겠습니다 — 정중하게 요청하거나 부탁할 때 쓰는 공손한 조건절 패턴",
+      "example": "I would appreciate it if you could process the refund as soon as possible.",
+      "example_kr": "가능한 한 빨리 환불 처리해 주시면 정말 감사하겠습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "tally up",
+      "phonetic": "/ˈtæli ʌp/",
+      "meaning": "(금액·수량을) 합산하다, 계산하다",
+      "example": "Let me tally up your total before you head to the register.",
+      "example_kr": "계산대로 가시기 전에 총액을 합산해 드릴게요."
+    },
+    {
+      "word": "discrepancy",
+      "phonetic": "/dɪˈskrɛpənsi/",
+      "meaning": "불일치, 차이 (특히 금액·수치 등에서)",
+      "example": "There was a discrepancy between the price on the tag and what showed up at checkout.",
+      "example_kr": "태그에 적힌 가격과 계산 시 나온 금액 사이에 불일치가 있었다."
+    },
+    {
+      "word": "restocking fee",
+      "phonetic": "/ˈriːstɒkɪŋ fiː/",
+      "meaning": "반품 수수료, 재입고 비용",
+      "example": "The store charges a 15% restocking fee for opened electronics.",
+      "example_kr": "그 매장은 개봉된 전자제품에 15% 반품 수수료를 부과한다."
+    },
+    {
+      "word": "impulse buy",
+      "phonetic": "/ˈɪmpʌls baɪ/",
+      "meaning": "충동구매",
+      "example": "That scarf was totally an impulse buy — I didn't even need it.",
+      "example_kr": "그 스카프는 완전한 충동구매였어 — 필요하지도 않았는데."
+    },
+    {
+      "word": "deflect",
+      "phonetic": "/dɪˈflɛkt/",
+      "meaning": "(책임·질문 등을) 피하다, 돌리다",
+      "example": "The manager tried to deflect the complaint by blaming the supplier.",
+      "example_kr": "매니저는 공급업체 탓을 하며 불만을 회피하려 했다."
+    }
+  ]
+}
