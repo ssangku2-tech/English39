@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm not at my best, but I'll push through.",
+      "meaning": "컨디션이 좋지 않지만 버텨낼 것이라는 표현. 몸 상태나 집중력이 떨어질 때 자연스럽게 쓰는 구어체 표현.",
+      "example": "I've got a bit of a headache, but I'm not at my best — I'll push through the meeting.",
+      "example_kr": "두통이 좀 있어서 컨디션이 별로지만, 회의는 버텨낼게요."
+    },
+    {
+      "pattern": "I think I'm coming down with something.",
+      "meaning": "뭔가 병에 걸리려는 것 같다, 몸이 안 좋아지는 것 같다는 표현. 감기나 독감 초기 증상을 말할 때 자주 사용.",
+      "example": "I've been sneezing all morning — I think I'm coming down with something.",
+      "example_kr": "아침 내내 재채기가 나오는데, 뭔가 걸리려는 것 같아."
+    },
+    {
+      "pattern": "Walk it off.",
+      "meaning": "가볍게 걸으면서 털어버려라, 좀 움직이면 나아질 거야. 통증이나 불쾌함을 운동으로 극복하라고 격려할 때 쓰는 표현.",
+      "example": "Your leg's just a little sore — walk it off and you'll feel better in no time.",
+      "example_kr": "다리가 조금 쑤시는 것뿐이야. 걷다 보면 금방 나아질 거야."
+    },
+    {
+      "pattern": "주어 + have/has + been + ~ing + long enough to + 동사원형",
+      "meaning": "~을 충분히 오래 해와서 …할 수 있다는 의미. 경험이나 지속 기간이 어떤 결과나 자격을 뒷받침함을 나타낼 때 사용.",
+      "example": "She's been running long enough to know when her body needs rest.",
+      "example_kr": "그녀는 충분히 오래 달려와서 몸이 쉬어야 할 때를 알아."
+    },
+    {
+      "pattern": "주어 + be동사 + not as + 형용사 + as + 주어 + used to be",
+      "meaning": "예전만큼 ~하지 않다는 의미의 비교 패턴. 체력, 건강, 능력 등이 과거에 비해 변했음을 표현할 때 활용.",
+      "example": "My stamina is not as strong as it used to be since I stopped going to the gym.",
+      "example_kr": "헬스장을 끊은 뒤로 체력이 예전만큼 강하지 않아."
+    }
+  ],
+  "words": [
+    {
+      "word": "lethargic",
+      "phonetic": "/ləˈθɑːrdʒɪk/",
+      "meaning": "(형용사) 무기력한, 나른한, 축 처진",
+      "example": "I've been feeling lethargic all week — I think I need to get more sleep.",
+      "example_kr": "일주일 내내 무기력한 느낌이야. 수면을 더 취해야 할 것 같아."
+    },
+    {
+      "word": "strain",
+      "phonetic": "/streɪn/",
+      "meaning": "(명사/동사) 근육 과로·염좌; 무리하게 쓰다",
+      "example": "I strained my back lifting those heavy boxes at the gym.",
+      "example_kr": "헬스장에서 무거운 박스를 들다가 허리를 삐었어."
+    },
+    {
+      "word": "nausea",
+      "phonetic": "/ˈnɔːziə/",
+      "meaning": "(명사) 메스꺼움, 구역질",
+      "example": "The nausea hit me right after I took the medication on an empty stomach.",
+      "example_kr": "공복에 약을 먹고 나서 바로 메스꺼움이 왔어."
+    },
+    {
+      "word": "swollen",
+      "phonetic": "/ˈswoʊlən/",
+      "meaning": "(형용사) 부어오른, 붓기가 있는",
+      "example": "My ankle is swollen, so the doctor told me to keep it elevated.",
+      "example_kr": "발목이 부어서 의사가 발을 올려두라고 했어."
+    },
+    {
+      "word": "invigorating",
+      "phonetic": "/ɪnˈvɪɡəreɪtɪŋ/",
+      "meaning": "(형용사) 기운을 북돋우는, 활력을 주는",
+      "example": "An early morning swim is invigorating — it sets me up for the whole day.",
+      "example_kr": "이른 아침 수영은 활력을 줘서 하루 종일 컨디션이 좋아."
+    }
+  ]
+}
