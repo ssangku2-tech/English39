@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'll get that sorted.",
+      "meaning": "그거 내가 해결할게요. / 처리해 드릴게요. (문제나 할 일을 깔끔하게 해결하겠다는 뉘앙스)",
+      "example": "A: The sink is leaking again. B: Don't stress, I'll get that sorted by the end of the day.",
+      "example_kr": "A: 싱크대가 또 새고 있어요. B: 걱정 마세요, 오늘 안으로 제가 처리할게요."
+    },
+    {
+      "pattern": "Let's gut it out.",
+      "meaning": "그냥 끝까지 버텨보자. / 힘들어도 해내자. (불편하거나 힘든 상황을 그냥 밀고 나가자는 표현)",
+      "example": "The renovation is taking forever, but let's gut it out — we're almost done.",
+      "example_kr": "수리가 너무 오래 걸리고 있지만, 그냥 끝까지 버텨보자 — 거의 다 됐잖아."
+    },
+    {
+      "pattern": "It's falling apart.",
+      "meaning": "다 망가져 가고 있어. / 엉망이 되어가고 있어. (물건·상황이 점점 무너지거나 고장나는 상태)",
+      "example": "I really need to call a plumber — this bathroom is falling apart.",
+      "example_kr": "배관공을 정말 불러야 할 것 같아 — 이 화장실이 완전 망가져 가고 있어."
+    },
+    {
+      "pattern": "By the time + 주어 + 동사(현재), 주어 + will have + 과거분사",
+      "meaning": "~할 때쯤이면, 이미 …해 있을 것이다. (미래완료 시제로 어떤 시점에 이미 완료될 일을 표현)",
+      "example": "By the time the landlord shows up, we will have already packed everything.",
+      "example_kr": "집주인이 올 때쯤이면, 우리는 이미 짐을 다 싸놓은 상태일 거야."
+    },
+    {
+      "pattern": "주어 + get + 목적어 + 과거분사",
+      "meaning": "~을 (남이나 전문가에게) …시키다 / …하게 하다. (본인이 직접 하지 않고 처리되도록 만드는 사역의 뉘앙스)",
+      "example": "We need to get the boiler inspected before winter hits.",
+      "example_kr": "겨울이 오기 전에 보일러 점검을 받아야 해."
+    }
+  ],
+  "words": [
+    {
+      "word": "rickety",
+      "phonetic": "/ˈrɪkɪti/",
+      "meaning": "낡아서 삐걱거리는, 흔들리는 (가구·구조물 등)",
+      "example": "That rickety staircase needs to be fixed before someone gets hurt.",
+      "example_kr": "누가 다치기 전에 저 삐걱거리는 계단을 고쳐야 해."
+    },
+    {
+      "word": "seal off",
+      "phonetic": "/siːl ɒf/",
+      "meaning": "(구멍·틈 등을) 막다, 봉쇄하다",
+      "example": "We used weatherstripping to seal off the gaps around the door.",
+      "example_kr": "우리는 문 주변의 틈을 막기 위해 문풍지를 사용했다."
+    },
+    {
+      "word": "musty",
+      "phonetic": "/ˈmʌsti/",
+      "meaning": "퀴퀴한, 곰팡내 나는",
+      "example": "The basement smells musty — we should run a dehumidifier.",
+      "example_kr": "지하실에서 퀴퀴한 냄새가 나 — 제습기를 돌려야 할 것 같아."
+    },
+    {
+      "word": "overhaul",
+      "phonetic": "/ˈoʊvərˌhɔːl/",
+      "meaning": "(시스템·기계 등을) 전면 점검하다, 대대적으로 수리하다",
+      "example": "The electrician said the whole wiring system needs a complete overhaul.",
+      "example_kr": "전기 기사가 배선 시스템 전체를 전면 점검해야 한다고 했어."
+    },
+    {
+      "word": "spackle",
+      "phonetic": "/ˈspækəl/",
+      "meaning": "벽 틈이나 구멍을 메우는 퍼티(명사); 퍼티로 메우다(동사)",
+      "example": "I'll spackle those nail holes before we repaint the wall.",
+      "example_kr": "벽을 다시 칠하기 전에 못 구멍들을 퍼티로 메울게."
+    }
+  ]
+}
