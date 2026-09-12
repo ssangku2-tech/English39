@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's so out of character for him/her.",
+      "meaning": "그 사람답지 않다, 평소와 달리 뜻밖의 행동을 했을 때 쓰는 표현",
+      "example": "He actually apologized first? That's so out of character for him.",
+      "example_kr": "걔가 먼저 사과했다고? 완전 걔답지 않은데."
+    },
+    {
+      "pattern": "I didn't mean it like that.",
+      "meaning": "그런 뜻으로 한 말이 아니었어, 오해를 풀 때 쓰는 표현",
+      "example": "Hey, I didn't mean it like that. I was just being honest.",
+      "example_kr": "야, 그런 뜻으로 한 말이 아니었어. 그냥 솔직하게 말한 거야."
+    },
+    {
+      "pattern": "She really wore her heart on her sleeve.",
+      "meaning": "감정을 숨기지 않고 그대로 드러내다, 감수성이 풍부하고 솔직한 성격을 묘사할 때",
+      "example": "You could tell she was hurt — she really wears her heart on her sleeve.",
+      "example_kr": "걔가 상처받은 거 티 났어 — 감정을 정말 그대로 드러내거든."
+    },
+    {
+      "pattern": "주어 + can't help but wonder + wh- / if + 주어 + 동사",
+      "meaning": "~인지 궁금하지 않을 수 없다, 어떤 생각이나 의문이 계속 머릿속을 맴돌 때",
+      "example": "After the argument, I can't help but wonder if she's still upset with me.",
+      "example_kr": "다툰 뒤로, 걔가 아직도 나한테 화가 나 있는 건지 계속 궁금해."
+    },
+    {
+      "pattern": "주어 + be동사 + the last person + to + 동사원형 + , but + 주어 + 동사",
+      "meaning": "~할 사람이 아닌데, 하지만 ~하다 — 자신(또는 타인)의 평소 성격과 다른 행동을 인정할 때",
+      "example": "I'm the last person to give relationship advice, but you really need to talk to her.",
+      "example_kr": "내가 연애 조언을 할 사람은 아닌데, 그래도 걔한테 꼭 얘기해야 해."
+    }
+  ],
+  "words": [
+    {
+      "word": "sullen",
+      "phonetic": "/ˈsʌlən/",
+      "meaning": "시무룩한, 뚱한",
+      "example": "He gave a sullen nod and walked away without saying a word.",
+      "example_kr": "그는 뚱하게 고개를 끄덕이더니 아무 말 없이 가버렸다."
+    },
+    {
+      "word": "fawn over",
+      "phonetic": "/fɔːn ˈoʊvər/",
+      "meaning": "(아첨하듯) 지나치게 칭찬하거나 비위를 맞추다",
+      "example": "Everyone was fawning over the new manager, which made the rest of us uncomfortable.",
+      "example_kr": "모두가 새 관리자에게 아첨하듯 굴어서 나머지 우리는 불편했다."
+    },
+    {
+      "word": "placid",
+      "phonetic": "/ˈplæsɪd/",
+      "meaning": "차분한, 온화한, 평온한",
+      "example": "Despite all the chaos around her, she remained remarkably placid.",
+      "example_kr": "주변이 온통 혼란스러웠는데도 그녀는 놀랍도록 차분했다."
+    },
+    {
+      "word": "bristle",
+      "phonetic": "/ˈbrɪsəl/",
+      "meaning": "(비판·모욕에) 발끈하다, 기분 나빠하다",
+      "example": "He bristled when she pointed out his mistake in front of everyone.",
+      "example_kr": "그는 그녀가 모두 앞에서 그의 실수를 지적하자 발끈했다."
+    },
+    {
+      "word": "aloof",
+      "phonetic": "/əˈluːf/",
+      "meaning": "거리를 두는, 냉담한, 쌀쌀맞은",
+      "example": "She seemed aloof at first, but once you get to know her, she's actually really warm.",
+      "example_kr": "처음엔 냉담해 보였지만, 알고 나면 사실 되게 따뜻한 사람이야."
+    }
+  ]
+}
