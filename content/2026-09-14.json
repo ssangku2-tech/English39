@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can I get that wrapped up?",
+      "meaning": "포장해 주실 수 있을까요? (식당에서 남은 음식을 포장 요청할 때 쓰는 자연스러운 표현)",
+      "example": "We're pretty full. Can I get that wrapped up to take home?",
+      "example_kr": "배가 너무 불러서요. 그거 포장해서 가져갈 수 있을까요?"
+    },
+    {
+      "pattern": "What do you recommend?",
+      "meaning": "뭘 추천해 주시겠어요? (메뉴 선택이 어려울 때 직원에게 자연스럽게 묻는 표현)",
+      "example": "This is my first time here — what do you recommend?",
+      "example_kr": "여기 처음 와봤는데요, 뭘 추천해 주시겠어요?"
+    },
+    {
+      "pattern": "Can we get the check?",
+      "meaning": "계산서 주시겠어요? (식당에서 식사 후 계산을 요청할 때 쓰는 일상적인 표현)",
+      "example": "We're in a bit of a rush. Can we get the check when you get a chance?",
+      "example_kr": "좀 急해서요. 시간 나실 때 계산서 가져다 주시겠어요?"
+    },
+    {
+      "pattern": "주어 + be동사 + thinking of + ~ing + instead",
+      "meaning": "~하는 대신 …할까 생각 중이다 (계획을 바꾸거나 대안을 고려할 때 쓰는 패턴)",
+      "example": "I'm thinking of ordering the pasta instead — the steak sounds too heavy.",
+      "example_kr": "스테이크는 너무 부담스러울 것 같아서, 파스타를 시킬까 생각 중이에요."
+    },
+    {
+      "pattern": "주어 + haven't + 과거분사 + yet, so + 주어 + might as well + 동사원형",
+      "meaning": "아직 ~하지 않았으니, 차라리 …하는 게 낫겠다 (상황을 활용해 결정할 때 쓰는 패턴)",
+      "example": "We haven't ordered yet, so we might as well wait for Jake before we decide.",
+      "example_kr": "아직 주문 안 했으니까, 제이크 오면 같이 결정하는 게 낫겠다."
+    }
+  ],
+  "words": [
+    {
+      "word": "linger over",
+      "phonetic": "/ˈlɪŋɡər ˈoʊvər/",
+      "meaning": "(식사·대화 등을) 천천히 즐기며 오래 머물다",
+      "example": "We lingered over coffee and dessert for almost two hours.",
+      "example_kr": "우리는 커피와 디저트를 즐기며 거의 두 시간 동안 자리를 지켰다."
+    },
+    {
+      "word": "complain",
+      "phonetic": "/kəmˈpleɪn/",
+      "meaning": "불평하다, 항의하다",
+      "example": "She complained to the manager that her order had been wrong twice.",
+      "example_kr": "그녀는 주문이 두 번이나 잘못됐다고 매니저에게 항의했다."
+    },
+    {
+      "word": "ambiance",
+      "phonetic": "/ˈæmbiəns/",
+      "meaning": "(장소의) 분위기, 환경",
+      "example": "The ambiance of the rooftop café made the whole evening feel special.",
+      "example_kr": "옥상 카페의 분위기 덕분에 저녁 시간 전체가 특별하게 느껴졌다."
+    },
+    {
+      "word": "steep",
+      "phonetic": "/stiːp/",
+      "meaning": "(가격이) 너무 비싼, 터무니없이 높은",
+      "example": "Forty dollars for a salad? That's a little steep, don't you think?",
+      "example_kr": "샐러드 하나에 40달러? 좀 너무 비싼 거 아닌가요?"
+    },
+    {
+      "word": "decaf",
+      "phonetic": "/ˈdiːkæf/",
+      "meaning": "카페인을 제거한 커피 (또는 음료)",
+      "example": "I'll have a decaf latte — I'm trying to cut back on caffeine.",
+      "example_kr": "디카페인 라떼 주세요. 카페인을 줄이려고 노력 중이거든요."
+    }
+  ]
+}
