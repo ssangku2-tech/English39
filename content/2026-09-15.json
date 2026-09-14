@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Is this seat taken?",
+      "meaning": "이 자리 비어 있나요? — 공항 대기실, 식당, 교통수단 등에서 자리가 있는지 물을 때 쓰는 자연스러운 구어 표현",
+      "example": "Excuse me, is this seat taken? I couldn't find anywhere else to sit.",
+      "example_kr": "실례합니다, 이 자리 비어 있나요? 다른 데는 자리를 못 찾겠더라고요."
+    },
+    {
+      "pattern": "I'll just leave it.",
+      "meaning": "그냥 두고 갈게요 / 됐어요 — 물건을 반납하거나 상황을 포기할 때 쓰는 캐주얼한 표현",
+      "example": "Actually, the line is too long. I'll just leave it and come back later.",
+      "example_kr": "줄이 너무 기네요. 그냥 두고 나중에 다시 올게요."
+    },
+    {
+      "pattern": "How do I get to…?",
+      "meaning": "…에 어떻게 가나요? — 길을 물을 때 가장 자연스럽게 쓰이는 구어 표현",
+      "example": "Hey, excuse me — how do I get to the nearest subway station from here?",
+      "example_kr": "저기, 실례합니다 — 여기서 가장 가까운 지하철역에 어떻게 가나요?"
+    },
+    {
+      "pattern": "I'm going to need + 목적어 + by + 시간/기한",
+      "meaning": "…까지 …이 필요할 거예요 — 필요한 것과 기한을 함께 전달할 때 쓰는 패턴",
+      "example": "I'm going to need a wake-up call by six tomorrow morning.",
+      "example_kr": "내일 아침 6시까지 모닝콜이 필요할 것 같아요."
+    },
+    {
+      "pattern": "주어 + managed to + 동사원형",
+      "meaning": "가까스로 / 어떻게든 …해냈다 — 어려운 상황에서 결국 해냈음을 표현할 때 쓰는 패턴",
+      "example": "We managed to catch the last shuttle to the airport just in time.",
+      "example_kr": "우리는 간신히 공항 가는 마지막 셔틀을 딱 맞춰 탔어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "shuttle",
+      "phonetic": "/ˈʃʌtl/",
+      "meaning": "셔틀 (공항·호텔 간 정기 운행 교통편); 왕복 운행하다",
+      "example": "The hotel offers a free shuttle service to and from the airport.",
+      "example_kr": "그 호텔은 공항 무료 셔틀 서비스를 제공한다."
+    },
+    {
+      "word": "transit visa",
+      "phonetic": "/ˈtrænsɪt ˈviːzə/",
+      "meaning": "통과 비자 (경유국에 잠시 머물 때 필요한 비자)",
+      "example": "Make sure you check whether you need a transit visa before your stopover.",
+      "example_kr": "경유 전에 통과 비자가 필요한지 반드시 확인하세요."
+    },
+    {
+      "word": "misplace",
+      "phonetic": "/mɪsˈpleɪs/",
+      "meaning": "(물건을) 잘못 두다, 어디에 뒀는지 몰라 찾지 못하다",
+      "example": "I misplaced my boarding pass and had to ask the staff for help.",
+      "example_kr": "탑승권을 어디 뒀는지 몰라서 직원에게 도움을 요청해야 했다."
+    },
+    {
+      "word": "breezy",
+      "phonetic": "/ˈbriːzi/",
+      "meaning": "바람이 살랑부는; (태도가) 경쾌하고 여유로운",
+      "example": "It was a breezy morning on the waterfront, perfect for a walk.",
+      "example_kr": "해안가에 바람이 살랑 부는 아침이었고, 산책하기에 완벽했다."
+    },
+    {
+      "word": "overcharge",
+      "phonetic": "/ˌoʊvərˈtʃɑːrdʒ/",
+      "meaning": "과다 청구하다, 바가지 씌우다",
+      "example": "I think the taxi driver overcharged us — the meter didn't match the fare.",
+      "example_kr": "택시 기사가 바가지를 씌운 것 같아요 — 미터기가 요금이랑 맞지 않았거든요."
+    }
+  ]
+}
