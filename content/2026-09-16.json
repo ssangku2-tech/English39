@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Let's table that for now.",
+      "meaning": "그건 일단 나중으로 미루자. (회의에서 특정 안건을 잠시 보류할 때 쓰는 표현)",
+      "example": "We're running out of time, so let's table that for now and revisit it next week.",
+      "example_kr": "시간이 부족하니까 그건 일단 미루고 다음 주에 다시 보도록 하죠."
+    },
+    {
+      "pattern": "I'll copy you on that.",
+      "meaning": "그 이메일에 참조로 넣어 드릴게요. (이메일을 공유하거나 CC 넣을 때 쓰는 표현)",
+      "example": "Once I send the report to the client, I'll copy you on that so you're in the loop.",
+      "example_kr": "클라이언트에게 보고서 보내면 참조로 넣어 드릴게요, 상황 파악하실 수 있게요."
+    },
+    {
+      "pattern": "Let's go over the numbers real quick.",
+      "meaning": "숫자(내용)를 빠르게 훑어보자. (보고나 검토 전 가볍게 확인할 때 쓰는 표현)",
+      "example": "Before the presentation starts, let's go over the numbers real quick to make sure everything checks out.",
+      "example_kr": "발표 시작 전에 숫자를 빠르게 한번 훑어서 다 맞는지 확인하자."
+    },
+    {
+      "pattern": "I need you to sign off on + 명사",
+      "meaning": "~을 승인해 주셔야 합니다. (상사나 담당자에게 최종 결재·승인을 요청할 때 쓰는 패턴)",
+      "example": "Before we move forward, I need you to sign off on the revised budget.",
+      "example_kr": "진행하기 전에 수정된 예산안을 승인해 주셔야 합니다."
+    },
+    {
+      "pattern": "주어 + be동사 + struggling to + 동사원형 + because + 주어 + 동사",
+      "meaning": "~때문에 ~하는 데 어려움을 겪고 있다. (현재 진행 중인 어려움의 원인을 함께 설명할 때 쓰는 패턴)",
+      "example": "We're struggling to meet the deadline because the data we received was incomplete.",
+      "example_kr": "받은 데이터가 불완전해서 마감 기한을 맞추는 데 어려움을 겪고 있습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "delineate",
+      "phonetic": "/dɪˈlɪniˌeɪt/",
+      "meaning": "(역할·범위 등을) 명확히 구분하다, 명시하다",
+      "example": "The manager delineated each team member's responsibilities before the project kicked off.",
+      "example_kr": "프로젝트 시작 전에 매니저가 각 팀원의 역할을 명확히 구분해 주었다."
+    },
+    {
+      "word": "concisely",
+      "phonetic": "/kənˈsaɪsli/",
+      "meaning": "간결하게, 핵심만 담아",
+      "example": "Please summarize the findings as concisely as possible in your email.",
+      "example_kr": "이메일에 조사 결과를 최대한 간결하게 요약해 주세요."
+    },
+    {
+      "word": "override",
+      "phonetic": "/ˌoʊvərˈraɪd/",
+      "meaning": "(결정·규칙 등을) 무효화하다, 번복하다",
+      "example": "The director had the authority to override the committee's decision.",
+      "example_kr": "이사는 위원회의 결정을 번복할 권한이 있었다."
+    },
+    {
+      "word": "flag",
+      "phonetic": "/flæɡ/",
+      "meaning": "(문제·사항을) 표시하다, 주의를 환기시키다",
+      "example": "If you spot any errors in the draft, please flag them right away.",
+      "example_kr": "초안에서 오류가 보이면 바로 표시해 주세요."
+    },
+    {
+      "word": "contingency",
+      "phonetic": "/kənˈtɪndʒənsi/",
+      "meaning": "만일의 사태, 비상 대책",
+      "example": "We need a contingency plan in case the supplier falls through.",
+      "example_kr": "공급업체가 무너질 경우를 대비한 비상 대책이 필요합니다."
+    }
+  ]
+}
