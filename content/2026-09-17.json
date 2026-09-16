@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Are we still on for...?",
+      "meaning": "~약속 아직 유효해? / 우리 ~하기로 한 거 아직 맞지? (약속을 확인할 때 쓰는 구어 표현)",
+      "example": "Hey, are we still on for dinner Saturday night?",
+      "example_kr": "야, 우리 토요일 저녁 식사 약속 아직 맞지?"
+    },
+    {
+      "pattern": "I totally spaced on that.",
+      "meaning": "완전히 까먹었어 / 그걸 머릿속에서 날려버렸어 (space out에서 온 표현으로 깜빡했을 때 씀)",
+      "example": "Sorry I missed your call — I totally spaced on that.",
+      "example_kr": "전화 못 받아서 미안 — 완전히 깜빡했어."
+    },
+    {
+      "pattern": "I'm down if you are.",
+      "meaning": "너만 괜찮으면 나도 좋아 / 네가 한다면 나도 할게 (상대방 의사에 따라 동의할 때)",
+      "example": "A: Wanna grab boba after this? B: I'm down if you are.",
+      "example_kr": "A: 이거 끝나고 버블티 마실래? B: 너만 괜찮으면 나도 좋아."
+    },
+    {
+      "pattern": "I've already + 과거분사 + , so 주어 + might as well + 동사원형",
+      "meaning": "이미 ~했으니까, 그냥 ~하는 게 낫겠어 (이미 벌어진 상황을 바탕으로 다음 행동을 자연스럽게 이어갈 때)",
+      "example": "I've already driven all the way here, so we might as well stay for the whole thing.",
+      "example_kr": "이미 여기까지 다 왔으니까, 그냥 끝까지 있는 게 낫겠어."
+    },
+    {
+      "pattern": "주어 + keep + 목적어 + 동사ing + every time + 주어 + 동사",
+      "meaning": "~할 때마다 계속 ~하게 만들어 / ~할 때마다 ~하게 된다 (반복적인 상황이나 습관적 반응을 표현)",
+      "example": "She keeps me laughing every time we hang out.",
+      "example_kr": "우리가 같이 있을 때마다 걔가 계속 나를 웃게 만들어."
+    }
+  ],
+  "words": [
+    {
+      "word": "sentimental",
+      "phonetic": "/ˌsentɪˈmentl/",
+      "meaning": "감성적인, 추억에 젖은",
+      "example": "She got really sentimental when we looked at old photos together.",
+      "example_kr": "우리가 같이 옛날 사진을 보니까 걔가 정말 감성에 젖었어."
+    },
+    {
+      "word": "bail on",
+      "phonetic": "/beɪl ɑːn/",
+      "meaning": "(약속·사람을) 갑자기 포기하다, 내빼다",
+      "example": "Don't bail on me tonight — I really need the company.",
+      "example_kr": "오늘 밤 나 버리고 가지 마 — 진짜 같이 있어줄 사람이 필요해."
+    },
+    {
+      "word": "giddy",
+      "phonetic": "/ˈɡɪdi/",
+      "meaning": "신나서 들뜬, 설레는",
+      "example": "She was absolutely giddy about their road trip.",
+      "example_kr": "걔는 로드트립 생각에 완전 설레서 어쩔 줄 몰랐어."
+    },
+    {
+      "word": "pencil in",
+      "phonetic": "/ˈpensl ɪn/",
+      "meaning": "잠정적으로 일정에 넣다, 일단 잡아두다",
+      "example": "Let's pencil in Friday and confirm later.",
+      "example_kr": "금요일로 일단 잡아두고 나중에 확인하자."
+    },
+    {
+      "word": "grudge",
+      "phonetic": "/ɡrʌdʒ/",
+      "meaning": "앙심, 원한",
+      "example": "He still holds a grudge over what happened last year.",
+      "example_kr": "걔는 작년에 있었던 일에 아직도 앙심을 품고 있어."
+    }
+  ]
+}
