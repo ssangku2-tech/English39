@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Sit tight.",
+      "meaning": "잠깐 기다려, 가만히 있어 (상대방이 곧 연락하거나 상황이 해결될 때까지 기다리라고 할 때)",
+      "example": "Sit tight — I'm almost done and I'll call you right back.",
+      "example_kr": "잠깐만 기다려 — 나 거의 다 됐어, 바로 다시 전화할게."
+    },
+    {
+      "pattern": "Read me?",
+      "meaning": "내 말 들려? / 잘 받아지고 있어? (전화나 통화 중 연결 상태를 확인할 때)",
+      "example": "Hey, can you read me? The connection keeps cutting out on my end.",
+      "example_kr": "야, 내 목소리 들려? 내 쪽에서 계속 끊기는데."
+    },
+    {
+      "pattern": "I'll circle back.",
+      "meaning": "나중에 다시 연락할게 / 다시 확인할게 (지금 당장 답을 못 줄 때 나중에 돌아오겠다는 뜻)",
+      "example": "I don't have the details on that yet — let me check and I'll circle back.",
+      "example_kr": "그 부분 아직 세부 내용을 모르겠어 — 확인하고 다시 연락할게."
+    },
+    {
+      "pattern": "주어 + go ahead and + 동사원형, even if + 주어 + 동사",
+      "meaning": "비록 ~할지라도 (그냥/먼저) ~해 (조건에 구애받지 말고 행동을 진행하도록 허락하거나 권유할 때)",
+      "example": "Go ahead and send the file, even if it's not completely finished yet.",
+      "example_kr": "완전히 다 완성되지 않았더라도 그냥 파일 보내."
+    },
+    {
+      "pattern": "주어 + have/has + been + 과거분사 + , which means + 주어 + 동사",
+      "meaning": "~가 (완료)된 상태인데, 그 말인즉 ~라는 뜻이야 (결과나 함의를 자연스럽게 연결할 때)",
+      "example": "The meeting has been rescheduled to Thursday, which means we need to update everyone on the team.",
+      "example_kr": "회의가 목요일로 일정이 바뀌었는데, 그 말인즉 팀 전원에게 알려야 한다는 거야."
+    }
+  ],
+  "words": [
+    {
+      "word": "reachable",
+      "phonetic": "/ˈriːtʃəbl/",
+      "meaning": "연락 가능한, 닿을 수 있는",
+      "example": "I'll be reachable by phone after 6 p.m. if anything comes up.",
+      "example_kr": "무슨 일 생기면 오후 6시 이후엔 전화로 연락 가능해."
+    },
+    {
+      "word": "stall",
+      "phonetic": "/stɔːl/",
+      "meaning": "(시간을) 끌다, 지연시키다",
+      "example": "She kept stalling instead of giving a straight answer.",
+      "example_kr": "그녀는 명확한 답을 주는 대신 계속 시간을 끌었어."
+    },
+    {
+      "word": "bounce back",
+      "phonetic": "/baʊns bæk/",
+      "meaning": "(이메일 등이) 반송되다; 회복하다",
+      "example": "My email bounced back — are you sure that address is correct?",
+      "example_kr": "내 이메일이 반송됐어 — 그 주소 맞아?"
+    },
+    {
+      "word": "dispatch",
+      "phonetic": "/dɪˈspætʃ/",
+      "meaning": "(메시지·사람 등을) 보내다, 발송하다",
+      "example": "We dispatched a confirmation text as soon as the order was placed.",
+      "example_kr": "주문이 들어오자마자 확인 문자를 발송했어요."
+    },
+    {
+      "word": "conceal",
+      "phonetic": "/kənˈsiːl/",
+      "meaning": "숨기다, 감추다",
+      "example": "He tried to conceal the fact that he'd already seen the message.",
+      "example_kr": "그는 이미 메시지를 봤다는 사실을 숨기려 했어."
+    }
+  ]
+}
