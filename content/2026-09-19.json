@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Do you have this in a larger size?",
+      "meaning": "다른 사이즈(또는 색상·옵션)가 있는지 물어볼 때 쓰는 표현. 'this' 자리에 원하는 항목을 바꿔 쓸 수 있음.",
+      "example": "A: Do you have this in a larger size? B: Let me check in the back for you.",
+      "example_kr": "A: 이거 더 큰 사이즈 있나요? B: 창고에서 확인해 드릴게요."
+    },
+    {
+      "pattern": "I'll just put it on my card.",
+      "meaning": "카드로 결제하겠다는 뜻. 현금 대신 카드를 쓰겠다고 가볍게 말할 때 자주 씀.",
+      "example": "A: How are you paying today? B: I'll just put it on my card.",
+      "example_kr": "A: 오늘 어떻게 결제하실 건가요? B: 그냥 카드로 할게요."
+    },
+    {
+      "pattern": "Can I get a price match on this?",
+      "meaning": "다른 곳에서 더 싼 가격을 발견했을 때, 그 가격으로 맞춰 달라고 요청하는 표현.",
+      "example": "A: Can I get a price match on this? I saw it cheaper online. B: Sure, do you have proof of the lower price?",
+      "example_kr": "A: 이거 가격 맞춰 주실 수 있나요? 온라인에서 더 싸게 봤거든요. B: 물론이죠, 더 낮은 가격 증빙 자료 있으신가요?"
+    },
+    {
+      "pattern": "주어 + have/has + no problem + ~ing",
+      "meaning": "'~하는 데 전혀 문제없다'는 뜻으로, 흔쾌히 동의하거나 능숙하게 할 수 있음을 나타낼 때 씀.",
+      "example": "I have no problem processing your return right now if you have the receipt.",
+      "example_kr": "영수증 있으시면 지금 바로 환불 처리해 드리는 데 전혀 문제없어요."
+    },
+    {
+      "pattern": "주어 + be동사 + willing to + 동사원형 + as long as + 주어 + 동사",
+      "meaning": "'~하는 조건이라면 기꺼이 …하겠다'는 뜻. 조건부 동의나 협상 상황에서 자주 씀.",
+      "example": "We're willing to offer a full refund as long as the item is returned within 30 days.",
+      "example_kr": "상품을 30일 이내에 반품하시는 조건이라면 전액 환불해 드릴 의향이 있습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "defray",
+      "phonetic": "/dɪˈfreɪ/",
+      "meaning": "(비용을) 충당하다, 부담하다",
+      "example": "The store offered a discount to help defray the shipping costs.",
+      "example_kr": "그 가게는 배송비를 충당하는 데 도움이 되도록 할인을 제공했다."
+    },
+    {
+      "word": "lopsided",
+      "phonetic": "/ˈlɒpsaɪdɪd/",
+      "meaning": "한쪽으로 치우친, 불균형한",
+      "example": "The deal felt lopsided — they got way more out of it than we did.",
+      "example_kr": "그 거래는 불균형하게 느껴졌어 — 우리보다 그쪽이 훨씬 더 많은 걸 얻었거든."
+    },
+    {
+      "word": "clawback",
+      "phonetic": "/ˈklɔːbæk/",
+      "meaning": "(이미 지급된 돈의) 환수, 회수",
+      "example": "The company initiated a clawback of the overpaid bonuses.",
+      "example_kr": "회사는 초과 지급된 보너스를 환수하기 시작했다."
+    },
+    {
+      "word": "pitch in",
+      "phonetic": "/pɪtʃ ɪn/",
+      "meaning": "돈을 모으다, 함께 돕다",
+      "example": "Let's all pitch in to cover the cost of the gift.",
+      "example_kr": "선물 비용을 충당하기 위해 다 같이 돈을 모으자."
+    },
+    {
+      "word": "rack up",
+      "phonetic": "/ræk ʌp/",
+      "meaning": "(점수·비용·부채 등을) 쌓다, 누적하다",
+      "example": "She racked up a huge bill buying clothes online last month.",
+      "example_kr": "그녀는 지난달 온라인으로 옷을 사면서 엄청난 청구서를 쌓아 올렸다."
+    }
+  ]
+}
