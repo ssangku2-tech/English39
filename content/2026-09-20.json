@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm not gonna push it.",
+      "meaning": "더 이상 강요하거나 밀어붙이지 않겠다는 뜻. 상대방의 결정을 존중하거나 더 이상 재촉하지 않을 때 쓰는 표현.",
+      "example": "You said you don't want to see a doctor yet — okay, I'm not gonna push it. But please rest up.",
+      "example_kr": "아직 병원에 가기 싫다고 했지 — 알겠어, 더 강요하지 않을게. 그냥 푹 쉬어."
+    },
+    {
+      "pattern": "Listen to your body.",
+      "meaning": "몸이 보내는 신호에 귀를 기울이라는 표현. 무리하지 말고 몸 상태에 맞게 행동하라는 뜻으로 자연스럽게 쓰임.",
+      "example": "Don't force yourself to work out every day. You've gotta listen to your body.",
+      "example_kr": "매일 억지로 운동할 필요 없어. 몸의 신호를 잘 들어야 해."
+    },
+    {
+      "pattern": "You look run down.",
+      "meaning": "상대방이 지치거나 기력이 없어 보일 때 쓰는 표현. 피곤하거나 몸이 안 좋아 보인다는 뉘앙스.",
+      "example": "Honestly, you look run down. Have you been sleeping okay?",
+      "example_kr": "솔직히, 너 많이 지쳐 보여. 잠은 잘 자고 있어?"
+    },
+    {
+      "pattern": "주어 + have/has + been + ~ing + too much + for + 주어's + own good",
+      "meaning": "'스스로에게 해가 될 만큼 너무 ~해왔다'는 뜻. 과도한 행동이 본인에게 좋지 않음을 지적할 때 씀.",
+      "example": "She's been skipping meals too much for her own good. No wonder she's exhausted.",
+      "example_kr": "그녀는 스스로에게 해가 될 정도로 너무 많이 식사를 거르고 있어. 지칠 만도 하지."
+    },
+    {
+      "pattern": "It takes + 기간/노력 + to + 동사원형 + properly",
+      "meaning": "'제대로 ~하려면 (시간/노력)이 필요하다'는 뜻. 회복, 학습, 적응 등에 걸리는 시간이나 노력을 현실적으로 표현할 때 씀.",
+      "example": "It takes at least a week to recover properly from the flu, so don't rush it.",
+      "example_kr": "독감에서 제대로 회복하려면 최소 일주일은 걸려, 그러니 서두르지 마."
+    }
+  ],
+  "words": [
+    {
+      "word": "tenderness",
+      "phonetic": "/ˈtɛndərnəs/",
+      "meaning": "(신체 부위의) 압통, 쑤심; 누르면 아픈 느낌",
+      "example": "The doctor pressed on my shoulder and asked if I felt any tenderness.",
+      "example_kr": "의사가 내 어깨를 누르면서 압통이 느껴지는지 물어봤다."
+    },
+    {
+      "word": "brace",
+      "phonetic": "/breɪs/",
+      "meaning": "(신체 보호용) 보조기, 지지대; 단단히 대비하다",
+      "example": "The physical therapist recommended wearing a brace on my wrist during workouts.",
+      "example_kr": "물리치료사가 운동할 때 손목 보조기를 착용하라고 권했다."
+    },
+    {
+      "word": "dosage",
+      "phonetic": "/ˈdoʊsɪdʒ/",
+      "meaning": "(약의) 복용량, 투여량",
+      "example": "Make sure you follow the recommended dosage on the label and don't take extra.",
+      "example_kr": "라벨에 표시된 권장 복용량을 꼭 지키고, 추가로 더 복용하지 마세요."
+    },
+    {
+      "word": "palpitation",
+      "phonetic": "/ˌpælpɪˈteɪʃən/",
+      "meaning": "(심장) 두근거림, 심계항진",
+      "example": "She went to see her cardiologist after experiencing heart palpitations during exercise.",
+      "example_kr": "그녀는 운동 중 심장이 두근거리는 증상을 겪은 후 심장 전문의를 찾아갔다."
+    },
+    {
+      "word": "grueling",
+      "phonetic": "/ˈɡruːəlɪŋ/",
+      "meaning": "몹시 힘든, 극도로 지치게 하는",
+      "example": "That was a grueling workout — I could barely walk straight afterward.",
+      "example_kr": "정말 혹독한 운동이었어 — 끝나고 나서 제대로 걷기도 힘들었어."
+    }
+  ]
+}
