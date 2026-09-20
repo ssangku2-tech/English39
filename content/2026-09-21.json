@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "It's a bit of a fixer-upper.",
+      "meaning": "손볼 데가 좀 있는 집(물건)이야. / 고쳐야 할 부분이 꽤 있어.",
+      "example": "A: What do you think of the new place? B: Honestly, it's a bit of a fixer-upper, but the location is great.",
+      "example_kr": "A: 새 집 어때? B: 솔직히 손볼 데가 좀 있긴 한데, 위치는 정말 좋아."
+    },
+    {
+      "pattern": "We're running low on ~.",
+      "meaning": "~가 얼마 안 남았어. / ~가 다 떨어져 가고 있어.",
+      "example": "Hey, we're running low on dish soap — can you grab some on your way home?",
+      "example_kr": "야, 주방 세제가 얼마 안 남았는데 — 집에 오는 길에 좀 사다줄 수 있어?"
+    },
+    {
+      "pattern": "Let's get this place sorted.",
+      "meaning": "이 공간 좀 정리하자. / 집 상태 좀 바로잡자.",
+      "example": "We've got guests coming Saturday — let's get this place sorted before then.",
+      "example_kr": "토요일에 손님 오는데 — 그 전에 집 좀 정리하자."
+    },
+    {
+      "pattern": "주어 + could use + 명사/동명사",
+      "meaning": "~이 있으면 좋겠다 / ~이 필요하다 (완곡하고 자연스러운 표현)",
+      "example": "This bathroom could use a fresh coat of paint — it's looking pretty dull.",
+      "example_kr": "이 욕실에 페인트 한 번 새로 칠하면 좋겠어 — 좀 칙칙해 보여."
+    },
+    {
+      "pattern": "주어 + have/has + gone + 형용사 (상태 변화 결과)",
+      "meaning": "~이 ~한 상태가 되어버렸다 (기대하지 않은 변화나 악화를 나타낼 때)",
+      "example": "The pipes have gone rusty again — we really need to call a plumber this time.",
+      "example_kr": "파이프가 또 녹슬어버렸어 — 이번엔 진짜 배관공 불러야겠어."
+    }
+  ],
+  "words": [
+    {
+      "word": "scuff",
+      "phonetic": "/skʌf/",
+      "meaning": "(바닥·벽 등에 생긴) 긁힌 자국; 긁다",
+      "example": "There are a few scuffs on the hardwood floor from when we moved the furniture.",
+      "example_kr": "가구를 옮길 때 원목 바닥에 긁힌 자국이 몇 군데 생겼어."
+    },
+    {
+      "word": "pry",
+      "phonetic": "/praɪ/",
+      "meaning": "(못 박힌 것·뚜껑 등을) 지렛대로 떼어내다; 들쑤시다",
+      "example": "He had to pry the old floorboards up carefully so he wouldn't damage the ones underneath.",
+      "example_kr": "그는 아래 마루판이 상하지 않게 조심스럽게 낡은 마루판을 들어냈다."
+    },
+    {
+      "word": "insulation",
+      "phonetic": "/ˌɪnsəˈleɪʃən/",
+      "meaning": "단열재; 단열",
+      "example": "The house was freezing in winter because there wasn't enough insulation in the walls.",
+      "example_kr": "벽에 단열재가 충분하지 않아서 겨울에 집이 너무 추웠다."
+    },
+    {
+      "word": "caulk",
+      "phonetic": "/kɔːk/",
+      "meaning": "(틈새를 막는) 코킹재를 바르다; 코킹",
+      "example": "You should caulk around the bathtub to stop water from seeping behind the tiles.",
+      "example_kr": "타일 뒤로 물이 새는 걸 막으려면 욕조 주변에 코킹을 해야 해."
+    },
+    {
+      "word": "spruce up",
+      "phonetic": "/spruːs ʌp/",
+      "meaning": "(장소·외관을) 말끔하게 꾸미다, 단장하다",
+      "example": "We're planning to spruce up the living room before putting the house on the market.",
+      "example_kr": "집을 내놓기 전에 거실을 좀 단장할 계획이야."
+    }
+  ]
+}
