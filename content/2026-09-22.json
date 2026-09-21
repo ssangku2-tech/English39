@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Let's nail down the details.",
+      "meaning": "세부 사항을 확실히 정하자 / 못 박아두자 (예약·계약 상황에서 구체적인 내용을 확정할 때 쓰는 표현)",
+      "example": "Before we sign anything, let's nail down the details on the payment schedule.",
+      "example_kr": "뭔가 서명하기 전에, 납부 일정 세부 사항을 확실히 정해 두죠."
+    },
+    {
+      "pattern": "I'll hold you to that.",
+      "meaning": "그 말 꼭 지키게 할게요 / 약속 잊지 마세요 (상대방의 약속이나 말을 상기시키며 확인하는 표현)",
+      "example": "You said it'd be ready by Friday — I'll hold you to that.",
+      "example_kr": "금요일까지 준비된다고 하셨죠 — 그 말 꼭 지키셔야 해요."
+    },
+    {
+      "pattern": "Is there any wiggle room on that?",
+      "meaning": "거기서 좀 융통성이 있나요? / 조정 여지가 있나요? (가격·조건·날짜 등을 협상할 때 쓰는 표현)",
+      "example": "The deadline is the 15th, but is there any wiggle room on that if we run into issues?",
+      "example_kr": "마감이 15일인데, 문제가 생기면 좀 융통성이 있나요?"
+    },
+    {
+      "pattern": "주어 + had + 목적어 + 과거분사 + by + 시간/기한",
+      "meaning": "~까지 ~을 (남에게 시켜) 처리하게 했다 / ~를 ~해 두었다 (사역 완료 표현으로 행정·서비스 처리 완료를 나타낼 때 유용)",
+      "example": "She had the documents notarized by noon so the application could go through.",
+      "example_kr": "그녀는 신청이 처리될 수 있도록 정오까지 서류 공증을 마쳐 두었다."
+    },
+    {
+      "pattern": "주어 + be동사 + on the verge of + ~ing",
+      "meaning": "막 ~하려는 참이다 / ~하기 직전이다 (어떤 상황이 임박했음을 나타내는 패턴)",
+      "example": "We're on the verge of finalizing the contract, so please don't change anything now.",
+      "example_kr": "우리 계약을 거의 마무리 짓기 직전이니, 지금 아무것도 바꾸지 마세요."
+    }
+  ],
+  "words": [
+    {
+      "word": "opt out",
+      "phonetic": "/ɒpt aʊt/",
+      "meaning": "(계약·서비스 등에서) 탈퇴하다, 선택적으로 빠지다",
+      "example": "You can opt out of the mailing list by clicking the link at the bottom.",
+      "example_kr": "하단의 링크를 클릭하면 메일링 리스트에서 탈퇴할 수 있습니다."
+    },
+    {
+      "word": "deferrable",
+      "phonetic": "/dɪˈfɜːrəbl/",
+      "meaning": "연기 가능한, 유예할 수 있는",
+      "example": "Ask the bank if your loan payment is deferrable while you're between jobs.",
+      "example_kr": "실직 기간 중에 대출 납부를 연기할 수 있는지 은행에 문의해 보세요."
+    },
+    {
+      "word": "corroborate",
+      "phonetic": "/kəˈrɒbəreɪt/",
+      "meaning": "(증거·진술 등을) 확증하다, 뒷받침하다",
+      "example": "Can you provide any documents to corroborate what you've stated on the form?",
+      "example_kr": "양식에 기재한 내용을 뒷받침할 서류를 제출해 주실 수 있나요?"
+    },
+    {
+      "word": "rollover",
+      "phonetic": "/ˈroʊloʊvər/",
+      "meaning": "(계좌·계약 등의) 자동 연장, 이월",
+      "example": "Your subscription is set for automatic rollover unless you cancel before the renewal date.",
+      "example_kr": "갱신일 전에 취소하지 않으면 구독이 자동으로 연장됩니다."
+    },
+    {
+      "word": "inadmissible",
+      "phonetic": "/ˌɪnədˈmɪsɪbl/",
+      "meaning": "(증거·서류 등이) 인정되지 않는, 접수 불가의",
+      "example": "The clerk said the handwritten copy was inadmissible and asked for an official printout.",
+      "example_kr": "담당자가 손으로 쓴 사본은 인정되지 않는다며 공식 출력본을 요청했습니다."
+    }
+  ]
+}
