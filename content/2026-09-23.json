@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "He really grew on me.",
+      "meaning": "처음엔 별로였는데 점점 좋아지게 되었다 (사람·것이 시간이 지나면서 마음에 들게 될 때)",
+      "example": "I wasn't sure about my new roommate at first, but he really grew on me.",
+      "example_kr": "처음엔 새 룸메이트가 별로였는데, 점점 좋아지더라고."
+    },
+    {
+      "pattern": "She has a way with people.",
+      "meaning": "사람들을 잘 다루는 능력이 있다, 사람을 잘 사귀거나 다루는 재주가 있다",
+      "example": "Our manager has a way with people — even tough clients end up loving her.",
+      "example_kr": "우리 매니저는 사람을 다루는 재주가 있어 — 까다로운 고객들도 결국 그녀를 좋아하게 돼."
+    },
+    {
+      "pattern": "I didn't mean to come across that way.",
+      "meaning": "그런 식으로 보이거나 들리려던 게 아니었다 (오해를 풀 때 쓰는 표현)",
+      "example": "I didn't mean to come across that way — I was just being honest, not harsh.",
+      "example_kr": "그런 식으로 들리려던 게 아니었어 — 그냥 솔직하게 말한 거지, 차갑게 굴려던 게 아니야."
+    },
+    {
+      "pattern": "주어 + be동사 + the one who + 동사 + , yet + 주어 + be동사 + the one + 주어 + blame",
+      "meaning": "실제로 ~한 건 저 사람인데, 오히려 내가/네가 비난받는 상황을 강조할 때 쓰는 패턴",
+      "example": "She was the one who started the argument, yet she's the one they all blame him for it.",
+      "example_kr": "싸움을 먼저 시작한 건 그녀인데, 오히려 그가 모두에게 비난받고 있어."
+    },
+    {
+      "pattern": "The more + 주어 + 동사, the less + 주어 + feel like + ~ing",
+      "meaning": "~하면 할수록, ~하고 싶은 마음이 줄어든다 (행동과 의욕의 반비례 관계를 표현)",
+      "example": "The more he pressures me, the less I feel like cooperating.",
+      "example_kr": "그가 나를 압박할수록, 나는 협력하고 싶은 마음이 더 줄어들어."
+    }
+  ],
+  "words": [
+    {
+      "word": "brooding",
+      "phonetic": "/ˈbruːdɪŋ/",
+      "meaning": "(말없이) 골똘히 생각에 잠긴, 우울하게 침잠한",
+      "example": "He sat by the window, brooding over the argument he'd had with his best friend.",
+      "example_kr": "그는 창가에 앉아 절친과 다퉜던 일을 우울하게 곱씹었다."
+    },
+    {
+      "word": "fickle",
+      "phonetic": "/ˈfɪkəl/",
+      "meaning": "변덕스러운, 일관성이 없는",
+      "example": "She's so fickle — one day she loves him, the next she can't stand him.",
+      "example_kr": "그녀는 정말 변덕스러워 — 하루는 그를 좋아하다가, 다음 날엔 못 견뎌해."
+    },
+    {
+      "word": "vindicate",
+      "phonetic": "/ˈvɪndɪkeɪt/",
+      "meaning": "(의혹·비난에서) 무죄임을 입증하다, 정당성을 증명하다",
+      "example": "The investigation finally vindicated him after months of unfair criticism.",
+      "example_kr": "몇 달간의 부당한 비난 끝에 조사 결과가 마침내 그의 무고함을 입증했다."
+    },
+    {
+      "word": "condone",
+      "phonetic": "/kənˈdoʊn/",
+      "meaning": "(잘못된 행동을) 묵인하다, 눈감아 주다",
+      "example": "I like her, but I can't condone the way she treats people who are beneath her.",
+      "example_kr": "그녀가 좋긴 한데, 아랫사람들을 대하는 방식은 묵인할 수가 없어."
+    },
+    {
+      "word": "exasperate",
+      "phonetic": "/ɪɡˈzæspəreɪt/",
+      "meaning": "몹시 짜증나게 하다, 분통 터지게 만들다",
+      "example": "It really exasperates me when he interrupts me mid-sentence every single time.",
+      "example_kr": "그가 매번 내 말 중간에 끊을 때마다 정말 분통이 터져."
+    }
+  ]
+}
