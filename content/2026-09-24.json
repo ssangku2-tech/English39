@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can I get that without the ~?",
+      "meaning": "~없이 주문할 수 있냐고 요청할 때 쓰는 구어체 표현. 식당·카페에서 재료 빼달라고 할 때 자연스럽게 씀.",
+      "example": "Can I get that without the onions? I'm not really a fan.",
+      "example_kr": "양파 빼고 주문할 수 있을까요? 저 별로 안 좋아해서요."
+    },
+    {
+      "pattern": "I'll go ahead and take the ~.",
+      "meaning": "메뉴를 결정하고 주문할 때 쓰는 구어체 표현. '그냥 ~로 할게요'라는 뉘앙스.",
+      "example": "I'll go ahead and take the grilled salmon. That sounds amazing.",
+      "example_kr": "그냥 그릴드 연어로 할게요. 맛있을 것 같아서요."
+    },
+    {
+      "pattern": "What's good here?",
+      "meaning": "처음 방문한 식당이나 카페에서 직원이나 동행에게 추천 메뉴를 물을 때 쓰는 가장 자연스러운 표현.",
+      "example": "This is my first time here — what's good here? Anything you'd personally recommend?",
+      "example_kr": "여기 처음 와봤는데요, 뭐가 맛있어요? 개인적으로 추천하는 거 있어요?"
+    },
+    {
+      "pattern": "주어 + have/has + no intention of + ~ing",
+      "meaning": "~할 의도가 전혀 없다는 것을 강조할 때 쓰는 패턴. 거절이나 입장 표명 상황에서 자주 쓰임.",
+      "example": "I have no intention of splitting the bill after the service we got tonight.",
+      "example_kr": "오늘 밤 이런 서비스를 받고 나서 더치페이할 생각은 전혀 없어요."
+    },
+    {
+      "pattern": "주어 + be동사 + just about to + 동사원형 + when + 주어 + 동사(과거)",
+      "meaning": "막 ~하려던 참에 (다른 일이 생겼다)는 뜻으로, 타이밍의 아이러니나 우연을 표현할 때 쓰는 패턴.",
+      "example": "We were just about to order dessert when the waiter told us the kitchen was closing.",
+      "example_kr": "막 디저트를 주문하려던 참에 웨이터가 주방이 문 닫는다고 알려줬어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "garnish",
+      "phonetic": "/ˈɡɑːrnɪʃ/",
+      "meaning": "고명, 장식; (음식을) 장식하다",
+      "example": "The dish came with a parsley garnish that made it look really elegant.",
+      "example_kr": "그 요리는 파슬리 고명과 함께 나와서 정말 우아해 보였어요."
+    },
+    {
+      "word": "entree",
+      "phonetic": "/ˈɑːntreɪ/",
+      "meaning": "메인 요리",
+      "example": "For my entree, I went with the braised short ribs — absolutely worth it.",
+      "example_kr": "메인 요리로 브레이즈드 숏립을 선택했는데 정말 그만한 가치가 있었어요."
+    },
+    {
+      "word": "delectable",
+      "phonetic": "/dɪˈlektəbəl/",
+      "meaning": "(음식이) 매우 맛있는, 입맛을 돋우는",
+      "example": "The chocolate lava cake was absolutely delectable — I could have had two.",
+      "example_kr": "초콜릿 라바케이크가 정말 너무 맛있었어요. 두 개도 먹을 수 있었을 것 같아요."
+    },
+    {
+      "word": "tab",
+      "phonetic": "/tæb/",
+      "meaning": "계산서, 외상 금액; (술집·식당 등에서) 계좌로 달아두는 금액",
+      "example": "He told us not to worry and picked up the entire tab himself.",
+      "example_kr": "그는 걱정하지 말라며 계산서 전체를 직접 냈어요."
+    },
+    {
+      "word": "overbearing",
+      "phonetic": "/ˌoʊvərˈberɪŋ/",
+      "meaning": "(사람이) 지나치게 간섭하는, 강압적인",
+      "example": "The waiter was a little overbearing — he kept checking on us every two minutes.",
+      "example_kr": "웨이터가 조금 지나치게 챙겨줬어요. 2분마다 계속 와서 확인하더라고요."
+    }
+  ]
+}
