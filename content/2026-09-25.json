@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Just follow the signs.",
+      "meaning": "표지판을 따라가면 돼요 — 길을 안내할 때 가볍게 쓰는 표현",
+      "example": "A: How do I find the baggage claim? B: Just follow the signs. You'll see it right away.",
+      "example_kr": "A: 수하물 찾는 곳이 어디예요? B: 그냥 표지판 따라가세요. 바로 보일 거예요."
+    },
+    {
+      "pattern": "Is this included in the price?",
+      "meaning": "이 가격에 포함된 건가요? — 호텔·투어 등에서 추가 요금 여부를 확인할 때",
+      "example": "A: Is this included in the price, or do I have to pay extra for breakfast? B: Breakfast is complimentary for all guests.",
+      "example_kr": "A: 아침 식사가 가격에 포함된 건가요, 아니면 따로 내야 하나요? B: 아침 식사는 모든 투숙객에게 무료로 제공됩니다."
+    },
+    {
+      "pattern": "Let me check if there are any openings.",
+      "meaning": "자리가 있는지 확인해 볼게요 — 예약·좌석 가능 여부를 알아볼 때 쓰는 표현",
+      "example": "A: We'd like a table for two tonight. B: Let me check if there are any openings around seven.",
+      "example_kr": "A: 오늘 저녁 두 명 자리 원하는데요. B: 7시쯤 자리가 있는지 확인해 볼게요."
+    },
+    {
+      "pattern": "주어 + be동사 + glad + 주어 + did, because + 주어 + 동사",
+      "meaning": "~해서 다행이다, 왜냐하면 … — 어떤 선택이나 행동이 결과적으로 좋았음을 표현할 때",
+      "example": "I'm glad I booked early, because all the other flights were fully sold out.",
+      "example_kr": "일찍 예약해서 다행이에요, 다른 항공편은 전부 매진됐거든요."
+    },
+    {
+      "pattern": "주어 + 동사(과거) + only to find (that) + 주어 + 동사",
+      "meaning": "~했더니 결국 …이더라 — 기대와 다른 실망스럽거나 뜻밖의 결과를 나타낼 때",
+      "example": "We rushed to the gate only to find that the flight had already been delayed by two hours.",
+      "example_kr": "탑승구로 서둘러 갔더니 결국 항공편이 이미 두 시간 지연돼 있더라고요."
+    }
+  ],
+  "words": [
+    {
+      "word": "overland",
+      "phonetic": "/ˈoʊvərlænd/",
+      "meaning": "육로로, 육지를 가로질러",
+      "example": "We decided to travel overland from Bangkok to Chiang Mai instead of flying.",
+      "example_kr": "방콕에서 치앙마이까지 비행기 대신 육로로 이동하기로 했어요."
+    },
+    {
+      "word": "customs",
+      "phonetic": "/ˈkʌstəmz/",
+      "meaning": "세관",
+      "example": "It took over an hour to get through customs because of the long line.",
+      "example_kr": "줄이 너무 길어서 세관을 통과하는 데 한 시간이 넘게 걸렸어요."
+    },
+    {
+      "word": "amenable",
+      "phonetic": "/əˈmiːnəbl/",
+      "meaning": "기꺼이 동의하는, 순응하는",
+      "example": "The hotel manager was amenable to giving us a late checkout at no extra charge.",
+      "example_kr": "호텔 매니저는 추가 요금 없이 늦은 체크아웃을 기꺼이 허락해 줬어요."
+    },
+    {
+      "word": "cobbled",
+      "phonetic": "/ˈkɒbld/",
+      "meaning": "돌이 깔린, 자갈로 포장된",
+      "example": "The cobbled streets of the old district were charming but hard to walk on with suitcases.",
+      "example_kr": "구시가지의 자갈 깔린 길은 매력적이었지만 캐리어를 끌고 걷기엔 힘들었어요."
+    },
+    {
+      "word": "run-down",
+      "phonetic": "/ˈrʌndaʊn/",
+      "meaning": "낡고 허름한, 쇠락한",
+      "example": "The hotel looked a bit run-down from the outside, but the rooms were surprisingly clean.",
+      "example_kr": "호텔이 외관은 좀 허름해 보였는데 방은 놀랍도록 깔끔했어요."
+    }
+  ]
+}
