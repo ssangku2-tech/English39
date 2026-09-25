@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Let's get the ball rolling.",
+      "meaning": "(회의·프로젝트 등을) 시작하자, 일을 진행시키자",
+      "example": "Alright, everyone's here — let's get the ball rolling on the quarterly review.",
+      "example_kr": "좋아요, 다들 모였으니 — 분기 검토를 시작해 봅시다."
+    },
+    {
+      "pattern": "I'll put that on your radar.",
+      "meaning": "(중요한 정보를) 미리 알려두다, 참고하라고 전달하다",
+      "example": "Just wanted to put it on your radar — the client moved the deadline up by a week.",
+      "example_kr": "미리 알려드리려고요 — 고객사가 마감을 일주일 앞당겼어요."
+    },
+    {
+      "pattern": "Let's take this offline.",
+      "meaning": "(회의 중) 이 내용은 따로 얘기하자, 나중에 개인적으로 논의하자",
+      "example": "That's a great question, but let's take this offline so we don't hold everyone up.",
+      "example_kr": "좋은 질문인데요, 모두를 붙잡지 않도록 따로 얘기하죠."
+    },
+    {
+      "pattern": "주어 + be동사 + on track to + 동사원형",
+      "meaning": "~할 계획대로 진행 중이다, ~을 달성할 궤도에 있다",
+      "example": "We're on track to hit our sales target by the end of the quarter.",
+      "example_kr": "우리는 분기 말까지 판매 목표를 달성할 궤도에 있어요."
+    },
+    {
+      "pattern": "주어 + be동사 + tied to + 명사/~ing",
+      "meaning": "~와 연결되어 있다, ~에 달려 있다, ~에 묶여 있다",
+      "example": "The budget approval is tied to the results of the pilot program.",
+      "example_kr": "예산 승인은 파일럿 프로그램 결과에 달려 있어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "actionable",
+      "phonetic": "/ˈækʃənəbl/",
+      "meaning": "실행 가능한, 즉시 적용할 수 있는",
+      "example": "Can you give us some actionable feedback we can use right away?",
+      "example_kr": "바로 활용할 수 있는 실행 가능한 피드백을 주실 수 있나요?"
+    },
+    {
+      "word": "terse",
+      "phonetic": "/tɜːrs/",
+      "meaning": "(말·글이) 간결하지만 무뚝뚝한, 퉁명스러운",
+      "example": "His reply was so terse that I wasn't sure if he was upset or just busy.",
+      "example_kr": "그의 답장이 너무 간결하고 퉁명스러워서 화가 난 건지 그냥 바쁜 건지 몰랐어요."
+    },
+    {
+      "word": "pull back",
+      "phonetic": "/pʊl bæk/",
+      "meaning": "(투자·계획 등을) 축소하다, 물러서다",
+      "example": "The company decided to pull back on overseas expansion due to budget cuts.",
+      "example_kr": "회사는 예산 삭감으로 인해 해외 확장을 축소하기로 결정했어요."
+    },
+    {
+      "word": "coherent",
+      "phonetic": "/koʊˈhɪərənt/",
+      "meaning": "(말·보고서 등이) 논리 정연한, 일관성 있는",
+      "example": "Make sure your report is coherent before you send it to the director.",
+      "example_kr": "이사님께 보내기 전에 보고서가 논리 정연한지 확인하세요."
+    },
+    {
+      "word": "discern",
+      "phonetic": "/dɪˈzɜːrn/",
+      "meaning": "(차이·사실을) 파악하다, 식별하다",
+      "example": "It's hard to discern which data points are actually relevant to our case.",
+      "example_kr": "어떤 데이터 포인트가 우리 케이스에 실제로 관련 있는지 파악하기 어려워요."
+    }
+  ]
+}
