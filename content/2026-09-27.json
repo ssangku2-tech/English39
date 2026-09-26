@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I owe you one.",
+      "meaning": "신세 졌어. / 나중에 꼭 갚을게. (상대방이 도움을 줬을 때 감사와 함께 보답을 약속하는 표현)",
+      "example": "You covered for me at the meeting? I owe you one, seriously.",
+      "example_kr": "회의에서 나 대신해줬어? 진짜 신세 졌다."
+    },
+    {
+      "pattern": "What's the hold-up?",
+      "meaning": "왜 이렇게 오래 걸려? / 뭐가 막혀 있어? (기다리다 지쳐서 이유를 물을 때 쓰는 구어체 표현)",
+      "example": "We were supposed to leave an hour ago. What's the hold-up?",
+      "example_kr": "한 시간 전에 출발하기로 했잖아. 왜 이렇게 안 오는 거야?"
+    },
+    {
+      "pattern": "I'm not gonna make it on time.",
+      "meaning": "제시간에 못 갈 것 같아. (약속 시간에 늦을 것 같을 때 미리 알릴 때 쓰는 표현)",
+      "example": "Hey, traffic is brutal — I'm not gonna make it on time. Start without me.",
+      "example_kr": "야, 차가 너무 막혀서 제시간에 못 갈 것 같아. 나 없이 먼저 시작해."
+    },
+    {
+      "pattern": "주어 + wish + 주어 + were + 형용사/명사, but + 주어 + 동사(현재)",
+      "meaning": "~이면 좋겠지만 실제로는 그렇지 않다는 아쉬움을 나타내는 현재 사실 반대 가정법 패턴",
+      "example": "I wish I were free this weekend, but I already promised my parents I'd visit.",
+      "example_kr": "이번 주말에 시간이 있으면 좋겠는데, 이미 부모님께 방문하기로 약속했거든."
+    },
+    {
+      "pattern": "주어 + have/has + been + ~ing + every time + 주어 + 동사",
+      "meaning": "~할 때마다 계속 …해오고 있다는, 반복적 행동과 상황을 연결하는 현재완료 진행 패턴",
+      "example": "She has been checking her phone every time we sit down to eat together.",
+      "example_kr": "우리가 같이 앉아서 밥 먹을 때마다 그녀는 계속 핸드폰을 확인하고 있어."
+    }
+  ],
+  "words": [
+    {
+      "word": "procrastinate",
+      "phonetic": "/prəˈkræstɪneɪt/",
+      "meaning": "미루다, 꾸물거리다",
+      "example": "I keep procrastinating on cleaning my room — I'll just do it tomorrow.",
+      "example_kr": "방 청소를 계속 미루고 있어 — 내일 하면 되지 뭐."
+    },
+    {
+      "word": "fret",
+      "phonetic": "/frɛt/",
+      "meaning": "안절부절 못하다, 걱정하다",
+      "example": "Don't fret about it — everything's going to work out fine.",
+      "example_kr": "그것 때문에 너무 걱정하지 마 — 다 잘 될 거야."
+    },
+    {
+      "word": "bicker",
+      "phonetic": "/ˈbɪkər/",
+      "meaning": "티격태격하다, 사소한 것으로 다투다",
+      "example": "We always bicker about where to eat, but we never actually fight.",
+      "example_kr": "우리는 항상 어디서 먹을지로 티격태격하지만 진짜로 싸우지는 않아."
+    },
+    {
+      "word": "tuck away",
+      "phonetic": "/tʌk əˈweɪ/",
+      "meaning": "(돈·물건을) 따로 챙겨두다, 비밀리에 보관하다",
+      "example": "She's been tucking away a little money each month for the trip.",
+      "example_kr": "그녀는 그 여행을 위해 매달 돈을 조금씩 따로 챙겨두고 있어."
+    },
+    {
+      "word": "endure",
+      "phonetic": "/ɪnˈdjʊr/",
+      "meaning": "견디다, 참아내다",
+      "example": "I honestly don't know how you endure living with such a loud neighbor.",
+      "example_kr": "그렇게 시끄러운 이웃이랑 어떻게 사는지 진짜 모르겠어."
+    }
+  ]
+}
