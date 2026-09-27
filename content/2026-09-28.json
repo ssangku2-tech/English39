@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Shoot me a message.",
+      "meaning": "메시지 보내줘. / 연락해줘. (문자·DM·카톡 등 어떤 채널로든 연락 달라고 가볍게 요청할 때)",
+      "example": "If anything changes, just shoot me a message and I'll adjust the plan.",
+      "example_kr": "뭔가 바뀌면 그냥 메시지 보내줘, 내가 계획 조정할게."
+    },
+    {
+      "pattern": "Did I catch you at a bad time?",
+      "meaning": "지금 통화(연락) 괜찮아? / 바쁜 시간에 연락한 거야? (전화나 메시지를 걸기 전에 상대 상황을 배려해서 묻는 표현)",
+      "example": "Hey, did I catch you at a bad time? I just had a quick question about the schedule.",
+      "example_kr": "야, 지금 괜찮아? 일정 관련해서 잠깐 물어볼 게 있어서."
+    },
+    {
+      "pattern": "You're good.",
+      "meaning": "괜찮아. / 신경 쓰지 마. (상대가 실수나 사과를 했을 때 가볍게 넘어가거나, 허락·확인을 줄 때)",
+      "example": "A: Sorry, I forgot to reply sooner. B: You're good, no big deal.",
+      "example_kr": "A: 미안, 더 빨리 답장했어야 했는데. B: 괜찮아, 별거 아니야."
+    },
+    {
+      "pattern": "주어 + go ahead and + 동사원형 + whenever + 주어 + be동사 + ready",
+      "meaning": "준비되면 언제든지 ~해도 돼. (상대에게 부담 없이 행동해도 된다고 허락·격려할 때 쓰는 패턴)",
+      "example": "Just go ahead and send the file whenever you're ready — I'll review it right away.",
+      "example_kr": "준비되면 언제든지 파일 보내도 돼 — 바로 검토할게."
+    },
+    {
+      "pattern": "주어 + have/has + no idea + how + to + 동사원형",
+      "meaning": "어떻게 ~해야 할지 전혀 모르겠다. (방법을 완전히 모르거나 막막할 때 쓰는 패턴)",
+      "example": "I have no idea how to fix the connection error — can you walk me through it over chat?",
+      "example_kr": "연결 오류를 어떻게 고쳐야 할지 전혀 모르겠어 — 채팅으로 설명해줄 수 있어?"
+    }
+  ],
+  "words": [
+    {
+      "word": "bounce",
+      "phonetic": "/baʊns/",
+      "meaning": "(이메일이) 반송되다; 튀기다; (아이디어를) 던져보다",
+      "example": "My email bounced — are you sure that address is correct?",
+      "example_kr": "내 이메일이 반송됐어 — 그 주소 맞아?"
+    },
+    {
+      "word": "choppy",
+      "phonetic": "/ˈtʃɒpi/",
+      "meaning": "(연결·음성·영상이) 끊기는, 고르지 않은",
+      "example": "Your video is really choppy — can you turn off your camera for now?",
+      "example_kr": "영상이 엄청 끊겨 — 지금은 카메라 꺼도 돼."
+    },
+    {
+      "word": "acknowledge",
+      "phonetic": "/əkˈnɒlɪdʒ/",
+      "meaning": "(동사) 확인했음을 알리다, 인정하다, 접수하다",
+      "example": "Could you acknowledge receipt of this email so I know you got it?",
+      "example_kr": "이메일 받았다고 확인 답장 줄 수 있어? 받았는지 알고 싶어서."
+    },
+    {
+      "word": "elapse",
+      "phonetic": "/ɪˈlæps/",
+      "meaning": "(동사) (시간이) 경과하다, 흐르다",
+      "example": "Three days have elapsed and I still haven't heard back from them.",
+      "example_kr": "사흘이 지났는데 아직도 답이 없네."
+    },
+    {
+      "word": "triage",
+      "phonetic": "/ˈtriːɑːʒ/",
+      "meaning": "(동사/명사) 우선순위를 매기다/우선순위 분류 (쏟아지는 메시지·업무 등을 중요도 순으로 처리할 때)",
+      "example": "I need to triage my inbox before I can reply to anything — there are like 80 unread messages.",
+      "example_kr": "뭔가 답장하기 전에 먼저 받은 편지함 정리부터 해야 해 — 안 읽은 메시지가 80개쯤 돼."
+    }
+  ]
+}
