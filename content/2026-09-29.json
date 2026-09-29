@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's not gonna cut it.",
+      "meaning": "그걸로는 안 돼 / 그것으로는 충분하지 않아 — 상대방의 제안이나 해결책이 기대에 못 미칠 때 쓰는 구어체 표현",
+      "example": "A ten percent discount? Sorry, that's not gonna cut it. I was expecting at least thirty.",
+      "example_kr": "10퍼센트 할인이요? 죄송한데 그걸로는 안 돼요. 최소 30퍼센트는 기대했거든요."
+    },
+    {
+      "pattern": "I'll take you up on that.",
+      "meaning": "그 제안 받아들일게요 / 기꺼이 그렇게 할게요 — 상대가 먼저 제안한 것을 수락할 때 쓰는 표현",
+      "example": "You said you'd throw in free shipping? I'll take you up on that.",
+      "example_kr": "무료 배송 해주신다고 하셨죠? 그 제안 받아들일게요."
+    },
+    {
+      "pattern": "Do you have anything else in mind?",
+      "meaning": "다른 생각 있으세요? / 다른 것도 생각해 두신 게 있나요? — 쇼핑이나 일상 대화에서 상대의 다른 선택지나 의향을 물을 때",
+      "example": "That color is sold out. Do you have anything else in mind, or should I check the back?",
+      "example_kr": "그 색상은 품절이에요. 다른 생각 있으세요, 아니면 창고를 확인해 드릴까요?"
+    },
+    {
+      "pattern": "주어 + be동사 + allowed to + 동사원형 + only if + 주어 + 동사",
+      "meaning": "~한 경우에만 …할 수 있다 — 특정 조건이 충족될 때에만 허용되는 상황을 표현하는 조건 패턴",
+      "example": "You're allowed to get a full refund only if you return the item within 14 days with the original receipt.",
+      "example_kr": "원본 영수증을 지참하고 14일 이내에 반품하는 경우에만 전액 환불을 받으실 수 있습니다."
+    },
+    {
+      "pattern": "주어 + have/has + no choice but to + 동사원형 + unless + 주어 + 동사",
+      "meaning": "~하지 않는 한 …할 수밖에 없다 — 선택의 여지가 없는 상황과 그 예외 조건을 함께 나타내는 패턴",
+      "example": "We have no choice but to charge a restocking fee unless the product came damaged from the factory.",
+      "example_kr": "제품이 공장에서 손상된 채로 온 경우가 아닌 한, 저희는 재입고 수수료를 청구할 수밖에 없습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "clearance",
+      "phonetic": "/ˈklɪərəns/",
+      "meaning": "재고 정리 할인, 클리어런스 세일",
+      "example": "I grabbed this jacket for half price — it was on clearance at the back of the store.",
+      "example_kr": "이 재킷 반값에 샀어요. 매장 뒤쪽에서 재고 정리 할인 중이었거든요."
+    },
+    {
+      "word": "tamper",
+      "phonetic": "/ˈtæmpər/",
+      "meaning": "(무단으로) 건드리다, 손을 대다, 변조하다",
+      "example": "The return was rejected because the seal had been tampered with.",
+      "example_kr": "봉인이 훼손되어 있어서 반품이 거절됐어요."
+    },
+    {
+      "word": "appraise",
+      "phonetic": "/əˈpreɪz/",
+      "meaning": "(가치·상태를) 감정하다, 평가하다",
+      "example": "The jeweler appraised the ring before they agreed on a trade-in price.",
+      "example_kr": "보석상이 반지를 감정한 후에 보상 판매 가격에 합의했어요."
+    },
+    {
+      "word": "durable",
+      "phonetic": "/ˈdjʊərəbl/",
+      "meaning": "내구성 있는, 오래 가는",
+      "example": "I paid a bit more for a durable pair of boots that would last through winter.",
+      "example_kr": "겨울 내내 견딜 수 있는 내구성 좋은 부츠에 조금 더 돈을 썼어요."
+    },
+    {
+      "word": "bulk up",
+      "phonetic": "/bʌlk ʌp/",
+      "meaning": "대량으로 사들이다, 재고를 늘리다 (또는 몸을 키우다)",
+      "example": "We always bulk up on household supplies whenever there's a big sale.",
+      "example_kr": "큰 세일이 있을 때마다 생활용품을 대량으로 사들여요."
+    }
+  ]
+}
