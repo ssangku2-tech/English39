@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm not at my best, but I'll manage.",
+      "meaning": "최상의 컨디션은 아니지만 어떻게든 해낼 거야. 몸이 안 좋지만 버텨보겠다는 뉘앙스.",
+      "example": "A: You look a little pale. You okay? B: I'm not at my best, but I'll manage. Just a rough night.",
+      "example_kr": "A: 얼굴이 좀 창백해 보이는데, 괜찮아? B: 최상의 컨디션은 아닌데, 어떻게든 버텨볼게. 그냥 어젯밤이 힘들었어."
+    },
+    {
+      "pattern": "You should get that checked out.",
+      "meaning": "그거 (병원에서) 검사받아봐. 증상이나 이상한 점을 진지하게 살펴보라고 권할 때 쓰는 표현.",
+      "example": "A: My knee's been hurting for like two weeks now. B: Two weeks? You should get that checked out.",
+      "example_kr": "A: 무릎이 한 2주째 아파. B: 2주째? 그거 진찰받아봐야겠는데."
+    },
+    {
+      "pattern": "I'm just gonna tough it out.",
+      "meaning": "그냥 버텨볼 거야. 힘들어도 참고 견디겠다는 의지를 나타내는 구어 표현.",
+      "example": "A: Are you sure you don't want to take the day off? B: Nah, I'm just gonna tough it out. It's just a cold.",
+      "example_kr": "A: 정말 하루 쉬지 않을 거야? B: 아니, 그냥 버텨볼게. 그냥 감기인걸."
+    },
+    {
+      "pattern": "주어 + have/has + been + ~ing + so much that + 주어 + 동사",
+      "meaning": "너무 많이 ~하다 보니 결국 …하게 됐다. 과도한 행동이 특정 결과를 낳았음을 설명하는 패턴.",
+      "example": "I've been sitting so much that my back has completely seized up.",
+      "example_kr": "너무 오래 앉아 있다 보니 허리가 완전히 굳어버렸어."
+    },
+    {
+      "pattern": "주어 + be동사 + not quite + 형용사 + enough to + 동사원형",
+      "meaning": "~하기에는 충분히 …하지 않다. 기준에 살짝 못 미침을 나타내는 패턴.",
+      "example": "My ankle's not quite strong enough to run yet, so I'm just doing light stretches for now.",
+      "example_kr": "발목이 아직 뛸 만큼 충분히 강하지 않아서, 지금은 가벼운 스트레칭만 하고 있어."
+    }
+  ],
+  "words": [
+    {
+      "word": "debilitating",
+      "phonetic": "/dɪˈbɪlɪteɪtɪŋ/",
+      "meaning": "(몸이나 기력을) 쇠약하게 만드는, 심신을 무력화하는",
+      "example": "The migraines she gets are absolutely debilitating — she can barely get out of bed.",
+      "example_kr": "그녀가 앓는 편두통은 정말 심신을 무력화시켜서, 침대에서 일어나기도 힘들 정도야."
+    },
+    {
+      "word": "ward off",
+      "phonetic": "/wɔːrd ɒf/",
+      "meaning": "(질병·위험 등을) 예방하다, 막아내다",
+      "example": "Washing your hands regularly is one of the best ways to ward off infections.",
+      "example_kr": "손을 자주 씻는 것은 감염을 예방하는 가장 좋은 방법 중 하나야."
+    },
+    {
+      "word": "susceptible",
+      "phonetic": "/səˈsɛptɪbəl/",
+      "meaning": "(질병·영향 등에) 취약한, 걸리기 쉬운",
+      "example": "People who don't sleep enough are far more susceptible to getting sick.",
+      "example_kr": "수면이 부족한 사람들은 훨씬 더 질병에 취약해."
+    },
+    {
+      "word": "taper off",
+      "phonetic": "/ˈteɪpər ɒf/",
+      "meaning": "(운동 강도·복용량 등을) 서서히 줄이다, 점점 약해지다",
+      "example": "The doctor told me to taper off the medication gradually, not stop all at once.",
+      "example_kr": "의사가 약을 한 번에 끊지 말고 서서히 줄이라고 했어."
+    },
+    {
+      "word": "stamina",
+      "phonetic": "/ˈstæmɪnə/",
+      "meaning": "지구력, 체력",
+      "example": "She's been doing cardio three times a week to build her stamina for the marathon.",
+      "example_kr": "그녀는 마라톤을 위해 지구력을 키우려고 일주일에 세 번씩 유산소 운동을 하고 있어."
+    }
+  ]
+}
