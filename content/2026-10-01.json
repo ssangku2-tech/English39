@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "It needs a little TLC.",
+      "meaning": "손질이 좀 필요하다, 애정 어린 관리가 필요하다 (집이나 물건 상태가 좋지 않을 때 자주 쓰는 표현)",
+      "example": "The apartment is cheap, but honestly it needs a little TLC before we move in.",
+      "example_kr": "그 아파트는 싸긴 한데, 솔직히 이사 들어가기 전에 손질이 좀 필요해."
+    },
+    {
+      "pattern": "We're gonna gut the whole thing.",
+      "meaning": "전부 뜯어고치다, 완전히 새로 하다 (집 인테리어나 공간을 전면 리모델링할 때 쓰는 표현)",
+      "example": "The kitchen is so outdated — we're just gonna gut the whole thing and start fresh.",
+      "example_kr": "주방이 너무 낡아서 그냥 전부 뜯어내고 새로 시작할 거야."
+    },
+    {
+      "pattern": "Could you knock a little off the price?",
+      "meaning": "가격을 좀 깎아줄 수 있어요? (수리비나 집 관련 비용을 흥정할 때 부드럽게 쓰는 표현)",
+      "example": "The place has a few cracks in the wall — could you knock a little off the price?",
+      "example_kr": "벽에 균열이 몇 군데 있는데요, 가격을 좀 깎아주실 수 있나요?"
+    },
+    {
+      "pattern": "주어 + get + 목적어 + fixed / replaced / repainted + before + 주어 + 동사",
+      "meaning": "~하기 전에 …을 고치다/교체하다/다시 칠하다 (무언가를 조치한 뒤 다음 단계로 넘어갈 때 쓰는 패턴)",
+      "example": "We need to get the roof fixed before the rainy season starts.",
+      "example_kr": "장마철이 시작되기 전에 지붕을 고쳐야 해."
+    },
+    {
+      "pattern": "주어 + be동사 + nowhere near + 형용사/명사 + enough to + 동사원형",
+      "meaning": "~하기에 충분히 …하지 않다, 전혀 …한 수준이 아니다 (상태나 준비가 턱없이 부족함을 강조)",
+      "example": "The storage space is nowhere near big enough to fit all our stuff.",
+      "example_kr": "수납공간이 우리 짐을 다 넣기엔 턱없이 부족해."
+    }
+  ],
+  "words": [
+    {
+      "word": "dilapidated",
+      "phonetic": "/dɪˈlæpɪdeɪtɪd/",
+      "meaning": "(건물·가구 등이) 낡아서 허물어져 가는, 황폐한",
+      "example": "The landlord finally agreed to renovate the dilapidated bathroom.",
+      "example_kr": "집주인이 결국 낡아 허물어진 욕실을 수리하는 데 동의했다."
+    },
+    {
+      "word": "tack down",
+      "phonetic": "/tæk daʊn/",
+      "meaning": "(카펫·타일 등을) 못이나 스테이플로 고정하다",
+      "example": "The carpet edge keeps coming up — can you tack it down properly?",
+      "example_kr": "카펫 끝이 자꾸 들리는데 — 제대로 고정해 줄 수 있어?"
+    },
+    {
+      "word": "subflooring",
+      "phonetic": "/ˈsʌbflɔːrɪŋ/",
+      "meaning": "마루 밑바닥재, 하지 바닥",
+      "example": "The contractor said the subflooring was rotted and had to be replaced entirely.",
+      "example_kr": "시공업자가 하지 바닥재가 썩어서 전부 교체해야 한다고 했다."
+    },
+    {
+      "word": "air out",
+      "phonetic": "/ɛr aʊt/",
+      "meaning": "(방·이불 등을) 환기시키다, 바람을 쐬다",
+      "example": "Open the windows and air out the room — it smells stuffy in here.",
+      "example_kr": "창문 열어서 방 좀 환기시켜 — 여기 공기가 답답한 냄새가 나."
+    },
+    {
+      "word": "corrosion",
+      "phonetic": "/kəˈroʊʒən/",
+      "meaning": "(금속의) 부식, 녹",
+      "example": "There's a lot of corrosion on the pipes under the sink.",
+      "example_kr": "싱크대 아래 파이프에 부식이 많이 생겼어."
+    }
+  ]
+}
