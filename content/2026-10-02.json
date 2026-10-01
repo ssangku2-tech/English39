@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Let's get that squared away.",
+      "meaning": "그거 깔끔하게 처리하자 / 정리해 두자 (예약·행정 처리 등에서 문제나 절차를 마무리할 때 쓰는 표현)",
+      "example": "We still need to sort out the deposit. Let's get that squared away before you check in.",
+      "example_kr": "보증금 문제가 아직 남아 있어요. 체크인 전에 그걸 깔끔하게 처리해 둡시다."
+    },
+    {
+      "pattern": "Can you put that in writing?",
+      "meaning": "그거 서면으로 해줄 수 있어요? (구두 약속을 문서로 확인하고 싶을 때 쓰는 표현)",
+      "example": "That sounds great, but can you put that in writing so I have a record of it?",
+      "example_kr": "좋은 것 같긴 한데, 기록을 남길 수 있게 그걸 서면으로 해줄 수 있나요?"
+    },
+    {
+      "pattern": "Just to be clear,",
+      "meaning": "분명히 짚고 넘어가자면, / 확실히 해두기 위해 (오해를 방지하거나 조건·사실을 명확히 할 때 쓰는 표현)",
+      "example": "Just to be clear, the quoted price doesn't include installation, right?",
+      "example_kr": "분명히 짚고 넘어가자면, 견적 가격에 설치비는 포함되지 않는 거죠?"
+    },
+    {
+      "pattern": "주어 + have/has + until + 시간/기한 + to + 동사원형",
+      "meaning": "~까지 …할 시간이 있다 (기한이 얼마나 남았는지 표현할 때 쓰는 패턴)",
+      "example": "You have until the end of the month to submit all the required documents.",
+      "example_kr": "필요한 서류를 모두 제출하려면 이달 말까지 시간이 있습니다."
+    },
+    {
+      "pattern": "주어 + would like + 목적어 + to + 동사원형",
+      "meaning": "~가 …해 주었으면 하다 (정중하게 상대방 또는 제3자에게 특정 행동을 요청할 때 쓰는 패턴)",
+      "example": "I would like someone to review the contract before I sign anything.",
+      "example_kr": "어떤 분이 계약서를 검토해 주셨으면 해요, 제가 서명하기 전에요."
+    }
+  ],
+  "words": [
+    {
+      "word": "reschedule",
+      "phonetic": "/ˌriːˈskɛdʒuːl/",
+      "meaning": "일정을 변경하다",
+      "example": "I need to reschedule my appointment because something came up at work.",
+      "example_kr": "직장에서 일이 생겨서 예약 일정을 변경해야 해요."
+    },
+    {
+      "word": "outstanding",
+      "phonetic": "/ˌaʊtˈstændɪŋ/",
+      "meaning": "(금액·업무가) 미결인, 미납의",
+      "example": "There's still an outstanding balance on your account that needs to be settled.",
+      "example_kr": "계정에 아직 정산되지 않은 잔액이 남아 있습니다."
+    },
+    {
+      "word": "levy",
+      "phonetic": "/ˈlɛvi/",
+      "meaning": "(세금·요금을) 부과하다; 부과금",
+      "example": "The city decided to levy an additional fee on short-term rental properties.",
+      "example_kr": "시는 단기 임대 부동산에 추가 요금을 부과하기로 결정했습니다."
+    },
+    {
+      "word": "disclosure",
+      "phonetic": "/dɪsˈkloʊʒər/",
+      "meaning": "공개, 고지, 정보 공시",
+      "example": "Please read the full disclosure before agreeing to the terms of the contract.",
+      "example_kr": "계약 조건에 동의하기 전에 전체 공시 내용을 읽어보세요."
+    },
+    {
+      "word": "finalize",
+      "phonetic": "/ˈfaɪnəlaɪz/",
+      "meaning": "마무리 짓다, 최종 확정하다",
+      "example": "We need to finalize the booking details by Thursday at the latest.",
+      "example_kr": "늦어도 목요일까지는 예약 세부 사항을 최종 확정해야 합니다."
+    }
+  ]
+}
