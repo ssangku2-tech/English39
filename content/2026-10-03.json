@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That hit different.",
+      "meaning": "(같은 것이라도) 느낌이 다르게 다가오다, 색다르게 느껴지다",
+      "example": "Listening to this song after the breakup just hits different, you know?",
+      "example_kr": "헤어지고 나서 이 노래를 들으니까 느낌이 완전 다르더라, 있잖아."
+    },
+    {
+      "pattern": "I didn't mean to come off that way.",
+      "meaning": "그런 식으로 보이려던 건 아니었어 (오해를 풀 때 쓰는 표현)",
+      "example": "I didn't mean to come off that way — I was just being honest, that's all.",
+      "example_kr": "그렇게 보이려던 건 아니었어 — 그냥 솔직하게 말한 거였거든, 그게 다야."
+    },
+    {
+      "pattern": "She's been going through a lot lately.",
+      "meaning": "그녀가 요즘 많은 힘든 일을 겪고 있어 (누군가의 상황을 설명할 때)",
+      "example": "Don't take it personally — she's been going through a lot lately.",
+      "example_kr": "개인적으로 받아들이지 마 — 그녀가 요즘 많이 힘든 상황이야."
+    },
+    {
+      "pattern": "주어 + have/has + a hard time + ~ing",
+      "meaning": "~하는 것을 힘들어하다, ~하기가 어렵다 (감정·상황 묘사에 자주 쓰임)",
+      "example": "He has a hard time opening up to people he doesn't know well.",
+      "example_kr": "그는 잘 모르는 사람들에게 마음을 여는 걸 힘들어해."
+    },
+    {
+      "pattern": "No matter how + 형용사/부사 + 주어 + 동사, 주어 + 동사",
+      "meaning": "아무리 ~해도 …하다 (어떤 상황에서도 변하지 않는 사실을 강조)",
+      "example": "No matter how hard she tries, she can't seem to stay calm under pressure.",
+      "example_kr": "아무리 노력해도, 그녀는 압박을 받으면 침착함을 유지하지 못하는 것 같아."
+    }
+  ],
+  "words": [
+    {
+      "word": "mellowed out",
+      "phonetic": "/ˈmɛloʊd aʊt/",
+      "meaning": "(성격이) 부드러워지다, 여유로워지다",
+      "example": "He really mellowed out after becoming a dad.",
+      "example_kr": "그는 아빠가 된 후 성격이 많이 부드러워졌어."
+    },
+    {
+      "word": "nonchalant",
+      "phonetic": "/ˌnɒnʃəˈlɑːnt/",
+      "meaning": "태연한, 무심한 척하는",
+      "example": "She seemed completely nonchalant about the breakup, but I could tell she was hurting.",
+      "example_kr": "그녀는 이별에 대해 완전히 태연해 보였지만, 나는 그녀가 힘들다는 걸 알 수 있었어."
+    },
+    {
+      "word": "pent-up",
+      "phonetic": "/ˈpɛnt ʌp/",
+      "meaning": "(감정이) 억눌린, 쌓인",
+      "example": "After months of stress, all that pent-up frustration finally came out.",
+      "example_kr": "몇 달간의 스트레스 끝에, 억눌렸던 좌절감이 마침내 터져 나왔어."
+    },
+    {
+      "word": "drift",
+      "phonetic": "/drɪft/",
+      "meaning": "(관계가) 서서히 멀어지다; 방향 없이 흘러가다",
+      "example": "We used to be close, but we've slowly drifted apart over the years.",
+      "example_kr": "우리 예전엔 가까웠는데, 몇 년에 걸쳐 서서히 멀어졌어."
+    },
+    {
+      "word": "gregarious",
+      "phonetic": "/ɡrɪˈɡɛəriəs/",
+      "meaning": "사교적인, 군집을 좋아하는",
+      "example": "She's naturally gregarious and makes friends wherever she goes.",
+      "example_kr": "그녀는 천성적으로 사교적이어서 어딜 가든 친구를 사귀어."
+    }
+  ]
+}
