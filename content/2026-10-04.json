@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'll just have what they're having.",
+      "meaning": "상대방이 시킨 걸 보고 '저도 그걸로 할게요'라고 따라 주문할 때 쓰는 표현. 메뉴 고르기 귀찮거나 맛있어 보일 때 자연스럽게 쓴다.",
+      "example": "A: What can I get for you? B: Honestly, I'll just have what they're having. That looks amazing.",
+      "example_kr": "A: 주문 받아도 될까요? B: 솔직히, 저도 저분이 시킨 걸로 할게요. 정말 맛있어 보여요."
+    },
+    {
+      "pattern": "Can we split this?",
+      "meaning": "음식이나 계산서를 나눌 때 쓰는 표현. 식당에서 메뉴를 나눠 먹거나 비용을 반반 낼 때 모두 사용 가능하다.",
+      "example": "A: This portion is huge. Can we split this? B: Yeah, let's do that — I wasn't that hungry anyway.",
+      "example_kr": "A: 양이 엄청 많네요. 나눠 먹을까요? B: 네, 그렇게 해요 — 어차피 저 그렇게 배고프지도 않았어요."
+    },
+    {
+      "pattern": "Does it come with anything?",
+      "meaning": "메뉴를 주문할 때 곁들이 음식이나 사이드가 포함되는지 물을 때 쓰는 표현. 식당에서 매우 자주 쓰인다.",
+      "example": "I'll take the grilled salmon. Does it come with anything, or is it just the fish?",
+      "example_kr": "그릴드 연어로 할게요. 뭔가 같이 나오나요, 아니면 그냥 생선만 나오나요?"
+    },
+    {
+      "pattern": "주어 + seem(s) to have + 과거분사",
+      "meaning": "'~한 것 같다'는 뉘앙스로, 확신은 없지만 결과나 상태를 추측할 때 쓰는 패턴. 부드럽고 조심스러운 어조를 준다.",
+      "example": "Our order seems to have gotten mixed up — we asked for no onions but they're on everything.",
+      "example_kr": "저희 주문이 잘못된 것 같아요 — 양파 빼달라고 했는데 다 들어가 있네요."
+    },
+    {
+      "pattern": "주어 + be동사 + such a + 명사 + that + 주어 + 동사",
+      "meaning": "'너무 ~해서 …하다'는 강조 구조. 결과를 강조할 때 쓰며, 말하는 대상의 정도가 심함을 표현한다.",
+      "example": "The line was such a long wait that we almost gave up and went somewhere else.",
+      "example_kr": "줄이 너무 오래 기다려야 해서 거의 포기하고 다른 데 갈 뻔했어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "mellow",
+      "phonetic": "/ˈmɛloʊ/",
+      "meaning": "(맛·분위기 등이) 부드러운, 은은한; 차분한",
+      "example": "This coffee has a really mellow flavor — not bitter at all.",
+      "example_kr": "이 커피는 맛이 정말 은은해요 — 전혀 쓰지 않아요."
+    },
+    {
+      "word": "laden",
+      "phonetic": "/ˈleɪdən/",
+      "meaning": "(음식·짐 등이) 가득 실린, 잔뜩 담긴",
+      "example": "The table was laden with tapas dishes before we even ordered the mains.",
+      "example_kr": "메인 요리를 주문하기도 전에 테이블에 타파스 요리가 가득 차려져 있었어요."
+    },
+    {
+      "word": "palatable",
+      "phonetic": "/ˈpælətəbəl/",
+      "meaning": "입에 맞는, 먹을 만한; (비유) 받아들이기 쉬운",
+      "example": "The low-sodium version wasn't my favorite, but it was still palatable.",
+      "example_kr": "저염 버전이 제 최애는 아니었지만, 그래도 먹을 만했어요."
+    },
+    {
+      "word": "indulge",
+      "phonetic": "/ɪnˈdʌldʒ/",
+      "meaning": "(맛있는 것을) 마음껏 즐기다, 탐닉하다",
+      "example": "I don't usually order dessert, but I decided to indulge just this once.",
+      "example_kr": "보통 디저트는 안 시키는데, 이번 한 번만 실컷 즐기기로 했어요."
+    },
+    {
+      "word": "pungent",
+      "phonetic": "/ˈpʌndʒənt/",
+      "meaning": "(냄새·맛이) 자극적인, 강렬한",
+      "example": "The cheese had a pungent smell, but the taste was surprisingly rich and complex.",
+      "example_kr": "그 치즈는 냄새가 자극적이었지만, 맛은 놀랍도록 풍부하고 복잡했어요."
+    }
+  ]
+}
