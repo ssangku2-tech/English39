@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Is there any way to get an upgrade?",
+      "meaning": "업그레이드를 받을 수 있는 방법이 있나요? — 호텔이나 항공에서 더 좋은 옵션을 정중하게 부탁할 때 쓰는 표현",
+      "example": "Is there any way to get an upgrade? We're celebrating our anniversary.",
+      "example_kr": "업그레이드 받을 수 있는 방법이 있나요? 저희 결혼기념일이거든요."
+    },
+    {
+      "pattern": "That's the earliest I can do.",
+      "meaning": "그게 제가 할 수 있는 가장 빠른 시간이에요 — 예약이나 일정 협의에서 더 이상 당길 수 없다고 말할 때",
+      "example": "A: Can we check in any earlier? B: That's the earliest I can do — 2 PM.",
+      "example_kr": "A: 더 일찍 체크인할 수 있나요? B: 그게 제가 드릴 수 있는 가장 빠른 시간이에요 — 오후 2시요."
+    },
+    {
+      "pattern": "Which way do I head for…?",
+      "meaning": "…쪽으로 가려면 어느 방향으로 가야 하나요? — 길을 물을 때 쓰는 자연스러운 구어체 표현",
+      "example": "Which way do I head for the subway station from here?",
+      "example_kr": "여기서 지하철역 쪽으로 가려면 어느 방향으로 가야 하나요?"
+    },
+    {
+      "pattern": "I need + 목적어 + taken care of + by + 시간/기한",
+      "meaning": "~까지 ~을 처리해 주세요 / ~이 해결되어야 해요 — 특정 기한 안에 일이 완료되어야 함을 강조할 때",
+      "example": "I need my luggage taken care of by the time I get back from dinner.",
+      "example_kr": "저녁 식사하고 돌아올 때까지 제 짐을 처리해 주세요."
+    },
+    {
+      "pattern": "주어 + had + 목적어 + sent/delivered/transferred + without + ~ing",
+      "meaning": "~하지 않고 ~을 보내다/전달하다/이체하다 — 어떤 조건이나 절차 없이 일이 이루어졌음을 나타낼 때",
+      "example": "She had her bags delivered to the hotel without paying extra.",
+      "example_kr": "그녀는 추가 비용을 내지 않고 짐을 호텔로 배달시켰어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "carousel",
+      "phonetic": "/kærəˈsɛl/",
+      "meaning": "(공항) 수하물 컨베이어 벨트",
+      "example": "Your bags should be on carousel number three after landing.",
+      "example_kr": "착륙 후 수하물은 3번 컨베이어 벨트에 있을 거예요."
+    },
+    {
+      "word": "proprietor",
+      "phonetic": "/prəˈpraɪətər/",
+      "meaning": "소유주, 경영자 (호텔·가게 등의)",
+      "example": "The proprietor of the inn greeted every guest personally.",
+      "example_kr": "그 여관 주인은 모든 투숙객을 직접 맞이했어요."
+    },
+    {
+      "word": "beckon",
+      "phonetic": "/ˈbɛkən/",
+      "meaning": "손짓으로 부르다; (기회 등이) 유혹하다",
+      "example": "The hotel staff beckoned us over to the check-in counter.",
+      "example_kr": "호텔 직원이 손짓으로 우리를 체크인 카운터 쪽으로 불렀어요."
+    },
+    {
+      "word": "fumble for",
+      "phonetic": "/ˈfʌmbəl fɔːr/",
+      "meaning": "(더듬어) 찾다, 허둥대며 찾다",
+      "example": "He fumbled for his passport at the security checkpoint.",
+      "example_kr": "그는 보안 검색대에서 여권을 허둥대며 찾았어요."
+    },
+    {
+      "word": "curbside",
+      "phonetic": "/ˈkɜːrb saɪd/",
+      "meaning": "도로 가장자리의; 도로 변 픽업 서비스",
+      "example": "You can request curbside pickup right outside the arrivals terminal.",
+      "example_kr": "도착 터미널 바로 밖에서 커브사이드 픽업을 요청할 수 있어요."
+    }
+  ]
+}
