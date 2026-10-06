@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Are you still up for it?",
+      "meaning": "(이전에 약속하거나 계획한 것에 대해) 아직도 할 생각 있어? / 여전히 할 마음이야?",
+      "example": "Hey, are you still up for bowling tonight? I heard the weather's gonna be rough.",
+      "example_kr": "야, 오늘 밤 볼링 여전히 할 생각 있어? 날씨가 안 좋을 것 같던데."
+    },
+    {
+      "pattern": "I totally lost track of time.",
+      "meaning": "시간 가는 줄 몰랐어 / 시간을 완전히 잊고 있었어 (약속에 늦거나 뭔가를 깜빡했을 때 쓰는 표현)",
+      "example": "Sorry I'm late — I totally lost track of time watching that series.",
+      "example_kr": "늦어서 미안, 그 드라마 보다가 시간 가는 줄 완전히 몰랐어."
+    },
+    {
+      "pattern": "It's been a minute.",
+      "meaning": "오랜만이야 / 한동안 못 봤다 (격식 없이 오래 연락이 없었을 때 쓰는 표현)",
+      "example": "Oh wow, it's been a minute! How have you been holding up?",
+      "example_kr": "오, 와, 진짜 오랜만이다! 그동안 어떻게 지냈어?"
+    },
+    {
+      "pattern": "주어 + don't/doesn't have to + 동사원형 + just because + 주어 + 동사",
+      "meaning": "~한다고 해서 꼭 …할 필요는 없어 (상대방의 부담을 덜어주거나 선택을 존중할 때 쓰는 패턴)",
+      "example": "You don't have to come just because everyone else is going — it's totally your call.",
+      "example_kr": "다른 사람들이 다 간다고 해서 너까지 꼭 올 필요는 없어, 완전히 네가 결정해."
+    },
+    {
+      "pattern": "주어 + be동사 + thinking of + ~ing + , but + 주어 + be동사 + not sure + if/whether + 주어 + 동사",
+      "meaning": "~할까 생각 중인데, ~인지 잘 모르겠어 (계획을 고민하면서 상대에게 의견을 구하거나 망설임을 표현할 때 쓰는 패턴)",
+      "example": "I'm thinking of throwing a little get-together this Saturday, but I'm not sure if everyone's free.",
+      "example_kr": "이번 토요일에 소소하게 모임을 열까 생각 중인데, 다들 시간이 될지 모르겠어."
+    }
+  ],
+  "words": [
+    {
+      "word": "flake out",
+      "phonetic": "/fleɪk aʊt/",
+      "meaning": "약속을 갑자기 취소하다, 바람맞히다",
+      "example": "He flaked out on us again at the last minute — I'm starting to lose trust in him.",
+      "example_kr": "그는 또 막판에 우리 약속을 펑크 냈어. 슬슬 믿음이 안 가기 시작해."
+    },
+    {
+      "word": "candlelit",
+      "phonetic": "/ˈkændəllɪt/",
+      "meaning": "촛불로 밝힌, 촛불 분위기의",
+      "example": "They had a candlelit dinner to celebrate their anniversary.",
+      "example_kr": "그들은 기념일을 축하하기 위해 촛불 켜진 분위기에서 저녁을 먹었다."
+    },
+    {
+      "word": "lounge around",
+      "phonetic": "/laʊndʒ əˈraʊnd/",
+      "meaning": "빈둥거리다, 느긋하게 쉬다",
+      "example": "We didn't make any plans and just lounged around at her place all afternoon.",
+      "example_kr": "우리는 아무 계획도 안 세우고 오후 내내 걔네 집에서 빈둥거렸어."
+    },
+    {
+      "word": "wistful",
+      "phonetic": "/ˈwɪstfəl/",
+      "meaning": "그리워하는, 아쉬움이 서린",
+      "example": "He got a little wistful looking at old photos from their college days.",
+      "example_kr": "그는 대학 시절 옛날 사진들을 보면서 살짝 그리워하는 표정이 됐어."
+    },
+    {
+      "word": "perk up",
+      "phonetic": "/pɜːrk ʌp/",
+      "meaning": "기운을 차리다, 생기가 돌다, 기분이 밝아지다",
+      "example": "She really perked up when we surprised her with birthday cake.",
+      "example_kr": "생일 케이크로 깜짝 놀라게 해줬더니 그녀가 정말 환해졌어."
+    }
+  ]
+}
