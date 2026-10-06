@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Let's get this show on the road.",
+      "meaning": "자, 이제 시작하자 / 본격적으로 진행하자 (일이나 회의를 시작할 때 쓰는 구어체 표현)",
+      "example": "Everyone's here, so let's get this show on the road.",
+      "example_kr": "다 모였으니까, 이제 시작합시다."
+    },
+    {
+      "pattern": "I'll take it from the top.",
+      "meaning": "처음부터 다시 설명할게요 / 처음부터 다시 시작하겠습니다",
+      "example": "Some folks just joined, so I'll take it from the top real quick.",
+      "example_kr": "방금 들어오신 분들이 있으니 빠르게 처음부터 다시 설명할게요."
+    },
+    {
+      "pattern": "That's above my pay grade.",
+      "meaning": "그건 내 권한 밖이에요 / 내가 결정할 수 있는 사안이 아니에요 (직접 결정하기 어려울 때 쓰는 표현)",
+      "example": "Honestly, approving that budget is above my pay grade — you'll need to ask the director.",
+      "example_kr": "솔직히 그 예산 승인은 제 권한 밖이에요 — 부장님께 여쭤봐야 할 것 같아요."
+    },
+    {
+      "pattern": "주어 + be동사 + having + 명사 + looked into",
+      "meaning": "~을 조사·검토하게 하고 있는 중이다 (사역 수동 구조로, 누군가에게 특정 사안을 살펴보도록 시키고 있음을 나타냄)",
+      "example": "We're having the discrepancy in the report looked into before the meeting.",
+      "example_kr": "회의 전에 보고서의 불일치 사항을 검토하게 하고 있는 중이에요."
+    },
+    {
+      "pattern": "주어 + be동사 + expected to + 동사원형 + by + 시간/기한",
+      "meaning": "~까지 ~할 것으로 예상된다 / ~해야 한다 (업무 기한·일정에서 기대치를 나타낼 때 자주 쓰임)",
+      "example": "The revised proposal is expected to be submitted by end of day Friday.",
+      "example_kr": "수정된 제안서는 금요일 업무 종료 전까지 제출될 것으로 예상됩니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "convene",
+      "phonetic": "/kənˈviːn/",
+      "meaning": "(회의 등을) 소집하다, 모이다",
+      "example": "The committee will convene tomorrow morning to discuss the new policy.",
+      "example_kr": "위원회는 새 정책을 논의하기 위해 내일 아침 소집될 예정입니다."
+    },
+    {
+      "word": "disseminate",
+      "phonetic": "/dɪˈsɛmɪneɪt/",
+      "meaning": "(정보 등을) 배포하다, 전파하다",
+      "example": "Please disseminate the meeting minutes to all department heads by noon.",
+      "example_kr": "정오까지 모든 부서장에게 회의록을 배포해 주세요."
+    },
+    {
+      "word": "stalemate",
+      "phonetic": "/ˈsteɪlmeɪt/",
+      "meaning": "교착 상태, 膠着 (협상이나 논의가 진전되지 않는 상황)",
+      "example": "Negotiations reached a stalemate, so both sides agreed to take a break.",
+      "example_kr": "협상이 교착 상태에 빠져 양측은 잠시 휴식을 취하기로 했습니다."
+    },
+    {
+      "word": "parse",
+      "phonetic": "/pɑːrs/",
+      "meaning": "(정보나 문서를) 꼼꼼히 분석하다, 세밀히 검토하다",
+      "example": "We need to parse the contract carefully before signing anything.",
+      "example_kr": "무엇이든 서명하기 전에 계약서를 꼼꼼히 검토해야 합니다."
+    },
+    {
+      "word": "spearhead",
+      "phonetic": "/ˈspɪərˌhɛd/",
+      "meaning": "(프로젝트·운동 등을) 이끌다, 선두에 서다",
+      "example": "She was chosen to spearhead the company's digital transformation initiative.",
+      "example_kr": "그녀는 회사의 디지털 전환 이니셔티브를 이끌도록 선정되었습니다."
+    }
+  ]
+}
