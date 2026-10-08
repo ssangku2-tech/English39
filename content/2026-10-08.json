@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Hang on, let me check.",
+      "meaning": "잠깐만, 확인해볼게. — 전화나 메신저에서 상대방을 잠시 기다리게 할 때 쓰는 자연스러운 표현",
+      "example": "A: Can you tell me what time the meeting is? B: Hang on, let me check. — Yeah, it's at 3.",
+      "example_kr": "A: 회의가 몇 시야? B: 잠깐, 확인해볼게. — 응, 3시야."
+    },
+    {
+      "pattern": "You still there?",
+      "meaning": "아직 거기 있어? / 듣고 있어? — 통화나 채팅 중 상대방 반응이 없을 때 확인하는 표현",
+      "example": "A: Hello? You still there? I think the call dropped for a sec. B: Yeah, sorry, I'm here!",
+      "example_kr": "A: 여보세요? 아직 거기 있어? 잠깐 끊긴 것 같아서. B: 응, 미안, 나 여기 있어!"
+    },
+    {
+      "pattern": "Totally slipped through the cracks.",
+      "meaning": "완전히 놓쳐버렸어 / 그냥 지나쳐버렸어 — 무언가를 깜빡하거나 처리가 안 된 상황을 설명할 때",
+      "example": "Sorry I didn't reply sooner — your message totally slipped through the cracks while I was traveling.",
+      "example_kr": "더 빨리 답장 못 해서 미안 — 여행하는 동안 네 메시지를 완전히 놓쳐버렸어."
+    },
+    {
+      "pattern": "주어 + may/might + have + 과거분사 + , which would explain + why/명사",
+      "meaning": "~했을 수도 있어, 그게 …의 이유일 거야 — 현재 상황의 원인을 추측하며 설명할 때 쓰는 패턴",
+      "example": "He may have missed your text, which would explain why he hasn't responded yet.",
+      "example_kr": "그가 네 문자를 못 봤을 수도 있어, 그게 아직 답장이 없는 이유일 거야."
+    },
+    {
+      "pattern": "주어 + be동사 + worth + checking/asking/trying + before + 주어 + 동사",
+      "meaning": "~하기 전에 …해볼 가치가 있어 — 어떤 행동을 취하기 전에 먼저 확인하거나 시도해볼 것을 권유하는 패턴",
+      "example": "It's worth double-checking the file before you send it to the whole team.",
+      "example_kr": "팀 전체에 보내기 전에 파일을 한 번 더 확인해볼 가치가 있어."
+    }
+  ],
+  "words": [
+    {
+      "word": "blip",
+      "phonetic": "/blɪp/",
+      "meaning": "일시적 문제, 잠깐의 오류",
+      "example": "Don't worry, it was just a blip in the connection — we're back online now.",
+      "example_kr": "걱정 마, 그냥 잠깐 연결이 끊겼던 거야 — 지금은 다시 온라인이야."
+    },
+    {
+      "word": "cryptic",
+      "phonetic": "/ˈkrɪptɪk/",
+      "meaning": "뜻을 알기 어려운, 수수께끼 같은",
+      "example": "She sent me this really cryptic message and I have no idea what she meant.",
+      "example_kr": "그녀가 정말 뜻 모를 메시지를 보냈는데 무슨 말인지 전혀 모르겠어."
+    },
+    {
+      "word": "convoluted",
+      "phonetic": "/ˈkɒnvəluːtɪd/",
+      "meaning": "지나치게 복잡한, 난해한",
+      "example": "His explanation was so convoluted that I had to read it three times to understand.",
+      "example_kr": "그의 설명이 너무 복잡해서 이해하려면 세 번이나 읽어야 했어."
+    },
+    {
+      "word": "reciprocate",
+      "phonetic": "/rɪˈsɪprəkeɪt/",
+      "meaning": "답례하다, 상호적으로 행동하다",
+      "example": "She always texts first and I never reciprocate — I really need to be better about that.",
+      "example_kr": "그녀는 항상 먼저 문자를 보내는데 나는 한 번도 먼저 하지 않아 — 그 점을 고쳐야 해."
+    },
+    {
+      "word": "unresponsive",
+      "phonetic": "/ˌʌnrɪˈspɒnsɪv/",
+      "meaning": "반응이 없는, 응답하지 않는",
+      "example": "The app went totally unresponsive right in the middle of our video call.",
+      "example_kr": "화상 통화 중간에 앱이 완전히 먹통이 됐어."
+    }
+  ]
+}
