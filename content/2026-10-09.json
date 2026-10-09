@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Do you have anything a little cheaper?",
+      "meaning": "조금 더 저렴한 게 있나요? — 가게에서 가격이 부담스러울 때 부드럽게 대안을 묻는 표현",
+      "example": "A: This jacket is $200. B: Hmm, do you have anything a little cheaper? I'm on a budget right now.",
+      "example_kr": "A: 이 재킷은 200달러예요. B: 음, 조금 더 저렴한 거 있나요? 지금 예산이 빠듯해서요."
+    },
+    {
+      "pattern": "Can I get a different one?",
+      "meaning": "다른 걸로 바꿔도 될까요? — 상품 교환이나 대체를 요청할 때 쓰는 간단하고 자연스러운 표현",
+      "example": "This mug has a crack in it. Can I get a different one?",
+      "example_kr": "이 머그잔에 금이 가 있어요. 다른 걸로 바꿀 수 있을까요?"
+    },
+    {
+      "pattern": "Just put it on my tab.",
+      "meaning": "그냥 내 외상으로 달아 두세요 / 나중에 한꺼번에 계산할게요 — 바나 단골 가게 등에서 결제를 뒤로 미룰 때 쓰는 구어체 표현",
+      "example": "A: Should I ring that up now? B: Nah, just put it on my tab. I'll settle up at the end.",
+      "example_kr": "A: 지금 계산해 드릴까요? B: 아니요, 그냥 외상으로 달아 두세요. 마지막에 한꺼번에 낼게요."
+    },
+    {
+      "pattern": "주어 + be동사 + lucky to have + 과거분사",
+      "meaning": "'~하게 되어 다행이다 / ~할 수 있어서 운이 좋다' — 현재 상황이나 결과에 대해 감사함·다행스러움을 나타낼 때",
+      "example": "We were lucky to have found this deal before it sold out.",
+      "example_kr": "품절되기 전에 이 할인을 발견하게 되어 정말 운이 좋았어요."
+    },
+    {
+      "pattern": "주어 + do/does + not + mind + if + 주어 + 동사, as long as + 주어 + 동사",
+      "meaning": "'~하는 한 …해도 괜찮다' — 조건부 허용이나 수용 의사를 나타낼 때",
+      "example": "I don't mind if you return it later, as long as the tags are still on.",
+      "example_kr": "태그만 그대로 달려 있다면, 나중에 반품하셔도 괜찮아요."
+    }
+  ],
+  "words": [
+    {
+      "word": "markup",
+      "phonetic": "/ˈmɑːrkʌp/",
+      "meaning": "가격 인상분, 마진",
+      "example": "The markup on designer goods can be over 300%.",
+      "example_kr": "디자이너 상품의 마진은 300%를 넘을 수도 있어요."
+    },
+    {
+      "word": "shell out",
+      "phonetic": "/ʃɛl aʊt/",
+      "meaning": "(마지못해) 돈을 내다, 지불하다",
+      "example": "I can't believe I had to shell out fifty bucks just for shipping.",
+      "example_kr": "배송비로만 50달러를 내야 했다니 믿을 수가 없어요."
+    },
+    {
+      "word": "cumbersome",
+      "phonetic": "/ˈkʌmbərsəm/",
+      "meaning": "다루기 불편한, 번거로운",
+      "example": "The return process is a bit cumbersome — you have to fill out three forms.",
+      "example_kr": "반품 절차가 좀 번거로워요 — 서류를 세 장이나 작성해야 하거든요."
+    },
+    {
+      "word": "pricey",
+      "phonetic": "/ˈpraɪsi/",
+      "meaning": "값비싼, 비싼 편인",
+      "example": "It's a bit pricey, but the quality is definitely worth it.",
+      "example_kr": "좀 비싼 편이긴 한데, 품질은 확실히 그만한 가치가 있어요."
+    },
+    {
+      "word": "flaw",
+      "phonetic": "/flɔː/",
+      "meaning": "(상품의) 흠, 결점",
+      "example": "I noticed a small flaw in the fabric — can I get a discount?",
+      "example_kr": "원단에 작은 흠이 있는 걸 발견했는데, 할인해 줄 수 있나요?"
+    }
+  ]
+}
