@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm gonna take it easy for a bit.",
+      "meaning": "잠깐 쉬어가려고 해. / 무리하지 않고 천천히 할게. (몸이 안 좋거나 힘들 때 자연스럽게 쓰는 표현)",
+      "example": "A: You're going to the gym today? B: Nah, my back's been killing me. I'm gonna take it easy for a bit.",
+      "example_kr": "A: 오늘 헬스장 가? B: 아니, 허리가 너무 아파서. 잠깐 쉬어가려고."
+    },
+    {
+      "pattern": "I could use a break.",
+      "meaning": "좀 쉬어야 할 것 같아. / 휴식이 필요해. (지치거나 과로했을 때 쓰는 구어체 표현)",
+      "example": "A: Want to grab lunch outside today? B: Honestly, yes — I could really use a break from this screen.",
+      "example_kr": "A: 오늘 밖에 나가서 점심 먹을래? B: 솔직히 그러고 싶어 — 화면 좀 그만 봐야 할 것 같아."
+    },
+    {
+      "pattern": "You should get some rest.",
+      "meaning": "좀 쉬어야 해. (상대방의 건강을 걱정하며 조언할 때 원어민이 자주 쓰는 표현)",
+      "example": "A: I've had a headache all day and I can barely focus. B: Sounds like you should get some rest before it gets worse.",
+      "example_kr": "A: 하루 종일 두통이 있어서 집중도 잘 안 돼. B: 더 심해지기 전에 좀 쉬어야 할 것 같은데."
+    },
+    {
+      "pattern": "주어 + have/has + difficulty + ~ing",
+      "meaning": "~하는 데 어려움을 겪다 / ~이 잘 안 된다 (만성적이거나 반복적인 어려움을 나타낼 때 씀)",
+      "example": "Ever since the surgery, she has difficulty walking up stairs without getting winded.",
+      "example_kr": "수술 이후로 그녀는 숨이 차지 않고 계단을 오르는 데 어려움을 겪고 있어."
+    },
+    {
+      "pattern": "주어 + should + consider + ~ing + before + 주어 + 동사",
+      "meaning": "~하기 전에 …하는 것을 고려해야 한다 (건강·결정 상황에서 신중한 조언을 줄 때 유용한 패턴)",
+      "example": "You should consider seeing a specialist before you start any new workout routine.",
+      "example_kr": "새로운 운동 루틴을 시작하기 전에 전문의에게 진찰을 받아보는 걸 고려해야 해."
+    }
+  ],
+  "words": [
+    {
+      "word": "sluggish",
+      "phonetic": "/ˈslʌɡɪʃ/",
+      "meaning": "(형용사) 기운이 없는, 느릿느릿한, 활기가 없는",
+      "example": "I've been feeling really sluggish all week — I think I need more sleep.",
+      "example_kr": "이번 주 내내 기운이 없어 — 잠을 더 자야 할 것 같아."
+    },
+    {
+      "word": "aggravate",
+      "phonetic": "/ˈæɡrəveɪt/",
+      "meaning": "(동사) (부상·증상을) 악화시키다, 더 심하게 만들다",
+      "example": "Sitting in that chair for hours only aggravated her lower back pain.",
+      "example_kr": "몇 시간 동안 그 의자에 앉아 있는 게 허리 통증만 더 악화시켰어."
+    },
+    {
+      "word": "convalescence",
+      "phonetic": "/ˌkɒnvəˈlɛsəns/",
+      "meaning": "(명사) (병·수술 후) 회복 기간, 요양",
+      "example": "She spent two weeks at home during her convalescence after the operation.",
+      "example_kr": "수술 후 요양 기간 동안 그녀는 2주를 집에서 보냈어."
+    },
+    {
+      "word": "nauseous",
+      "phonetic": "/ˈnɔːziəs/",
+      "meaning": "(형용사) 메스꺼운, 구역질이 나는",
+      "example": "I felt nauseous after taking the new medication on an empty stomach.",
+      "example_kr": "빈속에 새 약을 먹었더니 메스꺼웠어."
+    },
+    {
+      "word": "referral",
+      "phonetic": "/rɪˈfɜːrəl/",
+      "meaning": "(명사) (전문의·다른 부서로의) 진료 의뢰, 소개",
+      "example": "My primary care doctor gave me a referral to an orthopedic specialist.",
+      "example_kr": "주치의가 정형외과 전문의에게 진료 의뢰서를 써줬어."
+    }
+  ]
+}
