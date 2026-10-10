@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That'll do.",
+      "meaning": "그거면 충분해 / 됐어 (더 이상 손대지 않아도 된다는 뉘앙스)",
+      "example": "A: Should I add another coat of paint? B: Nah, that'll do. It looks fine.",
+      "example_kr": "A: 페인트 한 겹 더 칠할까요? B: 아니요, 그거면 됐어요. 괜찮아 보여요."
+    },
+    {
+      "pattern": "We're gonna have to rip it out.",
+      "meaning": "그걸 뜯어내야 할 것 같아 (집 수리 등에서 문제 부분을 완전히 제거해야 한다는 표현)",
+      "example": "The tile underneath is cracked — we're gonna have to rip it out and start over.",
+      "example_kr": "아래 타일이 금이 갔어요 — 전부 뜯어내고 다시 시작해야 할 것 같아요."
+    },
+    {
+      "pattern": "Let's knock this out.",
+      "meaning": "이걸 빨리 끝내버리자 / 해치워 버리자",
+      "example": "We've got three rooms left to clean. Let's knock this out before noon.",
+      "example_kr": "청소할 방이 세 개 남았어. 정오 전에 해치워 버리자."
+    },
+    {
+      "pattern": "주어 + have/has + had + it + with + 명사/~ing",
+      "meaning": "'~에 완전히 질렸다 / 더 이상 못 참겠다'는 강한 불만 표현",
+      "example": "I've had it with this leaky faucet — I'm calling a plumber today.",
+      "example_kr": "이 새는 수도꼭지에 완전히 질렸어 — 오늘 배관공 부를 거야."
+    },
+    {
+      "pattern": "It won't be long before + 주어 + 동사(현재/현재완료)",
+      "meaning": "'머지않아 ~하게 될 것이다'는 가까운 미래 예측 표현",
+      "example": "We just finished the flooring — it won't be long before the whole place feels brand new.",
+      "example_kr": "바닥재 작업을 막 끝냈어요 — 머지않아 집 전체가 새것처럼 느껴질 거예요."
+    }
+  ],
+  "words": [
+    {
+      "word": "trowel",
+      "phonetic": "/ˈtraʊəl/",
+      "meaning": "흙손, 미장 도구 (타일·시멘트 작업에 쓰는 납작한 도구)",
+      "example": "Use the trowel to spread the adhesive evenly before laying the tiles.",
+      "example_kr": "타일을 붙이기 전에 흙손으로 접착제를 고르게 펴세요."
+    },
+    {
+      "word": "haul out",
+      "phonetic": "/hɔːl aʊt/",
+      "meaning": "(무거운 것을) 끌어내다, 들어서 밖으로 내다",
+      "example": "We had to haul out all the old furniture before the movers arrived.",
+      "example_kr": "이삿짐 업체가 오기 전에 오래된 가구를 모두 끌어내야 했어요."
+    },
+    {
+      "word": "scour",
+      "phonetic": "/ˈskaʊər/",
+      "meaning": "박박 문질러 닦다; 샅샅이 뒤지다",
+      "example": "She scoured the bathroom tiles until they were spotless.",
+      "example_kr": "그녀는 욕실 타일을 흠 하나 없을 때까지 박박 문질러 닦았어요."
+    },
+    {
+      "word": "putty",
+      "phonetic": "/ˈpʌti/",
+      "meaning": "퍼티 (틈새·구멍을 메우는 반죽형 충전재); 퍼티로 메우다",
+      "example": "Fill the nail holes with putty before you start painting the wall.",
+      "example_kr": "벽을 칠하기 전에 못 구멍을 퍼티로 메우세요."
+    },
+    {
+      "word": "draughty",
+      "phonetic": "/ˈdrɑːfti/",
+      "meaning": "외풍이 심한, 바람이 새어 들어오는",
+      "example": "This old apartment is really draughty — we need to seal the windows.",
+      "example_kr": "이 오래된 아파트는 외풍이 너무 심해요 — 창문을 막아야 해요."
+    }
+  ]
+}
