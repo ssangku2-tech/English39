@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can you put me through to ~?",
+      "meaning": "~에게 전화를 연결해 달라고 요청할 때 쓰는 표현. 전화 연결을 부탁하는 자연스러운 구어체.",
+      "example": "Hi, can you put me through to the billing department?",
+      "example_kr": "안녕하세요, 청구 부서로 연결해 주실 수 있나요?"
+    },
+    {
+      "pattern": "I'll need to get that in writing.",
+      "meaning": "구두 합의나 약속을 문서로 남겨야 한다고 말할 때 쓰는 표현. 계약·행정 상황에서 자주 등장.",
+      "example": "That sounds fair, but I'll need to get that in writing before we move forward.",
+      "example_kr": "합리적인 것 같긴 한데, 진행하기 전에 그걸 서면으로 받아야 할 것 같아요."
+    },
+    {
+      "pattern": "What's the process for ~?",
+      "meaning": "어떤 절차나 과정이 어떻게 되는지 물어볼 때 쓰는 표현. 관공서·서비스 창구 등에서 자주 쓰임.",
+      "example": "What's the process for renewing a lease around here?",
+      "example_kr": "임대 계약 갱신 절차가 어떻게 되나요?"
+    },
+    {
+      "pattern": "주어 + be동사 + subject to + 명사",
+      "meaning": "~의 적용을 받다, ~에 따라 달라질 수 있다는 뜻. 조건·규정·변경 가능성을 나타낼 때 사용.",
+      "example": "The final price is subject to change depending on the inspection results.",
+      "example_kr": "최종 가격은 점검 결과에 따라 변경될 수 있습니다."
+    },
+    {
+      "pattern": "주어 + be동사 + required to + 동사원형 + within + 기간",
+      "meaning": "특정 기간 내에 ~해야 한다는 의무를 나타내는 패턴. 계약·행정·규정 관련 상황에서 자주 쓰임.",
+      "example": "You are required to submit all documents within five business days of signing.",
+      "example_kr": "서명 후 영업일 기준 5일 이내에 모든 서류를 제출하셔야 합니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "lien",
+      "phonetic": "/liːn/",
+      "meaning": "유치권, 담보권 (채무 미이행 시 재산에 설정되는 법적 권리)",
+      "example": "The bank placed a lien on the property until the loan was fully repaid.",
+      "example_kr": "은행은 대출금이 완전히 상환될 때까지 그 부동산에 유치권을 설정했다."
+    },
+    {
+      "word": "notarized",
+      "phonetic": "/ˈnoʊtəraɪzd/",
+      "meaning": "공증된 (공증인에 의해 인증된)",
+      "example": "Make sure the affidavit is notarized before you hand it in.",
+      "example_kr": "제출하기 전에 진술서가 공증되었는지 확인하세요."
+    },
+    {
+      "word": "diligence",
+      "phonetic": "/ˈdɪlɪdʒəns/",
+      "meaning": "성실함, 근면; 실사(due diligence의 줄임으로도 쓰임)",
+      "example": "They conducted proper diligence before signing the contract.",
+      "example_kr": "그들은 계약서에 서명하기 전에 적절한 실사를 실시했다."
+    },
+    {
+      "word": "foreclose",
+      "phonetic": "/fɔːrˈkloʊz/",
+      "meaning": "(담보 물건을) 압류하다, 저당권을 실행하다",
+      "example": "The lender threatened to foreclose on the house if payments weren't made.",
+      "example_kr": "대출 기관은 납부가 이루어지지 않으면 집을 압류하겠다고 경고했다."
+    },
+    {
+      "word": "traverse",
+      "phonetic": "/trəˈvɜːrs/",
+      "meaning": "가로지르다, 통과하다; (문서·절차를) 살펴 나가다",
+      "example": "It took us hours to traverse all the forms for the visa application.",
+      "example_kr": "비자 신청 서류를 전부 살펴보는 데 몇 시간이 걸렸다."
+    }
+  ]
+}
