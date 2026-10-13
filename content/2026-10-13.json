@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "You're reading too much into it.",
+      "meaning": "너무 깊이 생각하는 거야 / 과해석하고 있어 (상대방이 별것 아닌 것을 확대 해석할 때 쓰는 표현)",
+      "example": "A: Do you think she was mad when she said that? B: No, you're reading too much into it. She was just tired.",
+      "example_kr": "A: 그녀가 그 말 할 때 화난 것 같았어? B: 아니, 너무 과해석하는 거야. 그냥 피곤했던 거라고."
+    },
+    {
+      "pattern": "I can't put my finger on it.",
+      "meaning": "딱 뭐라고 꼬집어 말하기 어렵다 / 정확히 뭔지 모르겠다 (느낌은 있는데 말로 표현하기 힘들 때)",
+      "example": "There's something off about his attitude lately, but I can't put my finger on it.",
+      "example_kr": "요즘 걔 태도가 뭔가 이상한데, 딱 뭐라고 꼬집어 말하기가 어렵네."
+    },
+    {
+      "pattern": "She wears her emotions on her sleeve.",
+      "meaning": "감정을 숨기지 않다 / 속마음을 그대로 드러내다 (감정 표현이 솔직하고 티가 나는 사람에 대해 쓰는 표현)",
+      "example": "You can always tell how she's feeling — she really wears her emotions on her sleeve.",
+      "example_kr": "걔 기분이 어떤지는 항상 알 수 있어. 감정을 정말 그대로 드러내거든."
+    },
+    {
+      "pattern": "주어 + have/has + a hard time + accepting/letting go of + 명사",
+      "meaning": "'~을 받아들이기/놓아주기 힘들어하다'는 뜻으로, 심리적으로 어떤 것을 수용하거나 내려놓기 어려운 상황을 표현",
+      "example": "He has a hard time letting go of grudges. He still brings up things from years ago.",
+      "example_kr": "그는 원한을 내려놓는 걸 정말 힘들어해. 몇 년 전 일을 아직도 꺼내고 그러잖아."
+    },
+    {
+      "pattern": "주어 + come(s) across as + 형용사 + , even though + 주어 + 동사",
+      "meaning": "'~한 것처럼 보이다/비치다, 비록 실제로는 ~하지만'이라는 뜻으로, 겉으로 보이는 인상과 실제 내면의 차이를 표현할 때 사용",
+      "example": "She comes across as cold at first, even though she's one of the warmest people I know.",
+      "example_kr": "그녀는 처음에 차갑게 보이지만, 실제로는 내가 아는 사람 중 가장 따뜻한 사람 중 하나야."
+    }
+  ],
+  "words": [
+    {
+      "word": "guarded",
+      "phonetic": "/ˈɡɑːrdɪd/",
+      "meaning": "경계하는, 속마음을 잘 드러내지 않는",
+      "example": "She's always been guarded around new people, but she opens up once she trusts you.",
+      "example_kr": "그녀는 새로운 사람들 앞에서 항상 경계심을 보이지만, 믿게 되면 마음을 열어."
+    },
+    {
+      "word": "bristle at",
+      "phonetic": "/ˈbrɪsəl æt/",
+      "meaning": "(비판·언급 등에) 발끈하다, 화를 내다",
+      "example": "He bristles at any criticism, even when it's meant to be helpful.",
+      "example_kr": "그는 도움이 되는 의도의 비판에도 발끈하곤 해."
+    },
+    {
+      "word": "meek",
+      "phonetic": "/miːk/",
+      "meaning": "온순한, 얌전한, 자기 주장을 잘 못 하는",
+      "example": "She seemed meek at first, but she turned out to be incredibly determined.",
+      "example_kr": "처음엔 순해 보였는데, 알고 보니 엄청나게 강단 있는 사람이었어."
+    },
+    {
+      "word": "abrasive",
+      "phonetic": "/əˈbreɪsɪv/",
+      "meaning": "거슬리는, 마찰을 일으키는, (성격이) 거친",
+      "example": "His abrasive tone made it hard for coworkers to approach him with ideas.",
+      "example_kr": "그의 거친 말투 때문에 동료들이 아이디어를 들고 접근하기 어려웠어."
+    },
+    {
+      "word": "pour out",
+      "phonetic": "/pɔːr aʊt/",
+      "meaning": "(감정·속마음 등을) 털어놓다, 쏟아내다",
+      "example": "After holding it in for weeks, she finally poured out everything she'd been feeling.",
+      "example_kr": "몇 주간 참아오다가, 그녀는 결국 느끼고 있던 모든 것을 털어놓았어."
+    }
+  ]
+}
