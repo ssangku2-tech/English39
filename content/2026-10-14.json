@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can I get that with ~ on the side?",
+      "meaning": "~을 따로 담아달라고 요청할 때 쓰는 식당 표현. '~은 따로 주실 수 있나요?'",
+      "example": "Can I get that with the dressing on the side? I like to add it myself.",
+      "example_kr": "드레싱은 따로 주실 수 있나요? 제가 직접 뿌리는 걸 좋아해서요."
+    },
+    {
+      "pattern": "I'll take that to go.",
+      "meaning": "음식을 포장해 가겠다고 할 때 쓰는 표현. '포장해 주세요.' / '가져갈게요.'",
+      "example": "Actually, I'll take that to go — something came up at work.",
+      "example_kr": "아, 그거 포장해 주세요 — 직장에서 일이 생겨서요."
+    },
+    {
+      "pattern": "Does this come with a choice of ~?",
+      "meaning": "주문 시 옵션이 있는지 물어볼 때 쓰는 표현. '~을 선택할 수 있나요?'",
+      "example": "Does this come with a choice of sides, or is it just the fries?",
+      "example_kr": "이 메뉴에 사이드 선택이 되나요, 아니면 감자튀김만 나오나요?"
+    },
+    {
+      "pattern": "주어 + had + 목적어 + 동사원형 + rather than + ~ing",
+      "meaning": "'~하게 시키다 / ~하도록 했다'는 사역 표현으로, 대안 행동을 비교할 때 사용. '~하는 것보다 …하도록 했다'",
+      "example": "She had the waiter bring a new dish rather than reheating the old one.",
+      "example_kr": "그녀는 이전 음식을 다시 데우는 대신 웨이터에게 새 요리를 가져다달라고 했다."
+    },
+    {
+      "pattern": "No sooner had + 주어 + 과거분사 + than + 주어 + 동사(과거)",
+      "meaning": "'~하자마자 곧바로 …했다'는 뜻의 고급 구문. 두 사건이 연달아 일어났음을 강조.",
+      "example": "No sooner had we sat down than the server came over to take our order.",
+      "example_kr": "우리가 자리에 앉자마자 서버가 주문을 받으러 왔다."
+    }
+  ],
+  "words": [
+    {
+      "word": "ravenous",
+      "phonetic": "/ˈrævənəs/",
+      "meaning": "몹시 배고픈, 굶주린",
+      "example": "By the time we finally found the restaurant, I was absolutely ravenous.",
+      "example_kr": "식당을 드디어 찾았을 때쯤엔 나는 완전히 배가 고파 죽을 지경이었다."
+    },
+    {
+      "word": "bustling",
+      "phonetic": "/ˈbʌslɪŋ/",
+      "meaning": "(장소가) 북적이는, 활기찬",
+      "example": "The café was so bustling on Saturday morning that we had to wait for a table.",
+      "example_kr": "토요일 아침 카페가 너무 북적여서 자리를 기다려야 했다."
+    },
+    {
+      "word": "palate",
+      "phonetic": "/ˈpælɪt/",
+      "meaning": "미각, 입맛; 음식의 맛을 감별하는 능력",
+      "example": "This dish has complex flavors that really appeal to an adventurous palate.",
+      "example_kr": "이 요리는 모험적인 입맛을 가진 사람에게 잘 맞는 복잡한 풍미가 있다."
+    },
+    {
+      "word": "lukewarm",
+      "phonetic": "/ˌluːkˈwɔːrm/",
+      "meaning": "미지근한; (반응·태도가) 미온적인",
+      "example": "The soup was lukewarm by the time it reached our table, which was disappointing.",
+      "example_kr": "수프가 우리 테이블에 왔을 때 이미 미지근해서 실망스러웠다."
+    },
+    {
+      "word": "sparse",
+      "phonetic": "/spɑːrs/",
+      "meaning": "(양·수가) 적은, 드문드문한; (공간이) 허전한",
+      "example": "The toppings were a bit sparse for the price they were charging.",
+      "example_kr": "가격에 비해 토핑이 좀 적었다."
+    }
+  ]
+}
