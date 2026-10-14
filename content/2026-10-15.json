@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "You're all checked in.",
+      "meaning": "체크인이 완료됐다고 알려줄 때 쓰는 표현. 호텔·항공 직원이 절차가 끝났음을 알릴 때 자주 씀.",
+      "example": "Here's your room key — you're all checked in. Enjoy your stay!",
+      "example_kr": "여기 방 카드키요 — 체크인 다 됐습니다. 즐거운 숙박 되세요!"
+    },
+    {
+      "pattern": "Just follow the main road and you'll run right into it.",
+      "meaning": "길을 안내할 때 '큰 길 따라가면 바로 나올 거예요'라는 뜻. 원어민이 길 설명할 때 자주 쓰는 구어체.",
+      "example": "Just follow the main road and you'll run right into the station — it's maybe a ten-minute walk.",
+      "example_kr": "큰 길 따라가면 역이 바로 나올 거예요 — 걸어서 한 10분쯤 돼요."
+    },
+    {
+      "pattern": "Is everything to your liking?",
+      "meaning": "호텔·레스토랑 직원이 '마음에 드세요? 불편한 건 없으세요?'라고 확인할 때 쓰는 격식 있지만 실제로 많이 쓰이는 서비스 표현.",
+      "example": "Good evening — is everything to your liking, or is there anything I can get you?",
+      "example_kr": "안녕하세요 — 다 마음에 드세요, 아니면 필요한 게 있으신가요?"
+    },
+    {
+      "pattern": "주어 + don't/doesn't have to + 동사원형 + until + 시간/기한",
+      "meaning": "'~할 때까지는 ~하지 않아도 된다'는 뜻으로, 기한이나 마감 전까지 여유가 있음을 나타내는 패턴.",
+      "example": "You don't have to check out until noon, so take your time.",
+      "example_kr": "정오까지는 체크아웃 안 하셔도 되니까 천천히 하세요."
+    },
+    {
+      "pattern": "주어 + be동사 + not available + until + 시간/날짜",
+      "meaning": "'~까지는 이용 불가능하다/자리가 없다'는 뜻으로, 여행·예약 상황에서 공석·서비스 가용 시간을 안내할 때 쓰는 실용 패턴.",
+      "example": "I'm afraid the room is not available until 3 p.m. — would you like to leave your luggage here in the meantime?",
+      "example_kr": "죄송하지만 방은 오후 3시까지는 이용하실 수 없어요 — 그 사이에 짐을 여기 맡겨 두시겠어요?"
+    }
+  ],
+  "words": [
+    {
+      "word": "cobblestone",
+      "phonetic": "/ˈkɒbəlstoʊn/",
+      "meaning": "자갈 포장 돌, 돌바닥",
+      "example": "The old town was full of cobblestone streets that were charming but tough on our feet.",
+      "example_kr": "구시가지는 자갈 포장 거리가 많아서 예쁘긴 했는데 발이 많이 아팠어."
+    },
+    {
+      "word": "bespoke",
+      "phonetic": "/bɪˈspoʊk/",
+      "meaning": "맞춤 제작된, 주문 제작의",
+      "example": "The hotel offered bespoke tour packages tailored to each guest's interests.",
+      "example_kr": "그 호텔은 각 투숙객의 관심사에 맞춘 맞춤형 투어 패키지를 제공했어."
+    },
+    {
+      "word": "waypoint",
+      "phonetic": "/ˈweɪpɔɪnt/",
+      "meaning": "경유지, 중간 지점",
+      "example": "We set the old lighthouse as a waypoint before heading into the hills.",
+      "example_kr": "언덕으로 들어가기 전에 오래된 등대를 경유 지점으로 설정했어."
+    },
+    {
+      "word": "stow away",
+      "phonetic": "/stoʊ əˈweɪ/",
+      "meaning": "(짐 등을) 잘 챙겨 넣다, 보관하다",
+      "example": "Please stow away your carry-on bag in the overhead compartment before we take off.",
+      "example_kr": "이륙 전에 기내 수하물을 위쪽 짐칸에 잘 넣어 주세요."
+    },
+    {
+      "word": "overstay",
+      "phonetic": "/ˌoʊvərˈsteɪ/",
+      "meaning": "(비자·예약 기간을) 초과하여 머무르다",
+      "example": "If you overstay your visa, you could face a fine or be banned from re-entering.",
+      "example_kr": "비자 기간을 초과해서 머물면 벌금을 내거나 재입국이 금지될 수 있어."
+    }
+  ]
+}
