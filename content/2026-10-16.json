@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'll rope you in.",
+      "meaning": "당신도 참여시킬게요 / 끼워드릴게요 (업무나 논의에 포함시킬 때 쓰는 표현)",
+      "example": "I'm setting up a call with the client Thursday — I'll rope you in since you've been handling that account.",
+      "example_kr": "목요일에 클라이언트랑 통화 잡을 건데, 그 거래처 담당하고 계시니까 같이 끼워드릴게요."
+    },
+    {
+      "pattern": "Let's put a pin in that.",
+      "meaning": "그건 일단 보류해 두죠 / 나중에 다시 얘기해요 (지금 당장 결론 내기 어려울 때)",
+      "example": "That's a good question, but let's put a pin in that and revisit it after we go through the main agenda.",
+      "example_kr": "좋은 질문인데요, 일단 보류해 두고 주요 안건 다 검토한 다음에 다시 얘기해요."
+    },
+    {
+      "pattern": "I'll own that.",
+      "meaning": "그건 제가 책임질게요 / 제 실수예요 (실수나 책임을 솔직하게 인정할 때)",
+      "example": "The report had the wrong figures — I'll own that. I should have double-checked before sending it out.",
+      "example_kr": "보고서에 수치가 잘못됐네요 — 그건 제 책임이에요. 보내기 전에 다시 확인했어야 했는데."
+    },
+    {
+      "pattern": "주어 + be동사 + tasked with + ~ing",
+      "meaning": "~하는 임무를 맡고 있다 / ~을 담당하게 되다 (공식적으로 역할이 부여됐을 때)",
+      "example": "She's tasked with compiling all the quarterly data before Friday's review meeting.",
+      "example_kr": "그녀는 금요일 검토 회의 전까지 모든 분기 데이터를 취합하는 임무를 맡고 있어요."
+    },
+    {
+      "pattern": "주어 + could have + 과거분사 + had + 주어 + 동사(과거완료)",
+      "meaning": "~했다면 ~할 수 있었을 텐데 (과거 상황에 대한 반사실적 아쉬움·후회를 나타냄)",
+      "example": "We could have avoided the whole delay had the team flagged the issue earlier in the process.",
+      "example_kr": "팀이 좀 더 일찍 문제를 알렸다면 전체 지연을 피할 수 있었을 텐데."
+    }
+  ],
+  "words": [
+    {
+      "word": "pushback",
+      "phonetic": "/ˈpʊʃbæk/",
+      "meaning": "반발, 이의 제기",
+      "example": "The new policy got a lot of pushback from the sales team, so leadership decided to review it again.",
+      "example_kr": "새 정책이 영업팀의 큰 반발을 사서 경영진이 다시 검토하기로 했어요."
+    },
+    {
+      "word": "sign off on",
+      "phonetic": "/saɪn ɒf ɒn/",
+      "meaning": "(최종) 승인하다, 결재하다",
+      "example": "The director needs to sign off on the budget before we can proceed with any purchases.",
+      "example_kr": "이사님이 예산을 결재해야 구매를 진행할 수 있어요."
+    },
+    {
+      "word": "loophole",
+      "phonetic": "/ˈluːphoʊl/",
+      "meaning": "허점, 빠져나갈 구멍 (주로 계약·규정에서)",
+      "example": "Their legal team found a loophole in the contract that let them avoid paying the penalty fee.",
+      "example_kr": "그쪽 법무팀이 계약서의 허점을 찾아서 위약금을 피할 수 있었어요."
+    },
+    {
+      "word": "misconstrue",
+      "phonetic": "/ˌmɪskənˈstruː/",
+      "meaning": "오해하다, 잘못 해석하다",
+      "example": "I don't want my feedback to be misconstrued — I think the project is solid overall, just needs a few tweaks.",
+      "example_kr": "제 피드백이 오해받지 않았으면 해요. 프로젝트가 전체적으로 탄탄하고 조금만 수정하면 돼요."
+    },
+    {
+      "word": "turnaround",
+      "phonetic": "/ˈtɜːrnəraʊnd/",
+      "meaning": "처리 시간, 업무 완료까지 걸리는 시간; 또는 상황 반전",
+      "example": "What's the expected turnaround on the revised proposal? The client is waiting for a response.",
+      "example_kr": "수정된 제안서 처리 시간이 얼마나 걸릴까요? 클라이언트가 답변을 기다리고 있어요."
+    }
+  ]
+}
