@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "You're not gonna hear me complaining.",
+      "meaning": "불평할 생각 없어 / 나는 완전 좋아 (만족스럽다는 걸 구어체로 표현)",
+      "example": "A: Is it okay if we just stay in and watch movies tonight? B: You're not gonna hear me complaining.",
+      "example_kr": "A: 오늘 밤 그냥 집에서 영화 볼까? B: 나야 완전 좋지."
+    },
+    {
+      "pattern": "Let's just go with it.",
+      "meaning": "그냥 그대로 하자 / 흘러가는 대로 두자",
+      "example": "A: I'm not sure the plan is perfect. B: It's fine — let's just go with it.",
+      "example_kr": "A: 계획이 완벽한진 모르겠어. B: 괜찮아, 그냥 그대로 하자."
+    },
+    {
+      "pattern": "I could really go for ~.",
+      "meaning": "~이 정말 당기다, ~이 너무 먹고(하고) 싶다",
+      "example": "I could really go for some ramen right now — want to grab some?",
+      "example_kr": "지금 라면이 너무 당기는데 — 먹으러 갈래?"
+    },
+    {
+      "pattern": "주어 + be동사 + dying to + 동사원형",
+      "meaning": "~을 너무너무 하고 싶다, 몹시 간절히 원하다",
+      "example": "She's dying to meet your boyfriend — she keeps asking about him.",
+      "example_kr": "걔 네 남자친구 너무 만나고 싶어 해 — 계속 물어보더라."
+    },
+    {
+      "pattern": "주어 + have/has + no problem + ~ing + as long as + 주어 + 동사",
+      "meaning": "~하는 한 기꺼이 …할 수 있다, 문제없다",
+      "example": "I have no problem covering for you as long as you're back by six.",
+      "example_kr": "여섯 시까지만 돌아오면 네 자리 대신 봐주는 거 문제없어."
+    }
+  ],
+  "words": [
+    {
+      "word": "foresee",
+      "phonetic": "/fɔːrˈsiː/",
+      "meaning": "(앞일을) 예견하다, 미리 내다보다",
+      "example": "Nobody could have foreseen that the trip would turn into such a mess.",
+      "example_kr": "여행이 그렇게 엉망이 될 거라곤 아무도 예견하지 못했어."
+    },
+    {
+      "word": "flake on",
+      "phonetic": "/fleɪk ɒn/",
+      "meaning": "약속을 갑자기 취소하다, 바람 맞히다",
+      "example": "He flaked on us again — this is the third time this month.",
+      "example_kr": "걔 또 약속 펑크냈어 — 이번 달만 세 번째야."
+    },
+    {
+      "word": "loosen up",
+      "phonetic": "/ˈluːsən ʌp/",
+      "meaning": "긴장을 풀다, 딱딱한 분위기를 풀다",
+      "example": "Come on, loosen up — it's just a casual get-together.",
+      "example_kr": "에이, 좀 긴장 풀어 — 그냥 편한 모임이잖아."
+    },
+    {
+      "word": "stingy",
+      "phonetic": "/ˈstɪndʒi/",
+      "meaning": "인색한, 구두쇠 같은",
+      "example": "Don't be stingy — just order another round for everyone.",
+      "example_kr": "너무 인색하게 굴지 마 — 다 같이 한 잔 더 시켜."
+    },
+    {
+      "word": "drift off",
+      "phonetic": "/drɪft ɒf/",
+      "meaning": "잠들다, 졸다; 서서히 멀어지다",
+      "example": "I kept drifting off during the movie — I was so tired.",
+      "example_kr": "영화 보다가 계속 졸았어 — 너무 피곤했거든."
+    }
+  ]
+}
