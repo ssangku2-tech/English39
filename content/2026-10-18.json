@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Just checking in.",
+      "meaning": "연락이 없어서 어떻게 지내는지, 혹은 일이 잘 되고 있는지 확인차 연락할 때 쓰는 표현",
+      "example": "Hey, just checking in — did you get a chance to look over the file I sent?",
+      "example_kr": "안녕, 그냥 확인차 연락해봤는데 — 내가 보낸 파일 살펴볼 기회 있었어?"
+    },
+    {
+      "pattern": "Sit tight, I'll get back to you shortly.",
+      "meaning": "조금만 기다려, 곧 다시 연락줄게 — 상대방을 잠시 기다리게 할 때 쓰는 표현",
+      "example": "Sit tight, I'll get back to you shortly — I just need to double-check something.",
+      "example_kr": "잠깐만 기다려, 곧 다시 연락줄게 — 뭔가 한 번 더 확인해야 해서."
+    },
+    {
+      "pattern": "Did that go through?",
+      "meaning": "메시지·결제·파일 등이 제대로 전송·처리됐는지 확인할 때 쓰는 표현",
+      "example": "Did that go through? I sent the invoice an hour ago but haven't heard anything.",
+      "example_kr": "제대로 전송됐어? 한 시간 전에 청구서 보냈는데 아무 소식이 없어서."
+    },
+    {
+      "pattern": "주어 + may/might + want to + 동사원형 + , just to make sure + 주어 + 동사",
+      "meaning": "확실히 하기 위해 ~하는 게 좋을 것 같다 — 부드러운 조언이나 권고를 전할 때 쓰는 패턴",
+      "example": "You might want to resend that email, just to make sure it didn't get lost in spam.",
+      "example_kr": "그 이메일을 다시 보내는 게 좋을 것 같아, 스팸으로 걸리지 않았는지 확실히 하려면."
+    },
+    {
+      "pattern": "주어 + have/has + no sooner + 과거분사 + than + 주어 + 동사(과거)",
+      "meaning": "~하자마자 바로 …했다 — 두 사건이 거의 동시에 연달아 일어났음을 강조하는 패턴",
+      "example": "I had no sooner hit send than I realized I'd attached the wrong file.",
+      "example_kr": "전송 버튼을 누르자마자 잘못된 파일을 첨부했다는 걸 깨달았어."
+    }
+  ],
+  "words": [
+    {
+      "word": "glean",
+      "phonetic": "/ɡliːn/",
+      "meaning": "(정보·지식 등을) 조금씩 수집하다, 알아내다",
+      "example": "I could only glean bits of what was going on from her vague texts.",
+      "example_kr": "그녀의 모호한 문자들에서 상황을 조금밖에 파악할 수 없었어."
+    },
+    {
+      "word": "relay",
+      "phonetic": "/rɪˈleɪ/",
+      "meaning": "(정보·메시지를) 전달하다",
+      "example": "Can you relay the meeting time to whoever isn't in the group chat?",
+      "example_kr": "단체 채팅에 없는 사람들한테 회의 시간 전달해줄 수 있어?"
+    },
+    {
+      "word": "bounce ideas off",
+      "phonetic": "/baʊns aɪˈdɪəz ɒf/",
+      "meaning": "(누군가에게) 아이디어를 말하며 의견을 구하다",
+      "example": "I need to bounce some ideas off you before I finalize the proposal.",
+      "example_kr": "제안서 확정하기 전에 너한테 아이디어 몇 가지 의견 들어보고 싶어."
+    },
+    {
+      "word": "digest",
+      "phonetic": "/daɪˈdʒɛst/",
+      "meaning": "(정보를) 충분히 이해하다, 소화하다",
+      "example": "Give me a moment to digest everything you just sent before I respond.",
+      "example_kr": "답장하기 전에 방금 보낸 것들 다 파악할 시간 좀 줘."
+    },
+    {
+      "word": "falter",
+      "phonetic": "/ˈfɔːltər/",
+      "meaning": "흔들리다, 주저하다, (기세·신호 등이) 약해지다",
+      "example": "The connection faltered right when he was about to share the screen.",
+      "example_kr": "그가 화면을 공유하려던 바로 그 순간 연결이 끊겼어."
+    }
+  ]
+}
