@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm a little under the weather.",
+      "meaning": "몸이 좀 안 좋다, 컨디션이 별로다 — 심각하지 않지만 몸 상태가 좋지 않을 때 쓰는 일상 표현",
+      "example": "A: You look pale. Everything okay? B: Yeah, I'm a little under the weather. I think I just need some rest.",
+      "example_kr": "A: 얼굴이 창백해 보여. 괜찮아? B: 응, 몸이 좀 안 좋아. 그냥 좀 쉬어야 할 것 같아."
+    },
+    {
+      "pattern": "Sleep it off.",
+      "meaning": "자고 나면 나을 거야 — 가벼운 몸살이나 피로를 수면으로 회복하라고 권할 때 쓰는 표현",
+      "example": "A: I have such a bad headache. B: Just go home and sleep it off. You'll feel way better tomorrow.",
+      "example_kr": "A: 두통이 너무 심해. B: 그냥 집에 가서 자고 나. 내일 훨씬 나아질 거야."
+    },
+    {
+      "pattern": "I need to pace myself.",
+      "meaning": "무리하지 않고 천천히 해야겠어 — 운동이나 업무에서 체력·에너지를 조절해야 한다고 할 때",
+      "example": "A: Why are you slowing down? We're only halfway through. B: I know, but I need to pace myself or I'll burn out before the finish line.",
+      "example_kr": "A: 왜 속도를 줄여? 아직 절반밖에 안 왔는데. B: 알아, 근데 무리하지 말아야 해. 안 그러면 결승선 전에 지쳐버릴 거야."
+    },
+    {
+      "pattern": "주어 + be동사 + used to + ~ing + , but + 주어 + can't quite + 동사원형 + anymore",
+      "meaning": "예전에는 ~하는 게 익숙했는데, 이제는 더 이상 잘 ~할 수 없다 — 체력·습관·능력이 예전 같지 않음을 표현",
+      "example": "I used to running five miles every morning, but I can't quite keep that up anymore since my knee started acting up.",
+      "example_kr": "예전에는 매일 아침 5마일씩 달리는 게 익숙했는데, 무릎이 말썽이기 시작한 뒤로는 더 이상 그걸 유지할 수가 없어."
+    },
+    {
+      "pattern": "The sooner + 주어 + 동사원형, the faster + 주어 + 동사원형",
+      "meaning": "~하면 할수록, 더 빨리 ~하게 된다 — 회복·치료·개선에서 빠른 행동을 촉구할 때",
+      "example": "The sooner you see a doctor about that cough, the faster you'll recover and get back to training.",
+      "example_kr": "그 기침 때문에 빨리 의사를 볼수록, 더 빨리 회복해서 훈련에 복귀할 수 있을 거야."
+    }
+  ],
+  "words": [
+    {
+      "word": "flare",
+      "phonetic": "/flɛr/",
+      "meaning": "(증상이) 갑자기 악화되다, 재발하다",
+      "example": "Her arthritis tends to flare whenever the weather gets cold and damp.",
+      "example_kr": "날씨가 춥고 습해지면 그녀의 관절염이 재발하는 경향이 있다."
+    },
+    {
+      "word": "exacerbate",
+      "phonetic": "/ɪɡˈzæsərbeɪt/",
+      "meaning": "(상태를) 악화시키다",
+      "example": "Skipping warm-ups before a run can exacerbate existing muscle soreness.",
+      "example_kr": "달리기 전 준비운동을 건너뛰면 기존의 근육통을 악화시킬 수 있다."
+    },
+    {
+      "word": "twinge",
+      "phonetic": "/twɪndʒ/",
+      "meaning": "(갑자기 느끼는) 찌르는 듯한 통증, 욱신거림",
+      "example": "I felt a sharp twinge in my lower back when I bent down to pick up the weights.",
+      "example_kr": "역기를 집으려고 허리를 구부렸을 때 허리 아래쪽에 찌르는 듯한 통증이 느껴졌다."
+    },
+    {
+      "word": "constrict",
+      "phonetic": "/kənˈstrɪkt/",
+      "meaning": "(혈관·기도 등이) 수축하다, 조이다",
+      "example": "Cold temperatures cause blood vessels to constrict, which can make workouts feel harder.",
+      "example_kr": "추운 온도는 혈관을 수축시켜 운동이 더 힘들게 느껴지게 만들 수 있다."
+    },
+    {
+      "word": "dehydrated",
+      "phonetic": "/ˌdiːˈhaɪdreɪtɪd/",
+      "meaning": "탈수된, 수분이 부족한",
+      "example": "I got really dehydrated during the half-marathon and had to stop at every water station.",
+      "example_kr": "하프 마라톤 중에 탈수가 심해서 모든 급수대에서 멈춰야 했다."
+    }
+  ]
+}
