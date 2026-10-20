@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Knock yourself out.",
+      "meaning": "마음껏 해도 돼, 얼마든지 해 — 상대방이 원하는 대로 하도록 허락할 때 편하게 쓰는 표현",
+      "example": "A: Mind if I repaint that spare room? B: Knock yourself out. I never use it anyway.",
+      "example_kr": "A: 그 빈 방 다시 페인트칠해도 될까요? B: 마음껏 해요. 어차피 안 쓰는 방이니까요."
+    },
+    {
+      "pattern": "We're gonna have to gut the whole place.",
+      "meaning": "집 전체를 완전히 뜯어고쳐야 할 것 같다 — 대규모 수리·리모델링이 불가피할 때 쓰는 말",
+      "example": "After the inspection, the contractor said we're gonna have to gut the whole place before we can even think about moving in.",
+      "example_kr": "점검 후에 업자가, 이사 생각은커녕 집 전체를 완전히 뜯어고쳐야 할 것 같다고 했어."
+    },
+    {
+      "pattern": "Can you take a look at this?",
+      "meaning": "이것 좀 봐줄 수 있어? — 문제가 생겼을 때 도움을 자연스럽게 요청하는 표현",
+      "example": "Hey, can you take a look at this? The faucet's been dripping nonstop since this morning.",
+      "example_kr": "저기, 이것 좀 봐줄 수 있어? 아침부터 수도꼭지에서 물이 계속 떨어지고 있어."
+    },
+    {
+      "pattern": "I'd go ahead and + 동사원형 + before + 주어 + 동사",
+      "meaning": "'~하기 전에 미리 …하는 게 좋을 것 같아' — 선제적 행동을 부드럽게 권유할 때 쓰는 패턴",
+      "example": "I'd go ahead and seal those gaps before winter sets in, or the heating bill is gonna be brutal.",
+      "example_kr": "겨울이 오기 전에 미리 저 틈새들을 막아두는 게 좋을 것 같아, 그렇지 않으면 난방비가 장난 아닐 거야."
+    },
+    {
+      "pattern": "주어 + have/has + been + 과거분사 + so long that + 주어 + 동사",
+      "meaning": "'너무 오래 …된 상태라 ~하다' — 어떤 상태가 오랫동안 지속된 결과를 강조할 때 쓰는 패턴",
+      "example": "That ceiling has been water-damaged so long that the whole board needs to be replaced now.",
+      "example_kr": "저 천장이 물 피해를 너무 오래 입어서 이제는 판 전체를 교체해야 해."
+    }
+  ],
+  "words": [
+    {
+      "word": "pry off",
+      "phonetic": "/praɪ ɒf/",
+      "meaning": "(못·뚜껑·판 등을) 지렛대로 떼어내다, 뜯어내다",
+      "example": "Use a flathead screwdriver to pry off the old baseboards without cracking the wall.",
+      "example_kr": "벽에 금이 가지 않도록 일자 드라이버로 낡은 걸레받이를 뜯어내."
+    },
+    {
+      "word": "load-bearing",
+      "phonetic": "/ˈloʊd ˌbɛrɪŋ/",
+      "meaning": "(벽·기둥 등이) 하중을 지탱하는, 내력벽의",
+      "example": "Don't knock that wall down — it's load-bearing and the whole structure depends on it.",
+      "example_kr": "저 벽은 허물면 안 돼 — 하중을 지탱하는 벽이라 건물 전체가 그것에 의존하고 있어."
+    },
+    {
+      "word": "tarp",
+      "phonetic": "/tɑːrp/",
+      "meaning": "방수포, 타포린 (공사·이사 시 바닥이나 짐을 덮는 데 쓰는 두꺼운 방수 천)",
+      "example": "Lay a tarp over the furniture before you start sanding the ceiling.",
+      "example_kr": "천장 사포질을 시작하기 전에 가구 위에 방수포를 덮어."
+    },
+    {
+      "word": "dehumidifier",
+      "phonetic": "/ˌdiːhjuːˈmɪdɪfaɪər/",
+      "meaning": "제습기",
+      "example": "Run the dehumidifier in the basement — the moisture is making the walls peel.",
+      "example_kr": "지하실에 제습기 틀어 — 습기 때문에 벽지가 벗겨지고 있어."
+    },
+    {
+      "word": "chip away at",
+      "phonetic": "/tʃɪp əˈweɪ æt/",
+      "meaning": "(큰 일을) 조금씩 해나가다; (타일·페인트 등을) 조금씩 쪼아내다",
+      "example": "We can't do it all at once, so let's just chip away at the unpacking a little each day.",
+      "example_kr": "한 번에 다 할 수는 없으니 매일 조금씩 짐을 풀어나가자."
+    }
+  ]
+}
