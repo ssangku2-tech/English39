@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can you squeeze that in?",
+      "meaning": "일정이나 시간 등에 끼워 넣을 수 있는지 부탁할 때 쓰는 표현. '그거 좀 끼워 넣어 줄 수 있어요?'",
+      "example": "I know you're busy, but can you squeeze that appointment in before Friday?",
+      "example_kr": "바쁜 거 알지만, 금요일 전에 그 예약 좀 끼워 넣어 줄 수 있어요?"
+    },
+    {
+      "pattern": "What's the hold-up with ~?",
+      "meaning": "무언가가 왜 지연되고 있는지 물어볼 때 쓰는 구어체 표현. '~가 왜 이렇게 늦어지는 거야?'",
+      "example": "What's the hold-up with my application? I submitted it two weeks ago.",
+      "example_kr": "제 신청서가 왜 이렇게 늦어지는 거예요? 2주 전에 제출했는데요."
+    },
+    {
+      "pattern": "I need to get this sorted out.",
+      "meaning": "문제나 상황을 처리하고 해결해야 한다고 말할 때 쓰는 구어체 표현. '이거 어떻게든 해결해야 해.'",
+      "example": "My lease is up next month and I need to get this sorted out as soon as possible.",
+      "example_kr": "다음 달에 임대 계약이 만료돼서 최대한 빨리 이걸 해결해야 해."
+    },
+    {
+      "pattern": "주어 + have/has + no choice but to + 동사원형 + given that + 주어 + 동사",
+      "meaning": "'~인 상황을 고려하면 …할 수밖에 없다'는 의미로, 외부 상황으로 인해 선택의 여지가 없음을 나타내는 패턴",
+      "example": "We have no choice but to reschedule the signing given that the documents haven't been notarized yet.",
+      "example_kr": "서류가 아직 공증되지 않았기 때문에 서명 일정을 변경할 수밖에 없어요."
+    },
+    {
+      "pattern": "주어 + be동사 + due + to + 동사원형 + , but + 주어 + have/has + yet to + 동사원형",
+      "meaning": "'~하기로 되어 있었는데 아직 …하지 않았다'는 의미로, 예정된 행동이 이루어지지 않았음을 나타내는 패턴",
+      "example": "The contract is due to be signed by Friday, but the other party has yet to respond to our terms.",
+      "example_kr": "계약서는 금요일까지 서명되기로 되어 있었는데, 상대방이 아직 우리 조건에 대해 답변을 하지 않았어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "roll back",
+      "phonetic": "/roʊl bæk/",
+      "meaning": "(가격·정책·결정 등을) 되돌리다, 철회하다",
+      "example": "The landlord agreed to roll back the rent increase after tenants complained.",
+      "example_kr": "세입자들이 항의하자 집주인이 임대료 인상을 철회하는 데 동의했다."
+    },
+    {
+      "word": "incumbent",
+      "phonetic": "/ɪnˈkʌmbənt/",
+      "meaning": "현직의; (~의 의무가) 있는 (형용사), 현직자 (명사)",
+      "example": "It's incumbent on both parties to review the contract thoroughly before signing.",
+      "example_kr": "서명하기 전에 계약서를 꼼꼼히 검토하는 것은 양측 모두의 의무입니다."
+    },
+    {
+      "word": "forfeit",
+      "phonetic": "/ˈfɔːrfɪt/",
+      "meaning": "(권리·보증금 등을) 몰수당하다, 잃다",
+      "example": "If you cancel within 48 hours, you'll forfeit your deposit.",
+      "example_kr": "48시간 이내에 취소하시면 보증금을 돌려받지 못합니다."
+    },
+    {
+      "word": "flag down",
+      "phonetic": "/flæɡ daʊn/",
+      "meaning": "(사람·차량을) 손짓해서 세우다, 주목시키다",
+      "example": "Flag down one of the staff members if you need help at the counter.",
+      "example_kr": "카운터에서 도움이 필요하면 직원 중 한 명에게 손짓해서 불러 세우세요."
+    },
+    {
+      "word": "mandate",
+      "phonetic": "/ˈmændeɪt/",
+      "meaning": "(공식적으로) 의무화하다, 명령하다; 권한, 지시 (명사)",
+      "example": "The new regulation mandates that all vendors submit proof of insurance annually.",
+      "example_kr": "새 규정은 모든 판매업체가 매년 보험 증명서를 제출하도록 의무화하고 있습니다."
+    }
+  ]
+}
