@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "You really went all out.",
+      "meaning": "정말 최선을 다했네 / 엄청 신경 썼네 (상대방의 노력이나 헌신에 감탄할 때 쓰는 표현)",
+      "example": "A: I made a three-course dinner for his birthday. B: Wow, you really went all out!",
+      "example_kr": "A: 그의 생일을 위해 3코스 요리를 만들었어. B: 와, 정말 최선을 다했네!"
+    },
+    {
+      "pattern": "She really rubs me the wrong way.",
+      "meaning": "그녀는 나를 정말 거슬리게 해 / 왠지 모르게 불편해 (어떤 사람이 이유 없이 자꾸 신경 쓰이거나 불쾌하게 느껴질 때)",
+      "example": "I don't know what it is, but she just rubs me the wrong way every time we talk.",
+      "example_kr": "뭔지는 모르겠는데, 우리가 대화할 때마다 그녀가 왠지 거슬려."
+    },
+    {
+      "pattern": "I just needed to vent.",
+      "meaning": "그냥 털어놓고 싶었어 / 속에 있는 말을 쏟아내고 싶었어 (조언이 필요한 게 아니라 감정을 표출하고 싶을 때)",
+      "example": "Sorry for all the texts — I just needed to vent. I feel better now.",
+      "example_kr": "문자 폭탄 미안해 — 그냥 털어놓고 싶었어. 이제 좀 나아진 것 같아."
+    },
+    {
+      "pattern": "주어 + come(s) across as + 형용사 + to people who + 동사",
+      "meaning": "~하는 사람들에게 ~하게 보이다 / 특정 상황이나 집단에게 특정 인상을 주다",
+      "example": "He comes across as arrogant to people who don't know him well, but he's actually really kind.",
+      "example_kr": "그를 잘 모르는 사람들에게는 오만하게 보일 수 있지만, 사실 정말 다정한 사람이야."
+    },
+    {
+      "pattern": "주어 + have/has + been + 형용사 + enough to + 동사원형 + , even when + 주어 + 동사",
+      "meaning": "~할 때조차도 충분히 ~해왔다 (어려운 상황에서도 지속적으로 특정 태도나 성격을 유지해 왔음을 강조)",
+      "example": "She has been patient enough to listen to all my problems, even when she had her own worries.",
+      "example_kr": "그녀는 자신의 걱정거리가 있을 때조차도 내 모든 고민을 들어줄 만큼 충분히 인내심이 있어 왔어."
+    }
+  ],
+  "words": [
+    {
+      "word": "volatile",
+      "phonetic": "/ˈvɒlətaɪl/",
+      "meaning": "감정 기복이 심한, 변덕스러운, 불안정한",
+      "example": "Working with someone so volatile is exhausting — you never know what mood they'll be in.",
+      "example_kr": "그렇게 감정 기복이 심한 사람과 일하는 건 지치는 일이야 — 기분이 어떨지 전혀 모르거든."
+    },
+    {
+      "word": "introspective",
+      "phonetic": "/ˌɪntrəˈspɛktɪv/",
+      "meaning": "내성적인, 자기 성찰적인",
+      "example": "She became more introspective after the breakup, spending a lot of time journaling.",
+      "example_kr": "헤어진 후 그녀는 더 내성적이 되어 일기 쓰는 시간이 많아졌어."
+    },
+    {
+      "word": "resonate",
+      "phonetic": "/ˈrɛzəneɪt/",
+      "meaning": "(감정적으로) 공감되다, 마음에 와 닿다",
+      "example": "His words really resonated with me — I felt like he was describing exactly what I'd been through.",
+      "example_kr": "그의 말이 정말 와 닿았어 — 내가 겪어온 것을 그대로 묘사하는 것 같았거든."
+    },
+    {
+      "word": "stir up",
+      "phonetic": "/stɜːr ʌp/",
+      "meaning": "(감정·갈등을) 불러일으키다, 자극하다",
+      "example": "Seeing that old photo stirred up a lot of emotions I thought I'd moved past.",
+      "example_kr": "그 오래된 사진을 보니 이미 극복했다고 생각했던 감정들이 많이 올라왔어."
+    },
+    {
+      "word": "magnanimous",
+      "phonetic": "/mæɡˈnænɪməs/",
+      "meaning": "관대한, 아량이 넓은",
+      "example": "It was really magnanimous of her to forgive him so quickly after everything that happened.",
+      "example_kr": "그 모든 일이 있은 후 그를 그렇게 빨리 용서한 건 정말 아량이 넓은 행동이었어."
+    }
+  ]
+}
