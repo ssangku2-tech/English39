@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can I get that on the side?",
+      "meaning": "소스나 재료 등을 따로 달라고 요청할 때 쓰는 구어 표현",
+      "example": "Can I get the dressing on the side? I don't like too much sauce.",
+      "example_kr": "드레싱 따로 주실 수 있어요? 소스가 너무 많은 걸 별로 안 좋아해서요."
+    },
+    {
+      "pattern": "I'll just grab something quick.",
+      "meaning": "간단히 빨리 뭔가 먹거나 사겠다고 할 때 쓰는 캐주얼한 표현",
+      "example": "I don't have much time, so I'll just grab something quick from the cafe downstairs.",
+      "example_kr": "시간이 별로 없어서, 아래층 카페에서 간단히 뭔가 먹고 갈게."
+    },
+    {
+      "pattern": "Does anything on the menu stand out to you?",
+      "meaning": "메뉴 중에 눈에 띄거나 끌리는 게 있냐고 물어볼 때 쓰는 자연스러운 표현",
+      "example": "Does anything on the menu stand out to you? I can never decide when there are too many options.",
+      "example_kr": "메뉴에서 뭔가 끌리는 거 있어? 선택지가 너무 많으면 난 늘 못 고르겠더라고."
+    },
+    {
+      "pattern": "주어 + have/has + been + known to + 동사원형",
+      "meaning": "어떤 사람이나 장소가 특정 행동을 하는 것으로 알려져 있다는 뜻으로, 평판이나 경향을 부드럽게 언급할 때 씀",
+      "example": "This place has been known to run out of the special pretty early, so we should order now.",
+      "example_kr": "이 식당은 오늘의 특선 메뉴가 꽤 일찍 떨어지는 걸로 알려져 있으니까, 지금 주문하는 게 좋을 것 같아."
+    },
+    {
+      "pattern": "It's not like + 주어 + 동사, it's just that + 주어 + 동사",
+      "meaning": "상대방의 오해를 부드럽게 정정하면서 진짜 이유를 설명할 때 쓰는 패턴",
+      "example": "It's not like I dislike the food here, it's just that I was hoping to try somewhere new tonight.",
+      "example_kr": "여기 음식이 싫다는 게 아니라, 그냥 오늘 저녁엔 새로운 데를 가보고 싶었던 거야."
+    }
+  ],
+  "words": [
+    {
+      "word": "mince",
+      "phonetic": "/mɪns/",
+      "meaning": "(고기·채소 등을) 잘게 다지다; 완곡하게 표현하다",
+      "example": "The chef minced the garlic finely before adding it to the sauce.",
+      "example_kr": "셰프는 소스에 넣기 전에 마늘을 곱게 다졌다."
+    },
+    {
+      "word": "delicate",
+      "phonetic": "/ˈdɛlɪkət/",
+      "meaning": "(맛·향이) 은은하고 섬세한; 다루기 조심스러운",
+      "example": "The soup had a delicate flavor that was easy to enjoy without feeling too heavy.",
+      "example_kr": "그 수프는 은은한 맛이 있어서 부담 없이 즐길 수 있었다."
+    },
+    {
+      "word": "bottomless",
+      "phonetic": "/ˈbɒtəmləs/",
+      "meaning": "(음료 등이) 무제한 리필되는",
+      "example": "They offer bottomless coffee on weekends, so we stayed there for hours.",
+      "example_kr": "주말에 커피 무제한 리필을 해줘서, 우리는 거기서 몇 시간이나 있었다."
+    },
+    {
+      "word": "herbaceous",
+      "phonetic": "/hɜːrˈbeɪʃəs/",
+      "meaning": "허브 향이 풍부한, 풀 향이 나는",
+      "example": "The sauce had a fresh, herbaceous taste that paired well with the grilled fish.",
+      "example_kr": "그 소스는 신선하고 허브 향이 풍부해서 구운 생선과 잘 어울렸다."
+    },
+    {
+      "word": "crave",
+      "phonetic": "/kreɪv/",
+      "meaning": "(음식·무언가를) 간절히 먹고 싶다, 열망하다",
+      "example": "I've been craving ramen all week — let's finally go tonight.",
+      "example_kr": "일주일 내내 라면이 먹고 싶었어 — 오늘 저녁에 드디어 가자."
+    }
+  ]
+}
