@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'll take the window seat, if that's okay.",
+      "meaning": "창가 자리를 원할 때 상대에게 양해를 구하는 자연스러운 구어체 표현",
+      "example": "A: Where do you want to sit? B: I'll take the window seat, if that's okay.",
+      "example_kr": "A: 어디 앉을래요? B: 괜찮으시면 창가 자리 앉을게요."
+    },
+    {
+      "pattern": "Do you validate parking here?",
+      "meaning": "주차 요금 할인 또는 무료 처리를 해주는지 묻는 표현",
+      "example": "Excuse me, do you validate parking here? I've been in the lot for about an hour.",
+      "example_kr": "실례합니다, 여기 주차 확인해 주시나요? 주차장에 한 시간 정도 있었거든요."
+    },
+    {
+      "pattern": "What's the fastest way to get to…?",
+      "meaning": "특정 장소까지 가는 가장 빠른 방법을 묻는 표현",
+      "example": "What's the fastest way to get to the departure terminal from here?",
+      "example_kr": "여기서 출발 터미널까지 가는 가장 빠른 방법이 뭐예요?"
+    },
+    {
+      "pattern": "Not only + 조동사 + 주어 + 동사원형, but + 주어 + also + 동사",
+      "meaning": "'~할 뿐만 아니라 ~하기도 하다'는 뜻으로 두 가지 사실을 강조할 때 쓰는 도치 패턴",
+      "example": "Not only did the hotel upgrade our room, but they also threw in free breakfast.",
+      "example_kr": "호텔에서 방을 업그레이드해 줬을 뿐만 아니라 무료 아침 식사까지 제공해 줬어."
+    },
+    {
+      "pattern": "주어 + be동사 + too + 형용사 + to + 동사원형",
+      "meaning": "'너무 ~해서 …할 수 없다'는 결과를 나타내는 패턴",
+      "example": "The layover is too short to leave the airport and grab a proper meal.",
+      "example_kr": "경유 시간이 너무 짧아서 공항을 나가서 제대로 된 식사를 하기가 어려워요."
+    }
+  ],
+  "words": [
+    {
+      "word": "bolster",
+      "phonetic": "/ˈboʊlstər/",
+      "meaning": "강화하다, 북돋우다",
+      "example": "Getting a good night's rest at the hotel really bolstered my energy for the next day of sightseeing.",
+      "example_kr": "호텔에서 푹 자고 나니 다음 날 관광을 위한 에너지가 충전됐다."
+    },
+    {
+      "word": "embankment",
+      "phonetic": "/ɪmˈbæŋkmənt/",
+      "meaning": "제방, 둑 (강이나 도로 옆의 높인 지형)",
+      "example": "Walk along the embankment and you'll reach the main bridge in about five minutes.",
+      "example_kr": "제방을 따라 걸으면 약 5분 후에 큰 다리에 도착할 거예요."
+    },
+    {
+      "word": "tuck into",
+      "phonetic": "/tʌk ˈɪntuː/",
+      "meaning": "(음식을) 맛있게 먹기 시작하다",
+      "example": "We found a cozy little restaurant and just tucked into the local dishes right away.",
+      "example_kr": "아늑한 작은 식당을 발견하고 바로 현지 음식을 맛있게 먹기 시작했다."
+    },
+    {
+      "word": "wayfinding",
+      "phonetic": "/ˈweɪˌfaɪndɪŋ/",
+      "meaning": "길 찾기, 동선 안내 (공항·대형 시설 등에서의 표지판 및 안내 체계)",
+      "example": "The airport's wayfinding system was so clear that we found our gate without asking anyone.",
+      "example_kr": "공항의 안내 표지판 체계가 너무 명확해서 아무에게도 묻지 않고 탑승구를 찾았다."
+    },
+    {
+      "word": "protracted",
+      "phonetic": "/prəˈtræktɪd/",
+      "meaning": "오래 끄는, 장기간에 걸친",
+      "example": "After a protracted delay at customs, we finally made it to the hotel just before midnight.",
+      "example_kr": "세관에서 오랜 지연 끝에 자정 직전에 겨우 호텔에 도착했다."
+    }
+  ]
+}
