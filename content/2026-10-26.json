@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's not my call to make.",
+      "meaning": "그건 내가 결정할 사안이 아니야. 자신의 권한 밖임을 정중하게 밝힐 때 쓰는 표현.",
+      "example": "A: Can we approve the extra budget? B: That's not my call to make — you'll need to run it by the director.",
+      "example_kr": "A: 추가 예산 승인해도 될까요? B: 그건 제가 결정할 사안이 아니에요 — 이사님께 여쭤봐야 해요."
+    },
+    {
+      "pattern": "Let's iron this out.",
+      "meaning": "이 문제를 해결하자 / 마무리 짓자. 세부 사항이나 이견을 정리할 때 쓰는 표현.",
+      "example": "We're almost there — let's iron this out before the client presentation tomorrow.",
+      "example_kr": "거의 다 왔어요 — 내일 클라이언트 발표 전에 이 부분을 마무리 지읍시다."
+    },
+    {
+      "pattern": "I'll bring it to the table.",
+      "meaning": "그걸 논의 자리에서 꺼내겠다 / 제안하겠다. 회의나 협의에서 안건을 올릴 때 쓰는 표현.",
+      "example": "Good idea — I'll bring it to the table at Monday's meeting and see what the team thinks.",
+      "example_kr": "좋은 생각이에요 — 월요일 회의에서 꺼내서 팀 의견을 들어볼게요."
+    },
+    {
+      "pattern": "주어 + be동사 + set to + 동사원형 + by + 시간/기한",
+      "meaning": "'~까지 ~하기로 되어 있다'는 뜻으로, 예정된 계획이나 일정을 나타낼 때 쓰는 패턴.",
+      "example": "The updated report is set to be delivered by end of day Friday.",
+      "example_kr": "업데이트된 보고서는 금요일 업무 종료 전까지 제출될 예정입니다."
+    },
+    {
+      "pattern": "주어 + make it a point to + 동사원형 + whenever + 주어 + 동사",
+      "meaning": "'~할 때마다 반드시 ~하려고 한다'는 뜻으로, 의식적으로 챙기는 습관이나 원칙을 강조할 때 쓰는 패턴.",
+      "example": "She makes it a point to send a follow-up email whenever she wraps up a client call.",
+      "example_kr": "그녀는 고객 통화를 마칠 때마다 반드시 후속 이메일을 보내려고 합니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "caveat",
+      "phonetic": "/ˈkæviˌæt/",
+      "meaning": "단서, 경고, 주의사항",
+      "example": "The proposal looks solid, but there's one caveat — the timeline depends on client approval.",
+      "example_kr": "제안서는 탄탄해 보이지만, 한 가지 단서가 있어요 — 일정은 고객 승인에 달려 있습니다."
+    },
+    {
+      "word": "reiterate",
+      "phonetic": "/riˈɪtəreɪt/",
+      "meaning": "재차 강조하다, 반복해서 말하다",
+      "example": "Just to reiterate, all expense reports must be submitted by the 15th of each month.",
+      "example_kr": "다시 한번 강조하자면, 모든 지출 보고서는 매월 15일까지 제출되어야 합니다."
+    },
+    {
+      "word": "hands-on",
+      "phonetic": "/ˈhændzˌɒn/",
+      "meaning": "직접 참여하는, 실무적인",
+      "example": "Our new manager is very hands-on — she jumps in and works alongside the team.",
+      "example_kr": "우리 새 매니저는 매우 실무적이에요 — 직접 뛰어들어 팀과 함께 일합니다."
+    },
+    {
+      "word": "cede",
+      "phonetic": "/siːd/",
+      "meaning": "(권한·권리 등을) 넘겨주다, 양도하다",
+      "example": "The department head agreed to cede final approval authority to the regional office.",
+      "example_kr": "부서장은 최종 승인 권한을 지역 사무소에 넘기기로 동의했습니다."
+    },
+    {
+      "word": "hedge",
+      "phonetic": "/hɛdʒ/",
+      "meaning": "(위험을) 분산하다; 말을 얼버무리다, 확실하게 말하지 않다",
+      "example": "Stop hedging — just tell me if you think the project is feasible or not.",
+      "example_kr": "말 돌리지 말고 — 프로젝트가 실현 가능하다고 생각하는지 아닌지 그냥 말해줘요."
+    }
+  ]
+}
