@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "You're killing it.",
+      "meaning": "정말 잘하고 있어 / 완전 잘 해내고 있잖아 (칭찬·격려할 때 쓰는 구어체 표현)",
+      "example": "Dude, you're killing it at work lately. Everyone's been talking about how great your presentations are.",
+      "example_kr": "야, 너 요즘 일 완전 잘하고 있잖아. 다들 네 발표가 얼마나 대단한지 얘기하더라."
+    },
+    {
+      "pattern": "I'm not gonna sugarcoat it.",
+      "meaning": "솔직하게 말할게 / 좋게 포장하지 않을게 (직접적으로 말하려 할 때)",
+      "example": "I'm not gonna sugarcoat it — that plan has some serious holes in it.",
+      "example_kr": "솔직하게 말할게 — 그 계획엔 꽤 심각한 허점들이 있어."
+    },
+    {
+      "pattern": "That's what I'm here for.",
+      "meaning": "그러려고 내가 있는 거지 / 당연히 도와야지 (도움을 준 뒤 감사 인사를 받을 때)",
+      "example": "A: Thanks so much for listening. I really needed this. B: Of course! That's what I'm here for.",
+      "example_kr": "A: 들어줘서 정말 고마워. 진짜 필요했어. B: 당연하지! 그러려고 내가 있는 거잖아."
+    },
+    {
+      "pattern": "주어 + can't stop ~ing + even if + 주어 + tried",
+      "meaning": "아무리 하려 해도 ~을 멈출 수 없다 (어떤 행동이나 습관을 억제하지 못함을 강조)",
+      "example": "She can't stop laughing at that video even if she tried — it gets her every time.",
+      "example_kr": "그녀는 아무리 하려 해도 그 영상 보고 웃음을 멈출 수가 없어 — 볼 때마다 빵 터지거든."
+    },
+    {
+      "pattern": "주어 + be동사 + nowhere near + 형용사/명사 + enough + for + 명사/~ing",
+      "meaning": "~하기엔 전혀 충분하지 않다 (기준이나 조건에 한참 못 미침을 표현)",
+      "example": "Two hours of sleep is nowhere near enough for a full day of meetings.",
+      "example_kr": "두 시간 수면은 하루 종일 회의를 하기엔 전혀 충분하지 않아."
+    }
+  ],
+  "words": [
+    {
+      "word": "dodgy",
+      "phonetic": "/ˈdɒdʒi/",
+      "meaning": "수상한, 미심쩍은, 믿기 어려운",
+      "example": "I'd avoid that place — the reviews are pretty dodgy and the food looks off.",
+      "example_kr": "그 식당은 피하는 게 좋을 것 같아 — 리뷰가 꽤 수상하고 음식도 이상해 보여."
+    },
+    {
+      "word": "bygone",
+      "phonetic": "/ˈbaɪɡɒn/",
+      "meaning": "지나간, 과거의 (주로 'let bygones be bygones' 형태로 쓰임)",
+      "example": "We had a rough patch last year, but let's let bygones be bygones and move forward.",
+      "example_kr": "작년에 힘든 시기가 있었지만, 지난 일은 지난 일로 하고 앞으로 나아가자."
+    },
+    {
+      "word": "flimflam",
+      "phonetic": "/ˈflɪmflæm/",
+      "meaning": "허튼소리, 속임수; 속이다",
+      "example": "Don't fall for their flimflam — that deal sounds too good to be true.",
+      "example_kr": "그들의 속임수에 넘어가지 마 — 그 거래는 너무 좋아서 진짜 같지 않잖아."
+    },
+    {
+      "word": "simmer down",
+      "phonetic": "/ˈsɪmər daʊn/",
+      "meaning": "진정하다, 화를 가라앉히다",
+      "example": "Just simmer down — I know you're upset, but yelling won't fix anything.",
+      "example_kr": "좀 진정해 — 화난 거 알겠는데, 소리 질러봤자 아무것도 해결 안 돼."
+    },
+    {
+      "word": "loopy",
+      "phonetic": "/ˈluːpi/",
+      "meaning": "약간 제정신이 아닌, 어리벙벙한, 황당한",
+      "example": "I got so loopy after only three hours of sleep that I put my keys in the fridge.",
+      "example_kr": "세 시간밖에 못 잤더니 너무 멍해서 열쇠를 냉장고에 넣었어."
+    }
+  ]
+}
