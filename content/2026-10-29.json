@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can I get a rain check on that?",
+      "meaning": "지금은 못 하지만 나중에 다시 기회를 줄 수 있냐고 정중히 묻는 표현. 쇼핑에서 품절 상품의 할인을 나중에 적용받고 싶을 때도 씀.",
+      "example": "The jacket I wanted is sold out. Can I get a rain check on that sale price?",
+      "example_kr": "제가 원하던 재킷이 품절이에요. 그 세일 가격을 나중에 적용받을 수 있을까요?"
+    },
+    {
+      "pattern": "That's a steal.",
+      "meaning": "가격이 믿을 수 없을 만큼 싸다, 완전 득템이다라는 의미의 구어 표현.",
+      "example": "Fifty bucks for those boots? That's a steal!",
+      "example_kr": "저 부츠가 50달러라고요? 완전 싸게 사는 거잖아요!"
+    },
+    {
+      "pattern": "I'll have to see about that.",
+      "meaning": "확실히 답변하기 어렵거나 아직 결정되지 않았을 때 '알아봐야 할 것 같다'는 뉘앙스로 쓰는 표현.",
+      "example": "A: Can you process the return today? B: I'll have to see about that — our manager isn't in yet.",
+      "example_kr": "A: 오늘 반품 처리 가능한가요? B: 알아봐야 할 것 같아요 — 매니저가 아직 안 나왔거든요."
+    },
+    {
+      "pattern": "주어 + be동사 + looking to + 동사원형",
+      "meaning": "'~하려고 생각 중이다 / ~할 계획이다'는 의미로, 막연한 의향이나 목적을 나타낼 때 쓰는 패턴.",
+      "example": "I'm looking to exchange this for a smaller size if you have one in stock.",
+      "example_kr": "재고가 있다면 이걸 더 작은 사이즈로 교환하려고 하는데요."
+    },
+    {
+      "pattern": "주어 + ended up + ~ing + only to + 동사원형",
+      "meaning": "'결국 ~했는데 막상 해보니 …한 결과가 되었다'는 뜻으로, 예상치 못한 실망스러운 결과를 표현하는 패턴.",
+      "example": "She ended up waiting in line for an hour only to find out the item was already out of stock.",
+      "example_kr": "그녀는 한 시간이나 줄을 서서 기다렸는데 결국 그 상품이 이미 품절이라는 걸 알게 됐어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "tamper-proof",
+      "phonetic": "/ˈtæmpər pruːf/",
+      "meaning": "변조 방지된, 훼손 불가능한",
+      "example": "The packaging is tamper-proof, so we can't accept a return if the seal is broken.",
+      "example_kr": "포장이 변조 방지 처리가 되어 있어서 봉인이 뜯겼으면 반품을 받을 수 없어요."
+    },
+    {
+      "word": "quibble",
+      "phonetic": "/ˈkwɪbəl/",
+      "meaning": "사소한 것에 트집 잡다, 이의를 제기하다",
+      "example": "I wouldn't quibble over a dollar difference, but this charge is clearly wrong.",
+      "example_kr": "1달러 차이에 트집 잡고 싶진 않지만, 이 청구 금액은 명백히 잘못됐어요."
+    },
+    {
+      "word": "depreciate",
+      "phonetic": "/dɪˈpriːʃieɪt/",
+      "meaning": "(가치가) 감가상각되다, 하락하다",
+      "example": "Electronics depreciate quickly, so the resale value dropped a lot in just six months.",
+      "example_kr": "전자제품은 빠르게 가치가 떨어지기 때문에 6개월 만에 중고 가격이 많이 내려갔어요."
+    },
+    {
+      "word": "scrutinize",
+      "phonetic": "/ˈskruːtɪnaɪz/",
+      "meaning": "면밀히 검토하다, 꼼꼼히 살피다",
+      "example": "Always scrutinize your receipt before you leave the store to catch any errors.",
+      "example_kr": "오류를 잡기 위해 가게를 나서기 전에 항상 영수증을 꼼꼼히 확인하세요."
+    },
+    {
+      "word": "balk",
+      "phonetic": "/bɔːk/",
+      "meaning": "주저하다, 거부하다 (주로 가격·조건에 난색을 보일 때)",
+      "example": "Most customers balked at the restocking fee and asked if it could be waived.",
+      "example_kr": "대부분의 고객들은 재입고 수수료에 난색을 보이며 면제 가능한지 물었어요."
+    }
+  ]
+}
