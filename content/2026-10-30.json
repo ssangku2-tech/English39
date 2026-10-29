@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm running on empty.",
+      "meaning": "에너지가 완전히 바닥났다, 기력이 없다는 뜻의 구어 표현",
+      "example": "I'm running on empty — I barely slept last night and skipped breakfast.",
+      "example_kr": "완전히 기력이 바닥났어 — 어젯밤에 거의 못 잤고 아침도 굶었거든."
+    },
+    {
+      "pattern": "It's been rough.",
+      "meaning": "힘들었다, 쉽지 않았다는 뜻의 일상적인 표현",
+      "example": "A: How have you been feeling lately? B: Honestly, it's been rough. My back's been killing me.",
+      "example_kr": "A: 요즘 어때? B: 솔직히, 많이 힘들었어. 허리가 너무 아파서."
+    },
+    {
+      "pattern": "I'm not quite myself today.",
+      "meaning": "오늘 컨디션이 평소 같지 않다, 몸이나 기분이 이상하다는 뜻",
+      "example": "Sorry if I seem off — I'm not quite myself today. I think I overdid it at the gym yesterday.",
+      "example_kr": "내가 좀 이상해 보이면 미안해 — 오늘 평소 같지가 않아. 어제 헬스장에서 무리한 것 같아."
+    },
+    {
+      "pattern": "주어 + have/has + been + ~ing + way too much + without + ~ing",
+      "meaning": "~하지 않으면서 너무 과하게 ~해왔다는 뜻으로, 건강·습관 관련 상황에서 자주 쓰이는 패턴",
+      "example": "I've been working out way too much without stretching, and now my muscles are completely seized up.",
+      "example_kr": "스트레칭도 안 하고 너무 무리하게 운동을 해왔더니, 이제 근육이 완전히 굳어버렸어."
+    },
+    {
+      "pattern": "주어 + be동사 + not in any condition to + 동사원형",
+      "meaning": "~할 상태가 전혀 아니다, 몸이나 상황상 무언가를 할 수 없다는 것을 강조하는 패턴",
+      "example": "You're not in any condition to go back to training — you need at least another week of rest.",
+      "example_kr": "너 지금 다시 훈련하러 갈 상태가 전혀 아니야 — 최소 일주일은 더 쉬어야 해."
+    }
+  ],
+  "words": [
+    {
+      "word": "prone",
+      "phonetic": "/proʊn/",
+      "meaning": "~하기 쉬운, ~에 취약한 (to와 함께 씀)",
+      "example": "People who sit for long hours are prone to developing poor posture.",
+      "example_kr": "오랜 시간 앉아 있는 사람들은 자세가 나빠지기 쉬워."
+    },
+    {
+      "word": "dormant",
+      "phonetic": "/ˈdɔːrmənt/",
+      "meaning": "(근육·질환 등이) 잠복해 있는, 활동하지 않는",
+      "example": "The injury had been dormant for months, but it flared up again during the marathon.",
+      "example_kr": "부상이 몇 달 동안 잠잠해 있었는데, 마라톤 중에 다시 도졌어."
+    },
+    {
+      "word": "exert",
+      "phonetic": "/ɪɡˈzɜːrt/",
+      "meaning": "(힘·압력 등을) 가하다, 무리하게 쓰다",
+      "example": "Be careful not to exert too much pressure on that shoulder until it heals completely.",
+      "example_kr": "완전히 나을 때까지 그 어깨에 너무 무리한 힘을 가하지 않도록 조심해."
+    },
+    {
+      "word": "numb",
+      "phonetic": "/nʌm/",
+      "meaning": "감각이 없는, 저린",
+      "example": "My fingers went completely numb after gripping the cold weights for too long.",
+      "example_kr": "너무 오래 차가운 기구를 쥐고 있었더니 손가락이 완전히 감각이 없어졌어."
+    },
+    {
+      "word": "regimen",
+      "phonetic": "/ˈredʒɪmən/",
+      "meaning": "(건강·운동·식이) 요법, 루틴",
+      "example": "His doctor put him on a strict exercise regimen to help manage his blood pressure.",
+      "example_kr": "그의 의사가 혈압 관리를 위해 엄격한 운동 요법을 처방했어."
+    }
+  ]
+}
