@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Let's knock it out.",
+      "meaning": "(일을) 빨리 끝내버리자, 해치워버리자",
+      "example": "We only have two hours before the movers get here — let's knock it out.",
+      "example_kr": "이사짐센터 오기 전에 두 시간밖에 없어 — 빨리 해치워버리자."
+    },
+    {
+      "pattern": "It's holding up pretty well.",
+      "meaning": "(오래됐거나 사용했는데도) 꽤 잘 버티고 있다, 상태가 괜찮다",
+      "example": "The flooring is ten years old, but honestly it's holding up pretty well.",
+      "example_kr": "바닥재가 10년 됐는데, 솔직히 꽤 잘 버티고 있어."
+    },
+    {
+      "pattern": "I'll take a stab at it.",
+      "meaning": "한번 해볼게, 시도해볼게 (확신은 없지만)",
+      "example": "I've never patched drywall before, but I'll take a stab at it.",
+      "example_kr": "석고보드 메워본 적은 없는데, 한번 해볼게."
+    },
+    {
+      "pattern": "주어 + be동사 + thinking of having + 목적어 + 과거분사",
+      "meaning": "~을 (전문가 등에게) ~되게 할 생각이다 (외부에 맡기는 수동 사역)",
+      "example": "We're thinking of having the whole kitchen repainted before we list the house.",
+      "example_kr": "집 내놓기 전에 부엌 전체를 다시 칠할 생각이에요."
+    },
+    {
+      "pattern": "주어 + have/has + barely + 과거분사 + before + 주어 + 동사(과거)",
+      "meaning": "~하자마자 곧바로 …이 일어났다 (채 ~하기도 전에)",
+      "example": "We had barely unpacked before the landlord showed up asking about the deposit.",
+      "example_kr": "짐을 채 다 풀기도 전에 집주인이 보증금 얘기하러 나타났어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "sprout",
+      "phonetic": "/spraʊt/",
+      "meaning": "(문제·곰팡이 등이) 생겨나다, 돋아나다",
+      "example": "Mold started to sprout in the corner of the bathroom after the pipe leaked.",
+      "example_kr": "파이프가 새고 나서 화장실 모서리에 곰팡이가 생기기 시작했어."
+    },
+    {
+      "word": "rivet",
+      "phonetic": "/ˈrɪvɪt/",
+      "meaning": "리벳(금속 고정 핀); (주의를) 완전히 사로잡다",
+      "example": "I was completely riveted watching the contractor figure out why the beam was sagging.",
+      "example_kr": "기둥이 왜 처지는지 수리공이 알아내는 걸 보면서 완전히 빠져들었어."
+    },
+    {
+      "word": "clad",
+      "phonetic": "/klæd/",
+      "meaning": "(외벽 등이) ~로 덮인, 입혀진",
+      "example": "The exterior was clad in weathered cedar shingles that really needed replacing.",
+      "example_kr": "외벽은 낡은 삼나무 판자로 덮여 있어서 교체가 꼭 필요했어."
+    },
+    {
+      "word": "squeaky",
+      "phonetic": "/ˈskwiːki/",
+      "meaning": "삐걱거리는, 끽끽 소리 나는",
+      "example": "Every step on the squeaky staircase woke up the whole family at night.",
+      "example_kr": "삐걱거리는 계단을 밟을 때마다 밤에 온 가족이 다 깼어."
+    },
+    {
+      "word": "peel off",
+      "phonetic": "/piːl ɒf/",
+      "meaning": "(페인트·벽지 등이) 벗겨지다, 떼어내다",
+      "example": "The wallpaper in the hallway has started to peel off at the corners.",
+      "example_kr": "복도 벽지가 모서리 부분부터 벗겨지기 시작했어."
+    }
+  ]
+}
