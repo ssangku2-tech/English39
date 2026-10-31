@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can you hold that thought?",
+      "meaning": "잠깐 말 멈춰줄 수 있어? / 나중에 다시 얘기하자 (대화 중 잠시 멈춤을 요청할 때)",
+      "example": "Can you hold that thought? I need to take this call real quick.",
+      "example_kr": "잠깐만 기다려줄 수 있어? 전화 좀 빨리 받아야 해."
+    },
+    {
+      "pattern": "We're all squared up.",
+      "meaning": "계산 다 됐어 / 빚 없이 정리됐어 (금전적으로 깔끔하게 마무리됐을 때)",
+      "example": "Here's the last payment — we're all squared up now.",
+      "example_kr": "마지막 금액 여기 있어요 — 이제 다 정산됐네요."
+    },
+    {
+      "pattern": "I'll have to run that by someone.",
+      "meaning": "다른 사람한테 먼저 확인해봐야 해 (결정 전 상위자나 관계자에게 검토를 구할 때)",
+      "example": "That sounds reasonable, but I'll have to run that by my manager before I commit.",
+      "example_kr": "합리적으로 들리긴 한데, 확정 전에 매니저한테 먼저 확인해봐야 할 것 같아요."
+    },
+    {
+      "pattern": "주어 + be동사 + under no circumstances + to + 동사원형",
+      "meaning": "어떠한 경우에도 ~해서는 안 된다 (강한 금지·규정을 표현할 때)",
+      "example": "Guests are under no circumstances to access the server room without prior authorization.",
+      "example_kr": "어떠한 경우에도 사전 허가 없이 서버실에 출입해서는 안 됩니다."
+    },
+    {
+      "pattern": "주어 + have/has + the right to + 동사원형 + , provided (that) + 주어 + 동사",
+      "meaning": "~할 권리가 있다, 단 (조건)을 충족하는 경우에 한해 (조건부 권리나 자격을 설명할 때)",
+      "example": "You have the right to request a full refund, provided that you submit the claim within 30 days.",
+      "example_kr": "30일 이내에 청구서를 제출하는 경우에 한해 전액 환불을 요청할 권리가 있습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "redress",
+      "phonetic": "/rɪˈdrɛs/",
+      "meaning": "(피해·불만에 대한) 시정, 구제; 바로잡다",
+      "example": "If your shipment arrives damaged, you're entitled to seek redress from the carrier.",
+      "example_kr": "배송물이 파손된 채 도착하면 운송사에 시정을 요구할 권리가 있습니다."
+    },
+    {
+      "word": "ratify",
+      "phonetic": "/ˈræt̬əfaɪ/",
+      "meaning": "(계약·합의를) 비준하다, 공식 승인하다",
+      "example": "Both parties need to ratify the agreement before it becomes legally binding.",
+      "example_kr": "계약이 법적 효력을 갖기 전에 양측이 서명으로 승인해야 합니다."
+    },
+    {
+      "word": "disclaim",
+      "phonetic": "/dɪsˈkleɪm/",
+      "meaning": "(책임·권리를) 부인하다, 포기하다",
+      "example": "The company disclaims any liability for damages caused by improper use of the product.",
+      "example_kr": "회사는 제품 부적절 사용으로 인한 손해에 대해 일체의 책임을 부인합니다."
+    },
+    {
+      "word": "prorated",
+      "phonetic": "/ˈproʊreɪtɪd/",
+      "meaning": "(기간·사용량에 따라) 비례 배분된, 일할 계산된",
+      "example": "If you cancel mid-month, you'll only be charged a prorated amount for the days used.",
+      "example_kr": "월 중간에 해지하면 사용한 일수만큼 일할 계산된 금액만 청구됩니다."
+    },
+    {
+      "word": "enforceable",
+      "phonetic": "/ɪnˈfɔːrsəbəl/",
+      "meaning": "(법적으로) 강제 집행 가능한, 효력 있는",
+      "example": "Make sure the penalty clause is enforceable under local law before you sign.",
+      "example_kr": "서명 전에 위약금 조항이 현지법상 강제 집행 가능한지 확인하세요."
+    }
+  ]
+}
