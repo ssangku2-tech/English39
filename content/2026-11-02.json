@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "She really opened up to me.",
+      "meaning": "그녀가 나한테 마음을 열고 속얘기를 털어놓았어. 누군가 감정이나 개인적인 이야기를 솔직하게 나눌 때 쓰는 표현.",
+      "example": "I didn't expect it, but she really opened up to me about what she's been going through.",
+      "example_kr": "예상 못 했는데, 그녀가 자기가 겪고 있는 일에 대해 나한테 정말 마음을 열고 얘기해줬어."
+    },
+    {
+      "pattern": "He's hard to read.",
+      "meaning": "그 사람은 속을 알기가 어려워. 감정이나 의도를 파악하기 힘든 사람을 묘사할 때 쓰는 표현.",
+      "example": "I never know if he's upset or just quiet — he's really hard to read.",
+      "example_kr": "그 사람이 화가 난 건지 그냥 조용한 건지 모르겠어. 진짜 속을 알기가 어려워."
+    },
+    {
+      "pattern": "I didn't mean it that way.",
+      "meaning": "그런 뜻으로 한 말이 아니었어. 의도치 않게 상대방이 오해했을 때 해명하는 표현.",
+      "example": "Hey, I didn't mean it that way — I was just being honest, not critical.",
+      "example_kr": "야, 그런 뜻으로 한 말이 아니었어. 그냥 솔직하게 말한 거지, 비판하려던 게 아니었어."
+    },
+    {
+      "pattern": "주어 + be동사 + prone to + ~ing / 명사",
+      "meaning": "~하는 경향이 있다, ~에 취약하다. 어떤 행동이나 상황이 반복적으로 나타나는 성향을 설명할 때 쓰는 패턴.",
+      "example": "She's prone to overthinking things when she's under stress.",
+      "example_kr": "그녀는 스트레스를 받으면 지나치게 생각을 많이 하는 경향이 있어."
+    },
+    {
+      "pattern": "주어 + be동사 + known for + ~ing / 명사 + , which is why + 주어 + 동사",
+      "meaning": "~로 알려져 있는데, 그래서 ~한다. 어떤 성격이나 특성이 잘 알려져 있고 그것이 현재 상황의 이유가 됨을 연결할 때 쓰는 패턴.",
+      "example": "He's known for being brutally honest, which is why people always come to him for real advice.",
+      "example_kr": "그는 거침없이 솔직한 걸로 알려져 있어, 그래서 사람들이 진짜 조언이 필요할 때 항상 그를 찾는 거야."
+    }
+  ],
+  "words": [
+    {
+      "word": "sulky",
+      "phonetic": "/ˈsʌlki/",
+      "meaning": "뚱한, 삐진",
+      "example": "He's been sulky all morning because nobody remembered his birthday.",
+      "example_kr": "아무도 자기 생일을 기억 못 했다며 그는 아침 내내 뚱해 있었어."
+    },
+    {
+      "word": "self-aware",
+      "phonetic": "/ˌsɛlf əˈwɛr/",
+      "meaning": "자기 자신을 잘 이해하는, 자아인식이 있는",
+      "example": "She's incredibly self-aware — she knows exactly how her words affect others.",
+      "example_kr": "그녀는 자아인식이 정말 뛰어나서 자기 말이 다른 사람들에게 어떤 영향을 미치는지 정확히 알아."
+    },
+    {
+      "word": "blurt out",
+      "phonetic": "/blɜːrt aʊt/",
+      "meaning": "(생각 없이) 불쑥 말하다",
+      "example": "He blurted out her secret before realizing everyone was listening.",
+      "example_kr": "그는 모두가 듣고 있다는 걸 깨닫기 전에 그녀의 비밀을 불쑥 말해버렸어."
+    },
+    {
+      "word": "empathetic",
+      "phonetic": "/ˌɛmpəˈθɛtɪk/",
+      "meaning": "공감 능력이 있는, 감정이입을 잘 하는",
+      "example": "Being empathetic doesn't mean you have to fix everything — sometimes just listening is enough.",
+      "example_kr": "공감 능력이 있다는 게 모든 걸 해결해줘야 한다는 뜻은 아니야. 때로는 그냥 들어주는 것만으로도 충분해."
+    },
+    {
+      "word": "brush off",
+      "phonetic": "/brʌʃ ɒf/",
+      "meaning": "무시하다, 대수롭지 않게 넘기다",
+      "example": "She brushed off his apology like it meant nothing.",
+      "example_kr": "그녀는 그의 사과를 아무것도 아닌 것처럼 무시해버렸어."
+    }
+  ]
+}
