@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'll go halves with you.",
+      "meaning": "같이 반반 낼게. (비용을 나눌 때 쓰는 구어 표현)",
+      "example": "A: The bill came out to forty bucks. B: I'll go halves with you — here's twenty.",
+      "example_kr": "A: 계산서가 40달러 나왔어. B: 반반 내자 — 여기 20달러."
+    },
+    {
+      "pattern": "Can you put this on a separate ticket?",
+      "meaning": "따로 계산해 주실 수 있나요? (식당·카페에서 각자 결제 요청 시)",
+      "example": "We're not together, so can you put this on a separate ticket?",
+      "example_kr": "저희 같이 온 게 아니라서, 따로 계산해 주실 수 있나요?"
+    },
+    {
+      "pattern": "What's today's special?",
+      "meaning": "오늘의 특선 요리가 뭐예요? (메뉴판에 없는 오늘의 메뉴를 물을 때)",
+      "example": "Before I decide, let me ask — what's today's special?",
+      "example_kr": "결정하기 전에 여쭤볼게요 — 오늘의 특선이 뭔가요?"
+    },
+    {
+      "pattern": "주어 + be동사 + keen on + 명사/~ing",
+      "meaning": "~을 매우 좋아하다, ~에 열심이다 (강한 선호나 관심을 나타내는 패턴)",
+      "example": "I'm not that keen on spicy food, so do you have anything mild on the menu?",
+      "example_kr": "저는 매운 음식을 그다지 좋아하지 않아서요, 메뉴에 순한 게 있나요?"
+    },
+    {
+      "pattern": "주어 + have/has + yet to + 동사원형, even though + 주어 + 동사",
+      "meaning": "비록 ~임에도 불구하고 아직 ~하지 못했다 (기대와 현실의 간극을 표현)",
+      "example": "We've been here for twenty minutes and have yet to receive our order, even though the place isn't that busy.",
+      "example_kr": "저희가 여기 온 지 20분이 됐는데, 가게가 그렇게 바쁘지도 않은데 아직 주문을 못 받았어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "decant",
+      "phonetic": "/dɪˈkænt/",
+      "meaning": "(음료·와인을) 따르다, 옮겨 담다",
+      "example": "The sommelier decanted the red wine before bringing it to the table.",
+      "example_kr": "소믈리에가 와인을 테이블에 가져오기 전에 디캔터에 따랐다."
+    },
+    {
+      "word": "nibble",
+      "phonetic": "/ˈnɪbəl/",
+      "meaning": "조금씩 먹다, 가볍게 집어 먹다",
+      "example": "I wasn't that hungry, so I just nibbled on some bread while waiting for my friends.",
+      "example_kr": "그렇게 배가 고프지 않아서, 친구들을 기다리는 동안 빵을 조금씩 집어 먹었다."
+    },
+    {
+      "word": "sear",
+      "phonetic": "/sɪr/",
+      "meaning": "(고기를) 강한 불로 겉면을 빠르게 굽다",
+      "example": "The chef seared the steak on high heat to lock in the juices.",
+      "example_kr": "요리사는 육즙을 가두기 위해 강한 불에 스테이크 겉면을 빠르게 구웠다."
+    },
+    {
+      "word": "congeal",
+      "phonetic": "/kənˈdʒiːl/",
+      "meaning": "(음식·액체가) 굳다, 응고되다",
+      "example": "The gravy had congealed by the time the food arrived at the table.",
+      "example_kr": "음식이 테이블에 도착했을 때 그레이비 소스가 이미 굳어 있었다."
+    },
+    {
+      "word": "briny",
+      "phonetic": "/ˈbraɪni/",
+      "meaning": "짭조름한, 소금기 있는 (바닷물 같은 맛)",
+      "example": "The oysters had a pleasant briny flavor that paired perfectly with the lemon wedge.",
+      "example_kr": "굴은 기분 좋은 짭조름한 맛이 났고, 레몬 조각과 완벽하게 어울렸다."
+    }
+  ]
+}
