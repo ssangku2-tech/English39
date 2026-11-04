@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Is this included in the fare?",
+      "meaning": "요금에 이게 포함된 건가요? — 교통·숙박 등에서 추가 요금 여부를 확인할 때 쓰는 실용적인 구어 표현",
+      "example": "Excuse me, is this included in the fare, or do I need to pay extra for the checked bag?",
+      "example_kr": "실례합니다, 이게 요금에 포함된 건가요, 아니면 위탁 수하물은 따로 내야 하나요?"
+    },
+    {
+      "pattern": "We're a bit backed up at the moment.",
+      "meaning": "지금 좀 밀려 있어요 — 호텔·공항 체크인 카운터 등에서 직원이 대기 상황을 설명할 때 자주 쓰는 표현",
+      "example": "Sorry about the wait — we're a bit backed up at the moment, but someone will be right with you.",
+      "example_kr": "기다리게 해서 죄송합니다 — 지금 좀 밀려 있는데, 곧 직원이 가겠습니다."
+    },
+    {
+      "pattern": "You can't miss it.",
+      "meaning": "(길 찾을 때) 바로 보일 거예요, 못 찾을 수가 없어요 — 길 안내 후 목적지가 눈에 잘 띈다고 확신시켜 줄 때 쓰는 표현",
+      "example": "Turn left at the corner, and the hotel entrance is right there — you can't miss it.",
+      "example_kr": "코너에서 좌회전하면 호텔 입구가 바로 있어요 — 바로 보일 거예요."
+    },
+    {
+      "pattern": "주어 + be동사 + scheduled to + 동사원형 + at/on + 시간/날짜",
+      "meaning": "~하기로 예정되어 있다 — 항공편·예약·일정 등이 공식적으로 잡혀 있음을 나타내는 패턴",
+      "example": "Our flight is scheduled to depart at 6:40 a.m., so we should head to the gate by 5:30.",
+      "example_kr": "저희 항공편은 오전 6시 40분에 출발하기로 예정되어 있어서, 5시 30분까지는 게이트로 가야 해요."
+    },
+    {
+      "pattern": "주어 + have/has + the option of + ~ing + or + ~ing",
+      "meaning": "~하거나 ~하는 선택지가 있다 — 두 가지 선택 가능한 방법을 제시할 때 쓰는 패턴으로 have the option to와 달리 구체적 대안을 나란히 제시함",
+      "example": "You have the option of checking in online the night before or going straight to the kiosk at the airport.",
+      "example_kr": "전날 밤에 온라인으로 체크인하거나 공항 키오스크로 바로 가는 선택지가 있습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "aisle",
+      "phonetic": "/aɪl/",
+      "meaning": "(항공기·열차 등의) 통로 좌석 쪽, 통로",
+      "example": "She always prefers an aisle seat so she can get up without bothering anyone.",
+      "example_kr": "그녀는 항상 통로 좌석을 선호하는데, 그래야 남에게 불편을 주지 않고 일어날 수 있기 때문이다."
+    },
+    {
+      "word": "off the beaten path",
+      "phonetic": "/ɒf ðə ˈbiːtən pæθ/",
+      "meaning": "잘 알려지지 않은 곳에, 관광객이 덜 가는 곳에",
+      "example": "We wanted to go somewhere a little off the beaten path rather than the usual tourist spots.",
+      "example_kr": "흔한 관광지보다 좀 덜 알려진 곳으로 가고 싶었다."
+    },
+    {
+      "word": "deboarding",
+      "phonetic": "/diːˈbɔːrdɪŋ/",
+      "meaning": "(항공기·배 등에서) 내리기, 하기",
+      "example": "Deboarding took nearly forty minutes because the jet bridge was out of service.",
+      "example_kr": "탑승교가 고장 나서 내리는 데 거의 40분이 걸렸다."
+    },
+    {
+      "word": "porter",
+      "phonetic": "/ˈpɔːrtər/",
+      "meaning": "(공항·호텔의) 짐 운반원, 포터",
+      "example": "The porter helped us carry our luggage from the taxi all the way to the front desk.",
+      "example_kr": "포터가 택시에서 프런트까지 짐을 옮기는 것을 도와줬다."
+    },
+    {
+      "word": "complimentary",
+      "phonetic": "/ˌkɒmplɪˈmentəri/",
+      "meaning": "무료 제공의, 서비스로 드리는",
+      "example": "The hotel offered complimentary breakfast for guests staying more than two nights.",
+      "example_kr": "호텔은 2박 이상 투숙하는 투숙객에게 무료 조식을 제공했다."
+    }
+  ]
+}
