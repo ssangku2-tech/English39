@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's above my pay grade.",
+      "meaning": "그건 내 권한 밖이야 / 내가 결정할 수 있는 일이 아니야 (직장에서 자신의 담당 범위를 넘는 사안을 정중히 거절할 때)",
+      "example": "A: Can you approve the budget increase? B: Honestly, that's above my pay grade. You'll need to talk to the director.",
+      "example_kr": "A: 예산 증액을 승인해줄 수 있어요? B: 솔직히 그건 제 권한 밖이에요. 이사님께 말씀드려야 할 것 같아요."
+    },
+    {
+      "pattern": "Let's not get bogged down in the details.",
+      "meaning": "세부 사항에 너무 얽매이지 말자 (회의나 토론에서 본론을 놓치지 않도록 흐름을 잡을 때)",
+      "example": "Let's not get bogged down in the details right now — we can sort those out offline.",
+      "example_kr": "지금 당장 세부 사항에 너무 얽매이지 말죠 — 나중에 따로 정리할 수 있으니까요."
+    },
+    {
+      "pattern": "I'll run that by my manager.",
+      "meaning": "매니저한테 한번 확인해볼게요 (혼자 결정하기 어려운 사안을 상사에게 보고·검토받겠다고 할 때)",
+      "example": "That sounds reasonable, but I'll run that by my manager before we commit to anything.",
+      "example_kr": "합리적인 것 같긴 한데, 뭔가 확정하기 전에 매니저한테 먼저 확인해볼게요."
+    },
+    {
+      "pattern": "주어 + be동사 + inclined to + 동사원형 + , but + 주어 + want(s) to + 동사원형 + first",
+      "meaning": "~하고 싶긴 하지만, 먼저 ~하고 싶다 (어떤 행동에 기울어져 있으면서도 조건이나 절차를 먼저 챙기겠다고 말할 때)",
+      "example": "I'm inclined to approve the proposal, but I want to review the financials first.",
+      "example_kr": "제안을 승인하고 싶긴 한데, 먼저 재무 자료를 검토하고 싶어요."
+    },
+    {
+      "pattern": "주어 + have/has + 목적어 + wrapped up + by + 시간/기한",
+      "meaning": "~까지 ~을 마무리해 놓다 (업무·프로젝트 등을 특정 기한 안에 완료해 두겠다고 말할 때)",
+      "example": "We'll have everything wrapped up by end of day Thursday.",
+      "example_kr": "목요일 업무 종료 전까지 모든 것을 마무리해 놓을게요."
+    }
+  ],
+  "words": [
+    {
+      "word": "convey",
+      "phonetic": "/kənˈveɪ/",
+      "meaning": "(생각·감정 등을) 전달하다, 전하다",
+      "example": "Make sure your email conveys the urgency of the situation clearly.",
+      "example_kr": "이메일이 상황의 긴급성을 명확하게 전달하도록 하세요."
+    },
+    {
+      "word": "holdover",
+      "phonetic": "/ˈhoʊldˌoʊvər/",
+      "meaning": "이월된 것, 전임자로부터 남겨진 것 (또는 사람)",
+      "example": "Several agenda items are holdovers from last week's meeting.",
+      "example_kr": "안건 몇 가지는 지난주 회의에서 이월된 것들이다."
+    },
+    {
+      "word": "deftly",
+      "phonetic": "/ˈdeftli/",
+      "meaning": "능숙하게, 솜씨 좋게",
+      "example": "He deftly redirected the conversation when the client raised a sensitive issue.",
+      "example_kr": "고객이 민감한 문제를 꺼냈을 때 그는 능숙하게 대화의 방향을 돌렸다."
+    },
+    {
+      "word": "back-channel",
+      "phonetic": "/ˈbækˌtʃænəl/",
+      "meaning": "비공식 경로(를 통한); 뒤에서 조용히 소통하다",
+      "example": "Let me back-channel with the legal team before we put anything in writing.",
+      "example_kr": "문서로 뭔가를 남기기 전에 법무팀과 비공식적으로 먼저 얘기해 볼게요."
+    },
+    {
+      "word": "plug",
+      "phonetic": "/plʌɡ/",
+      "meaning": "홍보하다, 추천하다; (구멍을) 메우다",
+      "example": "He used the company newsletter to plug the new training program.",
+      "example_kr": "그는 사내 뉴스레터를 이용해 새 교육 프로그램을 홍보했다."
+    }
+  ]
+}
