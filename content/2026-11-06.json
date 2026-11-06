@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "You free later?",
+      "meaning": "나중에 시간 돼? / 약속 있어? — 친구·지인에게 가볍게 일정을 물어볼 때 쓰는 구어체 표현",
+      "example": "Hey, you free later? We could grab some food.",
+      "example_kr": "야, 나중에 시간 돼? 뭐 먹으러 갈 수도 있잖아."
+    },
+    {
+      "pattern": "I'll make it up to you.",
+      "meaning": "내가 보상해 줄게 / 나중에 갚을게 — 약속을 못 지키거나 미안한 상황에서 쓰는 표현",
+      "example": "I can't make it tonight, but I'll make it up to you, I promise.",
+      "example_kr": "오늘 밤 못 갈 것 같아, 근데 꼭 보상해 줄게, 약속해."
+    },
+    {
+      "pattern": "What have you been up to?",
+      "meaning": "요즘 어떻게 지냈어? / 뭐 하고 지냈어? — 오랜만에 만난 사람에게 근황을 묻는 자연스러운 인사",
+      "example": "It's been ages! What have you been up to?",
+      "example_kr": "정말 오랜만이다! 요즘 어떻게 지냈어?"
+    },
+    {
+      "pattern": "주어 + be동사 + thinking of + ~ing + , even though + 주어 + 동사",
+      "meaning": "비록 ~이지만 ~할 생각이다 — 상반된 상황을 인정하면서도 의도나 계획을 밝힐 때 쓰는 패턴",
+      "example": "I'm thinking of going out tonight, even though I have work early tomorrow.",
+      "example_kr": "내일 일찍 일이 있긴 하지만, 오늘 밤 나갈까 생각 중이야."
+    },
+    {
+      "pattern": "주어 + haven't + 과거분사 + in ages, so + 주어 + be동사 + really looking forward to + ~ing",
+      "meaning": "오랫동안 ~을 못 했는데, 그래서 ~가 정말 기대된다 — 오랜 공백 후의 기대감을 표현하는 패턴",
+      "example": "I haven't seen her in ages, so I'm really looking forward to catching up this weekend.",
+      "example_kr": "걔를 너무 오랫동안 못 봤는데, 이번 주말에 만나서 이야기 나누는 게 정말 기대돼."
+    }
+  ],
+  "words": [
+    {
+      "word": "dwell on",
+      "phonetic": "/dwel ɒn/",
+      "meaning": "~에 계속 집착하다, 오래 생각하다",
+      "example": "Try not to dwell on what happened — it's in the past.",
+      "example_kr": "일어난 일에 너무 집착하지 마 — 이미 지난 일이잖아."
+    },
+    {
+      "word": "vibe",
+      "phonetic": "/vaɪb/",
+      "meaning": "분위기, 느낌; (동사) 잘 맞다, 어울리다",
+      "example": "I really vibe with her — we have the same sense of humor.",
+      "example_kr": "나 걔랑 진짜 잘 맞아 — 유머 감각이 똑같거든."
+    },
+    {
+      "word": "squeamish",
+      "phonetic": "/ˈskwiːmɪʃ/",
+      "meaning": "(피·혐오스러운 것에) 역겨움을 쉽게 느끼는, 소심한",
+      "example": "Don't show him that scene — he's really squeamish about blood.",
+      "example_kr": "걔한테 그 장면 보여주지 마 — 피 보는 거 엄청 힘들어해."
+    },
+    {
+      "word": "chime in",
+      "phonetic": "/tʃaɪm ɪn/",
+      "meaning": "(대화에) 끼어들다, 한마디 거들다",
+      "example": "Sorry to chime in, but I think there's a better option.",
+      "example_kr": "끼어들어서 미안한데, 더 좋은 방법이 있을 것 같아."
+    },
+    {
+      "word": "overdue",
+      "phonetic": "/ˌoʊvərˈdjuː/",
+      "meaning": "진작 했어야 할, 기한이 지난",
+      "example": "This get-together is long overdue — we should've done this months ago.",
+      "example_kr": "이 모임은 진작에 했어야 했어 — 몇 달 전에 했어야 하는 거였잖아."
+    }
+  ]
+}
