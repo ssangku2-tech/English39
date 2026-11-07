@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Just ring it up separately.",
+      "meaning": "(계산할 때) 따로따로 계산해 주세요 — 계산대에서 항목을 분리해 달라고 요청할 때 쓰는 구어체 표현",
+      "example": "Could you just ring it up separately? I want to use a gift card for this one.",
+      "example_kr": "이건 따로 계산해 주실 수 있어요? 이 항목은 기프트카드로 내고 싶어서요."
+    },
+    {
+      "pattern": "Does that price include everything?",
+      "meaning": "그 가격에 다 포함된 건가요? — 세금, 배송비, 수수료 등이 최종 금액에 포함되는지 확인할 때 쓰는 실용적 표현",
+      "example": "Does that price include everything, or is there a handling fee on top?",
+      "example_kr": "그 가격에 다 포함된 건가요, 아니면 처리 수수료가 따로 붙나요?"
+    },
+    {
+      "pattern": "Can I get that price adjusted?",
+      "meaning": "가격 조정 받을 수 있을까요? — 세일이 늦게 적용됐거나 가격 차이가 생겼을 때 환불·조정을 요청하는 표현",
+      "example": "I bought this two days ago and now it's on sale. Can I get that price adjusted?",
+      "example_kr": "이틀 전에 샀는데 지금 세일 중이네요. 가격 조정 받을 수 있을까요?"
+    },
+    {
+      "pattern": "주어 + be동사 + entitled to + 명사/동사원형 + only if + 주어 + 동사",
+      "meaning": "~한 경우에만 ~할 자격/권리가 있다 — 환불·교환 등의 조건부 자격을 설명하거나 따질 때 쓰는 패턴",
+      "example": "You're entitled to a full refund only if you return the item within 30 days with the original receipt.",
+      "example_kr": "원래 영수증을 가지고 30일 이내에 반품하시는 경우에만 전액 환불을 받으실 수 있습니다."
+    },
+    {
+      "pattern": "주어 + have/has + been + 과거분사 + , so + 주어 + will need to + 동사원형 + before + 주어 + can + 동사원형",
+      "meaning": "~된 상태이기 때문에, ~하기 전에 ~해야 할 것이다 — 절차상 선행 조건을 설명할 때 쓰는 인과·순서 패턴",
+      "example": "Your return has been flagged for review, so you will need to speak with a manager before we can process the refund.",
+      "example_kr": "고객님의 반품 건이 검토 대상으로 표시되어서, 환불을 처리하기 전에 매니저와 먼저 얘기하셔야 할 거예요."
+    }
+  ],
+  "words": [
+    {
+      "word": "restickered",
+      "phonetic": "/ˌriːˈstɪkərd/",
+      "meaning": "(가격표가) 다시 붙여진",
+      "example": "The restickered price was higher than what was listed on the shelf.",
+      "example_kr": "다시 붙여진 가격표가 선반에 표시된 가격보다 높았다."
+    },
+    {
+      "word": "overridden",
+      "phonetic": "/ˌoʊvərˈrɪdən/",
+      "meaning": "(결정·규칙 등이) 무효화된, 번복된",
+      "example": "The system discount was overridden at checkout, so I got charged full price.",
+      "example_kr": "계산 시 시스템 할인이 무효 처리되어서 정가를 지불했다."
+    },
+    {
+      "word": "chargeback",
+      "phonetic": "/ˈtʃɑːrdʒbæk/",
+      "meaning": "(카드사를 통한) 결제 취소 청구",
+      "example": "She filed a chargeback with her bank after the seller refused to give a refund.",
+      "example_kr": "판매자가 환불을 거부하자 그녀는 은행에 결제 취소를 청구했다."
+    },
+    {
+      "word": "redeemable",
+      "phonetic": "/rɪˈdiːməbəl/",
+      "meaning": "(포인트·쿠폰 등이) 사용 가능한, 교환 가능한",
+      "example": "These reward points are redeemable for store credit or free shipping.",
+      "example_kr": "이 적립 포인트는 매장 크레딧이나 무료 배송으로 교환할 수 있습니다."
+    },
+    {
+      "word": "price discrepancy",
+      "phonetic": "/praɪs dɪˈskrɛpənsi/",
+      "meaning": "가격 불일치, 표시 가격과 실제 가격의 차이",
+      "example": "There was a price discrepancy between the tag and the register, so I asked for the lower price.",
+      "example_kr": "태그 가격과 계산기 가격이 달라서 더 낮은 가격으로 해달라고 요청했다."
+    }
+  ]
+}
