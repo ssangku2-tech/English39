@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'm not gonna push through it.",
+      "meaning": "억지로 버티거나 밀어붙이지 않겠다는 뜻. 몸이나 상황이 좋지 않을 때 무리하지 않겠다고 말할 때 씀.",
+      "example": "A: You should rest today. B: Yeah, I'm not gonna push through it. I'll just take the day off.",
+      "example_kr": "A: 오늘 쉬어야 해. B: 맞아, 억지로 버티지 않을 거야. 그냥 하루 쉴게."
+    },
+    {
+      "pattern": "I think I overdid it.",
+      "meaning": "운동이나 활동을 너무 심하게 해서 탈이 났다는 뉘앙스. 과하게 했다는 걸 인정할 때 씀.",
+      "example": "My legs are killing me. I think I overdid it at the gym yesterday.",
+      "example_kr": "다리가 너무 아파. 어제 헬스장에서 너무 무리한 것 같아."
+    },
+    {
+      "pattern": "It's been acting up.",
+      "meaning": "몸의 특정 부위나 기계 등이 말썽을 부리거나 이상 증상을 보인다는 표현.",
+      "example": "My knee has been acting up ever since I started running on concrete.",
+      "example_kr": "콘크리트 위에서 뛰기 시작한 이후로 무릎이 계속 말썽이야."
+    },
+    {
+      "pattern": "주어 + be동사 + incapable of + ~ing + because + 주어 + 동사",
+      "meaning": "특정 이유로 인해 무언가를 할 수 없는 상태임을 설명하는 패턴. 신체적·정신적 한계를 구체적 원인과 함께 표현할 때 씀.",
+      "example": "She's incapable of doing any heavy lifting because she just had back surgery.",
+      "example_kr": "그녀는 방금 허리 수술을 받았기 때문에 무거운 것을 전혀 들 수 없어."
+    },
+    {
+      "pattern": "The minute + 주어 + 동사, 주어 + 동사",
+      "meaning": "'~하는 순간 바로 …한다'는 즉각적 반응이나 연속 행동을 나타내는 패턴. 시간 조건절로 긴박감이나 습관을 표현할 때 씀.",
+      "example": "The minute I stop exercising regularly, my energy levels just crash.",
+      "example_kr": "규칙적으로 운동을 멈추는 순간, 내 에너지가 바로 바닥으로 떨어져."
+    }
+  ],
+  "words": [
+    {
+      "word": "flare-resistant",
+      "phonetic": "/ˈfleər rɪˌzɪstənt/",
+      "meaning": "증상이 악화되는 것을 억제하는, 재발 방지의",
+      "example": "The doctor recommended a flare-resistant diet to help manage her inflammation.",
+      "example_kr": "의사는 염증 관리를 위해 증상 악화를 억제하는 식단을 권장했다."
+    },
+    {
+      "word": "laceration",
+      "phonetic": "/ˌlæsəˈreɪʃən/",
+      "meaning": "(피부의) 열상, 찢긴 상처",
+      "example": "The nurse cleaned the laceration on his arm before applying the bandage.",
+      "example_kr": "간호사는 붕대를 감기 전에 그의 팔에 난 열상을 소독했다."
+    },
+    {
+      "word": "cardiovascular",
+      "phonetic": "/ˌkɑːrdiəʊˈvæskjʊlər/",
+      "meaning": "심혈관의, 심장과 혈관에 관련된",
+      "example": "Swimming is one of the best cardiovascular exercises for people with joint pain.",
+      "example_kr": "수영은 관절 통증이 있는 사람들에게 가장 좋은 심혈관 운동 중 하나다."
+    },
+    {
+      "word": "stiffness",
+      "phonetic": "/ˈstɪfnəs/",
+      "meaning": "(근육·관절의) 뻣뻣함, 경직",
+      "example": "Morning stiffness in your joints can be an early sign of arthritis.",
+      "example_kr": "아침에 관절이 뻣뻣한 것은 관절염의 초기 징후일 수 있다."
+    },
+    {
+      "word": "paced",
+      "phonetic": "/peɪst/",
+      "meaning": "적절한 속도로 조절된, 무리하지 않는",
+      "example": "The trainer designed a well-paced recovery program to prevent re-injury.",
+      "example_kr": "트레이너는 재부상을 방지하기 위해 적절한 속도로 조절된 회복 프로그램을 설계했다."
+    }
+  ]
+}
