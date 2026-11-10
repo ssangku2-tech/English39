@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "The place is a total disaster zone.",
+      "meaning": "집/공간이 완전히 엉망진창이라는 뜻의 구어체 표현. 어수선하거나 지저분한 상태를 과장해서 말할 때 씀.",
+      "example": "Don't judge me — the place is a total disaster zone right now. We just started renovating.",
+      "example_kr": "나 판단하지 마 — 지금 집이 완전 난리야. 막 리모델링 시작했거든."
+    },
+    {
+      "pattern": "We're way behind on ~.",
+      "meaning": "~이 많이 밀려 있다, 많이 뒤처져 있다는 뜻. 집수리나 집안일 등이 예정보다 늦어질 때 자주 씀.",
+      "example": "We're way behind on the bathroom renovation. The contractor hasn't even shown up yet.",
+      "example_kr": "욕실 공사가 엄청 밀렸어. 시공업자가 아직 나타나지도 않았거든."
+    },
+    {
+      "pattern": "Can you give me a ballpark figure?",
+      "meaning": "대략적인 견적이나 금액을 물을 때 쓰는 표현. 정확한 숫자가 아닌 대략적인 범위를 요청할 때.",
+      "example": "I know you haven't measured everything yet, but can you give me a ballpark figure for the flooring?",
+      "example_kr": "아직 다 재지 않으신 거 알지만, 바닥재 비용 대략 얼마나 될지 말씀해 주실 수 있나요?"
+    },
+    {
+      "pattern": "주어 + have/has + been + sitting + unused + for + 기간",
+      "meaning": "무언가가 오랫동안 사용되지 않은 채 방치되어 있었다는 것을 나타내는 패턴. 묵혀 둔 물건이나 공간을 묘사할 때 유용.",
+      "example": "That storage room has been sitting unused for three years. We should finally do something with it.",
+      "example_kr": "저 창고가 3년 동안 그냥 방치돼 있었어. 이제 뭔가 해야겠다."
+    },
+    {
+      "pattern": "주어 + be동사 + long overdue + for + 명사",
+      "meaning": "무언가가 진작에 했어야 하는데 많이 늦어진 상태임을 나타내는 패턴. 수리나 교체가 오랫동안 미뤄진 상황에 잘 맞음.",
+      "example": "This apartment is long overdue for a fresh coat of paint. The walls are starting to look really dingy.",
+      "example_kr": "이 아파트는 진작에 페인트를 새로 칠했어야 했어. 벽이 정말 칙칙해 보이기 시작했거든."
+    }
+  ],
+  "words": [
+    {
+      "word": "pry open",
+      "phonetic": "/praɪ ˈoʊpən/",
+      "meaning": "(힘을 줘서) 억지로 열다, 비틀어 열다",
+      "example": "He had to pry open the old window because the frame had swollen shut over the winter.",
+      "example_kr": "겨울 동안 창틀이 부풀어서 잠겨버려 억지로 비틀어 열어야 했다."
+    },
+    {
+      "word": "dilapidation",
+      "phonetic": "/dɪˌlæpɪˈdeɪʃən/",
+      "meaning": "(건물·시설의) 황폐, 노후화, 심각한 손상 상태",
+      "example": "The dilapidation of the old house made it hard to sell at a decent price.",
+      "example_kr": "그 낡은 집의 심각한 노후화 때문에 적정 가격에 팔기가 어려웠다."
+    },
+    {
+      "word": "shoddy",
+      "phonetic": "/ˈʃɒdi/",
+      "meaning": "(일·물건이) 엉터리인, 허술하게 만들어진",
+      "example": "The shoddy plumbing work caused a leak within a month of moving in.",
+      "example_kr": "엉터리 배관 공사 때문에 이사한 지 한 달 만에 물이 샜다."
+    },
+    {
+      "word": "clutter-free",
+      "phonetic": "/ˈklʌtər friː/",
+      "meaning": "어수선하지 않은, 정돈된, 군더더기 없이 깔끔한",
+      "example": "After the big cleanout, the garage finally felt clutter-free and functional.",
+      "example_kr": "대청소를 한 후 차고가 마침내 깔끔하고 쓸 만하게 느껴졌다."
+    },
+    {
+      "word": "putrefy",
+      "phonetic": "/ˈpjuːtrɪfaɪ/",
+      "meaning": "부패하다, 썩어서 악취를 풍기다",
+      "example": "Old food scraps had been left behind a cabinet and started to putrefy.",
+      "example_kr": "오래된 음식 찌꺼기가 캐비닛 뒤에 방치되어 썩기 시작했다."
+    }
+  ]
+}
