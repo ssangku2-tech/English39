@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can you bear with me for a second?",
+      "meaning": "잠깐만 기다려 달라고 정중하게 부탁할 때 쓰는 표현. 전화, 창구, 업무 중 어디서나 자연스럽게 쓰임.",
+      "example": "Can you bear with me for a second? I need to pull up your reservation.",
+      "example_kr": "잠깐만 기다려 주시겠어요? 예약 내역을 불러와야 해서요."
+    },
+    {
+      "pattern": "We'll have that taken care of right away.",
+      "meaning": "문제나 요청을 즉시 처리해 주겠다고 말할 때 쓰는 서비스·행정 상황의 표현.",
+      "example": "Oh, there's a double charge? We'll have that taken care of right away.",
+      "example_kr": "아, 중복 청구가 됐나요? 바로 처리해 드리겠습니다."
+    },
+    {
+      "pattern": "Just to follow up on that,",
+      "meaning": "이전에 나눈 대화나 요청 사항을 다시 확인하거나 이어갈 때 쓰는 표현.",
+      "example": "Just to follow up on that, did you ever get the signed copy of the lease?",
+      "example_kr": "아까 말씀드린 건 관련해서, 서명된 임대 계약서 받으셨나요?"
+    },
+    {
+      "pattern": "주어 + be동사 + going to need + 목적어 + 과거분사 + before + 주어 + can + 동사원형",
+      "meaning": "어떤 절차를 진행하기 전에 반드시 먼저 처리되어야 할 조건을 설명하는 패턴.",
+      "example": "This form is going to need to be notarized before we can process your application.",
+      "example_kr": "이 서류는 신청서를 처리하기 전에 공증을 받아야 합니다."
+    },
+    {
+      "pattern": "주어 + would have + 과거분사 + had + 주어 + known (that) + 주어 + 동사(과거)",
+      "meaning": "미리 알았더라면 다르게 행동했을 것이라는 가정법 과거완료 패턴. 후회나 아쉬움을 나타냄.",
+      "example": "I would have brought the original documents had I known that a copy wasn't acceptable.",
+      "example_kr": "사본이 안 된다는 걸 알았더라면 원본을 가져왔을 텐데요."
+    }
+  ],
+  "words": [
+    {
+      "word": "remit",
+      "phonetic": "/rɪˈmɪt/",
+      "meaning": "송금하다; (세금·요금 등을) 납부하다",
+      "example": "Please remit the full balance within 30 days of receiving this invoice.",
+      "example_kr": "이 청구서를 받은 날로부터 30일 이내에 전액을 납부해 주세요."
+    },
+    {
+      "word": "duly",
+      "phonetic": "/ˈdjuːli/",
+      "meaning": "적절히, 정식으로, 기한 내에",
+      "example": "Your application has been duly received and is under review.",
+      "example_kr": "귀하의 신청서는 정식으로 접수되었으며 검토 중입니다."
+    },
+    {
+      "word": "in arrears",
+      "phonetic": "/ɪn əˈrɪərz/",
+      "meaning": "연체 상태로, 미납으로",
+      "example": "Your account is two months in arrears, so access has been suspended.",
+      "example_kr": "귀하의 계정이 두 달째 연체 상태여서 이용이 중단되었습니다."
+    },
+    {
+      "word": "attest",
+      "phonetic": "/əˈtɛst/",
+      "meaning": "증명하다, 입증하다, (서명으로) 확인하다",
+      "example": "By signing here, you attest that all information provided is accurate.",
+      "example_kr": "여기에 서명함으로써 제공된 모든 정보가 정확함을 확인합니다."
+    },
+    {
+      "word": "follow up",
+      "phonetic": "/ˈfɒloʊ ʌp/",
+      "meaning": "후속 조치를 취하다, 확인차 연락하다",
+      "example": "I'll follow up with the landlord tomorrow if we don't hear back today.",
+      "example_kr": "오늘 답변이 없으면 내일 집주인에게 다시 연락할게요."
+    }
+  ]
+}
