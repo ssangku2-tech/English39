@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I hear you.",
+      "meaning": "상대방의 말이나 감정을 충분히 이해하고 공감한다는 뜻. 단순히 '들린다'는 뜻이 아니라 '무슨 말인지 알아, 공감해'라는 뉘앙스.",
+      "example": "A: I'm just so tired of being the only one making an effort. B: I hear you. That's really draining.",
+      "example_kr": "A: 나만 노력하는 것 같아서 너무 지쳐. B: 무슨 말인지 알아. 그거 정말 힘들지."
+    },
+    {
+      "pattern": "He's not easy to be around.",
+      "meaning": "함께 있으면 불편하거나 피곤한 사람을 묘사할 때 쓰는 표현. 직접적으로 나쁘다고 하지 않고 완곡하게 성격·태도를 평가함.",
+      "example": "A: What do you think of the new manager? B: Honestly? He's not easy to be around. He makes everyone nervous.",
+      "example_kr": "A: 새 매니저 어때? B: 솔직히? 같이 있으면 불편해. 다들 긴장하게 만들거든."
+    },
+    {
+      "pattern": "She really has her act together.",
+      "meaning": "어떤 사람이 자기 삶이나 일을 잘 정리하고 체계적으로 꾸려나간다는 의미의 칭찬 표현.",
+      "example": "A: Mia just got promoted and bought a house. B: Yeah, she really has her act together. I'm kind of jealous.",
+      "example_kr": "A: 미아가 승진도 하고 집도 샀대. B: 맞아, 걔는 정말 자기 관리가 철저해. 솔직히 좀 부럽다."
+    },
+    {
+      "pattern": "주어 + have/has + been + 형용사 + about + 명사/~ing",
+      "meaning": "어떤 감정이나 태도를 (어느 기간 동안) 지속적으로 느끼거나 유지해 왔음을 표현. 현재완료 진행 느낌으로 감정의 지속성을 강조.",
+      "example": "She's been really open about her struggles, which is why everyone trusts her so much.",
+      "example_kr": "그녀는 자신의 힘든 점들에 대해 정말 솔직하게 털어놓아 왔고, 그래서 모두가 그녀를 많이 신뢰해."
+    },
+    {
+      "pattern": "The last thing + 주어 + want(s) + is to + 동사원형",
+      "meaning": "'가장 하고 싶지 않은 것은 ~이다'라는 뜻으로, 특정 행동이나 결과를 절대 원하지 않음을 강조할 때 사용.",
+      "example": "The last thing I want is to make her feel like she's not good enough.",
+      "example_kr": "내가 가장 하고 싶지 않은 건 그녀가 자신이 부족하다는 느낌을 받게 만드는 거야."
+    }
+  ],
+  "words": [
+    {
+      "word": "unnerve",
+      "phonetic": "/ʌnˈnɜːrv/",
+      "meaning": "불안하게 만들다, 당황하게 하다",
+      "example": "His silence during the argument really unnerved me.",
+      "example_kr": "말다툼 중 그의 침묵이 나를 정말 불안하게 만들었다."
+    },
+    {
+      "word": "disposition",
+      "phonetic": "/ˌdɪspəˈzɪʃən/",
+      "meaning": "성향, 기질, 성품",
+      "example": "He has a cheerful disposition that makes him easy to be around.",
+      "example_kr": "그는 밝은 기질을 가지고 있어서 함께 있으면 편하다."
+    },
+    {
+      "word": "begrudge",
+      "phonetic": "/bɪˈɡrʌdʒ/",
+      "meaning": "시기하다, 아깝게 여기다, 못마땅하게 주다",
+      "example": "I don't begrudge her success — she worked incredibly hard for it.",
+      "example_kr": "나는 그녀의 성공을 시기하지 않아. 정말 열심히 노력했으니까."
+    },
+    {
+      "word": "perceptive",
+      "phonetic": "/pərˈsɛptɪv/",
+      "meaning": "통찰력 있는, 예리한, 눈치 빠른",
+      "example": "She's very perceptive — she noticed something was off before I even said a word.",
+      "example_kr": "그녀는 정말 눈치가 빨라. 내가 말 한마디 하기도 전에 뭔가 이상하다는 걸 알아챘어."
+    },
+    {
+      "word": "mull over",
+      "phonetic": "/mʌl ˈoʊvər/",
+      "meaning": "곰곰이 생각하다, 심사숙고하다",
+      "example": "I've been mulling over whether to confront him about it.",
+      "example_kr": "그 문제로 그를 직접 대면해야 할지 계속 곰곰이 생각해왔어."
+    }
+  ]
+}
