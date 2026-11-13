@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's what I was going for.",
+      "meaning": "내가 의도한 게 바로 그거야. / 딱 그걸 노렸어.",
+      "example": "A: This sauce has a really smoky, rich flavor. B: Yes! That's what I was going for.",
+      "example_kr": "A: 이 소스 진짜 스모키하고 풍부한 맛이 나네. B: 맞아! 내가 딱 그걸 노렸어."
+    },
+    {
+      "pattern": "Can we do something about ~?",
+      "meaning": "~에 대해 뭔가 조치를 취할 수 있을까요? / ~를 어떻게 해볼 수 있을까요?",
+      "example": "Excuse me, can we do something about the temperature in here? It's pretty cold.",
+      "example_kr": "저기요, 여기 온도를 좀 어떻게 해볼 수 있을까요? 꽤 춥네요."
+    },
+    {
+      "pattern": "I could really use ~.",
+      "meaning": "~가 정말 필요해 / ~가 있으면 정말 좋겠어.",
+      "example": "After that long meeting, I could really use a strong coffee right now.",
+      "example_kr": "그 긴 회의 끝에 지금 진한 커피 한 잔이 정말 필요해."
+    },
+    {
+      "pattern": "주어 + have/has + barely + 과거분사 + when + 주어 + 동사(과거)",
+      "meaning": "~하자마자 …했다 (거의 ~도 하기 전에 …했다는 뉘앙스)",
+      "example": "We had barely sat down when the waiter came over to take our order.",
+      "example_kr": "우리가 자리에 앉자마자 웨이터가 주문을 받으러 왔어."
+    },
+    {
+      "pattern": "주어 + be동사 + worth + 비교급 + than + 주어 + think(s)",
+      "meaning": "~가 생각보다 훨씬 가치 있다 / 더 ~하다",
+      "example": "Honestly, this place is worth more than I think. The quality of the food is incredible.",
+      "example_kr": "솔직히, 이 식당은 내가 생각했던 것보다 훨씬 가치가 있어. 음식 퀄리티가 엄청나."
+    }
+  ],
+  "words": [
+    {
+      "word": "simmer",
+      "phonetic": "/ˈsɪmər/",
+      "meaning": "(약한 불로) 뭉근히 끓이다; (감정이) 부글부글 끓다",
+      "example": "Let the soup simmer for about twenty minutes before serving.",
+      "example_kr": "수프를 내놓기 전에 약 20분 정도 약한 불로 뭉근히 끓이세요."
+    },
+    {
+      "word": "brim",
+      "phonetic": "/brɪm/",
+      "meaning": "가장자리, 테두리; 넘치다, 가득 차다",
+      "example": "The server filled my glass right to the brim, which made it hard to carry.",
+      "example_kr": "서버가 잔을 가장자리까지 꽉 채워서 들고 다니기가 힘들었어."
+    },
+    {
+      "word": "hearty",
+      "phonetic": "/ˈhɑːrti/",
+      "meaning": "(식사가) 든든한, 푸짐한; 활기찬, 진심 어린",
+      "example": "I was looking for something hearty after skipping lunch all day.",
+      "example_kr": "하루 종일 점심을 굶었더니 든든한 뭔가를 찾고 있었어."
+    },
+    {
+      "word": "lackluster",
+      "phonetic": "/ˈlækˌlʌstər/",
+      "meaning": "생기 없는, 흐릿한, 기대에 못 미치는",
+      "example": "The dessert was pretty lackluster compared to how good the main course was.",
+      "example_kr": "메인 요리가 얼마나 맛있었는지에 비해 디저트는 꽤 기대에 못 미쳤어."
+    },
+    {
+      "word": "restock",
+      "phonetic": "/ˌriːˈstɑːk/",
+      "meaning": "(재고를) 다시 채우다, 보충하다",
+      "example": "The café had to restock its almond milk because they ran out before noon.",
+      "example_kr": "카페가 정오도 되기 전에 아몬드 밀크가 떨어져서 다시 보충해야 했다."
+    }
+  ]
+}
