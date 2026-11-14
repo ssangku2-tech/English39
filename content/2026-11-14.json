@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "It's just around the corner.",
+      "meaning": "바로 근처에 있어요 / 코앞이에요 (장소가 가깝다는 뜻, 혹은 무언가가 곧 온다는 뜻으로도 씀)",
+      "example": "A: Excuse me, is the subway station far from here? B: Not at all — it's just around the corner. Take a left and you'll see it.",
+      "example_kr": "A: 실례합니다, 지하철역이 여기서 먼가요? B: 전혀요 — 바로 코앞이에요. 왼쪽으로 꺾으면 보일 거예요."
+    },
+    {
+      "pattern": "We're all booked up.",
+      "meaning": "예약이 꽉 찼어요 (호텔·식당·항공 등에서 자리가 없을 때 쓰는 표현)",
+      "example": "I tried to get a room for the weekend, but the front desk said they're all booked up through Sunday.",
+      "example_kr": "주말에 방을 잡으려고 했는데, 프런트에서 일요일까지 예약이 꽉 찼다고 하더라고."
+    },
+    {
+      "pattern": "Can you throw that in?",
+      "meaning": "그것도 (서비스로·덤으로) 넣어 줄 수 있어요? (가격 협상이나 추가 혜택을 부탁할 때 쓰는 표현)",
+      "example": "If I book three nights, can you throw in breakfast? It would really sweeten the deal.",
+      "example_kr": "3박을 예약하면 아침 식사도 포함해 줄 수 있나요? 그러면 훨씬 좋을 것 같아서요."
+    },
+    {
+      "pattern": "주어 + have/has + had + 목적어 + 과거분사 + since + 주어 + 동사(과거)",
+      "meaning": "'~한 이후로 계속 ~을 (남이/서비스로) …된 상태로 두고 있다/처리하게 했다'는 뜻으로, 완료 사역의 지속을 나타냄",
+      "example": "I've had my luggage stored at the front desk since I checked out this morning, so I still need to pick it up.",
+      "example_kr": "오늘 아침 체크아웃한 이후로 짐을 프런트에 맡겨 놔서, 아직 찾아야 해요."
+    },
+    {
+      "pattern": "주어 + be동사 + subject to + 명사 + depending on + 명사/wh-절",
+      "meaning": "'~에 따라 …의 적용을 받을 수 있다'는 뜻으로, 조건부 규정·수수료·변경 가능성을 설명할 때 쓰는 패턴",
+      "example": "Your booking is subject to cancellation fees depending on how far in advance you cancel.",
+      "example_kr": "예약은 얼마나 미리 취소하느냐에 따라 취소 수수료가 부과될 수 있습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "disembark",
+      "phonetic": "/ˌdɪsɪmˈbɑːrk/",
+      "meaning": "(비행기·배·버스에서) 내리다",
+      "example": "Passengers are requested to remain seated until the aircraft has come to a complete stop before they disembark.",
+      "example_kr": "항공기가 완전히 멈출 때까지 착석하신 후 내려 주시기 바랍니다."
+    },
+    {
+      "word": "trek",
+      "phonetic": "/trɛk/",
+      "meaning": "힘든 여정을 가다; (명사) 긴 힘든 여정",
+      "example": "It's quite a trek from the terminal to baggage claim — I'd recommend taking the moving walkway.",
+      "example_kr": "터미널에서 수하물 찾는 곳까지 꽤 먼 거리예요 — 무빙워크를 타시는 걸 추천해요."
+    },
+    {
+      "word": "scout out",
+      "phonetic": "/skaʊt aʊt/",
+      "meaning": "(구동사) 미리 살펴보다, 답사하다",
+      "example": "We spent the first afternoon just scouting out the neighborhood to find good local spots to eat.",
+      "example_kr": "도착 첫날 오후에는 동네를 돌아다니며 괜찮은 로컬 식당들을 미리 파악했어요."
+    },
+    {
+      "word": "roundabout",
+      "phonetic": "/ˈraʊndəbaʊt/",
+      "meaning": "(형용사) 돌아가는, 우회하는; (명사) 로터리, 회전 교차로",
+      "example": "Take the roundabout exit toward the city center — it looks confusing but just follow the signs.",
+      "example_kr": "로터리에서 시내 방향 출구로 나가세요 — 복잡해 보이지만 표지판만 따라가면 돼요."
+    },
+    {
+      "word": "jet-lagged",
+      "phonetic": "/ˈdʒɛtlægd/",
+      "meaning": "시차로 피곤한, 시차증에 시달리는",
+      "example": "I'm still pretty jet-lagged — I woke up at 3 a.m. and couldn't fall back asleep.",
+      "example_kr": "아직도 시차 때문에 많이 힘들어요 — 새벽 3시에 깨서 다시 잠을 못 잤거든요."
+    }
+  ]
+}
