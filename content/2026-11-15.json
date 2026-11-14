@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's not my call.",
+      "meaning": "그건 내가 결정할 사항이 아니에요. / 내 권한 밖이에요.",
+      "example": "A: Can we extend the deadline by a week? B: That's not my call — you'd need to check with the director.",
+      "example_kr": "A: 마감을 일주일 연장할 수 있을까요? B: 그건 제가 결정할 사항이 아니에요 — 디렉터에게 확인해 보셔야 해요."
+    },
+    {
+      "pattern": "Let's hash this out.",
+      "meaning": "이 문제를 제대로 짚고 넘어가자. / 함께 풀어보자.",
+      "example": "We've been going back and forth on the budget. Can we just get in a room and hash this out?",
+      "example_kr": "예산 문제로 계속 왔다 갔다 하고 있잖아요. 그냥 한 자리에 모여서 확실히 짚고 넘어가면 어떨까요?"
+    },
+    {
+      "pattern": "I'll run with it.",
+      "meaning": "제가 그걸 맡아서 진행할게요. / 그대로 밀고 나갈게요.",
+      "example": "A: Here's a rough draft of the proposal. B: This looks solid. I'll run with it and send it out by Friday.",
+      "example_kr": "A: 제안서 초안이에요. B: 괜찮아 보이네요. 제가 이걸 가지고 금요일까지 보내드릴게요."
+    },
+    {
+      "pattern": "주어 + have/has + been + 과거분사 + on the grounds that + 주어 + 동사",
+      "meaning": "'~라는 이유로 ~되었다'는 뜻으로, 결정·거절·승인 등의 근거를 설명할 때 쓰는 패턴.",
+      "example": "The request has been denied on the grounds that the budget for this quarter has already been fully allocated.",
+      "example_kr": "이번 분기 예산이 이미 전부 배정되었다는 이유로 해당 요청이 거절되었습니다."
+    },
+    {
+      "pattern": "주어 + be동사 + cc'd / looped in + so that + 주어 + can + 동사원형",
+      "meaning": "'~가 알 수 있도록 참조/공유된다'는 뜻으로, 업무 커뮤니케이션에서 정보 공유 목적을 밝힐 때 쓰는 패턴.",
+      "example": "I've made sure the legal team is looped in so that they can flag any compliance issues before we finalize the contract.",
+      "example_kr": "계약을 마무리하기 전에 법무팀이 컴플라이언스 문제를 짚어낼 수 있도록 공유해 두었습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "deferential",
+      "phonetic": "/ˌdɛfəˈrɛnʃəl/",
+      "meaning": "공손한, 경의를 표하는 (특히 윗사람에게)",
+      "example": "His deferential tone during the board meeting made a good impression on the executives.",
+      "example_kr": "이사회 회의에서 그의 공손한 태도는 임원들에게 좋은 인상을 남겼습니다."
+    },
+    {
+      "word": "plug away",
+      "phonetic": "/plʌɡ əˈweɪ/",
+      "meaning": "꾸준히 계속하다, 묵묵히 밀고 나가다",
+      "example": "We've hit a few obstacles, but the team keeps plugging away at the project.",
+      "example_kr": "몇 가지 장애물이 있었지만, 팀은 프로젝트를 묵묵히 계속 밀고 나가고 있습니다."
+    },
+    {
+      "word": "reciprocal",
+      "phonetic": "/rɪˈsɪprəkəl/",
+      "meaning": "상호적인, 서로 주고받는",
+      "example": "The two companies signed a reciprocal agreement to share research data.",
+      "example_kr": "두 회사는 연구 데이터를 공유하는 상호 협정에 서명했습니다."
+    },
+    {
+      "word": "verbatim",
+      "phonetic": "/vɜːrˈbeɪtɪm/",
+      "meaning": "한 마디도 빠짐없이, 그대로, 축어적으로",
+      "example": "Please quote the client's feedback verbatim in your report so nothing gets lost in translation.",
+      "example_kr": "보고서에 고객의 피드백을 그대로 인용해 주세요. 뉘앙스가 빠지면 안 되니까요."
+    },
+    {
+      "word": "jot down",
+      "phonetic": "/dʒɒt daʊn/",
+      "meaning": "메모하다, 간단히 적어두다",
+      "example": "Let me jot down the action items from this meeting before I forget.",
+      "example_kr": "잊어버리기 전에 이번 회의 액션 아이템을 메모해 두겠습니다."
+    }
+  ]
+}
