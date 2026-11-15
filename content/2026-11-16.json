@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "I'll take a raincheck.",
+      "meaning": "다음에 하자고 미루다 / 지금은 못 가지만 나중에 하고 싶다는 의사 표현",
+      "example": "A: Hey, we're all heading to the rooftop bar tonight. You in? B: Ah, I'm wiped out. I'll take a raincheck — next time for sure!",
+      "example_kr": "A: 야, 우리 오늘 밤 옥상 바 가는데. 올 거야? B: 아, 너무 지쳐서. 다음에 하자 — 다음엔 꼭!"
+    },
+    {
+      "pattern": "You had me at hello.",
+      "meaning": "처음 말 한마디에 이미 마음이 넘어갔다 / 첫 순간부터 완전히 사로잡혔다는 표현",
+      "example": "A: So what made you agree to come camping with us? B: Honestly? You had me at 'unlimited s'mores.'",
+      "example_kr": "A: 그래서 왜 우리랑 캠핑 가기로 한 거야? B: 솔직히? '마시멜로 무제한'이라는 말 한마디에 넘어갔지."
+    },
+    {
+      "pattern": "We're way overdue for a catch-up.",
+      "meaning": "오랫동안 연락을 못 했으니 만나서 얘기를 나눠야 한다는 뜻 / 오래 본 적 없는 사람에게 쓰는 표현",
+      "example": "A: I literally haven't seen you since the holidays! B: I know, we're way overdue for a catch-up. Let's grab lunch this week.",
+      "example_kr": "A: 명절 이후로 진짜 한 번도 못 봤다! B: 그러게, 우리 너무 오래 연락을 못 했어. 이번 주에 점심이나 먹자."
+    },
+    {
+      "pattern": "주어 + have/has + been + trying + to + 동사원형 + , only to end up + ~ing",
+      "meaning": "~하려고 계속 노력했지만 결국 …하게 되다 / 기대와 다른 결과에 대한 아쉬움을 표현",
+      "example": "I've been trying to get there on time, only to end up stuck in traffic every single time.",
+      "example_kr": "제때 도착하려고 계속 노력했는데, 결국 매번 교통 체증에 걸리고 말더라고."
+    },
+    {
+      "pattern": "What do you say we + 동사원형?",
+      "meaning": "~하는 게 어때? / 상대방에게 제안할 때 쓰는 구어체 표현으로 'How about'보다 더 친근하고 자연스러운 뉘앙스",
+      "example": "A: I don't know what to do this weekend. B: What do you say we just drive up to the lake and chill for a bit?",
+      "example_kr": "A: 이번 주말에 뭘 할지 모르겠어. B: 그냥 호수까지 드라이브하고 좀 쉬는 게 어때?"
+    }
+  ],
+  "words": [
+    {
+      "word": "rally",
+      "phonetic": "/ˈræli/",
+      "meaning": "기운을 되찾다, (사람들을) 한데 모으다",
+      "example": "She rallied everyone together and got the whole group to actually show up.",
+      "example_kr": "그녀가 모두를 한데 모아서 그룹 전체가 진짜로 나타나게 만들었어."
+    },
+    {
+      "word": "low-key",
+      "phonetic": "/ˌloʊ ˈkiː/",
+      "meaning": "조용한, 부담 없는; (부사적) 사실 은근히",
+      "example": "Let's keep tonight low-key — just a few people at my place.",
+      "example_kr": "오늘 밤은 부담 없이 하자 — 그냥 우리 집에서 소수만."
+    },
+    {
+      "word": "chip in",
+      "phonetic": "/tʃɪp ɪn/",
+      "meaning": "(돈·의견을) 보태다, 같이 내다",
+      "example": "Everyone chipped in for the birthday cake and it turned out really nice.",
+      "example_kr": "다들 생일 케이크 값을 같이 냈고, 결과물이 정말 멋졌어."
+    },
+    {
+      "word": "bubbly",
+      "phonetic": "/ˈbʌbli/",
+      "meaning": "활기차고 명랑한, 쾌활한",
+      "example": "Her bubbly personality makes every gathering feel so much warmer.",
+      "example_kr": "그녀의 명랑한 성격 덕분에 모든 모임이 훨씬 따뜻하게 느껴져."
+    },
+    {
+      "word": "earnest",
+      "phonetic": "/ˈɜːrnɪst/",
+      "meaning": "진지한, 성실한, 진심 어린",
+      "example": "When she said she missed you, she was completely earnest about it.",
+      "example_kr": "그녀가 보고 싶었다고 했을 때, 완전히 진심이었어."
+    }
+  ]
+}
