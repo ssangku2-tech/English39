@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Is there any chance I could get a refund?",
+      "meaning": "환불을 받을 수 있는지 정중하게 물어볼 때 쓰는 표현. 직접적이지 않고 가능성을 묻는 뉘앙스.",
+      "example": "Is there any chance I could get a refund? I only used it once and it's already broken.",
+      "example_kr": "혹시 환불받을 수 있을까요? 한 번밖에 안 썼는데 벌써 망가졌어요."
+    },
+    {
+      "pattern": "I'll just go ahead and return it.",
+      "meaning": "망설임 없이 그냥 반품하겠다는 결정을 가볍게 말할 때 쓰는 표현.",
+      "example": "It doesn't really fit me, so I'll just go ahead and return it.",
+      "example_kr": "저한테 잘 안 맞아서 그냥 반품할게요."
+    },
+    {
+      "pattern": "Does this come with a warranty?",
+      "meaning": "제품에 보증이 포함되어 있는지 물어볼 때 쓰는 실용적인 구어체 표현.",
+      "example": "Before I buy it, does this come with a warranty? I want to make sure I'm covered.",
+      "example_kr": "사기 전에, 이거 보증이 있나요? 보장이 되는지 확인하고 싶어서요."
+    },
+    {
+      "pattern": "주어 + have/has + been + 과거분사 + , so + 주어 + be동사 + no longer + eligible for + 명사",
+      "meaning": "어떤 상태 변화가 완료되었기 때문에 더 이상 ~을 받을 자격이 없다는 것을 설명하는 패턴. 환불·교환 거절 상황 등에 자주 쓰임.",
+      "example": "The item has been opened, so you're no longer eligible for a full refund.",
+      "example_kr": "상품이 개봉되었기 때문에 더 이상 전액 환불을 받으실 수 없습니다."
+    },
+    {
+      "pattern": "주어 + would like to + 동사원형 + rather than + 동사ing + , if that's possible",
+      "meaning": "가능하다면 ~하는 것보다 ~하고 싶다는 의사를 부드럽게 전달하는 패턴. 교환·환불 선택 등의 상황에서 자신의 선호를 정중하게 표현할 때 유용.",
+      "example": "I would like to get a store credit rather than waiting for a refund, if that's possible.",
+      "example_kr": "가능하다면 환불을 기다리는 것보다 매장 적립금으로 받고 싶어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "docket",
+      "phonetic": "/ˈdɒkɪt/",
+      "meaning": "영수증, 거래 명세서 (특히 호주·영국 구어체)",
+      "example": "Could I get a docket for this purchase? I might need it for the return.",
+      "example_kr": "이 구매에 대한 영수증을 받을 수 있을까요? 반품할 때 필요할 수도 있어서요."
+    },
+    {
+      "word": "shrink-wrapped",
+      "phonetic": "/ˈʃrɪŋk ræpt/",
+      "meaning": "수축 포장된, 비닐 밀봉된",
+      "example": "The product was still shrink-wrapped, so it should qualify for a full refund.",
+      "example_kr": "제품이 아직 비닐 밀봉 상태였으므로 전액 환불 대상이 되어야 해요."
+    },
+    {
+      "word": "overcharged",
+      "phonetic": "/ˌoʊvərˈtʃɑːrdʒd/",
+      "meaning": "과다 청구된",
+      "example": "I think I was overcharged — the receipt doesn't match the price on the shelf.",
+      "example_kr": "과다 청구된 것 같아요 — 영수증이 선반의 가격이랑 맞지 않아요."
+    },
+    {
+      "word": "bulk-buy",
+      "phonetic": "/ˈbʌlk baɪ/",
+      "meaning": "대량 구매(하다)",
+      "example": "It's cheaper to bulk-buy cleaning supplies at this store.",
+      "example_kr": "이 가게에서 청소용품을 대량 구매하는 게 더 저렴해요."
+    },
+    {
+      "word": "conspicuous",
+      "phonetic": "/kənˈspɪkjuəs/",
+      "meaning": "눈에 띄는, 뚜렷한",
+      "example": "The scratch was conspicuous enough to justify a discount.",
+      "example_kr": "그 흠집은 눈에 띌 만큼 뚜렷해서 할인을 요청할 이유가 충분했어요."
+    }
+  ]
+}
