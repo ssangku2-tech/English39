@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "You should get that looked at.",
+      "meaning": "그거 (병원에서) 진찰받아봐야겠다 — 상대방의 증상이나 부상이 걱정될 때 자연스럽게 쓰는 말",
+      "example": "That bruise has been there for a week? You should get that looked at.",
+      "example_kr": "그 멍이 일주일째 있다고? 병원 가서 진찰받아봐야겠다."
+    },
+    {
+      "pattern": "I'm not at a hundred percent.",
+      "meaning": "몸 상태가 완전하지 않다, 컨디션이 썩 좋지 않다는 뜻의 구어적 표현",
+      "example": "I'll still come to practice, but I'm not at a hundred percent right now.",
+      "example_kr": "연습에는 나가긴 할건데, 지금 몸 상태가 완전하진 않아."
+    },
+    {
+      "pattern": "It's starting to catch up with me.",
+      "meaning": "무리했던 것들이 이제야 몸(또는 나)에 영향을 미치기 시작했다는 표현",
+      "example": "I haven't slept more than five hours all week, and it's starting to catch up with me.",
+      "example_kr": "일주일 내내 다섯 시간도 못 잤더니, 이제 슬슬 몸에 무리가 오기 시작하는 것 같아."
+    },
+    {
+      "pattern": "주어 + have/has + been + 형용사/~ing + on and off + for + 기간",
+      "meaning": "증상이나 상태가 일정 기간 동안 왔다 갔다 반복되어 왔음을 나타내는 패턴",
+      "example": "My knee has been sore on and off for about three weeks now.",
+      "example_kr": "무릎이 한 3주째 계속 왔다 갔다 아프네요."
+    },
+    {
+      "pattern": "The last thing + 주어 + want(s) + is to + 동사원형, especially when + 주어 + 동사",
+      "meaning": "특정 상황에서 가장 하기 싫은 일을 강조할 때 쓰는 패턴",
+      "example": "The last thing I want is to push too hard, especially when my body is still recovering.",
+      "example_kr": "특히 몸이 아직 회복 중일 때 너무 무리하는 건 정말 하고 싶지 않아."
+    }
+  ],
+  "words": [
+    {
+      "word": "swell up",
+      "phonetic": "/swɛl ʌp/",
+      "meaning": "(부위가) 부어오르다",
+      "example": "My ankle started to swell up right after I twisted it on the court.",
+      "example_kr": "코트에서 발목을 삐고 나서 바로 부어오르기 시작했어."
+    },
+    {
+      "word": "jittery",
+      "phonetic": "/ˈdʒɪtəri/",
+      "meaning": "초조한, 안절부절못하는; (약 부작용 등으로) 몸이 떨리는",
+      "example": "That cold medicine made me feel really jittery and I couldn't focus.",
+      "example_kr": "그 감기약 먹었더니 몸이 떨리고 집중을 전혀 못 하겠더라고."
+    },
+    {
+      "word": "regain",
+      "phonetic": "/rɪˈɡeɪn/",
+      "meaning": "(체력·건강 등을) 되찾다, 회복하다",
+      "example": "It took him almost two months to fully regain his strength after surgery.",
+      "example_kr": "수술 후에 체력을 완전히 되찾는 데 거의 두 달이 걸렸어."
+    },
+    {
+      "word": "strenuous",
+      "phonetic": "/ˈstrɛnjuəs/",
+      "meaning": "(운동·활동이) 격렬한, 힘이 많이 드는",
+      "example": "Avoid any strenuous activity for at least a week after the procedure.",
+      "example_kr": "시술 후 최소 일주일은 격렬한 활동을 피하세요."
+    },
+    {
+      "word": "prescribed",
+      "phonetic": "/prɪˈskraɪbd/",
+      "meaning": "처방된, 처방받은",
+      "example": "Make sure you finish all the prescribed medication even if you feel better.",
+      "example_kr": "몸이 나아진 것 같아도 처방받은 약은 끝까지 다 먹어야 해."
+    }
+  ]
+}
