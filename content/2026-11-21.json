@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can you throw in a little something extra?",
+      "meaning": "뭔가 추가로 더 얹어줄 수 있어요? — 협상이나 거래 시 덤이나 혜택을 요청할 때 쓰는 구어체 표현",
+      "example": "I'm buying three items — can you throw in a little something extra, like free shipping?",
+      "example_kr": "세 개 사는 건데, 무료 배송 같은 거 좀 더 얹어주실 수 있어요?"
+    },
+    {
+      "pattern": "I'll need a moment to look that over.",
+      "meaning": "잠깐 살펴볼 시간이 필요해요 — 계약서나 서류를 검토할 때 자연스럽게 쓰는 표현",
+      "example": "Before I sign anything, I'll need a moment to look that over.",
+      "example_kr": "서명하기 전에 잠깐 살펴볼 시간이 필요해요."
+    },
+    {
+      "pattern": "Where do I go from here?",
+      "meaning": "이제 어떻게 하면 되죠? / 다음 단계가 뭔가요? — 행정 절차나 낯선 상황에서 다음 순서를 물을 때",
+      "example": "I've submitted the form. Where do I go from here?",
+      "example_kr": "서류는 제출했는데요, 이제 어떻게 하면 되죠?"
+    },
+    {
+      "pattern": "주어 + have/has + been + 과거분사 + only to + 동사원형",
+      "meaning": "~되었지만 결국 …하게 되다 — 기대와 다른 결과가 나왔을 때 아이러니한 상황을 표현하는 패턴",
+      "example": "My reservation has been confirmed only to find out the room was already given to someone else.",
+      "example_kr": "예약이 확정됐는데 알고 보니 방이 이미 다른 사람한테 넘어가 있었어요."
+    },
+    {
+      "pattern": "주어 + be동사 + supposed to + 동사원형 + , but + 주어 + have/has + yet to + 동사원형",
+      "meaning": "~하기로 되어 있었는데 아직 …하지 않은 상태다 — 처리가 지연되거나 약속이 이행되지 않았을 때 쓰는 패턴",
+      "example": "The refund is supposed to arrive within five business days, but I have yet to receive anything.",
+      "example_kr": "환불이 영업일 기준 5일 이내에 도착하기로 되어 있었는데, 아직 아무것도 받지 못했어요."
+    }
+  ],
+  "words": [
+    {
+      "word": "stipulation",
+      "phonetic": "/ˌstɪp.jʊˈleɪ.ʃən/",
+      "meaning": "(계약·합의의) 조건, 규정",
+      "example": "There's a stipulation in the contract that you must give 30 days' notice before canceling.",
+      "example_kr": "계약서에 해지 30일 전에 통보해야 한다는 조건이 있어요."
+    },
+    {
+      "word": "turnaround time",
+      "phonetic": "/ˈtɜːr.nəˌraʊnd taɪm/",
+      "meaning": "처리 소요 시간, 작업 완료까지 걸리는 시간",
+      "example": "What's the turnaround time for processing a visa application here?",
+      "example_kr": "여기서 비자 신청을 처리하는 데 얼마나 걸리나요?"
+    },
+    {
+      "word": "backlog",
+      "phonetic": "/ˈbæk.lɒɡ/",
+      "meaning": "미처리 적체 업무, 밀린 일",
+      "example": "There's a huge backlog at the permit office, so expect delays.",
+      "example_kr": "허가 사무소에 밀린 업무가 많아서 지연될 수 있어요."
+    },
+    {
+      "word": "flag up",
+      "phonetic": "/flæɡ ʌp/",
+      "meaning": "(문제·사항을) 알리다, 표시해두다",
+      "example": "Please flag up any issues with the paperwork before we finalize everything.",
+      "example_kr": "모든 걸 마무리하기 전에 서류상 문제가 있으면 알려주세요."
+    },
+    {
+      "word": "compliance",
+      "phonetic": "/kəmˈplaɪ.əns/",
+      "meaning": "(규정·법률) 준수, 이행",
+      "example": "All tenants must be in compliance with the building's noise regulations.",
+      "example_kr": "모든 임차인은 건물의 소음 규정을 준수해야 해요."
+    }
+  ]
+}
