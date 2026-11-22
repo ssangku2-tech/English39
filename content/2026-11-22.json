@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "You really went to bat for me.",
+      "meaning": "나를 위해 적극적으로 나서서 도와줬다는 뜻의 감사 표현",
+      "example": "I heard you defended my idea in the meeting. You really went to bat for me.",
+      "example_kr": "회의에서 내 아이디어를 옹호해줬다고 들었어. 정말 나를 위해 나서줬네."
+    },
+    {
+      "pattern": "Don't take it personally.",
+      "meaning": "개인적으로 받아들이지 마라, 기분 나빠하지 마라",
+      "example": "I had to give him some tough feedback, but I told him not to take it personally.",
+      "example_kr": "그에게 솔직한 피드백을 줘야 했는데, 개인적으로 받아들이지 말라고 했어."
+    },
+    {
+      "pattern": "She just has that effect on people.",
+      "meaning": "그녀는 사람들에게 그런 영향을 자연스럽게 미친다",
+      "example": "Everyone leaves her office feeling better. She just has that effect on people.",
+      "example_kr": "다들 그녀 사무실을 나올 때 기분이 나아져. 그녀는 그냥 사람들한테 그런 영향을 주거든."
+    },
+    {
+      "pattern": "주어 + can't bring themselves to + 동사원형",
+      "meaning": "(감정적으로) 차마 ~할 수가 없다, 도저히 ~할 마음이 안 생긴다",
+      "example": "She knows she should apologize, but she just can't bring herself to say the words.",
+      "example_kr": "사과해야 한다는 걸 알면서도, 그녀는 차마 그 말을 꺼낼 수가 없어."
+    },
+    {
+      "pattern": "No matter what + 주어 + 동사, 주어 + 동사",
+      "meaning": "~이 어떻든 상관없이, 무슨 일이 있어도 반드시 ~하다",
+      "example": "No matter what anyone says, he always finds a way to stay positive.",
+      "example_kr": "다른 사람들이 뭐라 하든 상관없이, 그는 항상 긍정적으로 있을 방법을 찾아."
+    }
+  ],
+  "words": [
+    {
+      "word": "reckon",
+      "phonetic": "/ˈrɛkən/",
+      "meaning": "~라고 생각하다, 판단하다 (구어체)",
+      "example": "I reckon she's one of the most emotionally mature people I know.",
+      "example_kr": "내 생각엔 그녀가 내가 아는 사람 중 감정적으로 가장 성숙한 것 같아."
+    },
+    {
+      "word": "clingy",
+      "phonetic": "/ˈklɪŋi/",
+      "meaning": "(사람이) 지나치게 의존적인, 떨어지지 않으려 하는",
+      "example": "He became really clingy after they broke up, texting her constantly.",
+      "example_kr": "그들이 헤어진 후 그는 정말 집착하게 됐고, 계속 문자를 보냈어."
+    },
+    {
+      "word": "mellow out",
+      "phonetic": "/ˈmɛloʊ aʊt/",
+      "meaning": "(성격·분위기가) 누그러지다, 여유로워지다",
+      "example": "He used to be so intense, but he's really mellowed out over the years.",
+      "example_kr": "그는 예전에 정말 예민했는데, 세월이 지나면서 많이 여유로워졌어."
+    },
+    {
+      "word": "exuberant",
+      "phonetic": "/ɪɡˈzjuːbərənt/",
+      "meaning": "활기가 넘치는, 열정적으로 들뜬",
+      "example": "Her exuberant personality made every event feel like a party.",
+      "example_kr": "그녀의 넘치는 활기 덕분에 모든 행사가 파티처럼 느껴졌어."
+    },
+    {
+      "word": "forthcoming",
+      "phonetic": "/ˌfɔːrθˈkʌmɪŋ/",
+      "meaning": "솔직한, 터놓는; (정보를) 기꺼이 공유하는",
+      "example": "She wasn't very forthcoming about why she left the company.",
+      "example_kr": "그녀는 회사를 떠난 이유에 대해 그다지 솔직하게 말하지 않았어."
+    }
+  ]
+}
