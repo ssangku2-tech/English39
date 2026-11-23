@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can I get that swapped out?",
+      "meaning": "다른 것으로 바꿔 주실 수 있나요? (식당·카페에서 메뉴 항목을 교체 요청할 때 쓰는 구어체 표현)",
+      "example": "Actually, can I get that swapped out for the Caesar salad instead?",
+      "example_kr": "아, 저 그거 대신 시저 샐러드로 바꿔 주실 수 있나요?"
+    },
+    {
+      "pattern": "What's your go-to here?",
+      "meaning": "여기서 제일 자주 시키는 게 뭐예요? / 추천 메뉴가 뭐예요? (단골이나 직원에게 추천을 구할 때 쓰는 캐주얼한 표현)",
+      "example": "I've never been here before — what's your go-to here?",
+      "example_kr": "저 여기 처음인데요, 여기서 제일 자주 시키는 게 뭐예요?"
+    },
+    {
+      "pattern": "We're still looking.",
+      "meaning": "아직 고르는 중이에요. (식당에서 직원이 주문을 받으러 왔을 때 아직 준비가 안 됐다고 말하는 표현)",
+      "example": "Oh, we're still looking — just give us a couple more minutes.",
+      "example_kr": "아, 저희 아직 고르는 중이에요. 2분만 더 주세요."
+    },
+    {
+      "pattern": "주어 + couldn't help but + notice + 목적어/that절",
+      "meaning": "~을 눈치채지 않을 수 없었다 / 저도 모르게 ~을 알게 됐다 (자연스럽게 무언가를 발견했음을 표현할 때)",
+      "example": "I couldn't help but notice that the table next to us got their food way faster.",
+      "example_kr": "옆 테이블이 음식을 훨씬 빨리 받은 걸 저도 모르게 눈치챘어요."
+    },
+    {
+      "pattern": "주어 + have/has + been + 형용사/과거분사 + ever since + 주어 + 동사(과거)",
+      "meaning": "~한 이후로 쭉 ~한 상태다 (어떤 사건 이후 지속되는 상태나 변화를 표현할 때)",
+      "example": "She's been hooked on that ramen place ever since we tried it last winter.",
+      "example_kr": "우리가 지난 겨울에 먹어본 이후로 그녀는 그 라멘 가게에 계속 빠져 있어."
+    }
+  ],
+  "words": [
+    {
+      "word": "overindulge",
+      "phonetic": "/ˌoʊvərɪnˈdʌldʒ/",
+      "meaning": "(음식·음료 등을) 지나치게 즐기다, 과식하다",
+      "example": "I always overindulge when we go to that all-you-can-eat place.",
+      "example_kr": "나 그 뷔페 가면 항상 과식하게 돼."
+    },
+    {
+      "word": "tepid",
+      "phonetic": "/ˈtɛpɪd/",
+      "meaning": "(음료·음식이) 미지근한; (반응이) 미온적인",
+      "example": "My coffee was tepid by the time the server brought it over.",
+      "example_kr": "직원이 가져왔을 때 커피가 이미 미지근해져 있었어."
+    },
+    {
+      "word": "dine out",
+      "phonetic": "/daɪn aʊt/",
+      "meaning": "외식하다",
+      "example": "We try not to dine out more than twice a week to save money.",
+      "example_kr": "돈을 아끼려고 일주일에 두 번 이상은 외식 안 하려고 해."
+    },
+    {
+      "word": "clamor",
+      "phonetic": "/ˈklæmər/",
+      "meaning": "시끌벅적한 소리, 소란; 강하게 요구하다",
+      "example": "The clamor of the busy café made it hard to have a quiet conversation.",
+      "example_kr": "북적이는 카페의 시끄러운 소음 때문에 조용히 대화하기가 어려웠어."
+    },
+    {
+      "word": "voracious",
+      "phonetic": "/vəˈreɪʃəs/",
+      "meaning": "게걸스러운, 왕성한 식욕의; 열렬히 탐하는",
+      "example": "He's a voracious eater — he ordered three appetizers just for himself.",
+      "example_kr": "그는 엄청 잘 먹는 사람이야. 혼자 애피타이저를 세 개나 주문했어."
+    }
+  ]
+}
