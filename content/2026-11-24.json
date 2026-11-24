@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Is there a fee for that?",
+      "meaning": "그것에 추가 요금이 있나요? — 호텔·공항·관광지 등에서 예상치 못한 비용이 생길 때 자연스럽게 쓰는 표현",
+      "example": "A: I'd like to store my luggage until check-in. B: Sure, is there a fee for that?",
+      "example_kr": "A: 체크인 전까지 짐을 맡기고 싶어요. B: 물론이죠, 그것에 추가 요금이 있나요?"
+    },
+    {
+      "pattern": "I'll take whatever's available.",
+      "meaning": "있는 것 중 아무거나 주세요 — 선택지가 별로 없거나 까다롭게 굴지 않겠다는 뉘앙스의 실용적 표현",
+      "example": "A: We're almost out of window seats. B: That's fine, I'll take whatever's available.",
+      "example_kr": "A: 창가 자리가 거의 없어요. B: 괜찮아요, 있는 것 중 아무거나 주세요."
+    },
+    {
+      "pattern": "We got turned around back there.",
+      "meaning": "저쪽에서 길을 잃었어요 — 길을 잘못 들었거나 방향을 헷갈렸을 때 쓰는 구어 표현",
+      "example": "Sorry we're late — we got turned around back there near the terminal.",
+      "example_kr": "늦어서 죄송해요 — 터미널 근처에서 길을 잃었거든요."
+    },
+    {
+      "pattern": "주어 + have/has + no sooner + 과거분사 + than + 주어 + 동사(과거)",
+      "meaning": "~하자마자 …했다 — 두 사건이 거의 동시에 연달아 일어났음을 강조하는 도치 표현",
+      "example": "I had no sooner sat down on the plane than the pilot announced a delay.",
+      "example_kr": "비행기에 앉자마자 기장이 지연을 안내했어요."
+    },
+    {
+      "pattern": "주어 + be동사 + scheduled to + 동사원형 + at/on + 시간/날짜",
+      "meaning": "~할 예정이다 — 공식적으로 시간이 잡혀 있는 일정을 말할 때 쓰는 패턴",
+      "example": "Our flight is scheduled to depart at 6:40 a.m., so we should head to the gate soon.",
+      "example_kr": "우리 비행기는 오전 6시 40분에 출발 예정이라 곧 게이트로 가야 해요."
+    }
+  ],
+  "words": [
+    {
+      "word": "tarmac",
+      "phonetic": "/ˈtɑːrmæk/",
+      "meaning": "(공항의) 활주로·계류장 지면",
+      "example": "We sat on the tarmac for almost an hour before we were cleared to take off.",
+      "example_kr": "이륙 허가가 날 때까지 계류장에서 거의 한 시간을 기다렸어요."
+    },
+    {
+      "word": "bellhop",
+      "phonetic": "/ˈbɛlhɒp/",
+      "meaning": "(호텔) 짐 운반 직원, 벨보이",
+      "example": "The bellhop offered to take our bags straight up to the room.",
+      "example_kr": "벨보이가 짐을 바로 방까지 올려다 주겠다고 했어요."
+    },
+    {
+      "word": "run low on",
+      "phonetic": "/rʌn loʊ ɒn/",
+      "meaning": "~이 부족해지다, ~이 떨어져 가다",
+      "example": "We were running low on local currency by the last day of the trip, so we stopped at an ATM.",
+      "example_kr": "여행 마지막 날에 현지 화폐가 부족해져서 ATM에 들렀어요."
+    },
+    {
+      "word": "off-peak",
+      "phonetic": "/ˌɒfˈpiːk/",
+      "meaning": "비성수기의, 한산한 시간대의",
+      "example": "Traveling off-peak can save you a lot of money on flights and hotels.",
+      "example_kr": "비성수기에 여행하면 항공편과 호텔 비용을 많이 절약할 수 있어요."
+    },
+    {
+      "word": "decamp",
+      "phonetic": "/dɪˈkæmp/",
+      "meaning": "서둘러 떠나다, 짐을 싸서 이동하다",
+      "example": "After two nights, we decamped from the busy city hotel and headed to a quieter guesthouse by the coast.",
+      "example_kr": "이틀 밤을 보낸 후, 번잡한 도심 호텔을 떠나 해안가의 조용한 게스트하우스로 이동했어요."
+    }
+  ]
+}
