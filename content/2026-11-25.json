@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's a bit over my head.",
+      "meaning": "그건 내가 이해하기엔 좀 어렵다/전문적이다 — 내용이 너무 복잡하거나 전문적일 때 솔직하게 인정하는 표현",
+      "example": "They started talking about the server migration and honestly, that was a bit over my head.",
+      "example_kr": "그 사람들이 서버 이전 얘기를 시작했는데, 솔직히 그건 내가 이해하기엔 좀 어려웠어요."
+    },
+    {
+      "pattern": "I'll defer to you on that.",
+      "meaning": "그 부분은 당신한테 맡길게요 — 상대방의 판단이나 전문성을 존중하며 결정권을 넘길 때 쓰는 표현",
+      "example": "You've been handling this account longer than I have, so I'll defer to you on that.",
+      "example_kr": "이 고객사를 저보다 오래 담당하셨으니, 그 부분은 당신한테 맡길게요."
+    },
+    {
+      "pattern": "Let's not lose sight of the big picture.",
+      "meaning": "큰 그림을 놓치지 말자 — 세부 사항에 너무 빠져들 때 전체 목표를 상기시키는 표현",
+      "example": "I know the formatting issues are annoying, but let's not lose sight of the big picture here.",
+      "example_kr": "서식 문제가 귀찮은 건 알지만, 여기서 큰 그림을 놓치지는 말자고요."
+    },
+    {
+      "pattern": "주어 + be동사 + responsible for + ~ing + , so + 주어 + will need to + 동사원형 + before + 주어 + can + 동사원형",
+      "meaning": "~을 담당하고 있으므로, …하기 전에 ~해야 한다 — 업무 책임과 선행 조건을 함께 명확히 전달할 때 쓰는 패턴",
+      "example": "She's responsible for reviewing all contracts, so she'll need to sign off before we can proceed.",
+      "example_kr": "그녀가 모든 계약서 검토를 담당하고 있어서, 우리가 진행하기 전에 그녀의 승인이 필요합니다."
+    },
+    {
+      "pattern": "주어 + would + 동사원형 + , provided (that) + 주어 + 동사",
+      "meaning": "~한다면 …하겠다 — 특정 조건이 충족될 경우에만 행동하겠다는 뜻을 조건부로 표현할 때 쓰는 패턴",
+      "example": "We would move forward with the proposal, provided that the client approves the revised budget.",
+      "example_kr": "고객이 수정된 예산을 승인한다면, 저희는 그 제안서를 진행하겠습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "precipitate",
+      "phonetic": "/prɪˈsɪpɪteɪt/",
+      "meaning": "(일·사건을) 촉발시키다, 앞당기다",
+      "example": "The sudden policy change precipitated a wave of resignations across the department.",
+      "example_kr": "갑작스러운 정책 변경이 부서 전반에 걸친 연쇄 사직을 촉발했습니다."
+    },
+    {
+      "word": "moot",
+      "phonetic": "/muːt/",
+      "meaning": "논의할 여지가 없는, 이미 무의미해진; 토론 주제로 삼다",
+      "example": "Whether we should have launched earlier is a moot point now — the product is already out.",
+      "example_kr": "더 일찍 출시했어야 했는지는 이제 무의미한 얘기예요 — 제품은 이미 나왔으니까요."
+    },
+    {
+      "word": "pivot",
+      "phonetic": "/ˈpɪvət/",
+      "meaning": "(전략·방향을) 전환하다; 핵심 축",
+      "example": "After the market research came back, we decided to pivot our entire marketing strategy.",
+      "example_kr": "시장 조사 결과가 나온 후, 우리는 전체 마케팅 전략을 전환하기로 했습니다."
+    },
+    {
+      "word": "pull through",
+      "phonetic": "/pʊl θruː/",
+      "meaning": "(어려운 상황을) 헤쳐나오다, 위기를 극복하다",
+      "example": "The team really pulled through despite the tight deadline and last-minute changes.",
+      "example_kr": "팀원들이 촉박한 마감과 막판 변경에도 불구하고 정말 잘 헤쳐냈어요."
+    },
+    {
+      "word": "granular",
+      "phonetic": "/ˈɡrænjʊlər/",
+      "meaning": "세부적인, 세밀한 (데이터·분석 등에 자주 쓰임)",
+      "example": "The client wants a more granular breakdown of the quarterly expenses.",
+      "example_kr": "고객이 분기별 지출에 대한 더 세밀한 세부 내역을 원하고 있습니다."
+    }
+  ]
+}
