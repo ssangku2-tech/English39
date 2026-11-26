@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "That's a lot to ask.",
+      "meaning": "그건 너무 많이 바라는 거야 / 그건 무리한 부탁이야",
+      "example": "I know it's last minute, but can you cover my shift tonight? — That's a lot to ask, but I'll see what I can do.",
+      "example_kr": "갑작스럽다는 거 알지만, 오늘 밤 내 시프트 대신 해줄 수 있어? — 무리한 부탁이긴 한데, 어떻게 되는지 볼게."
+    },
+    {
+      "pattern": "I'm kind of on the spot here.",
+      "meaning": "나 지금 좀 난처한 상황이야 / 갑자기 대답하기 곤란해",
+      "example": "So are you coming to the party or not? — Ugh, I'm kind of on the spot here. Can I let you know tomorrow?",
+      "example_kr": "그래서 파티에 올 거야 말 거야? — 아, 나 지금 좀 난처한데. 내일 알려줘도 돼?"
+    },
+    {
+      "pattern": "We haven't really talked talked.",
+      "meaning": "우리 제대로 얘기를 나눈 적이 없잖아 / 깊은 대화를 한 적 없어",
+      "example": "I feel like we hang out all the time, but we haven't really talked talked in a while.",
+      "example_kr": "우리 항상 같이 어울리는 것 같은데, 사실 제대로 된 대화는 한동안 못 나눈 것 같아."
+    },
+    {
+      "pattern": "주어 + get(s) around to + ~ing",
+      "meaning": "시간이 나면 / 여유가 생기면 ~하다 (미뤄왔던 일을 마침내 하다)",
+      "example": "I'll get around to calling him back this weekend, I promise.",
+      "example_kr": "이번 주말에는 시간 내서 꼭 그에게 다시 전화할게, 약속해."
+    },
+    {
+      "pattern": "주어 + can't + 동사원형 + enough + to + 동사원형",
+      "meaning": "~하기에 충분히 …하지 못하다 / ~할 만큼 …하지 않다",
+      "example": "I can't stress enough how important it is to be on time when you meet her parents.",
+      "example_kr": "그녀 부모님을 만날 때 시간을 지키는 게 얼마나 중요한지 아무리 강조해도 모자라."
+    }
+  ],
+  "words": [
+    {
+      "word": "rekindle",
+      "phonetic": "/riːˈkɪndəl/",
+      "meaning": "(우정·관계 등을) 되살리다, 다시 불태우다",
+      "example": "We're trying to rekindle our friendship after losing touch for a few years.",
+      "example_kr": "몇 년간 연락이 끊겼다가 우정을 다시 되살리려고 노력 중이야."
+    },
+    {
+      "word": "overcommit",
+      "phonetic": "/ˌoʊvərkəˈmɪt/",
+      "meaning": "너무 많은 것을 약속하다, 무리하게 떠맡다",
+      "example": "I always overcommit and then end up canceling plans at the last minute.",
+      "example_kr": "나는 항상 너무 많이 약속해 놓고 결국 막판에 취소하게 돼."
+    },
+    {
+      "word": "flimsy excuse",
+      "phonetic": "/ˈflɪmzi ɪkˈskjuːs/",
+      "meaning": "궁색한 변명, 설득력 없는 핑계",
+      "example": "He gave me the most flimsy excuse for missing my birthday dinner.",
+      "example_kr": "그는 내 생일 저녁 식사에 못 온 이유로 아주 궁색한 변명을 댔어."
+    },
+    {
+      "word": "get a move on",
+      "phonetic": "/ɡɛt ə muːv ɒn/",
+      "meaning": "서두르다, 빨리 움직이다",
+      "example": "We need to get a move on or we're gonna miss the reservation.",
+      "example_kr": "서둘러야 해, 안 그러면 예약 시간을 놓칠 거야."
+    },
+    {
+      "word": "easygoing",
+      "phonetic": "/ˌiːziˈɡoʊɪŋ/",
+      "meaning": "느긋한, 태평한, 성격이 원만한",
+      "example": "My new roommate is really easygoing — he never makes a big deal out of anything.",
+      "example_kr": "새 룸메이트는 정말 느긋해 — 어떤 것도 크게 문제 삼지 않거든."
+    }
+  ]
+}
