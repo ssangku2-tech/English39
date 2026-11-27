@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Catch you on the flip side.",
+      "meaning": "나중에 봐요 / 다음에 연락해요 — 헤어질 때나 대화를 마무리할 때 가볍게 쓰는 작별 인사",
+      "example": "A: Alright, I gotta run. Catch you on the flip side! B: Sounds good, talk later!",
+      "example_kr": "A: 그래, 나 가야 해. 나중에 봐! B: 좋아, 이따 얘기하자!"
+    },
+    {
+      "pattern": "Can you do me a solid?",
+      "meaning": "부탁 하나 들어줄 수 있어? — 친한 사이에서 가볍게 도움을 요청할 때 쓰는 구어체 표현",
+      "example": "Hey, can you do me a solid and forward that email to Jake? I totally forgot.",
+      "example_kr": "야, 부탁 하나만 들어줄 수 있어? 그 이메일 Jake한테 전달해줘. 완전 깜빡했어."
+    },
+    {
+      "pattern": "Leave it with me.",
+      "meaning": "내가 알아서 처리할게요 — 상대방이 걱정하지 않도록 책임지겠다고 할 때 쓰는 표현",
+      "example": "A: I don't know how to deal with this complaint. B: Leave it with me. I'll sort it out by end of day.",
+      "example_kr": "A: 이 민원을 어떻게 처리해야 할지 모르겠어. B: 내가 처리할게. 오늘 안에 해결해 놓을게."
+    },
+    {
+      "pattern": "주어 + seem(s) to be + ~ing + , which suggests (that) + 주어 + 동사",
+      "meaning": "~하고 있는 것 같은데, 그걸 보면 ~인 것 같아요 — 현재 관찰한 상황에서 추론을 이끌어낼 때 쓰는 패턴",
+      "example": "The connection seems to be dropping a lot, which suggests that your router might need a reset.",
+      "example_kr": "연결이 계속 끊기는 것 같은데, 그걸 보면 공유기를 재설정해야 할 것 같아요."
+    },
+    {
+      "pattern": "주어 + have/has + only + 과거분사 + because + 주어 + 동사",
+      "meaning": "오직 ~했기 때문에 ~한 것이다 — 행동의 유일한 이유나 조건을 강조할 때 쓰는 패턴",
+      "example": "I have only reached out because the previous message never got a response.",
+      "example_kr": "이전 메시지에 아무 응답이 없었기 때문에 연락을 드린 것입니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "unsubscribe",
+      "phonetic": "/ˌʌnsəbˈskraɪb/",
+      "meaning": "구독 취소하다",
+      "example": "I finally unsubscribed from that newsletter — it was clogging up my inbox.",
+      "example_kr": "결국 그 뉴스레터 구독을 취소했어. 받은 편지함이 꽉 차고 있었거든."
+    },
+    {
+      "word": "misdial",
+      "phonetic": "/ˌmɪsˈdaɪəl/",
+      "meaning": "전화를 잘못 걸다",
+      "example": "Sorry about that — I misdialed. I meant to call my colleague.",
+      "example_kr": "죄송해요 — 잘못 눌렀어요. 동료한테 전화하려 했거든요."
+    },
+    {
+      "word": "toggle",
+      "phonetic": "/ˈtɒɡ.əl/",
+      "meaning": "(설정 등을) 켜고 끄다, 전환하다",
+      "example": "Just toggle the notification settings off and you won't be disturbed.",
+      "example_kr": "알림 설정을 그냥 꺼두면 방해받지 않을 거야."
+    },
+    {
+      "word": "forthwith",
+      "phonetic": "/ˌfɔːrθˈwɪθ/",
+      "meaning": "즉시, 지체 없이 (격식체)",
+      "example": "Please send the confirmation forthwith so we can proceed.",
+      "example_kr": "우리가 진행할 수 있도록 즉시 확인서를 보내주세요."
+    },
+    {
+      "word": "screen out",
+      "phonetic": "/skriːn aʊt/",
+      "meaning": "(스팸·불필요한 것을) 걸러내다",
+      "example": "My email filter screens out most of the spam automatically.",
+      "example_kr": "내 이메일 필터가 스팸 대부분을 자동으로 걸러줘."
+    }
+  ]
+}
