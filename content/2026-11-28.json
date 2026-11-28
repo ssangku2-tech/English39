@@ -1,0 +1,71 @@
+{
+  "patterns": [
+    {
+      "pattern": "Can I get a price adjustment on this?",
+      "meaning": "이 가격 조정 받을 수 있을까요? — 세일이 시작됐거나 가격이 내려갔을 때 차액 환불을 요청하는 실용적인 표현",
+      "example": "I bought this jacket three days ago and now it's on sale. Can I get a price adjustment on this?",
+      "example_kr": "이 재킷을 3일 전에 샀는데 지금 세일 중이에요. 가격 조정 받을 수 있을까요?"
+    },
+    {
+      "pattern": "I'll just go ahead and exchange it.",
+      "meaning": "그냥 교환할게요 — 망설임 없이 결정을 내릴 때 쓰는 구어체 표현",
+      "example": "The color isn't quite what I expected, so I'll just go ahead and exchange it for the navy one.",
+      "example_kr": "색이 제가 기대했던 것과 좀 달라서, 그냥 네이비 색으로 교환할게요."
+    },
+    {
+      "pattern": "Is there a restocking fee for that?",
+      "meaning": "반품 수수료가 있나요? — 환불·반품 시 추가 비용을 확인하는 현실적인 표현",
+      "example": "I'd like to return this, but before I do — is there a restocking fee for that?",
+      "example_kr": "이거 반품하고 싶은데, 그 전에 혹시 반품 수수료가 있나요?"
+    },
+    {
+      "pattern": "주어 + be동사 + going to need + 목적어 + before + 주어 + can + 동사원형",
+      "meaning": "'~하려면 …이 필요할 거예요' — 어떤 절차나 조건이 선행되어야 함을 설명하는 패턴",
+      "example": "We're going to need proof of purchase before we can process the refund.",
+      "example_kr": "환불 처리를 하려면 구매 증빙이 필요할 거예요."
+    },
+    {
+      "pattern": "주어 + have/has + the right to + 동사원형 + , provided (that) + 주어 + 동사",
+      "meaning": "'~한다면 …할 권리가 있다' — 특정 조건 하에 권리나 자격이 있음을 나타내는 패턴",
+      "example": "You have the right to request a full refund, provided that the item is returned within 30 days.",
+      "example_kr": "상품을 30일 이내에 반품하신다면 전액 환불을 요청하실 권리가 있습니다."
+    }
+  ],
+  "words": [
+    {
+      "word": "disputable",
+      "phonetic": "/dɪˈspjuːtəbl/",
+      "meaning": "이의를 제기할 수 있는, 논란의 여지가 있는",
+      "example": "The charge on my card was disputable, so I contacted my bank right away.",
+      "example_kr": "카드에 청구된 금액이 이의를 제기할 수 있는 건이라 바로 은행에 연락했어요."
+    },
+    {
+      "word": "procurement",
+      "phonetic": "/prəˈkjʊərmənt/",
+      "meaning": "조달, 구매 (특히 공식적·대량 구매)",
+      "example": "She works in procurement, so she knows exactly how to negotiate bulk pricing.",
+      "example_kr": "그녀는 구매 조달 부서에서 일하기 때문에 대량 가격 협상 방법을 정확히 알고 있어요."
+    },
+    {
+      "word": "remittance",
+      "phonetic": "/rɪˈmɪtəns/",
+      "meaning": "송금, 송금액",
+      "example": "Please allow three to five business days for the remittance to reflect in your account.",
+      "example_kr": "송금액이 계좌에 반영되려면 영업일 기준 3~5일이 걸릴 수 있습니다."
+    },
+    {
+      "word": "forthcoming",
+      "phonetic": "/ˌfɔːrθˈkʌmɪŋ/",
+      "meaning": "솔직한, 선뜻 알려주는; 곧 출시될",
+      "example": "The sales associate wasn't very forthcoming about the return policy, so I had to ask twice.",
+      "example_kr": "직원이 반품 정책에 대해 선뜻 알려주지 않아서 두 번이나 물어봐야 했어요."
+    },
+    {
+      "word": "levy",
+      "phonetic": "/ˈlɛvi/",
+      "meaning": "(세금·수수료 등을) 부과하다; 부과금",
+      "example": "The store levies a 15% restocking fee on all opened electronics.",
+      "example_kr": "그 매장은 개봉된 모든 전자제품에 15% 반품 수수료를 부과합니다."
+    }
+  ]
+}
