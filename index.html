@@ -39,15 +39,17 @@ header{background:var(--navy);color:#fff;flex-shrink:0;position:relative;
   padding:calc(var(--safe-top) + 16px) 20px 18px;
   border-radius:0 0 22px 22px;box-shadow:var(--shadow);z-index:5}
 .brand-row{display:flex;align-items:center;justify-content:space-between}
-.brand{display:flex;align-items:center;gap:10px}
+.brand{display:flex;align-items:center;gap:10px;min-width:0}
+.brand-txt{min-width:0}
 .logo{width:34px;height:34px;flex-shrink:0;border-radius:9px;object-fit:cover}
-.brand-txt .name{font-family:var(--head);font-weight:700;font-size:18px;letter-spacing:-.3px;line-height:1}
+.brand-txt .name{font-family:var(--head);font-weight:700;font-size:17px;letter-spacing:-.3px;line-height:1;white-space:nowrap}
 .brand-txt .slogan{font-family:var(--head);font-weight:400;font-style:italic;
-  font-size:10.5px;color:#fff9;margin-top:3px;letter-spacing:.2px}
+  font-size:10.5px;color:#fff9;margin-top:3px;letter-spacing:.2px;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .brand-txt .ver{font-style:normal;color:#fff6;margin-left:5px}
-.top-actions{display:flex;gap:8px;align-items:center}
+.top-actions{display:flex;gap:6px;align-items:center;flex-shrink:0;margin-left:8px}
 .streak{display:flex;align-items:center;gap:4px;background:#ffffff1a;
-  border:1px solid #ffffff26;padding:6px 11px;border-radius:30px;font-size:12.5px;
+  border:1px solid #ffffff26;padding:6px 10px;border-radius:30px;font-size:12.5px;
   font-weight:600;font-family:var(--head)}
 .streak .fire{font-size:14px}
 .icon-btn{width:34px;height:34px;border-radius:50%;background:#ffffff1a;border:none;
@@ -90,7 +92,8 @@ header{background:var(--navy);color:#fff;flex-shrink:0;position:relative;
 .progress > i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--orange),#ffb347);
   border-radius:10px;transition:width .5s ease}
 
-.scroll{flex:1;overflow-y:auto;overflow-anchor:none;-webkit-overflow-scrolling:touch;padding:18px 16px 30px}
+/* 하단 여백: 플로팅 버튼(+, 검색)이 마지막 카드를 가리지 않도록 넉넉히 */
+.scroll{flex:1;overflow-y:auto;overflow-anchor:none;-webkit-overflow-scrolling:touch;padding:18px 16px 104px}
 .scroll::-webkit-scrollbar{width:0}
 
 nav{flex-shrink:0;display:flex;background:var(--surface);
@@ -100,8 +103,13 @@ nav button{flex:1;background:none;border:none;color:var(--ink3);
   font-family:var(--head);font-size:11px;font-weight:600;padding:8px 2px;border-radius:14px;
   display:flex;flex-direction:column;align-items:center;gap:5px;transition:.22s}
 nav button .ic{width:24px;height:24px;stroke:currentColor;fill:none;stroke-width:1.8;transition:.22s}
-nav button.on{color:#fff;background:var(--orange);box-shadow:0 6px 16px -6px var(--orange)}
-nav button.on .ic{stroke:#fff;stroke-width:2.1;transform:scale(1.05)}
+/* 선택된 탭: 꽉 찬 주황 블록 대신 은은한 주황 틴트 + 상단 인디케이터 */
+nav button{position:relative}
+nav button.on{color:var(--orange-d);background:rgba(255,140,0,.12)}
+nav button.on::before{content:'';position:absolute;top:-9px;left:50%;width:22px;height:3px;
+  margin-left:-11px;border-radius:0 0 3px 3px;background:var(--orange)}
+nav button.on .ic{stroke:var(--orange);stroke-width:2.1;transform:scale(1.05)}
+[data-theme=dark] nav button.on{color:#ffb347;background:rgba(255,140,0,.16)}
 
 .date-strip{display:flex;gap:5px;margin-bottom:16px;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:2px}
 .date-strip::-webkit-scrollbar{height:0}
@@ -119,7 +127,13 @@ nav button.on .ic{stroke:#fff;stroke-width:2.1;transform:scale(1.05)}
   margin:22px 4px 12px;display:flex;align-items:center;gap:7px;text-transform:uppercase;letter-spacing:.6px}
 .sec-label:first-child{margin-top:2px}
 .sec-label .dot{width:7px;height:7px;border-radius:2px;background:var(--orange)}
-.sec-label .cnt{margin-left:auto;color:var(--ink3);font-size:11px;font-weight:500;text-transform:none;letter-spacing:0}
+.sec-label .cnt{margin-left:auto;color:var(--ink3);font-size:11px;font-weight:600;text-transform:none;letter-spacing:0;
+  background:var(--surface2);border-radius:20px;padding:2px 9px}
+/* 오늘 콘텐츠 대신 지난 날짜를 보여줄 때의 안내 배너 */
+.notice{display:flex;align-items:center;gap:10px;background:rgba(255,140,0,.1);
+  border:1px solid rgba(255,140,0,.28);border-radius:14px;padding:12px 14px;margin-bottom:6px;
+  font-size:13px;line-height:1.55;color:var(--ink2)}
+.notice .ni{font-size:18px;flex-shrink:0}
 
 .card{background:var(--surface);border:1px solid var(--line);border-radius:18px;
   padding:18px;margin-bottom:13px;box-shadow:var(--shadow);position:relative}
@@ -130,7 +144,10 @@ nav button.on .ic{stroke:#fff;stroke-width:2.1;transform:scale(1.05)}
 .phon{color:var(--orange-d);font-size:13px;font-weight:500;margin-top:3px;font-family:var(--head)}
 .mean{color:var(--ink2);font-size:15px;margin-top:6px;line-height:1.5;white-space:pre-wrap;word-break:break-word}
 .ex{color:var(--ink);font-size:14.5px;line-height:1.55;margin-top:4px;white-space:pre-wrap;word-break:break-word}
-.ex-kr{color:var(--ink3);font-size:13px;margin-top:2px;line-height:1.5}
+.ex-kr{color:var(--ink3);font-size:13px;margin-top:4px;line-height:1.5;white-space:pre-wrap;word-break:break-word}
+/* 예문 블록: 의미와 구분되도록 옅은 배경 박스 */
+.ex-box{background:var(--surface2);border-radius:12px;padding:11px 13px;margin-top:12px}
+.ex-box .ex{margin-top:0}
 .divider{height:1px;background:var(--line);margin:13px 0}
 
 .row{display:flex;align-items:flex-start;gap:12px}
@@ -163,13 +180,15 @@ label{display:block;color:var(--ink2);font-size:12px;font-weight:600;margin:0 0 
 .add-ex{background:none;border:1.5px dashed var(--orange);color:var(--orange);
   border-radius:11px;padding:11px;width:100%;font-family:var(--head);font-weight:500;font-size:13px;margin-bottom:10px}
 
-.del{position:absolute;top:12px;right:12px;background:none;border:none;
-  color:var(--ink3);width:28px;height:28px;font-size:20px;line-height:1}
-.del:active{color:#e74c3c}
-.edit-btn{position:absolute;top:12px;right:46px;background:none;border:none;
-  color:var(--ink3);width:28px;height:28px;line-height:1;padding:4px}
+.del{position:absolute;top:12px;right:12px;background:none;border:none;border-radius:8px;
+  color:var(--ink3);width:30px;height:30px;font-size:20px;line-height:1;transition:.15s}
+.del:active{color:#e74c3c;background:rgba(231,76,60,.12)}
+.edit-btn{position:absolute;top:12px;right:46px;background:none;border:none;border-radius:8px;
+  color:var(--ink3);width:30px;height:30px;line-height:1;padding:5px;transition:.15s}
 .edit-btn svg{width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:1.8}
-.edit-btn:active{color:var(--orange)}
+.edit-btn:active{color:var(--orange);background:var(--surface2)}
+/* 수정·삭제 아이콘이 있는 카드는 제목이 아이콘 밑으로 파고들지 않게 오른쪽 여백 확보 */
+.has-tools > .en,.has-tools > .mind-lead{padding-right:66px}
 
 .empty{text-align:center;color:var(--ink3);padding:46px 20px;font-size:14px;line-height:1.7}
 .empty .ill{font-size:42px;margin-bottom:10px}
@@ -289,6 +308,17 @@ mark{background:rgba(255,140,0,.28);color:inherit;border-radius:3px;padding:0 1p
 .help-sec:first-of-type{margin-top:10px}
 .help-note{background:var(--surface2);border-radius:12px;padding:13px;font-size:13px;
   line-height:1.65;color:var(--ink2);margin-top:6px}
+/* 키보드·데스크톱 사용성 */
+button{cursor:pointer}
+button:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
+@media (hover:hover){
+  .card.mind-pick:hover,.jump-item:hover{border-color:rgba(255,140,0,.45)}
+  .spk:hover{background:rgba(255,140,0,.14)}
+  nav button:not(.on):hover{color:var(--ink2)}
+}
+@media (prefers-reduced-motion:reduce){
+  *{animation-duration:.01ms!important;transition-duration:.01ms!important}
+}
 kbd{font-family:var(--head);font-weight:600;background:var(--surface);border:1px solid var(--line);
   border-radius:6px;padding:1px 6px;font-size:12px;color:var(--ink)}
 </style>
@@ -682,7 +712,7 @@ async function renderToday(view,seq){
   let html='';
   html+=dateStrip();
   if(dayFallback){
-    html+=`<div class="card" style="text-align:center;font-size:13.5px;line-height:1.6;opacity:.8">오늘의 콘텐츠는 아직 준비 중이에요.<br>가장 최근 날짜를 대신 보여드립니다.</div>`;
+    html+=`<div class="notice"><span class="ni">⏳</span><span>오늘의 콘텐츠는 아직 준비 중이에요.<br>가장 최근 날짜를 대신 보여드립니다.</span></div>`;
   }
   html+=`<div class="sec-label"><span class="dot"></span>Today's Phrases<span class="cnt">${day.patterns.length}</span></div>`;
   day.patterns.forEach((p,pi)=>{
@@ -691,14 +721,15 @@ async function renderToday(view,seq){
       <div class="body">
         <div class="en-line"><span class="en">${esc(p.pattern)}</span>${saveIcBtn('pattern',pi,saved)}</div>
         <div class="mean">${esc(p.meaning)}</div>
-        <div class="divider"></div>
-        <div class="ex">${esc(p.example)}</div>
-        <div class="ex-kr">${esc(p.example_kr||'')}</div>
+        <div class="ex-box">
+          <div class="ex">${exFmt(p.example)}</div>
+          ${p.example_kr?`<div class="ex-kr">${exFmt(p.example_kr)}</div>`:''}
+        </div>
       </div>
       ${spkBtn(p.example)}
     </div></div>`;
   });
-  html+=`<div class="sec-label"><span class="dot"></span>Today's Words<span class="cnt">5</span></div>`;
+  html+=`<div class="sec-label"><span class="dot"></span>Today's Words<span class="cnt">${day.words.length}</span></div>`;
   day.words.forEach((w,wi)=>{
     const saved=isWordSaved(w);
     html+=`<div class="card today-card"><div class="row">
@@ -706,8 +737,10 @@ async function renderToday(view,seq){
         <div class="en-line"><span class="en">${esc(w.word)}</span>${saveIcBtn('vocab',wi,saved)}</div>
         <div class="phon">${esc(w.phonetic||'')}</div>
         <div class="mean">${esc(w.meaning)}</div>
-        <div class="ex">${esc(w.example)}</div>
-        <div class="ex-kr">${esc(w.example_kr||'')}</div>
+        ${w.example?`<div class="ex-box">
+          <div class="ex">${exFmt(w.example)}</div>
+          ${w.example_kr?`<div class="ex-kr">${exFmt(w.example_kr)}</div>`:''}
+        </div>`:''}
       </div>
       ${spkBtn(w.word)}
     </div></div>`;
@@ -801,7 +834,7 @@ function renderPattern(view){
   if(pIdx>=list.length)pIdx=list.length-1;
   DB.set('lastPhrase',pIdx); // 마지막 본 위치 기억
   const p=list[pIdx];
-  let html=`<div class="card pat-card">
+  let html=`<div class="card pat-card has-tools">
       <button class="edit-btn" onclick="openPatternForm(${pIdx})"><svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 013 3L7 19l-4 1 1-4z"/></svg></button>
       <button class="del" onclick="delItem('patterns',${pIdx})">×</button>
       <div class="en">${esc(p.pattern)}</div>
@@ -930,7 +963,7 @@ function mindListHTML(){
     const nl=text.indexOf('\n');
     const firstLine = nl===-1? text : text.slice(0,nl);
     const rest = nl===-1? '' : text.slice(nl+1).replace(/^\n+/,'');
-    html+=`<div class="card mind-card">
+    html+=`<div class="card mind-card has-tools">
       <button class="edit-btn" onclick="openMindForm(${i})"><svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 013 3L7 19l-4 1 1-4z"/></svg></button>
       <button class="del" onclick="delItem('mind',${i})">×</button>
       <div class="mind-lead">${hl(firstLine,q)}</div>
@@ -1050,6 +1083,8 @@ function delItem(key,i){
 function val(id){return document.getElementById(id).value.trim()}
 function esc(s){return(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
 function q(s){return JSON.stringify(s)}
+// 예문 표시용: "A: … B: …" 대화형 예문은 화자마다 줄을 바꿔 읽기 쉽게 (원본 데이터는 그대로)
+function exFmt(s){return esc(s).replace(/\s+(?=B:\s)/g,'\n')}
 function showModal(){document.getElementById('modalBg').classList.add('show')}
 function closeModal(){document.getElementById('modalBg').classList.remove('show')}
 
